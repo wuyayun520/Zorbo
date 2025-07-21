@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedButtonOrigin</key>
+	<string>usecaseBeyondMediator</string>
+	<key>basicContainerIndex</key>
+	<string>behaviorFromPhase</string>
+	<key>checklistAlongComposite</key>
+	<string>inactiveRouteVelocity</string>
+	<key>dedicatedProgressbarMargin</key>
+	<string>mediaqueryIncludeShape</string>
+	<key>discardedOverlayState</key>
+	<string>prismaticTextureTransparency</string>
+	<key>mediumIsolateCenter</key>
+	<string>injectionSinceLevel</string>
+	<key>stampActivityMode</key>
+	<string>cupertinoBesideBuffer</string>
+</dict>
+</plist>

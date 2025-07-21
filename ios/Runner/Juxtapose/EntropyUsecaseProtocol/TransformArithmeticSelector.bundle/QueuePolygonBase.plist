@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarDespiteFlyweight</key>
+	<string>ignoredErrorOffset</string>
+	<key>singletonAboutInterpreter</key>
+	<string>ternaryInsideParameter</string>
+	<key>spritePhaseCount</key>
+	<string>typicalResourceBrightness</string>
+	<key>textFlyweightAcceleration</key>
+	<string>textfieldAsCycle</string>
+</dict>
+</plist>

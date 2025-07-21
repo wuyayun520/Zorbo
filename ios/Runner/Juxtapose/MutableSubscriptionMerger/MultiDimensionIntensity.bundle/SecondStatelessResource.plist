@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeStoreInterval</key>
+	<string>priorChannelFrequency</string>
+	<key>constraintAsAction</key>
+	<string>scrollProxySpeed</string>
+	<key>interactiveObserverFlags</key>
+	<string>imperativeSliderEdge</string>
+	<key>navigatorContainMediator</key>
+	<string>sharedRadiusCenter</string>
+	<key>resolverFacadeBehavior</key>
+	<string>displayableInstructionFlags</string>
+	<key>scaffoldPerAdapter</key>
+	<string>permissiveIntensityBorder</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionCycleBehavior</key>
+	<string>modalIncludePattern</string>
+	<key>difficultCoordinatorVisible</key>
+	<string>multiplicationExceptCommand</string>
+	<key>difficultUtilKind</key>
+	<string>largeWidgetSpacing</string>
+	<key>navigatorOperationMargin</key>
+	<string>labelFlyweightTheme</string>
+	<key>normBufferLocation</key>
+	<string>concurrentSubscriptionVelocity</string>
+	<key>sophisticatedContainerBound</key>
+	<string>cursorDespiteDecorator</string>
+	<key>subsequentLoopInteraction</key>
+	<string>utilAsLevel</string>
+</dict>
+</plist>

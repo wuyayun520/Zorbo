@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedInterfaceIndex</key>
+	<string>materialZoneStatus</string>
+	<key>cardDuringBridge</key>
+	<string>commandChainValidation</string>
+	<key>catalystActivitySkewy</key>
+	<string>previewCycleFrequency</string>
+	<key>effectJobTransparency</key>
+	<string>durationParamFlags</string>
+	<key>layoutByInterpreter</key>
+	<string>providerVarMode</string>
+	<key>nextBehaviorPosition</key>
+	<string>usedButtonDensity</string>
+	<key>singletonLikeActivity</key>
+	<string>sustainableTopicMargin</string>
+	<key>tabbarFromStage</key>
+	<string>draggableAwaitBorder</string>
+	<key>touchInPrototype</key>
+	<string>observerProxyMode</string>
+</dict>
+</plist>

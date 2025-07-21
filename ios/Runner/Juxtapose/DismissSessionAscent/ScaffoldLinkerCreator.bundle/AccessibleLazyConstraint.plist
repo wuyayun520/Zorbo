@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryNearCommand</key>
+	<string>positionCommandDensity</string>
+	<key>animatedSpriteInteraction</key>
+	<string>spriteDespiteStyle</string>
+	<key>hierarchicalPopupStyle</key>
+	<string>interactorTempleSkewy</string>
+	<key>layoutVariableCenter</key>
+	<string>tableMediatorColor</string>
+</dict>
+</plist>

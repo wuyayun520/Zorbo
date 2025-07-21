@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableTextureBehavior</key>
+	<string>directCompositionPosition</string>
+	<key>effectStateBottom</key>
+	<string>clipperSingletonInterval</string>
+	<key>entityAgainstActivity</key>
+	<string>directlySliderDirection</string>
+	<key>factoryEnvironmentColor</key>
+	<string>layoutUntilPrototype</string>
+	<key>globalProviderForce</key>
+	<string>cubitPlatformBound</string>
+	<key>repositoryAgainstAdapter</key>
+	<string>chapterContainFlyweight</string>
+	<key>scrollValuePressure</key>
+	<string>storyboardObserverDirection</string>
+	<key>sustainablePopupResponse</key>
+	<string>activityExceptEnvironment</string>
+	<key>synchronousChannelsName</key>
+	<string>marginOrStrategy</string>
+	<key>zoneLevelTail</key>
+	<string>pinchableDelegateBrightness</string>
+</dict>
+</plist>

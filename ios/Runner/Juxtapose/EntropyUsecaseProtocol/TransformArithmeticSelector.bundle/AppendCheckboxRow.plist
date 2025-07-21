@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>globalIntensityOffset</key>
+	<string>uniformControllerDirection</string>
+	<key>richtextAroundLayer</key>
+	<string>hierarchicalEffectSpacing</string>
+	<key>semanticGrayscaleSkewy</key>
+	<string>logarithmModeScale</string>
+	<key>streamVisitorHead</key>
+	<string>navigatorInterpreterFlags</string>
+</dict>
+</plist>

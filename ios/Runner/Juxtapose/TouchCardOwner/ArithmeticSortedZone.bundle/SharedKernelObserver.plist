@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchContextSpacing</key>
+	<string>originalButtonFeedback</string>
+	<key>effectOutsidePhase</key>
+	<string>fragmentBridgeMargin</string>
+	<key>modulusFormKind</key>
+	<string>descriptionUntilFramework</string>
+	<key>mutableSpriteSkewx</key>
+	<string>viewBesideStage</string>
+	<key>positionObserverOrientation</key>
+	<string>disparateListenerName</string>
+	<key>transitionAboutComposite</key>
+	<string>gemLayerDirection</string>
+</dict>
+</plist>

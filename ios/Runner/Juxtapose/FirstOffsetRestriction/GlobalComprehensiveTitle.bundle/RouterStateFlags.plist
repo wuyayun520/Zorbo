@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerPatternVisibility</key>
+	<string>hashThanMemento</string>
+	<key>fixedMenuFeedback</key>
+	<string>keyCardSize</string>
+	<key>inheritedContractionState</key>
+	<string>requiredToolBound</string>
+	<key>labelStructureStyle</key>
+	<string>delegatePrototypeBound</string>
+	<key>publicErrorContrast</key>
+	<string>durationSinceInterpreter</string>
+</dict>
+</plist>

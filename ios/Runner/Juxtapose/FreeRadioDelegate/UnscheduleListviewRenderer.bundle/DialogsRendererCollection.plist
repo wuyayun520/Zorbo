@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxEnvironmentOrientation</key>
+	<string>ternaryFormCoord</string>
+	<key>coordinatorBufferBottom</key>
+	<string>oldAlignmentPadding</string>
+	<key>cubeAtMethod</key>
+	<string>dropdownbuttonThroughMethod</string>
+	<key>custompaintDuringPattern</key>
+	<string>previewStyleScale</string>
+	<key>metadataUntilInterpreter</key>
+	<string>immediateExpandedVisible</string>
+	<key>mobxVariableShade</key>
+	<string>catalystLayerFlags</string>
+	<key>nextFrameRotation</key>
+	<string>completionShapeCoord</string>
+	<key>scrollSystemOrigin</key>
+	<string>responseExceptInterpreter</string>
+</dict>
+</plist>

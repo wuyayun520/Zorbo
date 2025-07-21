@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncManagerMargin</key>
+	<string>coordinatorWithActivity</string>
+	<key>descriptorDecoratorStyle</key>
+	<string>opaqueMethodHead</string>
+	<key>disabledMissionRotation</key>
+	<string>drawerSingletonStatus</string>
+	<key>disparateNotifierCoord</key>
+	<string>movementParameterContrast</string>
+	<key>enabledFeatureDistance</key>
+	<string>optionFacadeOpacity</string>
+	<key>ignoredSpriteDensity</key>
+	<string>skinAtLevel</string>
+	<key>intermediateInteractorSaturation</key>
+	<string>gramAgainstCommand</string>
+	<key>slashAsStructure</key>
+	<string>publicIntegerScale</string>
+</dict>
+</plist>

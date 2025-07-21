@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintDuringPlatform</key>
+	<string>offsetAmongMediator</string>
+	<key>lostBatchTail</key>
+	<string>ephemeralResolverVisibility</string>
+	<key>normAlongMethod</key>
+	<string>sceneAsActivity</string>
+	<key>progressbarPlatformStyle</key>
+	<string>stateFacadeOrigin</string>
+	<key>rowFormRight</key>
+	<string>storageInState</string>
+	<key>themeWithPlatform</key>
+	<string>oldLogRotation</string>
+</dict>
+</plist>

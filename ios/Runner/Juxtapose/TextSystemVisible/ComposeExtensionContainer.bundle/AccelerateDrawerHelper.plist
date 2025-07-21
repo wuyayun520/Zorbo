@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopReductionBrightness</key>
+	<string>actionScopePressure</string>
+	<key>keyAspectType</key>
+	<string>protocolByFramework</string>
+	<key>modelStateSkewy</key>
+	<string>oldResponseTransparency</string>
+	<key>notifierVariablePosition</key>
+	<string>characterKindSkewy</string>
+	<key>resolverValueDistance</key>
+	<string>mobileCardBrightness</string>
+	<key>similarExceptionHue</key>
+	<string>protectedAccessoryTension</string>
+</dict>
+</plist>

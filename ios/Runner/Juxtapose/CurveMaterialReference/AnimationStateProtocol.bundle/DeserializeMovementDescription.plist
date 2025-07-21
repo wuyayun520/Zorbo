@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicLayoutLocation</key>
+	<string>tensorSingletonForce</string>
+	<key>effectPrototypeDirection</key>
+	<string>iterativeVariantMode</string>
+	<key>heapKindAcceleration</key>
+	<string>curveAtOperation</string>
+	<key>imperativeLossCenter</key>
+	<string>immutableMethodDensity</string>
+	<key>sizedboxAgainstPlatform</key>
+	<string>checkboxTierOrientation</string>
+</dict>
+</plist>

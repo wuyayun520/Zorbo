@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedToolCenter</key>
+	<string>aspectBesideEnvironment</string>
+	<key>characterInterpreterPadding</key>
+	<string>profilePlatformFeedback</string>
+	<key>eventLayerBound</key>
+	<string>fusedTouchOrigin</string>
+	<key>primaryIconPadding</key>
+	<string>delegateViaStyle</string>
+	<key>rowCompositeInteraction</key>
+	<string>specifierForObserver</string>
+	<key>tweenNearMediator</key>
+	<string>mutableCubitType</string>
+</dict>
+</plist>

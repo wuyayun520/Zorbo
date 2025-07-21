@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionControllerInset</key>
+	<string>taskFlyweightSpeed</string>
+	<key>advancedRectOffset</key>
+	<string>associatedPreviewDelay</string>
+	<key>brushLevelShade</key>
+	<string>displayableDelegateVelocity</string>
+	<key>builderMementoInset</key>
+	<string>eagerIsolateValidation</string>
+	<key>curveThroughDecorator</key>
+	<string>interactorAboutTier</string>
+	<key>errorTypeDelay</key>
+	<string>baselineAmongPlatform</string>
+	<key>futurePatternTheme</key>
+	<string>sizedboxTierPressure</string>
+	<key>inheritedManagerType</key>
+	<string>iterativeStoreBrightness</string>
+	<key>marginInEnvironment</key>
+	<string>responsiveWidgetSpeed</string>
+	<key>textfieldStageVelocity</key>
+	<string>methodEnvironmentRate</string>
+</dict>
+</plist>

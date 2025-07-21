@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentDecoratorVelocity</key>
+	<string>chapterWithoutPattern</string>
+	<key>dedicatedRadiusShade</key>
+	<string>immutableCupertinoLeft</string>
+	<key>flexPlatformDistance</key>
+	<string>taskNearCommand</string>
+	<key>gramOfLevel</key>
+	<string>painterTypeHue</string>
+	<key>interfaceFromMemento</key>
+	<string>tickerWorkShape</string>
+	<key>radiusFunctionVelocity</key>
+	<string>errorOfBridge</string>
+	<key>routeAroundState</key>
+	<string>effectContainFlyweight</string>
+</dict>
+</plist>

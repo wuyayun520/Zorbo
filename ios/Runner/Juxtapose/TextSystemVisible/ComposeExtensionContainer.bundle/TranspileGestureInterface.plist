@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeLocalizationBorder</key>
+	<string>blocJobResponse</string>
+	<key>checkboxTypeCenter</key>
+	<string>channelAtProcess</string>
+	<key>fixedPositionedTheme</key>
+	<string>iconBridgeMode</string>
+	<key>movementStageHead</key>
+	<string>greatCoordinatorSpacing</string>
+	<key>protectedRowShape</key>
+	<string>elasticSwiftFeedback</string>
+	<key>rowScopeRotation</key>
+	<string>histogramValueTransparency</string>
+</dict>
+</plist>

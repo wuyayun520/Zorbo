@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxDuringState</key>
+	<string>curveAwayStage</string>
+	<key>effectValueStatus</key>
+	<string>controllerOrPattern</string>
+	<key>enabledTaskTransparency</key>
+	<string>synchronousCommandState</string>
+	<key>injectionAtActivity</key>
+	<string>behaviorActionTension</string>
+	<key>routePlatformBrightness</key>
+	<string>iterativeDrawerState</string>
+	<key>spotObserverTension</key>
+	<string>statelessInterpreterTheme</string>
+	<key>unactivatedTransitionFormat</key>
+	<string>uniformScaffoldVisible</string>
+	<key>widgetExceptValue</key>
+	<string>inkwellUntilSystem</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisVariableOpacity</key>
+	<string>petScopeDelay</string>
+	<key>cursorSinceTask</key>
+	<string>modelDuringOperation</string>
+	<key>densePositionDepth</key>
+	<string>customFeatureVisibility</string>
+	<key>descriptionBesideNumber</key>
+	<string>mediumEffectFormat</string>
+	<key>featureParameterShade</key>
+	<string>materialThroughPhase</string>
+	<key>imageOrMode</key>
+	<string>sizeVariableName</string>
+	<key>resolverCommandCenter</key>
+	<string>tweenUntilContext</string>
+	<key>sceneDuringVar</key>
+	<string>custompaintCommandAppearance</string>
+</dict>
+</plist>

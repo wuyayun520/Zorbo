@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocInObserver</key>
+	<string>gramFromAction</string>
+	<key>immediateRichtextSpeed</key>
+	<string>cellShapeValidation</string>
+	<key>shaderParamShape</key>
+	<string>activeChartOpacity</string>
+	<key>textLayerSkewy</key>
+	<string>diversifiedInterpolationColor</string>
+</dict>
+</plist>

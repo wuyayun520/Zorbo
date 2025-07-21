@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerPerParam</key>
+	<string>consultativeTabbarDistance</string>
+	<key>customizedSubpixelDepth</key>
+	<string>referenceWorkAppearance</string>
+	<key>finalUnaryStyle</key>
+	<string>sampleStateHue</string>
+	<key>largeSizedboxIndex</key>
+	<string>decorationVersusParameter</string>
+	<key>semanticInteractorTint</key>
+	<string>stateParamForce</string>
+</dict>
+</plist>

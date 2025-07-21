@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasCommandOffset</key>
+	<string>sequentialCompleterMargin</string>
+	<key>deferredViewSpeed</key>
+	<string>requestCompositeAppearance</string>
+	<key>framePerStage</key>
+	<string>aspectratioAmongSystem</string>
+	<key>localLoopFrequency</key>
+	<string>resourceWithoutParameter</string>
+	<key>rapidTickerFormat</key>
+	<string>menuAsTier</string>
+</dict>
+</plist>

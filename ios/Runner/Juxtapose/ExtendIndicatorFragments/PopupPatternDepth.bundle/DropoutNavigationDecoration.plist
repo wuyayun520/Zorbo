@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowAsSingleton</key>
+	<string>configurationDuringStage</string>
+	<key>drawerPatternDistance</key>
+	<string>geometricCursorContrast</string>
+	<key>effectViaLevel</key>
+	<string>layoutMementoBottom</string>
+	<key>graphStageShape</key>
+	<string>comprehensiveScaffoldVisibility</string>
+	<key>paddingExceptStage</key>
+	<string>disabledHeapState</string>
+	<key>priorOptimizerVelocity</key>
+	<string>tickerPhaseDensity</string>
+	<key>responseKindFormat</key>
+	<string>configurationBridgeKind</string>
+	<key>responsiveColumnRate</key>
+	<string>bitrateStructureLocation</string>
+	<key>topicBufferAcceleration</key>
+	<string>streamVisitorAlignment</string>
+</dict>
+</plist>

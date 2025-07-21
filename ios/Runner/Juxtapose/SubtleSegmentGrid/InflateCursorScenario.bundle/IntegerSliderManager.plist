@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncHandlerStyle</key>
+	<string>unaryNearFlyweight</string>
+	<key>behaviorBesideJob</key>
+	<string>blocLevelRight</string>
+	<key>capacitiesStructureTransparency</key>
+	<string>nodeProxyInterval</string>
+	<key>controllerTemplePosition</key>
+	<string>animatedcontainerAdapterSaturation</string>
+	<key>menuOperationRight</key>
+	<string>themeOperationInteraction</string>
+	<key>methodPhaseTension</key>
+	<string>heapPrototypeRight</string>
+	<key>normShapeCoord</key>
+	<string>iconNumberBehavior</string>
+	<key>semanticSizeCenter</key>
+	<string>globalNodeName</string>
+	<key>spriteNearPrototype</key>
+	<string>spriteAsContext</string>
+</dict>
+</plist>

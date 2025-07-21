@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationModeFlags</key>
+	<string>disabledFutureBottom</string>
+	<key>backwardViewColor</key>
+	<string>previewFromLevel</string>
+	<key>beginnerQueueShade</key>
+	<string>scrollableMusicTail</string>
+	<key>diffableDecorationStatus</key>
+	<string>statefulThroughStage</string>
+	<key>keyScrollVelocity</key>
+	<string>geometricManagerInset</string>
+	<key>modalMethodTag</key>
+	<string>stepAboutState</string>
+	<key>tangentThanChain</key>
+	<string>persistentThemeInset</string>
+	<key>taskPatternRotation</key>
+	<string>signatureUntilMediator</string>
+</dict>
+</plist>

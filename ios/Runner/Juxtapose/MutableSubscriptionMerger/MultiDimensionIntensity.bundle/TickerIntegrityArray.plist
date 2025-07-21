@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionAwayStructure</key>
+	<string>alignmentPlatformTag</string>
+	<key>compositionalIntegerSpacing</key>
+	<string>coordinatorVariableAppearance</string>
+	<key>coordinatorAsVar</key>
+	<string>exponentKindMode</string>
+	<key>mediaObserverInterval</key>
+	<string>eventVisitorSaturation</string>
+	<key>notifierStyleVisibility</key>
+	<string>pointStrategyAppearance</string>
+	<key>previewNearBuffer</key>
+	<string>appbarSystemLeft</string>
+	<key>switchInMediator</key>
+	<string>standaloneVariantBottom</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocPatternTop</key>
+	<string>challengeInParam</string>
+	<key>customReducerVelocity</key>
+	<string>paddingContextDensity</string>
+	<key>denseZoneTop</key>
+	<string>desktopBinaryAppearance</string>
+	<key>entropyCycleContrast</key>
+	<string>lossInForm</string>
+	<key>liteButtonDepth</key>
+	<string>containerOfAction</string>
+	<key>overlayAlongActivity</key>
+	<string>frameMediatorState</string>
+	<key>positionAgainstActivity</key>
+	<string>labelFormMargin</string>
+	<key>reusableSpotTag</key>
+	<string>labelSingletonTop</string>
+</dict>
+</plist>

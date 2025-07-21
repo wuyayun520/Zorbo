@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncStateCount</key>
+	<string>axisStageValidation</string>
+	<key>delicateAnimatedcontainerSpeed</key>
+	<string>beginnerAnimationBrightness</string>
+	<key>greatBoxContrast</key>
+	<string>deferredHashVelocity</string>
+	<key>overlayProxyState</key>
+	<string>petCycleIndex</string>
+	<key>pageviewActionAcceleration</key>
+	<string>flexibleSliderEdge</string>
+	<key>resourceMementoScale</key>
+	<string>dropdownbuttonEnvironmentFeedback</string>
+	<key>routerThanChain</key>
+	<string>featureWithEnvironment</string>
+	<key>scrollableMarginValidation</key>
+	<string>declarativeGraphState</string>
+	<key>unaryTierBorder</key>
+	<string>remainderVariableBehavior</string>
+</dict>
+</plist>

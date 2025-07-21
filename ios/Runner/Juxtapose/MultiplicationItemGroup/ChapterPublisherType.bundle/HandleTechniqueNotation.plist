@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveEventDensity</key>
+	<string>unsortedAspectRotation</string>
+	<key>ephemeralContainerInset</key>
+	<string>cellInAction</string>
+	<key>getxEnvironmentVisibility</key>
+	<string>disabledNodeBottom</string>
+	<key>localResourceColor</key>
+	<string>sizeNumberColor</string>
+	<key>stampWithPlatform</key>
+	<string>interactiveConstraintValidation</string>
+</dict>
+</plist>

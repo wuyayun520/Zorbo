@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetSingletonBorder</key>
+	<string>tabbarStageKind</string>
+	<key>concreteTransformerRight</key>
+	<string>tensorGestureSpacing</string>
+	<key>publicAppbarTint</key>
+	<string>parallelSkirtFormat</string>
+</dict>
+</plist>

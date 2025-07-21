@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledAlignmentCoord</key>
+	<string>hierarchicalGraphicInset</string>
+	<key>hierarchicalRepositoryType</key>
+	<string>observerOutsideObserver</string>
+	<key>pageviewCycleDepth</key>
+	<string>decorationViaObserver</string>
+	<key>statefulMasterAlignment</key>
+	<string>basicLabelMode</string>
+	<key>textTierStatus</key>
+	<string>boxActionAcceleration</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedBrushResponse</key>
+	<string>unaryBridgeInset</string>
+	<key>brushCycleResponse</key>
+	<string>baselineInStage</string>
+	<key>documentMediatorSkewx</key>
+	<string>queueOfKind</string>
+	<key>durationInProxy</key>
+	<string>durationAlongScope</string>
+	<key>listenerAsJob</key>
+	<string>richtextAgainstInterpreter</string>
+	<key>lostMaterialLeft</key>
+	<string>standalonePositionState</string>
+	<key>projectProxyRight</key>
+	<string>sortedPageviewOrientation</string>
+	<key>staticInterfaceDepth</key>
+	<string>currentManagerIndex</string>
+	<key>storeAndParam</key>
+	<string>spineParamTop</string>
+</dict>
+</plist>

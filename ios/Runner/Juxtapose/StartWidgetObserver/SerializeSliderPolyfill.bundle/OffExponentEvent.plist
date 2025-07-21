@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerMissionStyle</key>
+	<string>difficultPopupAppearance</string>
+	<key>controllerBridgeBound</key>
+	<string>hashSingletonBottom</string>
+	<key>diffableBrushStatus</key>
+	<string>asynchronousTickerShape</string>
+	<key>fragmentLevelPosition</key>
+	<string>subscriptionLikeCommand</string>
+	<key>managerOrMediator</key>
+	<string>cacheContextAlignment</string>
+	<key>rapidFeatureSaturation</key>
+	<string>gestureVersusCycle</string>
+	<key>responsiveSensorSaturation</key>
+	<string>exceptionDecoratorFeedback</string>
+	<key>sineCycleBorder</key>
+	<string>cyclePhaseBehavior</string>
+	<key>textfieldAgainstBridge</key>
+	<string>taskPerPrototype</string>
+</dict>
+</plist>

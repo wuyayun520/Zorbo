@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalSwiftTag</key>
+	<string>effectLevelLocation</string>
+	<key>cupertinoSliderFeedback</key>
+	<string>cellOrInterpreter</string>
+	<key>decorationThanType</key>
+	<string>interfaceThanOperation</string>
+	<key>draggableInterfaceRotation</key>
+	<string>interactiveTickerResponse</string>
+	<key>layerOrFunction</key>
+	<string>blocVariableFeedback</string>
+	<key>layoutIncludeForm</key>
+	<string>eventNumberDensity</string>
+	<key>mapMementoShape</key>
+	<string>radiusWorkBehavior</string>
+	<key>sequentialBorderPosition</key>
+	<string>anchorForPlatform</string>
+	<key>storeAboutMethod</key>
+	<string>fragmentStageMode</string>
+</dict>
+</plist>

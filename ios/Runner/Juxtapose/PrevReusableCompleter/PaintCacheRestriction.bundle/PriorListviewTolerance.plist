@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationScopeForce</key>
+	<string>persistentResourceOpacity</string>
+	<key>asynchronousInterpolationEdge</key>
+	<string>hyperbolicCoordinatorBound</string>
+	<key>concurrentAnimationCoord</key>
+	<string>routerLayerFrequency</string>
+	<key>dependencyStyleCount</key>
+	<string>storageAgainstStage</string>
+	<key>managerOrState</key>
+	<string>tabviewMethodTail</string>
+	<key>methodMethodColor</key>
+	<string>compositionalBinarySpeed</string>
+	<key>nodeThanStrategy</key>
+	<string>pinchableEffectContrast</string>
+	<key>responseParameterTop</key>
+	<string>shaderBesideNumber</string>
+	<key>statelessProcessSpacing</key>
+	<string>viewFacadeFlags</string>
+	<key>widgetBesideFunction</key>
+	<string>relationalAssetBound</string>
+</dict>
+</plist>

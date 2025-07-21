@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureSinceMemento</key>
+	<string>projectionPlatformSize</string>
+	<key>blocOutsideForm</key>
+	<string>canvasOperationSpeed</string>
+	<key>concurrentHistogramBehavior</key>
+	<string>frameMediatorRate</string>
+	<key>customizedKernelDirection</key>
+	<string>robustListviewDirection</string>
+	<key>ephemeralGroupScale</key>
+	<string>greatLoopEdge</string>
+	<key>gridBufferCoord</key>
+	<string>seamlessBrushDensity</string>
+	<key>queryFromAdapter</key>
+	<string>spriteAmongMethod</string>
+	<key>reducerOperationFrequency</key>
+	<string>elasticSymbolFeedback</string>
+	<key>threadAroundStrategy</key>
+	<string>prevInteractorLocation</string>
+	<key>vectorContainPattern</key>
+	<string>delicateMarginSkewy</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>navigatorAdapterBrightness</key>
+	<string>sustainableEventAppearance</string>
+	<key>parallelFragmentBehavior</key>
+	<string>custompaintAsNumber</string>
+	<key>resourceFromCycle</key>
+	<string>dedicatedSpineStyle</string>
+	<key>subscriptionNearDecorator</key>
+	<string>diversifiedRadiusFeedback</string>
+	<key>subtleCosineKind</key>
+	<string>optimizerOperationSkewy</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featureAlongProcess</key>
+	<string>coordinatorVariableTheme</string>
+	<key>positionViaObserver</key>
+	<string>requestFromFlyweight</string>
+	<key>positionedStateName</key>
+	<string>crudeIconShade</string>
+	<key>scrollableCubeBehavior</key>
+	<string>cupertinoDuringPlatform</string>
+	<key>touchOutsideProxy</key>
+	<string>asynchronousContractionShade</string>
+</dict>
+</plist>

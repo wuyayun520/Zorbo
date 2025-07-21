@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledDropdownbuttonInteraction</key>
+	<string>radiusUntilObserver</string>
+	<key>intuitivePageviewSpacing</key>
+	<string>mediocreDelegateShade</string>
+	<key>layoutAwayStrategy</key>
+	<string>associatedAllocatorSkewy</string>
+	<key>menuWithTier</key>
+	<string>responsivePetSpacing</string>
+	<key>requiredHeroPressure</key>
+	<string>observerTempleSkewx</string>
+	<key>retainedEntityEdge</key>
+	<string>fusedResourceBrightness</string>
+</dict>
+</plist>

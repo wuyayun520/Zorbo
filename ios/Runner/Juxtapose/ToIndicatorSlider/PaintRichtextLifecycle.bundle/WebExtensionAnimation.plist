@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composablePetFrequency</key>
+	<string>disabledActivityBound</string>
+	<key>mobxVarKind</key>
+	<string>mediumTabbarStyle</string>
+	<key>spineDuringShape</key>
+	<string>standaloneMetadataAcceleration</string>
+	<key>vectorObserverState</key>
+	<string>otherClipperIndex</string>
+</dict>
+</plist>

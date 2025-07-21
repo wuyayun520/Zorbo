@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocBridgeTransparency</key>
+	<string>mobileConsumerMode</string>
+	<key>boxExceptSystem</key>
+	<string>singleContainerMargin</string>
+	<key>boxOutsideParam</key>
+	<string>baseDespiteCommand</string>
+	<key>commonProtocolDuration</key>
+	<string>semanticCharacterDensity</string>
+	<key>displayableMarginShape</key>
+	<string>iterativeBlocMode</string>
+	<key>fixedCompositionStatus</key>
+	<string>layoutNearOperation</string>
+	<key>movementDespitePhase</key>
+	<string>completerLikeShape</string>
+	<key>navigationVarKind</key>
+	<string>persistentTransformerBottom</string>
+</dict>
+</plist>

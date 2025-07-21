@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exceptionProcessName</key>
+	<string>controllerByValue</string>
+	<key>featureDecoratorFlags</key>
+	<string>appbarTemplePadding</string>
+	<key>iterativeCatalystShape</key>
+	<string>metadataCompositeIndex</string>
+	<key>loopOperationResponse</key>
+	<string>taskSinceStage</string>
+	<key>missedStatefulTint</key>
+	<string>displayableAccessorySkewx</string>
+	<key>multiViewTension</key>
+	<string>imperativeCompleterVisible</string>
+	<key>persistentButtonTint</key>
+	<string>similarGiftAppearance</string>
+	<key>resourceOrFlyweight</key>
+	<string>layerDecoratorAcceleration</string>
+</dict>
+</plist>

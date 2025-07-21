@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionDespiteActivity</key>
+	<string>substantialSineFrequency</string>
+	<key>indicatorDespiteParam</key>
+	<string>tappableStampHue</string>
+	<key>integerParameterPressure</key>
+	<string>lossByBuffer</string>
+	<key>operationBufferAppearance</key>
+	<string>stackOrEnvironment</string>
+	<key>requiredUtilVisible</key>
+	<string>iconAlongContext</string>
+	<key>semanticCupertinoInset</key>
+	<string>descriptorAgainstForm</string>
+	<key>sizedboxWithoutStructure</key>
+	<string>remainderOrType</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoDependencyMode</key>
+	<string>webCardDensity</string>
+	<key>capacitiesIncludeScope</key>
+	<string>mobileStackRotation</string>
+	<key>currentInteractorSize</key>
+	<string>grainAlongParameter</string>
+	<key>particleParameterRate</key>
+	<string>apertureScopeHead</string>
+	<key>particleWithAction</key>
+	<string>movementOutsideValue</string>
+	<key>previewByLayer</key>
+	<string>sessionAwayAdapter</string>
+	<key>routeActivityBehavior</key>
+	<string>indicatorThroughForm</string>
+</dict>
+</plist>

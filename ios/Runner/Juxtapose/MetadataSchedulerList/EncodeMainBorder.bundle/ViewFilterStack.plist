@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleEventValidation</key>
+	<string>tappableConstraintDepth</string>
+	<key>animationByLevel</key>
+	<string>brushProcessAppearance</string>
+	<key>associatedTransitionDelay</key>
+	<string>drawerVersusTask</string>
+	<key>completerFrameworkDensity</key>
+	<string>progressbarFrameworkTint</string>
+	<key>iconUntilAction</key>
+	<string>transformerPhaseVisibility</string>
+	<key>layerTaskName</key>
+	<string>previewVariablePadding</string>
+	<key>normalSubpixelSkewx</key>
+	<string>inkwellNearSingleton</string>
+	<key>protocolObserverStyle</key>
+	<string>overlayShapeType</string>
+	<key>signAwayCommand</key>
+	<string>operationInNumber</string>
+</dict>
+</plist>

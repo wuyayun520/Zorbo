@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushValuePosition</key>
+	<string>typicalSpriteInset</string>
+	<key>controllerAlongPlatform</key>
+	<string>specifierNearLayer</string>
+	<key>interfaceWorkTop</key>
+	<string>blocDuringFlyweight</string>
+	<key>intermediateGridDensity</key>
+	<string>touchViaSystem</string>
+	<key>overlayInSingleton</key>
+	<string>navigatorAgainstObserver</string>
+	<key>plateExceptLayer</key>
+	<string>semanticsAndTier</string>
+	<key>respectiveDialogsTransparency</key>
+	<string>substantialDecorationHead</string>
+	<key>statefulTransformerTheme</key>
+	<string>taskAtShape</string>
+</dict>
+</plist>

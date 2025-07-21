@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitAdapterOffset</key>
+	<string>appbarFromFlyweight</string>
+	<key>cacheModeKind</key>
+	<string>momentumFromParam</string>
+	<key>completerInsideTier</key>
+	<string>listenerExceptScope</string>
+	<key>composableSegueFrequency</key>
+	<string>documentAlongSingleton</string>
+	<key>directRectSaturation</key>
+	<string>pivotalGroupResponse</string>
+	<key>graphicWithTemple</key>
+	<string>sophisticatedRadiusFrequency</string>
+	<key>labelPerActivity</key>
+	<string>materialObserverName</string>
+	<key>subpixelAlongVariable</key>
+	<string>criticalSliderDelay</string>
+	<key>unaryStageForce</key>
+	<string>promiseWithActivity</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelVariableType</key>
+	<string>menuBufferOffset</string>
+	<key>disabledGiftFeedback</key>
+	<string>observerBridgeMode</string>
+	<key>iconBufferSaturation</key>
+	<string>tabviewAdapterPadding</string>
+	<key>imperativeTextOrigin</key>
+	<string>widgetFormTint</string>
+	<key>lazyViewStyle</key>
+	<string>intuitiveFeatureTheme</string>
+	<key>navigationFrameworkFlags</key>
+	<string>unaryObserverTheme</string>
+	<key>serviceTempleDirection</key>
+	<string>adaptiveStateCount</string>
+	<key>stepLikePlatform</key>
+	<string>unsortedMethodTransparency</string>
+</dict>
+</plist>

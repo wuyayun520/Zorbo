@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorJobScale</key>
+	<string>indicatorAlongAction</string>
+	<key>easyChapterKind</key>
+	<string>mainCharacterShape</string>
+	<key>errorPatternAcceleration</key>
+	<string>nativeBorderPosition</string>
+	<key>pageviewUntilMediator</key>
+	<string>assetSingletonDelay</string>
+	<key>permissiveBinaryFrequency</key>
+	<string>skirtByActivity</string>
+</dict>
+</plist>

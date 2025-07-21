@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerVersusTask</key>
+	<string>factoryThroughFramework</string>
+	<key>decorationLayerVisibility</key>
+	<string>nativeExtensionIndex</string>
+	<key>desktopRoutePressure</key>
+	<string>topicOrKind</string>
+	<key>euclideanAwaitContrast</key>
+	<string>symbolFunctionDirection</string>
+	<key>greatSkinTag</key>
+	<string>resultMethodName</string>
+	<key>loopObserverCoord</key>
+	<string>projectProcessFeedback</string>
+	<key>menuFacadeFrequency</key>
+	<string>controllerProxyVisibility</string>
+	<key>nextLogVisibility</key>
+	<string>consumerFromPlatform</string>
+	<key>popupAndForm</key>
+	<string>imagePhaseContrast</string>
+	<key>sessionAmongBuffer</key>
+	<string>localizationEnvironmentScale</string>
+</dict>
+</plist>

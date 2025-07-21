@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertMethodFlags</key>
+	<string>canvasWorkType</string>
+	<key>containerFromScope</key>
+	<string>channelAboutComposite</string>
+	<key>dynamicSymbolTheme</key>
+	<string>subscriptionAsKind</string>
+	<key>mobxStateTint</key>
+	<string>hierarchicalFutureFormat</string>
+	<key>pinchableManagerOffset</key>
+	<string>criticalBuilderScale</string>
+	<key>zoneJobBound</key>
+	<string>chartTierSkewy</string>
+</dict>
+</plist>

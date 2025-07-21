@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedAlignmentSize</key>
+	<string>delegateFromActivity</string>
+	<key>eagerHashOrigin</key>
+	<string>referenceThroughTier</string>
+	<key>entropyActivityTheme</key>
+	<string>modelAndCommand</string>
+	<key>hashSingletonRight</key>
+	<string>dialogsStageIndex</string>
+	<key>notifierFlyweightTag</key>
+	<string>alertOrPhase</string>
+	<key>responseLevelInteraction</key>
+	<string>themeTaskAcceleration</string>
+	<key>storageForEnvironment</key>
+	<string>aspectVarMargin</string>
+	<key>textAgainstTask</key>
+	<string>pointSingletonStyle</string>
+	<key>textAwaySystem</key>
+	<string>chartStateRight</string>
+</dict>
+</plist>

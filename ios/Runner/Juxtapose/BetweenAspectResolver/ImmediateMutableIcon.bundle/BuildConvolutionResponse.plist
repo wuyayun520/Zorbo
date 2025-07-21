@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedPointMargin</key>
+	<string>frameActionKind</string>
+	<key>blocAsVar</key>
+	<string>chartCommandDuration</string>
+	<key>customMissionVelocity</key>
+	<string>directRadioType</string>
+	<key>dynamicOperationOrientation</key>
+	<string>statefulStrategyValidation</string>
+	<key>euclideanEntityPadding</key>
+	<string>eagerProviderCenter</string>
+	<key>matrixParameterMargin</key>
+	<string>providerEnvironmentStyle</string>
+	<key>mediaBufferDelay</key>
+	<string>numericalMenuKind</string>
+	<key>plateByProxy</key>
+	<string>buttonAtParameter</string>
+	<key>routeAmongAdapter</key>
+	<string>reductionLevelBottom</string>
+	<key>zoneByVisitor</key>
+	<string>tabbarBeyondAction</string>
+</dict>
+</plist>

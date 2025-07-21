@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoAllocatorForce</key>
+	<string>responsiveMultiplicationInteraction</string>
+	<key>errorViaVisitor</key>
+	<string>independentBulletPosition</string>
+	<key>featureMementoForce</key>
+	<string>disparateDimensionSkewx</string>
+	<key>nativeMobxSpacing</key>
+	<string>completerIncludeFramework</string>
+	<key>normEnvironmentCenter</key>
+	<string>observerNearStage</string>
+	<key>semanticGridviewOffset</key>
+	<string>sizeTierKind</string>
+</dict>
+</plist>

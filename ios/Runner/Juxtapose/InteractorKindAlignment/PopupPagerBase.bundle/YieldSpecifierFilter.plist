@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelAndObserver</key>
+	<string>presenterFromChain</string>
+	<key>eventInsideObserver</key>
+	<string>nodeLevelHue</string>
+	<key>eventSingletonBehavior</key>
+	<string>normalMetadataPosition</string>
+	<key>grainModeHead</key>
+	<string>grainStructureHue</string>
+	<key>rowParamVisible</key>
+	<string>animatedcontainerObserverLocation</string>
+	<key>subpixelAgainstMemento</key>
+	<string>injectionPerParameter</string>
+	<key>vectorInterpreterInset</key>
+	<string>buttonExceptVar</string>
+</dict>
+</plist>

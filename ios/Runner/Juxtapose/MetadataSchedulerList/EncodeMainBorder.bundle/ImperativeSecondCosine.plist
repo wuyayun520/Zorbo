@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderLayerBottom</key>
+	<string>visibleSliderMargin</string>
+	<key>builderPhaseCenter</key>
+	<string>listviewOrEnvironment</string>
+	<key>decorationPerMethod</key>
+	<string>prevCoordinatorVisible</string>
+	<key>denseTitleKind</key>
+	<string>durationBesideValue</string>
+	<key>easyDelegateLocation</key>
+	<string>isolateTempleAppearance</string>
+	<key>pivotalTextureFeedback</key>
+	<string>accessoryForProxy</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitAmongActivity</key>
+	<string>protocolOutsideTask</string>
+	<key>consumerMementoTheme</key>
+	<string>gestureDuringComposite</string>
+	<key>dependencyScopeLeft</key>
+	<string>lazyCapsuleBehavior</string>
+	<key>independentStorageVisible</key>
+	<string>logPhaseDensity</string>
+	<key>positionNearValue</key>
+	<string>channelInKind</string>
+	<key>segmentFrameworkPressure</key>
+	<string>temporaryInterpolationColor</string>
+</dict>
+</plist>

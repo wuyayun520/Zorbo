@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoBesideFunction</key>
+	<string>composableRectTheme</string>
+	<key>logUntilActivity</key>
+	<string>requestBridgeMode</string>
+	<key>reducerDespiteDecorator</key>
+	<string>workflowModeFrequency</string>
+	<key>timerChainVelocity</key>
+	<string>localizationLikeState</string>
+	<key>transformerInterpreterPadding</key>
+	<string>iterativeTitleFeedback</string>
+	<key>visibleRoleBehavior</key>
+	<string>prevControllerDepth</string>
+</dict>
+</plist>

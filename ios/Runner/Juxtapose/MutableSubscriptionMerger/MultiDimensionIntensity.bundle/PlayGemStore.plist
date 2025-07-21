@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerStateInset</key>
+	<string>stateAroundAdapter</string>
+	<key>directlyLoopHead</key>
+	<string>touchStageTransparency</string>
+	<key>hierarchicalEventForce</key>
+	<string>asyncGramState</string>
+	<key>nativeGroupTag</key>
+	<string>notificationValueDistance</string>
+	<key>pivotalTimerVelocity</key>
+	<string>retainedFrameDistance</string>
+	<key>routerByEnvironment</key>
+	<string>widgetInsideCycle</string>
+	<key>transitionDuringChain</key>
+	<string>greatStreamTheme</string>
+	<key>uniqueCurveShape</key>
+	<string>riverpodCompositeMode</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentForVariable</key>
+	<string>ephemeralPromiseTail</string>
+	<key>constraintOrScope</key>
+	<string>composableProviderOpacity</string>
+	<key>effectEnvironmentAcceleration</key>
+	<string>themeStrategySpeed</string>
+	<key>frameAndInterpreter</key>
+	<string>coordinatorPatternEdge</string>
+	<key>mediumFeatureSpeed</key>
+	<string>invisibleLocalizationShade</string>
+	<key>sliderPerCommand</key>
+	<string>columnContainForm</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryFormSkewy</key>
+	<string>screenAmongTask</string>
+	<key>checkboxProxyPosition</key>
+	<string>particleKindRotation</string>
+	<key>cupertinoContainPlatform</key>
+	<string>subtleSegueKind</string>
+	<key>disabledCacheMargin</key>
+	<string>stepUntilPhase</string>
+	<key>hierarchicalCanvasTint</key>
+	<string>appbarWithoutPrototype</string>
+	<key>iconAmongFacade</key>
+	<string>cycleOutsideBuffer</string>
+	<key>intensityFlyweightResponse</key>
+	<string>groupWithParameter</string>
+	<key>timerFacadeSkewx</key>
+	<string>segmentTypeInset</string>
+</dict>
+</plist>

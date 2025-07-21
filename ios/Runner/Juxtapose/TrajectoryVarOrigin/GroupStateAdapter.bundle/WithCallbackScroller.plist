@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveProgressbarOrientation</key>
+	<string>radiusLayerFeedback</string>
+	<key>injectionBeyondValue</key>
+	<string>spriteFunctionFeedback</string>
+	<key>layerDuringPhase</key>
+	<string>reusableRoleVisibility</string>
+	<key>nativeNormInterval</key>
+	<string>tappableReducerResponse</string>
+	<key>semanticFeaturePosition</key>
+	<string>capsuleInsideStrategy</string>
+	<key>semanticsSystemIndex</key>
+	<string>transformerSingletonFeedback</string>
+	<key>skinAgainstContext</key>
+	<string>spineEnvironmentIndex</string>
+	<key>streamFromPlatform</key>
+	<string>compositionInterpreterName</string>
+	<key>tappableTableTop</key>
+	<string>taskValueOpacity</string>
+	<key>timerAwayMethod</key>
+	<string>popupJobSpeed</string>
+</dict>
+</plist>

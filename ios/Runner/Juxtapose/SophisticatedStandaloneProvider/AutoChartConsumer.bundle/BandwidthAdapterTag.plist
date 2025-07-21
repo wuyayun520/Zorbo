@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerStatefulCenter</key>
+	<string>mainSingletonHead</string>
+	<key>delegateViaActivity</key>
+	<string>interactorExceptFramework</string>
+	<key>materialAmongType</key>
+	<string>effectViaChain</string>
+	<key>priorityOrCommand</key>
+	<string>metadataWithoutParam</string>
+	<key>routeAtChain</key>
+	<string>boxVarOrigin</string>
+	<key>tensorArithmeticKind</key>
+	<string>optimizerScopeHue</string>
+	<key>typicalContainerHue</key>
+	<string>swiftBeyondForm</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncParticleAcceleration</key>
+	<string>euclideanGrainInteraction</string>
+	<key>criticalSubscriptionSpeed</key>
+	<string>queueOrStage</string>
+	<key>immutablePopupVisibility</key>
+	<string>navigationLevelHead</string>
+	<key>loopAmongMemento</key>
+	<string>semanticsProxyInteraction</string>
+	<key>swiftCompositeBrightness</key>
+	<string>shaderDespiteMode</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonModeAcceleration</key>
+	<string>displayableLoopStyle</string>
+	<key>constraintJobTransparency</key>
+	<string>typicalHashOrientation</string>
+	<key>matrixViaJob</key>
+	<string>cupertinoModelSkewy</string>
+	<key>previewThroughPrototype</key>
+	<string>asyncRowSpeed</string>
+	<key>sizePatternSize</key>
+	<string>titleAmongAction</string>
+	<key>spotModeLeft</key>
+	<string>inkwellOfPattern</string>
+	<key>streamEnvironmentPadding</key>
+	<string>intuitiveScaleTail</string>
+	<key>transformerKindBehavior</key>
+	<string>stepInterpreterShade</string>
+	<key>zoneUntilDecorator</key>
+	<string>mobileCycleInterval</string>
+</dict>
+</plist>

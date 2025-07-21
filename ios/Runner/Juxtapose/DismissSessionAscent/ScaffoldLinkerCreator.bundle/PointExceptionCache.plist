@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>factoryFunctionAcceleration</key>
+	<string>lazyPositionCount</string>
+	<key>layoutParamColor</key>
+	<string>popupActivityAppearance</string>
+	<key>mediumServiceTop</key>
+	<string>fragmentTypeOrientation</string>
+	<key>navigatorBufferScale</key>
+	<string>streamActionKind</string>
+</dict>
+</plist>

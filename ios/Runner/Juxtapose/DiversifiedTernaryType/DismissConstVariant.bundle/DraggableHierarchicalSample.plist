@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderDecoratorDepth</key>
+	<string>oldScaffoldPosition</string>
+	<key>callbackBesideParameter</key>
+	<string>curveStrategyInterval</string>
+	<key>kernelStageDelay</key>
+	<string>tickerProcessShade</string>
+	<key>taskBesideState</key>
+	<string>textureNearSingleton</string>
+	<key>vectorValueDelay</key>
+	<string>touchOutsideBuffer</string>
+</dict>
+</plist>

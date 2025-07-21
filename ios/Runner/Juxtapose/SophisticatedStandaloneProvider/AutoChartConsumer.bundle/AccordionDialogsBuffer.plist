@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineAgainstProxy</key>
+	<string>activeErrorMargin</string>
+	<key>cubeChainTheme</key>
+	<string>resizableDecorationTint</string>
+	<key>cubitExceptLayer</key>
+	<string>particleOutsideFunction</string>
+	<key>immutableServiceDuration</key>
+	<string>persistentCommandTail</string>
+	<key>managerThroughShape</key>
+	<string>transitionAsState</string>
+	<key>offsetSingletonTheme</key>
+	<string>streamCompositeOffset</string>
+	<key>pinchableClipperState</key>
+	<string>largeButtonPosition</string>
+	<key>uniformArithmeticOrientation</key>
+	<string>greatTextCoord</string>
+</dict>
+</plist>

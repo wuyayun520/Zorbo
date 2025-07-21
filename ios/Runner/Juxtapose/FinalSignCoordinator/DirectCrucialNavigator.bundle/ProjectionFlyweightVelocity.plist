@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intensityMediatorTheme</key>
+	<string>displayableDurationLeft</string>
+	<key>resolverFlyweightOffset</key>
+	<string>accordionMapOpacity</string>
+	<key>riverpodObserverInterval</key>
+	<string>animatedCurveRight</string>
+	<key>symbolViaScope</key>
+	<string>globalCommandMode</string>
+	<key>workflowWorkDensity</key>
+	<string>painterInsideWork</string>
+</dict>
+</plist>

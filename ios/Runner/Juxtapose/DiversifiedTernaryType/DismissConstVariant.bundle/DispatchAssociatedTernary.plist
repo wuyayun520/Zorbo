@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderPatternSkewy</key>
+	<string>characterNearProcess</string>
+	<key>crudeInteractorName</key>
+	<string>coordinatorInsideBuffer</string>
+	<key>gemParamLocation</key>
+	<string>viewFormCount</string>
+	<key>kernelOfDecorator</key>
+	<string>tweenSystemOrigin</string>
+	<key>techniqueParamTransparency</key>
+	<string>nativeAnchorRotation</string>
+</dict>
+</plist>

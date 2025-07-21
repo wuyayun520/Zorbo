@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianInteractorKind</key>
+	<string>discardedTextureBehavior</string>
+	<key>challengeStateBound</key>
+	<string>constIntensityMode</string>
+	<key>easyBuilderTail</key>
+	<string>positionStatePadding</string>
+	<key>heroOutsidePhase</key>
+	<string>slashByPattern</string>
+	<key>keyTaskSpeed</key>
+	<string>screenVarOpacity</string>
+	<key>queryIncludeStyle</key>
+	<string>futureFromTask</string>
+	<key>resilientDescriptionTheme</key>
+	<string>geometricMaterialMode</string>
+	<key>signProxyEdge</key>
+	<string>blocAsInterpreter</string>
+</dict>
+</plist>

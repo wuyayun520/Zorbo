@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoAllocatorPadding</key>
+	<string>responsiveAccessoryAcceleration</string>
+	<key>easyPositionScale</key>
+	<string>signUntilMemento</string>
+	<key>immutableBlocVelocity</key>
+	<string>isolateAwayAction</string>
+	<key>navigationBridgeVelocity</key>
+	<string>coordinatorFormLeft</string>
+	<key>otherTransformerType</key>
+	<string>parallelChecklistBehavior</string>
+	<key>sessionStyleDirection</key>
+	<string>liteLabelDirection</string>
+</dict>
+</plist>

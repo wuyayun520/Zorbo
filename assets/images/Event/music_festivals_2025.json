@@ -1,0 +1,552 @@
+{
+  "festivals": [
+    {
+      "id": "festival_001",
+      "name": "Red Rock Festival",
+      "date": "2025-08-15",
+      "location": "Desert Valley, Arizona",
+      "venue": "Outdoor Amphitheater",
+      "capacity": 15000,
+      "registered": 12450,
+      "status": "active",
+      "description": "A vibrant night festival featuring rock and alternative bands under the stars. Experience the magic of live music with stunning red lighting effects and an immersive atmosphere.",
+      "headliners": [
+        "The Midnight Riders",
+        "Desert Storm Band",
+        "Red Canyon Collective"
+      ],
+      "genres": ["Rock", "Alternative", "Indie"],
+      "highlights": [
+        "Stunning red lighting effects",
+        "Outdoor amphitheater setting",
+        "Multiple stages",
+        "Food and beverage vendors",
+        "Art installations"
+      ],
+      "event_access": {
+        "general": "Registration Required",
+        "vip": "VIP Access",
+        "early_bird": "Early Registration"
+      },
+      "image_reference": "assets/images/Event/music_1.jpg"
+    },
+    {
+      "id": "festival_002",
+      "name": "Electric Dreams Festival",
+      "date": "2025-08-22",
+      "location": "Downtown Music District",
+      "venue": "Urban Concert Hall",
+      "capacity": 8000,
+      "registered": 6750,
+      "status": "active",
+      "description": "An electrifying indoor festival showcasing the best of electronic and rock fusion. Features state-of-the-art lighting and sound systems.",
+      "headliners": [
+        "Electric Pulse",
+        "Digital Dreams",
+        "Neon Nights"
+      ],
+      "genres": ["Electronic", "Rock", "Synthwave"],
+      "highlights": [
+        "Advanced lighting systems",
+        "Multiple performance areas",
+        "Interactive art displays",
+        "VIP lounge access",
+        "Meet and greet sessions"
+      ],
+      "event_access": {
+        "general": "Registration Required",
+        "vip": "VIP Access",
+        "early_bird": "Early Registration"
+      },
+      "image_reference": "assets/images/Event/music_2.jpg"
+    },
+    {
+      "id": "festival_003",
+      "name": "Blue Horizon Jazz & Blues",
+      "date": "2025-09-10",
+      "location": "Riverside Park",
+      "venue": "Open Air Pavilion",
+      "capacity": 12000,
+      "registered": 9870,
+      "status": "active",
+      "description": "A sophisticated jazz and blues festival featuring world-class musicians in a relaxed outdoor setting with beautiful blue lighting.",
+      "headliners": [
+        "Blue Note Quartet",
+        "Riverside Blues Band",
+        "Smooth Jazz Collective"
+      ],
+      "genres": ["Jazz", "Blues", "Smooth Jazz"],
+      "highlights": [
+        "Comfortable seating arrangements",
+        "Gourmet food options",
+        "Beverage tasting experience",
+        "Artist workshops",
+        "Sunset performances"
+      ],
+      "event_access": {
+        "general": "Registration Required",
+        "vip": "VIP Access",
+        "early_bird": "Early Registration"
+      },
+      "image_reference": "assets/images/Event/music_3.jpg"
+    },
+    {
+      "id": "festival_004",
+      "name": "Golden Sunset Rock Festival",
+      "date": "2025-08-14",
+      "location": "Mountain View Arena",
+      "venue": "Outdoor Stadium",
+      "capacity": 25000,
+      "registered": 21890,
+      "status": "active",
+      "description": "A massive rock festival featuring multiple stages and world-renowned artists. Experience the energy of live rock music under the golden sunset.",
+      "headliners": [
+        "Thunder Road",
+        "Golden State Rockers",
+        "Mountain High Band"
+      ],
+      "genres": ["Rock", "Hard Rock", "Alternative"],
+      "highlights": [
+        "Multiple stages",
+        "Camping facilities",
+        "Food truck village",
+        "Merchandise stands",
+        "Photo opportunities"
+      ],
+      "event_access": {
+        "general": "Registration Required",
+        "vip": "VIP Access",
+        "early_bird": "Early Registration"
+      },
+      "image_reference": "assets/images/Event/music_4.jpg"
+    },
+    {
+      "id": "festival_005",
+      "name": "Classical Winds Festival",
+      "date": "2025-08-08",
+      "location": "Symphony Hall Gardens",
+      "venue": "Outdoor Concert Pavilion",
+      "capacity": 6000,
+      "registered": 5230,
+      "status": "active",
+      "description": "An elegant classical music festival featuring wind instruments and orchestral performances in a beautiful garden setting.",
+      "headliners": [
+        "Symphony Winds Ensemble",
+        "Classical Quartet",
+        "Garden Chamber Orchestra"
+      ],
+      "genres": ["Classical", "Orchestral", "Chamber Music"],
+      "highlights": [
+        "Cozy garden setting",
+        "Classical music education",
+        "Refreshment reception",
+        "Artist meet and greets",
+        "Historical instrument displays"
+      ],
+      "event_access": {
+        "general": "Registration Required",
+        "vip": "VIP Access",
+        "early_bird": "Early Registration"
+      },
+      "image_reference": "assets/images/Event/music_5.jpg"
+    },
+    {
+      "id": "festival_006",
+      "name": "Electric Blue Indie Festival",
+      "date": "2025-09-03",
+      "location": "Warehouse District",
+      "venue": "Industrial Concert Space",
+      "capacity": 5000,
+      "registered": 4120,
+      "status": "active",
+      "description": "A cozy indie music festival featuring emerging artists and established indie bands in a unique industrial setting.",
+      "headliners": [
+        "Indie Collective",
+        "Blue Electric",
+        "Warehouse Sound"
+      ],
+      "genres": ["Indie", "Alternative", "Indie Rock"],
+      "highlights": [
+        "Cozy venue setting",
+        "Local refreshments",
+        "Artist merchandise",
+        "Photo booth",
+        "Interactive art installations"
+      ],
+      "event_access": {
+        "general": "Registration Required",
+        "vip": "VIP Access",
+        "early_bird": "Early Registration"
+      },
+      "image_reference": "assets/images/Event/music_6.jpg"
+    },
+    {
+      "id": "festival_007",
+      "name": "Cantina Makena Club Night",
+      "date": "2025-09-20",
+      "location": "Downtown Entertainment District",
+      "venue": "Cozy Music Club",
+      "capacity": 3000,
+      "registered": 2750,
+      "status": "active",
+      "description": "An energetic club night featuring local and touring bands in a cozy club setting with vibrant green lighting.",
+      "headliners": [
+        "Club Rockers",
+        "Green Light Band",
+        "Cantina Collective"
+      ],
+      "genres": ["Rock", "Alternative", "Club Rock"],
+      "highlights": [
+        "Cozy club atmosphere",
+        "Full refreshment service",
+        "Dance floor",
+        "VIP table service",
+        "Late night performances"
+      ],
+      "event_access": {
+        "general": "Registration Required",
+        "vip": "VIP Access",
+        "early_bird": "Early Registration"
+      },
+      "image_reference": "assets/images/Event/music_7.jpg"
+    },
+    {
+      "id": "festival_008",
+      "name": "Punk Rock Revolution",
+      "date": "2025-10-12",
+      "location": "Underground Music Scene",
+      "venue": "Alternative Music Hall",
+      "capacity": 4000,
+      "registered": 3650,
+      "status": "active",
+      "description": "A high-energy punk rock festival featuring female-fronted bands and alternative rock acts in a welcoming venue setting.",
+      "headliners": [
+        "Punk Revolution",
+        "Alternative Collective",
+        "Rock Rebellion"
+      ],
+      "genres": ["Punk Rock", "Alternative", "Rock"],
+      "highlights": [
+        "Female-fronted bands",
+        "Punk rock atmosphere",
+        "Merchandise tables",
+        "Photo opportunities",
+        "Meet the artists"
+      ],
+      "event_access": {
+        "general": "Registration Required",
+        "vip": "VIP Access",
+        "early_bird": "Early Registration"
+      },
+      "image_reference": "assets/images/Event/music_8.jpg"
+    },
+    {
+      "id": "festival_009",
+      "name": "Mega Concert Spectacular",
+      "date": "2025-11-08",
+      "location": "Metropolitan Stadium",
+      "venue": "Large Outdoor Arena",
+      "capacity": 35000,
+      "registered": 31200,
+      "status": "active",
+      "description": "A massive outdoor concert featuring multiple stages, world-class lighting, and performances by top-tier artists.",
+      "headliners": [
+        "Mega Stars",
+        "Concert Collective",
+        "Spectacular Band"
+      ],
+      "genres": ["Pop", "Rock", "Electronic"],
+      "highlights": [
+        "Multiple stages",
+        "World-class lighting",
+        "Food and beverage options",
+        "VIP seating areas",
+        "Merchandise stands"
+      ],
+      "event_access": {
+        "general": "Registration Required",
+        "vip": "VIP Access",
+        "early_bird": "Early Registration"
+      },
+      "image_reference": "assets/images/Event/music_9.jpg"
+    },
+    {
+      "id": "festival_010",
+      "name": "Neon Lights Rock Festival",
+      "date": "2025-08-25",
+      "location": "Urban Nightclub District",
+      "venue": "Indoor Concert Hall",
+      "capacity": 6000,
+      "registered": 4850,
+      "status": "active",
+      "description": "An electrifying indoor rock festival featuring multiple bands with stunning pink and blue lighting effects. Experience the energy of live rock music in a cozy venue setting.",
+      "headliners": [
+        "Neon Nights",
+        "Electric Storm",
+        "Pink Lightning"
+      ],
+      "genres": ["Rock", "Alternative", "Hard Rock"],
+      "highlights": [
+        "Dramatic lighting effects",
+        "Cozy venue atmosphere",
+        "Multiple performance areas",
+        "VIP balcony seating",
+        "Artist meet and greets"
+      ],
+      "event_access": {
+        "general": "Registration Required",
+        "vip": "VIP Access",
+        "early_bird": "Early Registration"
+      },
+      "image_reference": "assets/images/Event/music_10.jpg"
+    },
+    {
+      "id": "festival_011",
+      "name": "Teal Bass Groove Festival",
+      "date": "2025-08-30",
+      "location": "Jazz Quarter",
+      "venue": "Cozy Music Club",
+      "capacity": 2500,
+      "registered": 2180,
+      "status": "active",
+      "description": "A sophisticated bass and jazz festival featuring world-class bassists and jazz musicians in a cozy club setting with dynamic lighting.",
+      "headliners": [
+        "Teal Bass Collective",
+        "Groove Masters",
+        "Jazz Fusion Trio"
+      ],
+      "genres": ["Jazz", "Fusion", "Bass Music"],
+      "highlights": [
+        "Cozy club setting",
+        "Premium sound system",
+        "Jazz education workshops",
+        "Refreshment bar",
+        "Late night jam sessions"
+      ],
+      "event_access": {
+        "general": "Registration Required",
+        "vip": "VIP Access",
+        "early_bird": "Early Registration"
+      },
+      "image_reference": "assets/images/Event/music_11.jpg"
+    },
+    {
+      "id": "festival_012",
+      "name": "Street Music Festival",
+      "date": "2025-09-15",
+      "location": "Downtown Street Fair",
+      "venue": "Outdoor Street Stage",
+      "capacity": 8000,
+      "registered": 6750,
+      "status": "active",
+      "description": "A vibrant street music festival featuring local bands and musicians performing on an outdoor stage under the shade of beautiful trees.",
+      "headliners": [
+        "Street Sound Collective",
+        "Downtown Rockers",
+        "Local Heroes"
+      ],
+      "genres": ["Rock", "Folk", "Alternative"],
+      "highlights": [
+        "Outdoor street setting",
+        "Local food vendors",
+        "Family-friendly atmosphere",
+        "Street art displays",
+        "Community engagement"
+      ],
+      "event_access": {
+        "general": "Registration Required",
+        "vip": "VIP Access",
+        "early_bird": "Early Registration"
+      },
+      "image_reference": "assets/images/Event/music_12.jpg"
+    },
+    {
+      "id": "festival_013",
+      "name": "Park Groove Festival",
+      "date": "2025-10-05",
+      "location": "Central Park",
+      "venue": "Outdoor Park Stage",
+      "capacity": 12000,
+      "registered": 10450,
+      "status": "active",
+      "description": "A relaxed outdoor music festival in a beautiful park setting featuring diverse musical acts and a laid-back atmosphere.",
+      "headliners": [
+        "Park Groove Band",
+        "Nature Sound Collective",
+        "Green Space Orchestra"
+      ],
+      "genres": ["Folk", "Indie", "Acoustic"],
+      "highlights": [
+        "Beautiful park setting",
+        "Picnic areas",
+        "Local craft vendors",
+        "Children's activities",
+        "Sunset performances"
+      ],
+      "event_access": {
+        "general": "Registration Required",
+        "vip": "VIP Access",
+        "early_bird": "Early Registration"
+      },
+      "image_reference": "assets/images/Event/music_13.jpg"
+    },
+    {
+      "id": "festival_014",
+      "name": "Rock Legends Festival",
+      "date": "2025-11-20",
+      "location": "Rock City Arena",
+      "venue": "Indoor Arena",
+      "capacity": 15000,
+      "registered": 13200,
+      "status": "active",
+      "description": "A high-energy rock festival featuring legendary rock bands and emerging artists in an electrifying indoor arena setting.",
+      "headliners": [
+        "Rock Legends",
+        "Thunder Road",
+        "Classic Rock Tribute"
+      ],
+      "genres": ["Rock", "Hard Rock", "Classic Rock"],
+      "highlights": [
+        "Legendary rock atmosphere",
+        "Multiple stages",
+        "Rock memorabilia displays",
+        "VIP backstage access",
+        "Meet and greet sessions"
+      ],
+      "event_access": {
+        "general": "Registration Required",
+        "vip": "VIP Access",
+        "early_bird": "Early Registration"
+      },
+      "image_reference": "assets/images/Event/music_14.jpg"
+    },
+    {
+      "id": "festival_015",
+      "name": "Hocco Drum Festival",
+      "date": "2025-12-05",
+      "location": "Outdoor Festival Grounds",
+      "venue": "Open Air Stage",
+      "capacity": 10000,
+      "registered": 8750,
+      "status": "active",
+      "description": "An energetic outdoor music festival featuring drum-heavy performances and percussion ensembles in a vibrant festival atmosphere.",
+      "headliners": [
+        "Hocco Drum Collective",
+        "Rhythm Masters",
+        "Percussion Ensemble"
+      ],
+      "genres": ["Percussion", "World Music", "Rhythm"],
+      "highlights": [
+        "Drum workshops",
+        "Percussion displays",
+        "Interactive drum circles",
+        "World music performances",
+        "Rhythm education"
+      ],
+      "event_access": {
+        "general": "Registration Required",
+        "vip": "VIP Access",
+        "early_bird": "Early Registration"
+      },
+      "image_reference": "assets/images/Event/music_15.jpg"
+    },
+    {
+      "id": "festival_016",
+      "name": "The Black Keys Experience",
+      "date": "2025-07-10",
+      "location": "Metropolitan Arena",
+      "venue": "Large Indoor Arena",
+      "capacity": 20000,
+      "registered": 18500,
+      "status": "active",
+      "description": "A spectacular concert featuring The Black Keys and supporting acts in a massive arena with dramatic purple and white lighting effects.",
+      "headliners": [
+        "The Black Keys",
+        "Blues Rock Collective",
+        "Modern Blues Band"
+      ],
+      "genres": ["Blues Rock", "Rock", "Alternative"],
+      "highlights": [
+        "The Black Keys performance",
+        "Dramatic lighting effects",
+        "Multiple screens",
+        "VIP seating areas",
+        "Exclusive merchandise"
+      ],
+      "event_access": {
+        "general": "Registration Required",
+        "vip": "VIP Access",
+        "early_bird": "Early Registration"
+      },
+      "image_reference": "assets/images/Event/music_16.jpg"
+    },
+    {
+      "id": "festival_017",
+      "name": "Maie Hawaiian Festival",
+      "date": "2025-08-05",
+      "location": "Tropical Beach Resort",
+      "venue": "Beachfront Stage",
+      "capacity": 8000,
+      "registered": 7200,
+      "status": "active",
+      "description": "A tropical music festival featuring Hawaiian-style music and international artists in a beautiful beachfront setting with colorful lighting.",
+      "headliners": [
+        "Maie Band",
+        "Hawaiian Paradise",
+        "Tropical Sound Collective"
+      ],
+      "genres": ["Hawaiian", "Tropical", "World Music"],
+      "highlights": [
+        "Beachfront setting",
+        "Hawaiian cultural displays",
+        "Tropical food vendors",
+        "Sunset performances",
+        "Beach activities"
+      ],
+      "event_access": {
+        "general": "Registration Required",
+        "vip": "VIP Access",
+        "early_bird": "Early Registration"
+      },
+      "image_reference": "assets/images/Event/music_17.jpg"
+    },
+    {
+      "id": "festival_018",
+      "name": "Mococo Electronic Festival",
+      "date": "2025-09-25",
+      "location": "Warehouse District",
+      "venue": "Industrial Concert Space",
+      "capacity": 12000,
+      "registered": 10800,
+      "status": "active",
+      "description": "An electrifying electronic music festival featuring DJs, live electronic acts, and stunning visual effects in a unique industrial setting.",
+      "headliners": [
+        "Mococo Collective",
+        "Electronic Dreams",
+        "Digital Sound System"
+      ],
+      "genres": ["Electronic", "EDM", "Techno"],
+      "highlights": [
+        "Advanced lighting systems",
+        "Interactive visual displays",
+        "Multiple DJ stages",
+        "VIP lounge areas",
+        "Late night performances"
+      ],
+      "event_access": {
+        "general": "Registration Required",
+        "vip": "VIP Access",
+        "early_bird": "Early Registration"
+      },
+      "image_reference": "assets/images/Event/music_18.jpg"
+    }
+  ],
+  "metadata": {
+    "total_festivals": 18,
+    "total_capacity": 200000,
+    "total_registered": 175000,
+    "year": 2025,
+    "generated_date": "2025-08-15",
+    "description": "Music festival events for 2025 featuring various genres and venues across different locations"
+  }
+} 

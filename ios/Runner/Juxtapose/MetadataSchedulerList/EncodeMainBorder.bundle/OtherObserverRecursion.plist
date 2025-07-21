@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateChapterRotation</key>
+	<string>currentAxisTint</string>
+	<key>loopWithoutParam</key>
+	<string>shaderUntilPhase</string>
+	<key>staticTransitionRotation</key>
+	<string>shaderAlongProxy</string>
+</dict>
+</plist>

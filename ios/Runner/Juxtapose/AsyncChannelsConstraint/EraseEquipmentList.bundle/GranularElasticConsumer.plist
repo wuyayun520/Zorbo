@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystTaskFlags</key>
+	<string>cellTaskAcceleration</string>
+	<key>configurationJobSkewy</key>
+	<string>transitionStrategyDensity</string>
+	<key>eventAboutStage</key>
+	<string>uniqueViewSize</string>
+	<key>hierarchicalOffsetTheme</key>
+	<string>originalMetadataTransparency</string>
+	<key>memberAtEnvironment</key>
+	<string>singletonContainPrototype</string>
+</dict>
+</plist>

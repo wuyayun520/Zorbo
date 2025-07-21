@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianScrollValidation</key>
+	<string>eagerTabviewFeedback</string>
+	<key>coordinatorForPhase</key>
+	<string>materialCaptionPosition</string>
+	<key>decorationScopeStyle</key>
+	<string>specifyBlocBorder</string>
+	<key>durationInterpreterState</key>
+	<string>chapterModeAppearance</string>
+	<key>smallPopupDirection</key>
+	<string>entityPatternSkewy</string>
+	<key>subscriptionSystemSpacing</key>
+	<string>managerFrameworkTint</string>
+	<key>widgetActionTail</key>
+	<string>futureWithTemple</string>
+</dict>
+</plist>

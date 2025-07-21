@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constMethodAlignment</key>
+	<string>listviewContextContrast</string>
+	<key>customPlateTheme</key>
+	<string>scaleInterpreterVelocity</string>
+	<key>exceptionPlatformType</key>
+	<string>responseMethodForce</string>
+	<key>precisionInFramework</key>
+	<string>completerFunctionKind</string>
+	<key>profileViaParam</key>
+	<string>providerAboutPattern</string>
+	<key>storeAtObserver</key>
+	<string>factoryForForm</string>
+	<key>storyboardJobBrightness</key>
+	<string>normWorkSaturation</string>
+	<key>usagePhaseInterval</key>
+	<string>progressbarChainLocation</string>
+</dict>
+</plist>

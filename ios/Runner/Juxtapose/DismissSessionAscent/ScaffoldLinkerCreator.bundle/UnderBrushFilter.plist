@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateBeyondState</key>
+	<string>imperativeAlertLeft</string>
+	<key>gesturedetectorOrFunction</key>
+	<string>constraintOutsideActivity</string>
+	<key>optimizerStyleFeedback</key>
+	<string>sineOperationType</string>
+	<key>parallelCubitAcceleration</key>
+	<string>shaderByParam</string>
+	<key>petDespiteParameter</key>
+	<string>euclideanEntropyShade</string>
+	<key>profileInsideBridge</key>
+	<string>inheritedCapacitiesName</string>
+</dict>
+</plist>

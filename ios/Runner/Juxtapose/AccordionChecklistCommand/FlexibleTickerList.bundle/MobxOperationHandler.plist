@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dimensionInterpreterRate</key>
+	<string>consumerInterpreterSpacing</string>
+	<key>inheritedContainerResponse</key>
+	<string>previewJobHead</string>
+	<key>momentumStyleTail</key>
+	<string>bitratePerFramework</string>
+	<key>prevTaskTransparency</key>
+	<string>storageAsFramework</string>
+	<key>sizePlatformDelay</key>
+	<string>kernelOrAdapter</string>
+	<key>symbolBeyondTask</key>
+	<string>futureInsideActivity</string>
+</dict>
+</plist>

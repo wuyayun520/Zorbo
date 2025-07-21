@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitProxySpacing</key>
+	<string>spriteBesideVariable</string>
+	<key>grainTierSize</key>
+	<string>characterLevelFrequency</string>
+	<key>gridFunctionInterval</key>
+	<string>decorationPatternVisibility</string>
+	<key>normAtAdapter</key>
+	<string>positionInAction</string>
+	<key>pinchableAlphaMode</key>
+	<string>profileParamAcceleration</string>
+	<key>referenceAlongJob</key>
+	<string>typicalConstraintVisible</string>
+	<key>responsiveAnchorTop</key>
+	<string>challengeNearSystem</string>
+	<key>statelessBlocVisibility</key>
+	<string>constraintInsideMediator</string>
+</dict>
+</plist>

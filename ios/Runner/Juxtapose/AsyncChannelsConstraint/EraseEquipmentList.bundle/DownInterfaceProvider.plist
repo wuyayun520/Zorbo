@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredListenerBound</key>
+	<string>rectPerWork</string>
+	<key>isolateByWork</key>
+	<string>smallPreviewVisible</string>
+	<key>otherAccessoryFlags</key>
+	<string>listenerWithoutOperation</string>
+	<key>specifierAtStage</key>
+	<string>chartViaMediator</string>
+	<key>tickerOutsideComposite</key>
+	<string>progressbarPatternTag</string>
+</dict>
+</plist>

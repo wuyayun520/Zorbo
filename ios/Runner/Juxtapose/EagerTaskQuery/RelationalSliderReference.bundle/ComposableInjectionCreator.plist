@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterStrategyPadding</key>
+	<string>singletonDuringMediator</string>
+	<key>composableTablePressure</key>
+	<string>scrollableAsyncKind</string>
+	<key>labelValueDistance</key>
+	<string>titleAlongAction</string>
+	<key>sequentialConsumerAcceleration</key>
+	<string>unactivatedMethodDirection</string>
+	<key>ternaryAgainstTask</key>
+	<string>decorationActionRight</string>
+	<key>tickerOfVariable</key>
+	<string>nodeExceptState</string>
+</dict>
+</plist>

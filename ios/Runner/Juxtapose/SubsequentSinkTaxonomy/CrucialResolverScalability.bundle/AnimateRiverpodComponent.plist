@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarLevelShade</key>
+	<string>modulusWithMethod</string>
+	<key>customResultForce</key>
+	<string>singletonWithoutPhase</string>
+	<key>dependencyContainMemento</key>
+	<string>storeLikeKind</string>
+	<key>fragmentContainTier</key>
+	<string>serviceAndCommand</string>
+	<key>iterativeSizePadding</key>
+	<string>lazySignatureType</string>
+	<key>subpixelInCycle</key>
+	<string>textMethodBrightness</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetContainVar</key>
+	<string>tickerAmongStrategy</string>
+	<key>blocIncludeContext</key>
+	<string>bufferEnvironmentStyle</string>
+	<key>consumerInInterpreter</key>
+	<string>euclideanNotifierDepth</string>
+	<key>cubitPatternEdge</key>
+	<string>tabviewViaComposite</string>
+	<key>grainProcessPadding</key>
+	<string>metadataAroundFacade</string>
+	<key>layerAndVisitor</key>
+	<string>retainedAnimationDensity</string>
+	<key>queryActionLocation</key>
+	<string>workflowPhaseContrast</string>
+	<key>resourceActivityOpacity</key>
+	<string>disabledResourceVisibility</string>
+	<key>threadBridgeCenter</key>
+	<string>keyLayoutVelocity</string>
+</dict>
+</plist>

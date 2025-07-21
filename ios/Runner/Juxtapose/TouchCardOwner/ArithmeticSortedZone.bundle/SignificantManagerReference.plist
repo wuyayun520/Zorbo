@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawerStageOffset</key>
+	<string>blocLikeFunction</string>
+	<key>mediaqueryAlongComposite</key>
+	<string>multiConstraintDuration</string>
+	<key>mobileCheckboxDelay</key>
+	<string>shaderSinceLayer</string>
+	<key>scaffoldParamDensity</key>
+	<string>allocatorPlatformSize</string>
+	<key>smartOverlayScale</key>
+	<string>sinkFrameworkFlags</string>
+	<key>spotBeyondPlatform</key>
+	<string>oldButtonTint</string>
+	<key>temporarySignatureHue</key>
+	<string>iconDespiteProxy</string>
+</dict>
+</plist>

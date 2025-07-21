@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstMenuType</key>
+	<string>futureTypeTail</string>
+	<key>functionalFrameIndex</key>
+	<string>utilActivityMode</string>
+	<key>graphContainStyle</key>
+	<string>profileShapeScale</string>
+	<key>lazyCardDistance</key>
+	<string>widgetOperationInset</string>
+	<key>requestPerLevel</key>
+	<string>captionIncludePattern</string>
+	<key>statelessSignShade</key>
+	<string>signModeFormat</string>
+	<key>subpixelContextTail</key>
+	<string>lazyThreadTint</string>
+</dict>
+</plist>

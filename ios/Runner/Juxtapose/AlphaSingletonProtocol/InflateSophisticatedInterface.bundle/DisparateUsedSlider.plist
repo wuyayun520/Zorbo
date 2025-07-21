@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistAmongAction</key>
+	<string>widgetInsideTask</string>
+	<key>firstEntityCenter</key>
+	<string>topicFormShade</string>
+	<key>listviewOrSingleton</key>
+	<string>decorationThroughCommand</string>
+	<key>paddingKindTop</key>
+	<string>observerPatternFrequency</string>
+	<key>persistentTouchBottom</key>
+	<string>sensorVersusTier</string>
+	<key>queueActivityForce</key>
+	<string>behaviorViaVisitor</string>
+	<key>subscriptionSystemBehavior</key>
+	<string>builderExceptScope</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosineFrameworkName</key>
+	<string>criticalCellFormat</string>
+	<key>easyButtonStyle</key>
+	<string>completerInValue</string>
+	<key>intuitiveInterpolationKind</key>
+	<string>asyncScaleBottom</string>
+	<key>mediaPerPattern</key>
+	<string>customizedSegueAppearance</string>
+	<key>navigatorSinceNumber</key>
+	<string>frameAndTemple</string>
+	<key>particleAndBridge</key>
+	<string>notifierProxyTag</string>
+	<key>serviceOutsideTemple</key>
+	<string>mainNotifierFeedback</string>
+	<key>subscriptionOperationValidation</key>
+	<string>subtleContainerRight</string>
+</dict>
+</plist>

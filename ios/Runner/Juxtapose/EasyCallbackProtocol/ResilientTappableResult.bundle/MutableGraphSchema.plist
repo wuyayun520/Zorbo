@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorBesideAction</key>
+	<string>interactorBridgeForce</string>
+	<key>displayableInteractorOpacity</key>
+	<string>significantSingletonSpeed</string>
+	<key>documentPhaseBottom</key>
+	<string>otherTickerEdge</string>
+	<key>ephemeralClipperMargin</key>
+	<string>transitionStateName</string>
+	<key>gradientObserverVisible</key>
+	<string>modelTypeLeft</string>
+	<key>histogramThroughOperation</key>
+	<string>imperativeMaterialDelay</string>
+	<key>localizationAmongFlyweight</key>
+	<string>directHandlerPressure</string>
+	<key>metadataProcessOpacity</key>
+	<string>captionStructureRight</string>
+	<key>usageInterpreterCenter</key>
+	<string>collectionThroughEnvironment</string>
+</dict>
+</plist>

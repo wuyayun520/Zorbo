@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateDecoratorTint</key>
+	<string>baselineFromScope</string>
+	<key>managerObserverEdge</key>
+	<string>pageviewSinceFramework</string>
+	<key>providerStateCenter</key>
+	<string>modalWithContext</string>
+	<key>sustainableControllerFormat</key>
+	<string>boxshadowProcessScale</string>
+	<key>usedSubscriptionOrigin</key>
+	<string>subsequentBuilderDensity</string>
+</dict>
+</plist>

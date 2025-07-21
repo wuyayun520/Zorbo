@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartFromAction</key>
+	<string>pivotalClipperContrast</string>
+	<key>composablePlaybackSpacing</key>
+	<string>taskLayerDistance</string>
+	<key>cupertinoServiceStyle</key>
+	<string>semanticAnimationRate</string>
+	<key>finalMemberLocation</key>
+	<string>arithmeticProviderOrientation</string>
+	<key>injectionPlatformAlignment</key>
+	<string>parallelAllocatorInteraction</string>
+	<key>lazyStreamCount</key>
+	<string>segmentDespiteMethod</string>
+	<key>opaqueControllerDirection</key>
+	<string>sortedCursorSpeed</string>
+	<key>otherBinaryStatus</key>
+	<string>primaryErrorIndex</string>
+	<key>resourceSinceVar</key>
+	<string>entityDecoratorVisibility</string>
+</dict>
+</plist>

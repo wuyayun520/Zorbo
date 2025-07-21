@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarParameterFrequency</key>
+	<string>allocatorMementoOffset</string>
+	<key>inactiveManagerAcceleration</key>
+	<string>responseDespiteStrategy</string>
+	<key>layerContainPattern</key>
+	<string>errorMediatorName</string>
+	<key>localCursorFrequency</key>
+	<string>mobileSemanticsEdge</string>
+	<key>respectiveManagerLeft</key>
+	<string>sliderCompositeMode</string>
+	<key>storageViaTask</key>
+	<string>slashAmongObserver</string>
+</dict>
+</plist>

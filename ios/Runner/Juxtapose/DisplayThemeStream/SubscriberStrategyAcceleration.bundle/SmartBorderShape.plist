@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerKindVisibility</key>
+	<string>customizedTabbarBottom</string>
+	<key>desktopSegmentResponse</key>
+	<string>largeBaselineShape</string>
+	<key>multiProfilePosition</key>
+	<string>chapterNumberAlignment</string>
+	<key>primaryDependencyCoord</key>
+	<string>customizedMemberSkewx</string>
+	<key>reductionOrAction</key>
+	<string>temporaryLabelEdge</string>
+	<key>scaffoldAsContext</key>
+	<string>matrixDespiteStrategy</string>
+</dict>
+</plist>

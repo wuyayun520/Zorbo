@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directTextureShape</key>
+	<string>navigatorAlongForm</string>
+	<key>granularStateTheme</key>
+	<string>batchOrNumber</string>
+	<key>precisionJobInset</key>
+	<string>viewDespitePlatform</string>
+	<key>semanticIntensityDuration</key>
+	<string>statelessSlashTransparency</string>
+</dict>
+</plist>

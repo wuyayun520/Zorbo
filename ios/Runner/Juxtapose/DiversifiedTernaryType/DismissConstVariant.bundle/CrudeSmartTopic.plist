@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderFrameworkPosition</key>
+	<string>sizeSingletonSpeed</string>
+	<key>controllerActivityBottom</key>
+	<string>dependencyMethodRate</string>
+	<key>granularAnimationIndex</key>
+	<string>transformerFacadeVisibility</string>
+	<key>interpolationContextSpacing</key>
+	<string>asyncObserverMomentum</string>
+	<key>queueNearState</key>
+	<string>independentFutureInterval</string>
+</dict>
+</plist>

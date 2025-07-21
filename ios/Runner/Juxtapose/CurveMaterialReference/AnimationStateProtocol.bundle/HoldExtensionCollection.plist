@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncOutsideEnvironment</key>
+	<string>symmetricSpriteFormat</string>
+	<key>cardVisitorEdge</key>
+	<string>lostMapDirection</string>
+	<key>ephemeralCurveCenter</key>
+	<string>retainedLabelPressure</string>
+	<key>positionSystemHue</key>
+	<string>difficultPositionedScale</string>
+	<key>secondTopicDelay</key>
+	<string>storyboardAlongStyle</string>
+	<key>utilParameterAppearance</key>
+	<string>usedUsecaseInterval</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentButtonOffset</key>
+	<string>channelForVariable</string>
+	<key>cupertinoAccessoryContrast</key>
+	<string>topicInState</string>
+	<key>fragmentInBridge</key>
+	<string>enabledScreenColor</string>
+	<key>giftContainAdapter</key>
+	<string>segmentBeyondMediator</string>
+	<key>gramCycleVisibility</key>
+	<string>mediaqueryPhaseDensity</string>
+	<key>observerMediatorInteraction</key>
+	<string>flexibleLabelSkewy</string>
+	<key>respectiveInteractorSpeed</key>
+	<string>seamlessRowIndex</string>
+	<key>spriteBufferLeft</key>
+	<string>widgetInsideLayer</string>
+	<key>stateExceptOperation</key>
+	<string>blocAgainstPattern</string>
+</dict>
+</plist>

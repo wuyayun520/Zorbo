@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletFlyweightFlags</key>
+	<string>heapVisitorInteraction</string>
+	<key>desktopRowMode</key>
+	<string>directExpandedAcceleration</string>
+	<key>playbackStateDistance</key>
+	<string>hashAroundLayer</string>
+	<key>positionLevelDuration</key>
+	<string>riverpodLikeTier</string>
+</dict>
+</plist>

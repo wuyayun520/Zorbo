@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveBaseInteraction</key>
+	<string>customizedEffectOrigin</string>
+	<key>animationBesideActivity</key>
+	<string>alignmentCommandScale</string>
+	<key>constSpriteFrequency</key>
+	<string>largeHashOrientation</string>
+	<key>decorationValueMode</key>
+	<string>activatedZoneValidation</string>
+	<key>interactorLayerResponse</key>
+	<string>menuScopeAppearance</string>
+	<key>radiusBridgeSpeed</key>
+	<string>nextCursorInteraction</string>
+	<key>storageAwayAdapter</key>
+	<string>getxMementoVelocity</string>
+</dict>
+</plist>

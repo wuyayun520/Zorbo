@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaStyleFormat</key>
+	<string>switchOfAction</string>
+	<key>arithmeticFrameCenter</key>
+	<string>sizeStateBound</string>
+	<key>difficultPainterSize</key>
+	<string>groupAlongOperation</string>
+	<key>liteEventOffset</key>
+	<string>queueAroundFlyweight</string>
+	<key>materialPreviewRate</key>
+	<string>customAsyncVelocity</string>
+	<key>numericalScaleCenter</key>
+	<string>constraintDecoratorAlignment</string>
+	<key>queueLevelCoord</key>
+	<string>animatedcontainerJobFlags</string>
+	<key>sliderChainStatus</key>
+	<string>persistentLabelTail</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityStructureShade</key>
+	<string>transitionViaJob</string>
+	<key>globalLabelContrast</key>
+	<string>ignoredProviderFrequency</string>
+	<key>hardContainerEdge</key>
+	<string>timerFromFlyweight</string>
+	<key>inkwellByEnvironment</key>
+	<string>sensorFromStructure</string>
+	<key>listenerSystemFrequency</key>
+	<string>easyServicePadding</string>
+</dict>
+</plist>

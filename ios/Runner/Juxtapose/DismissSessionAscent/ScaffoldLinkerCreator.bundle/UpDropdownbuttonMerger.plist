@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constQueueStyle</key>
+	<string>repositoryPhasePadding</string>
+	<key>errorDespiteCycle</key>
+	<string>stateJobBound</string>
+	<key>logBridgeDelay</key>
+	<string>singletonViaDecorator</string>
+	<key>navigatorActionAlignment</key>
+	<string>denseStorageTag</string>
+	<key>optimizerParameterBound</key>
+	<string>usedSizeDuration</string>
+	<key>rowWithoutMethod</key>
+	<string>greatBorderDensity</string>
+	<key>semanticsPhaseCount</key>
+	<string>gatePerMemento</string>
+	<key>similarEquipmentSkewy</key>
+	<string>lastGridInterval</string>
+	<key>uniquePriorityTail</key>
+	<string>particleScopeFrequency</string>
+</dict>
+</plist>

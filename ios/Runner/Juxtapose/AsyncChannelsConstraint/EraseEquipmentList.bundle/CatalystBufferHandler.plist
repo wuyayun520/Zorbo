@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocBeyondEnvironment</key>
+	<string>subscriptionShapeOrigin</string>
+	<key>constraintAtPhase</key>
+	<string>cubitParameterOpacity</string>
+	<key>explicitProgressbarRight</key>
+	<string>declarativeHandlerInteraction</string>
+	<key>notifierVersusPrototype</key>
+	<string>memberShapeTension</string>
+	<key>resultAndWork</key>
+	<string>grainFlyweightDelay</string>
+	<key>slashLikeMediator</key>
+	<string>activeUsecaseBottom</string>
+	<key>sortedPainterRate</key>
+	<string>relationalRouterTransparency</string>
+	<key>subsequentScaleFlags</key>
+	<string>skinSingletonDuration</string>
+	<key>usecaseUntilBridge</key>
+	<string>reactiveGrainTint</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertLikeFramework</key>
+	<string>directTransitionOffset</string>
+	<key>cacheInVariable</key>
+	<string>reducerBridgeVelocity</string>
+	<key>constraintStrategyKind</key>
+	<string>customizedFrameDistance</string>
+	<key>disabledTouchDuration</key>
+	<string>cursorProcessMode</string>
+	<key>iconNearTask</key>
+	<string>menuBufferSkewy</string>
+	<key>otherSceneRate</key>
+	<string>standaloneStoreContrast</string>
+	<key>requestStructureDensity</key>
+	<string>switchAsComposite</string>
+	<key>sensorForCommand</key>
+	<string>stampActionInteraction</string>
+	<key>standaloneChecklistTransparency</key>
+	<string>keyLabelDelay</string>
+</dict>
+</plist>

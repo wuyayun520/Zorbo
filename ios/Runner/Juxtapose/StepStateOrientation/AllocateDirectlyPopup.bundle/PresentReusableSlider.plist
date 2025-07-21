@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchFormShade</key>
+	<string>explicitControllerValidation</string>
+	<key>constPainterType</key>
+	<string>dependencySincePattern</string>
+	<key>deferredTextVisible</key>
+	<string>movementSinceNumber</string>
+	<key>fixedVariantTheme</key>
+	<string>listviewVersusChain</string>
+	<key>graphPrototypeInterval</key>
+	<string>logContextOrientation</string>
+	<key>singletonAmongValue</key>
+	<string>primaryResponseTag</string>
+	<key>tabbarLevelStyle</key>
+	<string>primaryBuilderBrightness</string>
+	<key>vectorOperationFormat</key>
+	<string>optionLikeTemple</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAndBridge</key>
+	<string>asynchronousReferenceName</string>
+	<key>checkboxOperationPadding</key>
+	<string>standaloneBaselineTint</string>
+	<key>cupertinoLogarithmShape</key>
+	<string>presenterStrategyOrigin</string>
+	<key>eventOfJob</key>
+	<string>appbarPhaseFeedback</string>
+	<key>presenterMediatorContrast</key>
+	<string>notificationOperationPosition</string>
+	<key>progressbarBesideStructure</key>
+	<string>sceneActionHue</string>
+</dict>
+</plist>

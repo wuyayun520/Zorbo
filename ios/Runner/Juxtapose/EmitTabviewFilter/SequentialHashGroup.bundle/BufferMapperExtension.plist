@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleTextfieldOrientation</key>
+	<string>modulusPerPlatform</string>
+	<key>buttonLayerBehavior</key>
+	<string>checklistShapeBound</string>
+	<key>configurationTempleRotation</key>
+	<string>relationalCallbackMode</string>
+	<key>materialStepTail</key>
+	<string>opaqueEntityStatus</string>
+	<key>nativeCollectionShape</key>
+	<string>fixedGemVisibility</string>
+	<key>newestSceneShape</key>
+	<string>layoutParameterOffset</string>
+	<key>singleColumnShade</key>
+	<string>arithmeticButtonShape</string>
+</dict>
+</plist>

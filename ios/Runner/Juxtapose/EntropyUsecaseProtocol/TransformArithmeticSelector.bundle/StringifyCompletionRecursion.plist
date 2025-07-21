@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entityStyleTransparency</key>
+	<string>localSignOrientation</string>
+	<key>pivotalUsecaseIndex</key>
+	<string>asyncSubscriptionSpeed</string>
+	<key>radioFlyweightVelocity</key>
+	<string>entityBufferSaturation</string>
+	<key>riverpodViaFunction</key>
+	<string>requiredModalState</string>
+	<key>smallCursorOrigin</key>
+	<string>shaderNumberRotation</string>
+	<key>storeModeLocation</key>
+	<string>sustainableButtonMode</string>
+	<key>threadOutsideLevel</key>
+	<string>modulusParameterMode</string>
+	<key>usecaseSingletonStyle</key>
+	<string>columnSystemHead</string>
+</dict>
+</plist>

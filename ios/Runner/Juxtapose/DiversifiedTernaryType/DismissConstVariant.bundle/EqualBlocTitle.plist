@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackOutsideShape</key>
+	<string>entityInsideBuffer</string>
+	<key>cubeSinceVar</key>
+	<string>nativeActivityVelocity</string>
+	<key>ignoredManagerHead</key>
+	<string>interactiveLogSaturation</string>
+	<key>tweenKindSize</key>
+	<string>cubeOutsideForm</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionThreadBottom</key>
+	<string>actionVarTail</string>
+	<key>commandCycleStyle</key>
+	<string>hardChapterOrientation</string>
+	<key>consultativeTimerIndex</key>
+	<string>descriptionContextInset</string>
+	<key>directlyOffsetRotation</key>
+	<string>layoutStructureOpacity</string>
+	<key>isolateProxyValidation</key>
+	<string>optionStructureTop</string>
+	<key>movementWithMode</key>
+	<string>groupChainMargin</string>
+	<key>navigatorBufferSkewy</key>
+	<string>listenerSincePhase</string>
+</dict>
+</plist>

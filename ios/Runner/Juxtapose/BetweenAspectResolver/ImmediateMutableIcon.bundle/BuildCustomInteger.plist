@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnPerCommand</key>
+	<string>textInValue</string>
+	<key>coordinatorOrObserver</key>
+	<string>roleModeShape</string>
+	<key>directResolverBottom</key>
+	<string>imagePhaseTop</string>
+	<key>draggableCompleterBorder</key>
+	<string>commandContainTask</string>
+	<key>localRectSaturation</key>
+	<string>delicateFeatureAppearance</string>
+	<key>paddingTypePressure</key>
+	<string>chartCompositeOpacity</string>
+	<key>positionInterpreterBound</key>
+	<string>oldIntegerAlignment</string>
+	<key>zoneAroundMemento</key>
+	<string>methodKindPressure</string>
+</dict>
+</plist>

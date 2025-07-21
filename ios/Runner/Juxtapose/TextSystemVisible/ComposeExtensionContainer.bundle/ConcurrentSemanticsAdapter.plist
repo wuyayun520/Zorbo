@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intuitiveAspectInteraction</key>
+	<string>backwardBoxVisibility</string>
+	<key>nextTransitionSkewx</key>
+	<string>imageTierPressure</string>
+	<key>normalObserverSpacing</key>
+	<string>normalBlocSize</string>
+	<key>resolverAwayShape</key>
+	<string>functionalPointLocation</string>
+	<key>usageUntilEnvironment</key>
+	<string>modulusScopeVisibility</string>
+</dict>
+</plist>

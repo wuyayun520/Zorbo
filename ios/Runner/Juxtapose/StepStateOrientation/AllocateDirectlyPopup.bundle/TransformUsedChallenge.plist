@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletVersusScope</key>
+	<string>denseNibPadding</string>
+	<key>capacitiesParameterPadding</key>
+	<string>durationThroughLevel</string>
+	<key>extensionAndState</key>
+	<string>popupContainMethod</string>
+	<key>inactiveMenuInteraction</key>
+	<string>nodeExceptTask</string>
+	<key>mediocreTimerSpacing</key>
+	<string>aspectPerProcess</string>
+	<key>secondListenerMargin</key>
+	<string>widgetLikeBuffer</string>
+	<key>temporaryCommandVisibility</key>
+	<string>skinViaStage</string>
+</dict>
+</plist>

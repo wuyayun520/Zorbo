@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationInPlatform</key>
+	<string>persistentTickerBrightness</string>
+	<key>interactiveGemRotation</key>
+	<string>activeViewSkewy</string>
+	<key>sequentialCertificateFeedback</key>
+	<string>flexibleSegueType</string>
+	<key>signatureProxyBehavior</key>
+	<string>loopAmongFramework</string>
+	<key>sustainableFrameIndex</key>
+	<string>richtextAmongBuffer</string>
+</dict>
+</plist>

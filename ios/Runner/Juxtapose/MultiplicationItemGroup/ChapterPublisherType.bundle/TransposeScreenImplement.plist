@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleVariantDelay</key>
+	<string>vectorJobDuration</string>
+	<key>asynchronousGestureSpeed</key>
+	<string>denseBulletRotation</string>
+	<key>globalSliderOffset</key>
+	<string>textOutsideParam</string>
+	<key>resultStageDelay</key>
+	<string>cacheAsWork</string>
+	<key>unsortedMobileBottom</key>
+	<string>contractionAroundPhase</string>
+	<key>usedTabbarOrigin</key>
+	<string>drawerFacadeInteraction</string>
+</dict>
+</plist>

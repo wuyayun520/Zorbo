@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationBesideProxy</key>
+	<string>storyboardParameterIndex</string>
+	<key>drawerOperationInteraction</key>
+	<string>finalContainerFormat</string>
+	<key>imageForTier</key>
+	<string>transitionAgainstTier</string>
+	<key>loopSinceActivity</key>
+	<string>checklistTaskBehavior</string>
+	<key>modelViaKind</key>
+	<string>usecaseWithoutStrategy</string>
+	<key>signatureOutsideTier</key>
+	<string>effectContainBuffer</string>
+	<key>zoneContainParam</key>
+	<string>symmetricPreviewDensity</string>
+</dict>
+</plist>

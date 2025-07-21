@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousResponseRate</key>
+	<string>localizationAsPhase</string>
+	<key>discardedQueueTint</key>
+	<string>tabbarObserverTheme</string>
+	<key>documentTempleSaturation</key>
+	<string>buttonDuringPattern</string>
+	<key>graphicAsLevel</key>
+	<string>sliderAlongFramework</string>
+	<key>queueTierSize</key>
+	<string>tabbarThanKind</string>
+	<key>rectVersusValue</key>
+	<string>subpixelThroughComposite</string>
+	<key>servicePlatformVisibility</key>
+	<string>easyProtocolMomentum</string>
+	<key>sliderProcessShade</key>
+	<string>hashTaskRotation</string>
+	<key>taskParamInterval</key>
+	<string>cubeMethodVelocity</string>
+</dict>
+</plist>

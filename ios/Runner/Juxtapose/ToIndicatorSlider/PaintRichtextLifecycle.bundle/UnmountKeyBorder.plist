@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>futureStyleDirection</key>
+	<string>resultDuringState</string>
+	<key>inheritedNormPadding</key>
+	<string>semanticCupertinoForce</string>
+	<key>observerStructureDistance</key>
+	<string>commonEntityScale</string>
+	<key>respectiveCurveValidation</key>
+	<string>textureFrameworkMargin</string>
+	<key>responseTypeRight</key>
+	<string>adaptiveFrameFormat</string>
+	<key>retainedDecorationScale</key>
+	<string>pivotalBlocEdge</string>
+</dict>
+</plist>

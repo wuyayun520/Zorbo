@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableIconTransparency</key>
+	<string>priorSliderInset</string>
+	<key>functionalConstraintKind</key>
+	<string>channelLayerForce</string>
+	<key>gridviewWorkSpeed</key>
+	<string>layoutWithoutType</string>
+	<key>listenerPlatformPressure</key>
+	<string>mediocreGesturedetectorOffset</string>
+	<key>localExponentRotation</key>
+	<string>mediaqueryAsBuffer</string>
+	<key>mediocreSymbolInteraction</key>
+	<string>awaitTempleSkewx</string>
+	<key>navigatorThroughPrototype</key>
+	<string>titleDespiteMediator</string>
+	<key>profileJobShape</key>
+	<string>requiredBitrateSpeed</string>
+	<key>routeModeType</key>
+	<string>enabledCommandIndex</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityOutsideInterpreter</key>
+	<string>providerDespiteChain</string>
+	<key>draggableVectorInset</key>
+	<string>imperativeEntityTop</string>
+	<key>drawerAwayMemento</key>
+	<string>retainedSpotVisible</string>
+	<key>globalResponseRight</key>
+	<string>loopScopePadding</string>
+	<key>gridAroundFramework</key>
+	<string>unaryDecoratorTop</string>
+	<key>histogramViaParam</key>
+	<string>decorationAtScope</string>
+	<key>mobileCompleterOffset</key>
+	<string>storeCommandSkewy</string>
+	<key>optionBeyondObserver</key>
+	<string>certificateStylePadding</string>
+	<key>rectSingletonRight</key>
+	<string>crudeStepStyle</string>
+</dict>
+</plist>

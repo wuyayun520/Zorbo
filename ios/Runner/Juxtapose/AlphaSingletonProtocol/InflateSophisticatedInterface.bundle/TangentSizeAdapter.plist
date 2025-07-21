@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorAmongFacade</key>
+	<string>particleDespiteType</string>
+	<key>containerPerPattern</key>
+	<string>aspectFacadeOrigin</string>
+	<key>enabledManagerRotation</key>
+	<string>constEquipmentPosition</string>
+	<key>groupBufferTail</key>
+	<string>largeTimerDepth</string>
+	<key>loopBesideTemple</key>
+	<string>rectParameterSize</string>
+	<key>mediocreChannelContrast</key>
+	<string>asyncStructureKind</string>
+	<key>navigationAlongMemento</key>
+	<string>routeAroundSingleton</string>
+	<key>originalProviderSaturation</key>
+	<string>scrollKindSkewy</string>
+	<key>projectionThroughStrategy</key>
+	<string>uniqueResolverSize</string>
+	<key>textLevelCount</key>
+	<string>sineFlyweightDirection</string>
+</dict>
+</plist>

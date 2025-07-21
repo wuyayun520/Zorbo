@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncStepFrequency</key>
+	<string>containerKindState</string>
+	<key>oldProjectionBehavior</key>
+	<string>decorationUntilPrototype</string>
+	<key>resourceVersusTask</key>
+	<string>collectionFunctionFrequency</string>
+	<key>signatureContextMode</key>
+	<string>hierarchicalPositionAcceleration</string>
+	<key>singleDelegateSkewy</key>
+	<string>lazyMethodInterval</string>
+	<key>textfieldAlongValue</key>
+	<string>materialCellDensity</string>
+</dict>
+</plist>

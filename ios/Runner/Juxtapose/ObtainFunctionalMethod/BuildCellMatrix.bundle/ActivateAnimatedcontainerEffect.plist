@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesIncludeActivity</key>
+	<string>segueCompositeTop</string>
+	<key>catalystMementoBottom</key>
+	<string>synchronousBufferContrast</string>
+	<key>requiredCaptionFlags</key>
+	<string>labelInsideScope</string>
+	<key>scrollableUsageTransparency</key>
+	<string>difficultIntensityMode</string>
+	<key>transitionPhaseBound</key>
+	<string>interpolationCommandFrequency</string>
+</dict>
+</plist>

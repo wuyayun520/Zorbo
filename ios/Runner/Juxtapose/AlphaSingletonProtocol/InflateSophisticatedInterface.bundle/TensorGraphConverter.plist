@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerAndDecorator</key>
+	<string>optionStructureDelay</string>
+	<key>builderOrDecorator</key>
+	<string>routerBridgeColor</string>
+	<key>desktopSpriteSpeed</key>
+	<string>localActivityBrightness</string>
+	<key>elasticTangentStyle</key>
+	<string>asyncContainerDistance</string>
+	<key>frameNearActivity</key>
+	<string>actionBesideOperation</string>
+	<key>gemIncludeProxy</key>
+	<string>variantInterpreterSpacing</string>
+	<key>primaryFutureDelay</key>
+	<string>oldRadiusMode</string>
+	<key>resultViaPattern</key>
+	<string>originalDialogsSpeed</string>
+	<key>semanticRadiusEdge</key>
+	<string>rectVarBorder</string>
+	<key>temporaryBlocSaturation</key>
+	<string>alertPerDecorator</string>
+</dict>
+</plist>

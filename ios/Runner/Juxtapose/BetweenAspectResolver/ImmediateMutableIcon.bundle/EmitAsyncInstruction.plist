@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorFrameworkTheme</key>
+	<string>plateTaskAlignment</string>
+	<key>awaitThroughMethod</key>
+	<string>diffableRepositoryContrast</string>
+	<key>coordinatorThroughFunction</key>
+	<string>sharedDecorationBound</string>
+	<key>directFrameColor</key>
+	<string>symbolVersusCycle</string>
+	<key>histogramSystemAlignment</key>
+	<string>constraintBufferOrientation</string>
+	<key>intuitiveCompositionVisible</key>
+	<string>independentSingletonBehavior</string>
+	<key>presenterAsStrategy</key>
+	<string>otherLabelAlignment</string>
+	<key>scrollableProjectionShape</key>
+	<string>permanentHeapDepth</string>
+	<key>sliderOrActivity</key>
+	<string>temporaryCoordinatorTheme</string>
+	<key>tweenAmongParameter</key>
+	<string>immediateTransformerTheme</string>
+</dict>
+</plist>

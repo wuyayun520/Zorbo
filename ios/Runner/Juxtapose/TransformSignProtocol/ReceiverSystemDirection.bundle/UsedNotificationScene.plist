@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveAnimationLocation</key>
+	<string>subsequentProviderTheme</string>
+	<key>backwardContainerType</key>
+	<string>cubitInsideStrategy</string>
+	<key>buttonFlyweightMomentum</key>
+	<string>localizationByEnvironment</string>
+	<key>cartesianButtonOrientation</key>
+	<string>smartDelegateSkewx</string>
+	<key>declarativeNavigatorCount</key>
+	<string>shaderOutsideBridge</string>
+	<key>hashShapeShape</key>
+	<string>assetSinceFacade</string>
+	<key>transitionInterpreterPosition</key>
+	<string>mediaVisitorSpeed</string>
+</dict>
+</plist>

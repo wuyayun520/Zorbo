@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>modelProxySkewy</key>
+	<string>labelAlongValue</string>
+	<key>secondTableName</key>
+	<string>persistentTextureValidation</string>
+	<key>serviceValueSaturation</key>
+	<string>dynamicIconContrast</string>
+	<key>storyboardPrototypeTag</key>
+	<string>petBesideParam</string>
+</dict>
+</plist>

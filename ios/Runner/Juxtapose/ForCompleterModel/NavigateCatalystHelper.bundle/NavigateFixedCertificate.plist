@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocAndFlyweight</key>
+	<string>reusableIntegerOffset</string>
+	<key>greatHashCount</key>
+	<string>storyboardLevelShade</string>
+	<key>hardReductionSpeed</key>
+	<string>modalBridgeRate</string>
+	<key>musicSingletonFeedback</key>
+	<string>memberThanWork</string>
+	<key>protectedEffectStatus</key>
+	<string>rowStructureContrast</string>
+	<key>seamlessProfileBehavior</key>
+	<string>behaviorMediatorPadding</string>
+	<key>semanticBehaviorOpacity</key>
+	<string>specifyMenuStyle</string>
+	<key>singleDependencyBrightness</key>
+	<string>pivotalStackInset</string>
+	<key>standaloneGestureHue</key>
+	<string>routeOrObserver</string>
+</dict>
+</plist>

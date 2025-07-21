@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperDecoratorFlags</key>
+	<string>custompaintWorkAppearance</string>
+	<key>descriptionPlatformDuration</key>
+	<string>coordinatorTierSize</string>
+	<key>equalizationActivityBorder</key>
+	<string>spriteBeyondBridge</string>
+	<key>lostTweenAcceleration</key>
+	<string>gesturedetectorActivityVisible</string>
+	<key>sizedboxWorkInterval</key>
+	<string>symmetricTaskDensity</string>
+</dict>
+</plist>

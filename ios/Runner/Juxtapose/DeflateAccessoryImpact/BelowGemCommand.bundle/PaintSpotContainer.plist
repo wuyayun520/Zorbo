@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureOfParam</key>
+	<string>optionProcessVisibility</string>
+	<key>baselineByScope</key>
+	<string>catalystDecoratorShade</string>
+	<key>decorationModeAppearance</key>
+	<string>assetByEnvironment</string>
+	<key>documentEnvironmentVisible</key>
+	<string>easyGrayscaleOrientation</string>
+	<key>integerUntilLevel</key>
+	<string>resilientRectOffset</string>
+	<key>notificationValueBorder</key>
+	<string>smartGroupSize</string>
+	<key>resultAmongShape</key>
+	<string>sliderAtStrategy</string>
+	<key>textOperationScale</key>
+	<string>rolePatternVisibility</string>
+	<key>visibleFrameType</key>
+	<string>prismaticChannelsDensity</string>
+</dict>
+</plist>

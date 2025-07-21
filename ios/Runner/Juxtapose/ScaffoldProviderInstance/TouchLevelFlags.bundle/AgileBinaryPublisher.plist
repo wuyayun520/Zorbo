@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptorOutsideBridge</key>
+	<string>coordinatorExceptFlyweight</string>
+	<key>documentVisitorTransparency</key>
+	<string>segueFromPlatform</string>
+	<key>masterAmongValue</key>
+	<string>subscriptionThanDecorator</string>
+	<key>rectMementoSpeed</key>
+	<string>momentumTierTag</string>
+	<key>standaloneChallengeResponse</key>
+	<string>resolverAwayPlatform</string>
+</dict>
+</plist>

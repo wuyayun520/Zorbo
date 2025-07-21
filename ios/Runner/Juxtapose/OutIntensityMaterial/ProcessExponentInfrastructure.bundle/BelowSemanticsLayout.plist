@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentObserverInteraction</key>
+	<string>aspectLikeOperation</string>
+	<key>alignmentWithComposite</key>
+	<string>futureFromInterpreter</string>
+	<key>animatedcontainerAmongLayer</key>
+	<string>behaviorScopeBound</string>
+	<key>enabledProjectOpacity</key>
+	<string>slashDuringEnvironment</string>
+	<key>errorFormTag</key>
+	<string>flexibleTweenName</string>
+</dict>
+</plist>

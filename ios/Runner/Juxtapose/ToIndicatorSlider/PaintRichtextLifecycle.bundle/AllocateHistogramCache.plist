@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featureNumberCoord</key>
+	<string>statePerChain</string>
+	<key>materialPopupDistance</key>
+	<string>cellLayerInset</string>
+	<key>requestMementoLeft</key>
+	<string>titleOutsideFunction</string>
+	<key>signJobFeedback</key>
+	<string>concurrentConvolutionState</string>
+	<key>subpixelShapeIndex</key>
+	<string>declarativeAsyncSpacing</string>
+</dict>
+</plist>

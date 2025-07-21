@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineUntilContext</key>
+	<string>localizationActionPosition</string>
+	<key>fixedListenerSpacing</key>
+	<string>gridOutsideComposite</string>
+	<key>numericalCompositionInteraction</key>
+	<string>resilientMonsterState</string>
+	<key>offsetPatternInset</key>
+	<string>webRowAcceleration</string>
+	<key>optimizerModeCount</key>
+	<string>aspectInsideForm</string>
+	<key>projectWorkContrast</key>
+	<string>missionAlongJob</string>
+</dict>
+</plist>

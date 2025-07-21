@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackDespiteMediator</key>
+	<string>smallRowHead</string>
+	<key>constDurationStatus</key>
+	<string>buttonProcessHue</string>
+	<key>customizedSwitchScale</key>
+	<string>stackStageSaturation</string>
+	<key>workflowCompositeSaturation</key>
+	<string>firstViewLeft</string>
+</dict>
+</plist>

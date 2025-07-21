@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveLikeFramework</key>
+	<string>serviceBeyondSystem</string>
+	<key>positionTypeState</key>
+	<string>cupertinoDecoratorBottom</string>
+	<key>tappableProgressbarTail</key>
+	<string>discardedRowDensity</string>
+	<key>usedNavigatorBound</key>
+	<string>modelBridgeRotation</string>
+</dict>
+</plist>

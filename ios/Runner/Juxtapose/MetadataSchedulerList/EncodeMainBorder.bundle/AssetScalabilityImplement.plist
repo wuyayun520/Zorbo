@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultSymbolFeedback</key>
+	<string>nodeBesideTier</string>
+	<key>documentIncludeMethod</key>
+	<string>disparatePointFrequency</string>
+	<key>localChapterHead</key>
+	<string>singletonActionSpacing</string>
+	<key>scaffoldSystemInset</key>
+	<string>zonePhaseValidation</string>
+	<key>tangentInterpreterOpacity</key>
+	<string>transitionSinceState</string>
+</dict>
+</plist>

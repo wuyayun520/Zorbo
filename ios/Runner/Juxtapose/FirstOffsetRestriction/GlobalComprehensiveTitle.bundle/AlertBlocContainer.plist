@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorByScope</key>
+	<string>hashDuringProxy</string>
+	<key>backwardEffectDirection</key>
+	<string>chapterPatternScale</string>
+	<key>customUsageHead</key>
+	<string>curveOrFlyweight</string>
+	<key>movementStrategyTransparency</key>
+	<string>concurrentTickerOrientation</string>
+	<key>resourceDespiteWork</key>
+	<string>configurationIncludeActivity</string>
+	<key>robustTweenDuration</key>
+	<string>parallelViewInterval</string>
+	<key>rowViaState</key>
+	<string>widgetOutsideValue</string>
+	<key>topicStrategyOffset</key>
+	<string>capacitiesTierDuration</string>
+	<key>unsortedAppbarVisible</key>
+	<string>synchronousOptimizerColor</string>
+</dict>
+</plist>

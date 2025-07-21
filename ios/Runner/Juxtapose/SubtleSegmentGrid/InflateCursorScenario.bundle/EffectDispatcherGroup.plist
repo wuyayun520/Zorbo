@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteFragmentStyle</key>
+	<string>resourceOutsideLevel</string>
+	<key>displayableInteractorDelay</key>
+	<string>localizationUntilScope</string>
+	<key>drawerActivityTop</key>
+	<string>animationUntilParameter</string>
+	<key>drawerScopeSkewy</key>
+	<string>sophisticatedRouteDirection</string>
+	<key>dynamicMapOrigin</key>
+	<string>originalInterpolationSpeed</string>
+	<key>isolateFromEnvironment</key>
+	<string>adaptiveNavigatorFeedback</string>
+	<key>usedTransformerContrast</key>
+	<string>interactorFlyweightCount</string>
+	<key>widgetDecoratorDuration</key>
+	<string>protocolMementoOrigin</string>
+</dict>
+</plist>

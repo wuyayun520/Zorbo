@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cycleInMode</key>
+	<string>imageInValue</string>
+	<key>descriptorContextDistance</key>
+	<string>dynamicSingletonInteraction</string>
+	<key>queryTaskVelocity</key>
+	<string>compositionValueInset</string>
+	<key>relationalTextOrientation</key>
+	<string>aspectOrPrototype</string>
+	<key>streamStructureSaturation</key>
+	<string>sizeNearKind</string>
+</dict>
+</plist>

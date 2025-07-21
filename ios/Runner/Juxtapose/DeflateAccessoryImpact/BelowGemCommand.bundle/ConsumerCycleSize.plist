@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>effectDuringPrototype</key>
+	<string>textParamInteraction</string>
+	<key>injectionThroughLevel</key>
+	<string>queryDuringVar</string>
+	<key>labelEnvironmentCount</key>
+	<string>mediaDuringStructure</string>
+	<key>subpixelMementoLeft</key>
+	<string>queueAtType</string>
+	<key>switchForPattern</key>
+	<string>dimensionThanPattern</string>
+</dict>
+</plist>

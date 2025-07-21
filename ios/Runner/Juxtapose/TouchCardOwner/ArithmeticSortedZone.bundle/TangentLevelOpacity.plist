@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectAsPhase</key>
+	<string>touchVersusCycle</string>
+	<key>beginnerWorkflowVisibility</key>
+	<string>similarDropdownbuttonStyle</string>
+	<key>diversifiedConstraintMode</key>
+	<string>injectionOfSingleton</string>
+	<key>queryBeyondState</key>
+	<string>discardedModelState</string>
+	<key>subpixelOrInterpreter</key>
+	<string>inheritedWidgetIndex</string>
+	<key>symbolAboutSingleton</key>
+	<string>assetFrameworkTheme</string>
+	<key>taskViaVariable</key>
+	<string>asynchronousMenuIndex</string>
+</dict>
+</plist>

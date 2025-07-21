@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableExceptionTop</key>
+	<string>subscriptionAgainstContext</string>
+	<key>disabledSpecifierIndex</key>
+	<string>profileLayerFeedback</string>
+	<key>disabledTransformerStyle</key>
+	<string>respectiveFactoryPressure</string>
+	<key>granularAllocatorColor</key>
+	<string>finalNibDelay</string>
+	<key>resilientExpandedHue</key>
+	<string>standaloneEntropySkewx</string>
+	<key>semanticOverlayFeedback</key>
+	<string>similarStoryboardBehavior</string>
+	<key>tappableGridviewScale</key>
+	<string>texturePatternOrientation</string>
+</dict>
+</plist>

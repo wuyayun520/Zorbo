@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyProcessFormat</key>
+	<string>inkwellInFacade</string>
+	<key>interactiveProjectMode</key>
+	<string>completerAdapterPosition</string>
+	<key>localizationForKind</key>
+	<string>statelessDocumentVisibility</string>
+	<key>plateParamOffset</key>
+	<string>standaloneGridviewEdge</string>
+	<key>repositoryDecoratorVisibility</key>
+	<string>taskThroughAction</string>
+	<key>sinkInAction</key>
+	<string>tabbarAndValue</string>
+	<key>subscriptionNearKind</key>
+	<string>painterThanAdapter</string>
+	<key>transitionViaStyle</key>
+	<string>assetTierOrientation</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerPerTier</key>
+	<string>composableCubeTheme</string>
+	<key>factoryThanPattern</key>
+	<string>fusedConstraintPadding</string>
+	<key>nativeFeatureSpacing</key>
+	<string>euclideanMasterTail</string>
+	<key>rowCompositeVisibility</key>
+	<string>robustThreadHue</string>
+	<key>statelessAboutFunction</key>
+	<string>inkwellFormShade</string>
+	<key>subsequentGraphSkewy</key>
+	<string>semanticsDespiteOperation</string>
+</dict>
+</plist>

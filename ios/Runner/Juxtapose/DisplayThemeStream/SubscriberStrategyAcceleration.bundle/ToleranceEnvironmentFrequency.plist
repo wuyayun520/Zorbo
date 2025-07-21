@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarOperationVisibility</key>
+	<string>constraintDuringMediator</string>
+	<key>callbackTierVelocity</key>
+	<string>popupTaskCenter</string>
+	<key>grayscaleCommandScale</key>
+	<string>unaryViaPattern</string>
+	<key>substantialSkirtDepth</key>
+	<string>coordinatorAndTask</string>
+	<key>tappableTextPressure</key>
+	<string>descriptionBesideValue</string>
+</dict>
+</plist>

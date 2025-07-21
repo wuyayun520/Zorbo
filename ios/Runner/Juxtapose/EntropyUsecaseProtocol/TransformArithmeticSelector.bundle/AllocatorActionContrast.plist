@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constOperationIndex</key>
+	<string>missionActionName</string>
+	<key>dialogsBesideTemple</key>
+	<string>resourceCycleKind</string>
+	<key>entityOutsideType</key>
+	<string>textureMediatorFlags</string>
+	<key>hardBlocKind</key>
+	<string>unaryPlatformPadding</string>
+	<key>navigatorBesideScope</key>
+	<string>groupBeyondLevel</string>
+	<key>observerVersusNumber</key>
+	<string>cubitShapeDelay</string>
+	<key>reactiveObserverDuration</key>
+	<string>usecaseTaskScale</string>
+	<key>reducerPatternVisible</key>
+	<string>queueTierPosition</string>
+	<key>textureScopeCount</key>
+	<string>fragmentOutsideState</string>
+	<key>usecaseFrameworkFrequency</key>
+	<string>heroAsProxy</string>
+</dict>
+</plist>

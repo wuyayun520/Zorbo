@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>futurePerStructure</key>
+	<string>overlayActionColor</string>
+	<key>gridStateAlignment</key>
+	<string>errorOrOperation</string>
+	<key>groupInsideDecorator</key>
+	<string>streamMementoBrightness</string>
+	<key>menuAgainstAction</key>
+	<string>offsetModeTransparency</string>
+	<key>painterPlatformOpacity</key>
+	<string>compositionBesidePlatform</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveCaptionAppearance</key>
+	<string>permissiveAwaitTheme</string>
+	<key>comprehensiveProjectFeedback</key>
+	<string>playbackSinceInterpreter</string>
+	<key>deferredDelegateBrightness</key>
+	<string>customActionColor</string>
+	<key>enabledMomentumSpeed</key>
+	<string>crudeNodeTint</string>
+	<key>intuitiveNibOffset</key>
+	<string>resilientPresenterDensity</string>
+	<key>metadataModeSize</key>
+	<string>tickerMementoLeft</string>
+	<key>momentumLikeValue</key>
+	<string>draggableCurveBehavior</string>
+	<key>navigatorKindMode</key>
+	<string>spriteViaSystem</string>
+</dict>
+</plist>

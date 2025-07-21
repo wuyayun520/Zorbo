@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousMusicAppearance</key>
+	<string>animationThanStructure</string>
+	<key>builderContextVelocity</key>
+	<string>behaviorForTask</string>
+	<key>cubitValueTheme</key>
+	<string>optionActionBrightness</string>
+	<key>diffableErrorTint</key>
+	<string>inheritedCupertinoVelocity</string>
+	<key>effectByOperation</key>
+	<string>requiredTransformerState</string>
+	<key>labelStyleDensity</key>
+	<string>taskSingletonKind</string>
+	<key>riverpodFacadeVisibility</key>
+	<string>storyboardAdapterVelocity</string>
+	<key>seamlessStackEdge</key>
+	<string>borderVarBehavior</string>
+	<key>semanticSpineLeft</key>
+	<string>delegateAndPattern</string>
+</dict>
+</plist>

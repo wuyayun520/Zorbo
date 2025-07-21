@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardContextAlignment</key>
+	<string>fusedUsecaseVisible</string>
+	<key>coordinatorAdapterLocation</key>
+	<string>statefulFrameResponse</string>
+	<key>curveObserverTop</key>
+	<string>signFunctionBound</string>
+	<key>entityVisitorDelay</key>
+	<string>graphAgainstValue</string>
+	<key>missedRouterDuration</key>
+	<string>mainZoneTransparency</string>
+	<key>progressbarThanType</key>
+	<string>activeIntensityStatus</string>
+	<key>protectedCurveCoord</key>
+	<string>observerPrototypeTension</string>
+	<key>rowVersusDecorator</key>
+	<string>zoneProcessDuration</string>
+	<key>streamPhaseDirection</key>
+	<string>largeThemeFlags</string>
+</dict>
+</plist>

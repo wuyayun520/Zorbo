@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventPerBuffer</key>
+	<string>cubitParamBehavior</string>
+	<key>singleTransformerOrientation</key>
+	<string>cycleNumberBrightness</string>
+	<key>smallPrecisionDensity</key>
+	<string>repositoryThanLayer</string>
+	<key>spotSinceBridge</key>
+	<string>allocatorInsideLayer</string>
+	<key>tickerStageTail</key>
+	<string>providerValueAcceleration</string>
+	<key>topicSinceCycle</key>
+	<string>flexibleChannelDelay</string>
+</dict>
+</plist>

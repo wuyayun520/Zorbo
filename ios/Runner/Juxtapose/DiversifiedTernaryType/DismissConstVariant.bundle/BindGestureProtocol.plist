@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeTableFeedback</key>
+	<string>semanticBuilderPosition</string>
+	<key>compositionWithPattern</key>
+	<string>gridviewObserverStatus</string>
+	<key>hardResourceStyle</key>
+	<string>decorationStructureLocation</string>
+	<key>toolCommandOrigin</key>
+	<string>axisFunctionType</string>
+</dict>
+</plist>

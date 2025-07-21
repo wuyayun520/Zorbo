@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorOrStyle</key>
+	<string>futureBridgeInterval</string>
+	<key>cupertinoScaffoldKind</key>
+	<string>cupertinoButtonStyle</string>
+	<key>deferredSubscriptionForce</key>
+	<string>layoutViaWork</string>
+	<key>fragmentBufferDirection</key>
+	<string>dedicatedSwitchName</string>
+	<key>graphAlongPattern</key>
+	<string>storageAlongActivity</string>
+	<key>modelFromAction</key>
+	<string>particleCommandAcceleration</string>
+</dict>
+</plist>

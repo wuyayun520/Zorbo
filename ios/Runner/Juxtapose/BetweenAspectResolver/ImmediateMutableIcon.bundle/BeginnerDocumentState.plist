@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorByMode</key>
+	<string>isolateCompositeFlags</string>
+	<key>capsuleFormPadding</key>
+	<string>observerBridgeInset</string>
+	<key>resolverPlatformShade</key>
+	<string>semanticDecorationTension</string>
+	<key>resourceCycleOrigin</key>
+	<string>documentFormContrast</string>
+	<key>resourceWithCommand</key>
+	<string>nextProviderMargin</string>
+	<key>smartTabbarPosition</key>
+	<string>independentPetFlags</string>
+	<key>sortedChapterVisibility</key>
+	<string>segueParamFlags</string>
+</dict>
+</plist>

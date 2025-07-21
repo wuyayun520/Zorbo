@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertSingletonDensity</key>
+	<string>delegateWithFacade</string>
+	<key>blocAroundStrategy</key>
+	<string>signAsAdapter</string>
+	<key>dimensionCompositeOffset</key>
+	<string>cupertinoViaMode</string>
+	<key>factoryBesideVariable</key>
+	<string>firstSkinBound</string>
+	<key>intensityBesideSystem</key>
+	<string>radiusBeyondChain</string>
+	<key>interactiveIndicatorVisibility</key>
+	<string>gateThroughPattern</string>
+	<key>taskOperationHue</key>
+	<string>modulusAsCommand</string>
+	<key>textureForState</key>
+	<string>scaffoldProcessSaturation</string>
+</dict>
+</plist>

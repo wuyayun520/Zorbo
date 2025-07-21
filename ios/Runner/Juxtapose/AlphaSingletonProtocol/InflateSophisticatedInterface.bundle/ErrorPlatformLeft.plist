@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelModeOrientation</key>
+	<string>interactorAdapterOrigin</string>
+	<key>coordinatorProcessFormat</key>
+	<string>fusedAnimatedcontainerValidation</string>
+	<key>managerCompositeIndex</key>
+	<string>flexAdapterOpacity</string>
+	<key>observerInsideState</key>
+	<string>configurationFromState</string>
+	<key>tensorObserverScale</key>
+	<string>progressbarSystemLocation</string>
+	<key>textureMethodName</key>
+	<string>reactiveMaterialSkewy</string>
+	<key>vectorPatternOpacity</key>
+	<string>imperativeGiftStatus</string>
+</dict>
+</plist>

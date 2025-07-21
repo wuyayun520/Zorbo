@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncMemberState</key>
+	<string>swiftModeMode</string>
+	<key>buttonInsidePattern</key>
+	<string>iterativePopupBottom</string>
+	<key>disabledDecorationOrientation</key>
+	<string>ignoredListviewBrightness</string>
+	<key>gestureAgainstShape</key>
+	<string>declarativeGesturedetectorFlags</string>
+	<key>heroAndBridge</key>
+	<string>baselineChainFeedback</string>
+	<key>localizationSingletonVisibility</key>
+	<string>segmentVersusTier</string>
+	<key>loopStrategyTag</key>
+	<string>delegateProxyShape</string>
+	<key>radiusWithCycle</key>
+	<string>widgetFacadeVelocity</string>
+	<key>sophisticatedIsolateDensity</key>
+	<string>agileStorageSpacing</string>
+	<key>uniformRectDensity</key>
+	<string>normWithoutAction</string>
+</dict>
+</plist>

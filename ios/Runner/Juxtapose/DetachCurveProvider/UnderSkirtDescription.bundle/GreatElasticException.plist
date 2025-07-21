@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentEffectType</key>
+	<string>segueWithFlyweight</string>
+	<key>gridLikeStructure</key>
+	<string>transitionSinceVisitor</string>
+	<key>liteInteractorSkewy</key>
+	<string>loopByInterpreter</string>
+	<key>logarithmVarFormat</key>
+	<string>marginFrameworkPadding</string>
+	<key>petScopeBottom</key>
+	<string>switchTempleDelay</string>
+	<key>switchPrototypeOffset</key>
+	<string>hashMethodCenter</string>
+	<key>textInterpreterDuration</key>
+	<string>intermediateRadiusInterval</string>
+</dict>
+</plist>

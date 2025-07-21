@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iterativeButtonBehavior</key>
+	<string>baselineModeBottom</string>
+	<key>resilientMethodEdge</key>
+	<string>documentActivityState</string>
+	<key>resourceByTemple</key>
+	<string>temporaryCallbackOrigin</string>
+	<key>screenBeyondCommand</key>
+	<string>canvasContextOffset</string>
+	<key>sliderActivityFormat</key>
+	<string>intuitiveGridDistance</string>
+</dict>
+</plist>

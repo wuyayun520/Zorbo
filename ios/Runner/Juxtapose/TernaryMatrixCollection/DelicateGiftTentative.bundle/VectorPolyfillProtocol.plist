@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityTaskCenter</key>
+	<string>topicContainJob</string>
+	<key>assetExceptContext</key>
+	<string>giftBridgeVisibility</string>
+	<key>challengeFlyweightDelay</key>
+	<string>constraintParameterFormat</string>
+	<key>characterContextIndex</key>
+	<string>listviewLevelStyle</string>
+	<key>coordinatorIncludeMode</key>
+	<string>parallelSubscriptionMode</string>
+	<key>displayableGroupTheme</key>
+	<string>signVariableAcceleration</string>
+	<key>eventContainMemento</key>
+	<string>directlyZoneRotation</string>
+</dict>
+</plist>

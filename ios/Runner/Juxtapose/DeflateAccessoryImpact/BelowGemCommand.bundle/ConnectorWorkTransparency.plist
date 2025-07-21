@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedCatalystPadding</key>
+	<string>cursorShapeVelocity</string>
+	<key>customizedLayoutCenter</key>
+	<string>allocatorVisitorOffset</string>
+	<key>denseRequestColor</key>
+	<string>delegateContextHue</string>
+	<key>errorWithProxy</key>
+	<string>coordinatorLikeStyle</string>
+	<key>positionParamStatus</key>
+	<string>radiusAroundProxy</string>
+	<key>requestViaLayer</key>
+	<string>hierarchicalHeapRotation</string>
+	<key>tabviewAgainstStage</key>
+	<string>standaloneResourcePosition</string>
+	<key>vectorFrameworkHue</key>
+	<string>rectOfJob</string>
+</dict>
+</plist>

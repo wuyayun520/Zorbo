@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitHeapMode</key>
+	<string>frameVersusPattern</string>
+	<key>heapNumberAcceleration</key>
+	<string>commandSinceBuffer</string>
+	<key>injectionInBuffer</key>
+	<string>heapSincePattern</string>
+	<key>methodContextTransparency</key>
+	<string>spriteFormBottom</string>
+	<key>nextFutureBrightness</key>
+	<string>kernelAsAdapter</string>
+	<key>textureAlongStyle</key>
+	<string>segueExceptTask</string>
+	<key>variantWithFlyweight</key>
+	<string>variantBeyondActivity</string>
+</dict>
+</plist>

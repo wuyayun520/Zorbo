@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicWorkflowSpacing</key>
+	<string>controllerAwayAdapter</string>
+	<key>entityForAction</key>
+	<string>sequentialZoneShape</string>
+	<key>gridFromForm</key>
+	<string>globalBlocRight</string>
+	<key>metadataAsFramework</key>
+	<string>grayscaleContextBottom</string>
+</dict>
+</plist>

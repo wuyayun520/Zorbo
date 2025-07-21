@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncScopeDistance</key>
+	<string>constVariantTransparency</string>
+	<key>asynchronousStateCoord</key>
+	<string>isolateAgainstOperation</string>
+	<key>instructionDecoratorTint</key>
+	<string>tabviewCommandEdge</string>
+	<key>iterativeCompletionLocation</key>
+	<string>alignmentParamMode</string>
+	<key>remainderAsDecorator</key>
+	<string>capacitiesBufferAcceleration</string>
+	<key>requestContextTint</key>
+	<string>permissiveSpriteShape</string>
+	<key>sequentialBlocCenter</key>
+	<string>geometricViewInset</string>
+	<key>tensorNavigationFeedback</key>
+	<string>stepJobTransparency</string>
+</dict>
+</plist>

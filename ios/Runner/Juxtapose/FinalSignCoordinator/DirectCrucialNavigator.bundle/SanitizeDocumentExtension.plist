@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelPatternShape</key>
+	<string>interactorFromParam</string>
+	<key>enabledMusicSkewx</key>
+	<string>sizeOutsideChain</string>
+	<key>handlerAtScope</key>
+	<string>animationTierDensity</string>
+	<key>newestAllocatorSkewx</key>
+	<string>directlyCharacterCoord</string>
+	<key>oldSlashForce</key>
+	<string>commonProtocolBound</string>
+	<key>publicAllocatorLocation</key>
+	<string>dedicatedDrawerShape</string>
+	<key>sensorBeyondFacade</key>
+	<string>subsequentInjectionInterval</string>
+	<key>sizePerDecorator</key>
+	<string>gemForObserver</string>
+	<key>switchMethodCoord</key>
+	<string>cupertinoInjectionPressure</string>
+</dict>
+</plist>

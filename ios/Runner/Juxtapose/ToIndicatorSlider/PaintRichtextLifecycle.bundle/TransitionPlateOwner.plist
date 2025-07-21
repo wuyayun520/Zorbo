@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationCompositeCount</key>
+	<string>navigatorViaMediator</string>
+	<key>invisibleDependencyAlignment</key>
+	<string>associatedAnimationFrequency</string>
+	<key>navigationOrShape</key>
+	<string>serviceShapeOrientation</string>
+	<key>referenceAtForm</key>
+	<string>staticInteractorDensity</string>
+	<key>segmentMediatorFrequency</key>
+	<string>popupAdapterMode</string>
+</dict>
+</plist>

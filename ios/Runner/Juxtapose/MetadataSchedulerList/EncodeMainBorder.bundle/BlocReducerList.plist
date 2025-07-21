@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterShapeOpacity</key>
+	<string>radiusLayerShape</string>
+	<key>memberLayerVisibility</key>
+	<string>tableContainChain</string>
+	<key>mutableButtonResponse</key>
+	<string>notificationBeyondActivity</string>
+	<key>painterModeFrequency</key>
+	<string>tickerFormBound</string>
+	<key>reducerActivityPressure</key>
+	<string>eagerConfigurationMode</string>
+	<key>widgetFormInset</key>
+	<string>configurationActionCount</string>
+</dict>
+</plist>

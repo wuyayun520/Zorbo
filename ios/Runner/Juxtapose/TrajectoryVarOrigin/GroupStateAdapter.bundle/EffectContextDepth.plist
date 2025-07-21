@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialListviewBorder</key>
+	<string>liteScrollMargin</string>
+	<key>descriptorFormDensity</key>
+	<string>navigationAlongNumber</string>
+	<key>elasticProgressbarDelay</key>
+	<string>convolutionAndValue</string>
+	<key>immediateOffsetOrigin</key>
+	<string>reusableParticleSkewx</string>
+	<key>navigatorFromStrategy</key>
+	<string>particleStateAlignment</string>
+	<key>originalAlignmentHue</key>
+	<string>themeBufferMode</string>
+	<key>usecaseSingletonSaturation</key>
+	<string>symmetricProjectCount</string>
+</dict>
+</plist>

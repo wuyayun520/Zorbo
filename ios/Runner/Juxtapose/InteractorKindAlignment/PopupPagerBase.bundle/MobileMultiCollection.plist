@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customThreadSaturation</key>
+	<string>publicListenerDuration</string>
+	<key>layoutStageValidation</key>
+	<string>graphUntilSystem</string>
+	<key>tableForForm</key>
+	<string>radiusAlongSingleton</string>
+	<key>tweenContainJob</key>
+	<string>listenerPerLayer</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveTextureSpacing</key>
+	<string>dropdownbuttonProcessTransparency</string>
+	<key>keyBatchMomentum</key>
+	<string>buttonUntilState</string>
+	<key>navigatorObserverStatus</key>
+	<string>decorationShapeTension</string>
+	<key>rapidGetxRotation</key>
+	<string>subpixelPhaseFeedback</string>
+	<key>semanticOptimizerVisible</key>
+	<string>specifyMethodLocation</string>
+	<key>smartGestureOffset</key>
+	<string>parallelMemberSpacing</string>
+	<key>storyboardOrDecorator</key>
+	<string>awaitContainSystem</string>
+	<key>textureStructureFlags</key>
+	<string>rapidAnchorState</string>
+	<key>unactivatedTransitionMode</key>
+	<string>normalTweenIndex</string>
+</dict>
+</plist>

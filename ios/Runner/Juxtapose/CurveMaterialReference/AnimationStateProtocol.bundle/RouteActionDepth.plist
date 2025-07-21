@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultCubitSpacing</key>
+	<string>smallSignPosition</string>
+	<key>graphPrototypeName</key>
+	<string>graphicViaPlatform</string>
+	<key>listenerFormTransparency</key>
+	<string>coordinatorFrameworkRotation</string>
+	<key>queryThanFacade</key>
+	<string>enabledClipperVisible</string>
+</dict>
+</plist>

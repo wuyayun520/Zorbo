@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveDrawerScale</key>
+	<string>offsetStageResponse</string>
+	<key>denseSensorShade</key>
+	<string>transitionAtFramework</string>
+	<key>graphStrategyHue</key>
+	<string>asyncModeAppearance</string>
+	<key>handlerFrameworkBehavior</key>
+	<string>instructionAsActivity</string>
+	<key>immutableBinaryLeft</key>
+	<string>equipmentPatternBorder</string>
+	<key>invisibleParticleForce</key>
+	<string>durationWorkDepth</string>
+	<key>notificationInterpreterOffset</key>
+	<string>gridCompositeState</string>
+	<key>permanentTimerScale</key>
+	<string>optimizerBeyondPhase</string>
+	<key>threadTierMomentum</key>
+	<string>cellKindLocation</string>
+</dict>
+</plist>

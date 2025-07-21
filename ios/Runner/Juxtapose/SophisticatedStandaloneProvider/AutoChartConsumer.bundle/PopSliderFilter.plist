@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderWithoutMediator</key>
+	<string>sessionInType</string>
+	<key>cellFrameworkValidation</key>
+	<string>managerContainDecorator</string>
+	<key>drawerViaPrototype</key>
+	<string>exceptionPrototypeTint</string>
+	<key>gridviewPerState</key>
+	<string>symbolBeyondMethod</string>
+	<key>mobileLayerShade</key>
+	<string>enabledFragmentDuration</string>
+	<key>resultTypeInset</key>
+	<string>asyncSinceChain</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionObserverOrigin</key>
+	<string>autoSineDepth</string>
+	<key>cardAroundChain</key>
+	<string>subsequentBinaryDepth</string>
+	<key>dependencyStatePadding</key>
+	<string>stackFromTask</string>
+	<key>missedCompletionState</key>
+	<string>slashStateDelay</string>
+	<key>sharedLabelBottom</key>
+	<string>entropyVersusCycle</string>
+	<key>visibleCommandVelocity</key>
+	<string>viewAndObserver</string>
+</dict>
+</plist>

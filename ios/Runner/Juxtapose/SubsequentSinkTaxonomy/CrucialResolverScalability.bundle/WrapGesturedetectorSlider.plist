@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationAroundCommand</key>
+	<string>priorErrorVisibility</string>
+	<key>enabledSubscriptionLocation</key>
+	<string>eventPlatformOrientation</string>
+	<key>previewPhasePosition</key>
+	<string>lossSingletonHue</string>
+	<key>responseAsBridge</key>
+	<string>advancedTextSaturation</string>
+	<key>taskAboutKind</key>
+	<string>usedEventAppearance</string>
+	<key>textBesideMethod</key>
+	<string>relationalGrainValidation</string>
+	<key>topicWorkOpacity</key>
+	<string>gridWithLevel</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousThemeInterval</key>
+	<string>missionPlatformAlignment</string>
+	<key>eventIncludeState</key>
+	<string>presenterAtStage</string>
+	<key>reactiveAsyncTail</key>
+	<string>reactiveReferenceAcceleration</string>
+	<key>roleMediatorRight</key>
+	<string>requestLikeStage</string>
+	<key>synchronousAssetColor</key>
+	<string>decorationBufferTint</string>
+</dict>
+</plist>

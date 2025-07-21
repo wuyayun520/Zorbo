@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customEventInterval</key>
+	<string>layoutSingletonFrequency</string>
+	<key>factoryActionDistance</key>
+	<string>collectionProxyBorder</string>
+	<key>lazyProgressbarColor</key>
+	<string>taskBridgeShade</string>
+	<key>paddingThanPattern</key>
+	<string>stateIncludeState</string>
+	<key>responsiveCaptionInteraction</key>
+	<string>graphicUntilLevel</string>
+	<key>segueVarVisibility</key>
+	<string>completionFrameworkLocation</string>
+	<key>sequentialChallengeFlags</key>
+	<string>customizedServiceSaturation</string>
+	<key>sequentialStoreStyle</key>
+	<string>consultativeAsyncFormat</string>
+	<key>statefulPromiseDensity</key>
+	<string>sliderPrototypeRotation</string>
+</dict>
+</plist>

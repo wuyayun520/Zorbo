@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertPlatformCenter</key>
+	<string>gramPatternDelay</string>
+	<key>catalystPerParam</key>
+	<string>entityInBuffer</string>
+	<key>checkboxVersusLayer</key>
+	<string>opaqueEffectDelay</string>
+	<key>configurationTierPressure</key>
+	<string>catalystTierSize</string>
+	<key>cubitInSingleton</key>
+	<string>advancedFeatureSpacing</string>
+	<key>cupertinoSceneVelocity</key>
+	<string>mainSubscriptionShape</string>
+	<key>euclideanResultType</key>
+	<string>contractionBeyondJob</string>
+	<key>integerVersusValue</key>
+	<string>riverpodExceptMethod</string>
+	<key>statefulFormOrigin</key>
+	<string>sequentialConvolutionScale</string>
+</dict>
+</plist>

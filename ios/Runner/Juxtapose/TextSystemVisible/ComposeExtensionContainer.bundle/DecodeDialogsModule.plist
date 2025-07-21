@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerWithoutLevel</key>
+	<string>elasticFrameVelocity</string>
+	<key>durationOutsideDecorator</key>
+	<string>errorBesidePlatform</string>
+	<key>immediateFrameValidation</key>
+	<string>popupMediatorSkewy</string>
+	<key>nodeForFlyweight</key>
+	<string>aspectratioBufferLeft</string>
+	<key>sinkExceptObserver</key>
+	<string>scaffoldFacadeCoord</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateMaterialCoord</key>
+	<string>presenterFromWork</string>
+	<key>oldPriorityVisibility</key>
+	<string>immediateRoleVisible</string>
+	<key>pinchablePlateShade</key>
+	<string>permanentTextOrigin</string>
+	<key>singletonLevelInset</key>
+	<string>columnWorkVisible</string>
+	<key>specifySizeDelay</key>
+	<string>bulletUntilFacade</string>
+	<key>synchronousStorageInteraction</key>
+	<string>explicitProviderStyle</string>
+</dict>
+</plist>

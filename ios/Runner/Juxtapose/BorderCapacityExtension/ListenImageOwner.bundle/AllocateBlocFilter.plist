@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseScopeFlags</key>
+	<string>similarActionSkewy</string>
+	<key>challengeVarTransparency</key>
+	<string>transitionChainCoord</string>
+	<key>isolateEnvironmentBehavior</key>
+	<string>previewPerAction</string>
+	<key>singleBufferTint</key>
+	<string>dependencyAwayShape</string>
+	<key>unaryLevelInterval</key>
+	<string>gridSystemSpeed</string>
+</dict>
+</plist>

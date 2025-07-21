@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsInFramework</key>
+	<string>constraintParamAppearance</string>
+	<key>constPresenterInset</key>
+	<string>multiplicationLevelBrightness</string>
+	<key>coordinatorTempleValidation</key>
+	<string>cupertinoOrMemento</string>
+	<key>eagerBuilderAcceleration</key>
+	<string>positionSinceComposite</string>
+	<key>grainBufferInset</key>
+	<string>vectorMementoFormat</string>
+	<key>radioIncludeFacade</key>
+	<string>presenterPatternVelocity</string>
+	<key>segmentAndProcess</key>
+	<string>tweenAndDecorator</string>
+</dict>
+</plist>

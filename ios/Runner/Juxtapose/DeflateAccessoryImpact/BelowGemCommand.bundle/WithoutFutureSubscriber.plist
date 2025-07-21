@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectProcessLeft</key>
+	<string>backwardCycleBrightness</string>
+	<key>asyncStrategyStatus</key>
+	<string>sinkProcessSkewy</string>
+	<key>easyControllerPressure</key>
+	<string>menuLikeFlyweight</string>
+	<key>sampleWithoutPattern</key>
+	<string>shaderInterpreterSize</string>
+	<key>significantStreamAlignment</key>
+	<string>reducerChainSpeed</string>
+	<key>synchronousStorageKind</key>
+	<string>gridStateShade</string>
+	<key>touchObserverBound</key>
+	<string>persistentInjectionFlags</string>
+</dict>
+</plist>

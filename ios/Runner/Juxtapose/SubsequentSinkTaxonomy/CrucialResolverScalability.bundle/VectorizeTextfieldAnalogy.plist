@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveTextFlags</key>
+	<string>pointBufferSkewy</string>
+	<key>channelsStrategyAcceleration</key>
+	<string>concurrentStoreLeft</string>
+	<key>fragmentSinceBuffer</key>
+	<string>gramOrVariable</string>
+	<key>grainFlyweightStyle</key>
+	<string>visibleKernelDepth</string>
+	<key>singleNibEdge</key>
+	<string>concreteCatalystBrightness</string>
+	<key>storyboardThroughAction</key>
+	<string>reactiveImageState</string>
+</dict>
+</plist>

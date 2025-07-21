@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeRowForce</key>
+	<string>sliderSystemFormat</string>
+	<key>cardForChain</key>
+	<string>litePreviewLocation</string>
+	<key>cubitCompositePosition</key>
+	<string>vectorFromScope</string>
+	<key>custompaintLayerBottom</key>
+	<string>radiusInStage</string>
+	<key>mediocreEntityColor</key>
+	<string>eagerBoxOffset</string>
+	<key>profileObserverHue</key>
+	<string>inactiveCallbackDirection</string>
+	<key>progressbarSinceMethod</key>
+	<string>switchFunctionPadding</string>
+	<key>smartGrainVisible</key>
+	<string>frameAlongPlatform</string>
+</dict>
+</plist>

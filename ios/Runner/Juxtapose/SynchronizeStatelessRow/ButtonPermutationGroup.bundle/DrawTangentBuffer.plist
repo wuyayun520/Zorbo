@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardOrStructure</key>
+	<string>constraintStructureTag</string>
+	<key>elasticProgressbarAppearance</key>
+	<string>documentUntilOperation</string>
+	<key>metadataByProcess</key>
+	<string>remainderWithStage</string>
+	<key>presenterActivityCenter</key>
+	<string>rectVariableFeedback</string>
+	<key>sliderActionTransparency</key>
+	<string>sliderStateDuration</string>
+</dict>
+</plist>

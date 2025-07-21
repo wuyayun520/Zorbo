@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationDecoratorInset</key>
+	<string>responsiveScaffoldBorder</string>
+	<key>collectionNearFacade</key>
+	<string>usageNearType</string>
+	<key>commandThanBridge</key>
+	<string>functionalProviderHead</string>
+	<key>displayableEffectSkewy</key>
+	<string>stackAndAdapter</string>
+	<key>dynamicFragmentBottom</key>
+	<string>normWithoutMode</string>
+	<key>flexibleScrollBorder</key>
+	<string>customizedTextfieldStyle</string>
+	<key>mapPhaseInset</key>
+	<string>petEnvironmentLocation</string>
+	<key>mediumDialogsTint</key>
+	<string>easyRouteContrast</string>
+	<key>sceneStyleKind</key>
+	<string>prismaticDelegateBrightness</string>
+</dict>
+</plist>

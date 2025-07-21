@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileConstraintLocation</key>
+	<string>sampleActivityOrigin</string>
+	<key>checkboxNearStructure</key>
+	<string>topicAdapterShade</string>
+	<key>finalViewVisibility</key>
+	<string>parallelSessionPadding</string>
+	<key>gesturedetectorThroughVar</key>
+	<string>transitionEnvironmentBorder</string>
+	<key>listviewAtOperation</key>
+	<string>adaptiveCheckboxBehavior</string>
+	<key>routerStrategyAppearance</key>
+	<string>dynamicChapterFormat</string>
+	<key>semanticAllocatorInset</key>
+	<string>subsequentHistogramAppearance</string>
+	<key>spriteVariableAppearance</key>
+	<string>constraintContextAppearance</string>
+	<key>temporaryTweenDistance</key>
+	<string>activeEquipmentIndex</string>
+</dict>
+</plist>

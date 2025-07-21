@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonStyleBound</key>
+	<string>tabviewValueMode</string>
+	<key>lossNearMemento</key>
+	<string>mutableProgressbarVelocity</string>
+	<key>priorProviderState</key>
+	<string>rectUntilAction</string>
+	<key>routeFrameworkForce</key>
+	<string>primaryNavigatorDepth</string>
+	<key>scrollInsideScope</key>
+	<string>factoryDespiteMemento</string>
+</dict>
+</plist>

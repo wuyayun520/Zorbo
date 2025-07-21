@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetAgainstAdapter</key>
+	<string>reusableTickerFormat</string>
+	<key>associatedAxisBorder</key>
+	<string>popupStyleRight</string>
+	<key>constraintOperationSkewx</key>
+	<string>bufferByStrategy</string>
+	<key>fusedRouterKind</key>
+	<string>respectiveNibBound</string>
+	<key>notifierNearMemento</key>
+	<string>alignmentTypeBottom</string>
+	<key>slashInInterpreter</key>
+	<string>crudePresenterTint</string>
+	<key>taskThroughAction</key>
+	<string>operationLikeTask</string>
+	<key>webRowName</key>
+	<string>primaryProviderPadding</string>
+</dict>
+</plist>

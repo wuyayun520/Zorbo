@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorOrLevel</key>
+	<string>ephemeralAnimationAcceleration</string>
+	<key>elasticAnimationAppearance</key>
+	<string>switchAboutMode</string>
+	<key>handlerDuringInterpreter</key>
+	<string>similarAccessorySpacing</string>
+	<key>handlerForBuffer</key>
+	<string>streamAwayVariable</string>
+	<key>intensityAwayComposite</key>
+	<string>basicResponseRotation</string>
+	<key>scrollableMediaqueryLocation</key>
+	<string>resizableListenerInterval</string>
+</dict>
+</plist>

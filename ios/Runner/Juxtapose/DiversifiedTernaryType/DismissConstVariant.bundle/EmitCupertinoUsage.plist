@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonInterfaceMode</key>
+	<string>diffableDialogsSize</string>
+	<key>descriptionAlongActivity</key>
+	<string>anchorInType</string>
+	<key>pointTierRotation</key>
+	<string>loopTierDistance</string>
+	<key>sensorTaskHead</key>
+	<string>graphStageFormat</string>
+	<key>timerFromMode</key>
+	<string>robustCompletionOpacity</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistVersusStrategy</key>
+	<string>reductionBesideFlyweight</string>
+	<key>histogramFunctionAlignment</key>
+	<string>lastEffectEdge</string>
+	<key>interpolationAroundVisitor</key>
+	<string>permanentFrameAppearance</string>
+	<key>monsterJobDensity</key>
+	<string>sharedNavigatorState</string>
+	<key>semanticChapterIndex</key>
+	<string>pinchableButtonTheme</string>
+	<key>textPatternBrightness</key>
+	<string>petVisitorFlags</string>
+</dict>
+</plist>

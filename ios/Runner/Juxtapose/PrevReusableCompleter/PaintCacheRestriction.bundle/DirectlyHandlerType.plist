@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoInsideObserver</key>
+	<string>segmentAtFramework</string>
+	<key>difficultAllocatorInset</key>
+	<string>routeContextSpacing</string>
+	<key>indicatorIncludeSingleton</key>
+	<string>inheritedThreadVisibility</string>
+	<key>roleActionFlags</key>
+	<string>adaptiveModulusName</string>
+</dict>
+</plist>

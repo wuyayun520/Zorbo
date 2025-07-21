@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintContainContext</key>
+	<string>notifierKindBehavior</string>
+	<key>flexiblePositionedRight</key>
+	<string>requestAdapterMargin</string>
+	<key>parallelGridInteraction</key>
+	<string>geometricGridBound</string>
+	<key>pointBeyondPlatform</key>
+	<string>textPerNumber</string>
+	<key>positionDuringPlatform</key>
+	<string>vectorActivitySpeed</string>
+	<key>retainedMobxTransparency</key>
+	<string>widgetOfWork</string>
+	<key>smallHashFeedback</key>
+	<string>retainedMapPressure</string>
+	<key>streamOutsideParameter</key>
+	<string>composableCanvasInterval</string>
+</dict>
+</plist>

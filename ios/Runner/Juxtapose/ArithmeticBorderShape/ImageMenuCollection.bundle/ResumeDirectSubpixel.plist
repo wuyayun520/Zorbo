@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousHeapName</key>
+	<string>previewOutsideStrategy</string>
+	<key>composableEntityShape</key>
+	<string>captionAroundCycle</string>
+	<key>cubitFormEdge</key>
+	<string>unaryLevelHue</string>
+	<key>granularNotifierInteraction</key>
+	<string>callbackTierDuration</string>
+	<key>lazyReferenceFormat</key>
+	<string>transitionShapeRate</string>
+</dict>
+</plist>

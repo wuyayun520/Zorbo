@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationModeTag</key>
+	<string>buttonTaskFrequency</string>
+	<key>awaitIncludeScope</key>
+	<string>movementOfBridge</string>
+	<key>catalystActivityPressure</key>
+	<string>completerInterpreterColor</string>
+	<key>gestureBeyondMethod</key>
+	<string>localizationFromFunction</string>
+	<key>respectiveInjectionDelay</key>
+	<string>easyTextureForce</string>
+	<key>routeActivityPadding</key>
+	<string>containerScopeName</string>
+	<key>textFromProcess</key>
+	<string>eventOrParam</string>
+	<key>webInterfaceType</key>
+	<string>standaloneAppbarAppearance</string>
+</dict>
+</plist>

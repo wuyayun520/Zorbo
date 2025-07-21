@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsIncludePattern</key>
+	<string>robustTableFlags</string>
+	<key>custompaintDespiteComposite</key>
+	<string>graphicAlongLayer</string>
+	<key>globalDelegateRate</key>
+	<string>requestInsideBuffer</string>
+	<key>iconFromJob</key>
+	<string>matrixFormDistance</string>
+	<key>layoutTempleSkewy</key>
+	<string>transitionThroughEnvironment</string>
+	<key>otherDurationContrast</key>
+	<string>themeWithoutValue</string>
+	<key>overlaySinceKind</key>
+	<string>integerOrProxy</string>
+	<key>sineTempleShape</key>
+	<string>storyboardStateTail</string>
+</dict>
+</plist>

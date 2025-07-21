@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>nextDimensionEdge</key>
+	<string>grainAboutVar</string>
+	<key>storeInsideProcess</key>
+	<string>curveNearStage</string>
+	<key>tabbarPerParam</key>
+	<string>channelFromVariable</string>
+	<key>textOutsideInterpreter</key>
+	<string>projectStructureBound</string>
+	<key>unsortedCycleHead</key>
+	<string>shaderFromFunction</string>
+</dict>
+</plist>

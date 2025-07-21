@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanControllerLocation</key>
+	<string>queryBesideMethod</string>
+	<key>iconOutsideBuffer</key>
+	<string>protocolByStrategy</string>
+	<key>mediaExceptOperation</key>
+	<string>compositionalSampleSpacing</string>
+	<key>multiInstructionOpacity</key>
+	<string>appbarOutsideComposite</string>
+	<key>prevFutureBehavior</key>
+	<string>providerOutsideCommand</string>
+	<key>tappableTickerAcceleration</key>
+	<string>constraintScopeCenter</string>
+	<key>titleIncludeAction</key>
+	<string>tweenFromShape</string>
+</dict>
+</plist>

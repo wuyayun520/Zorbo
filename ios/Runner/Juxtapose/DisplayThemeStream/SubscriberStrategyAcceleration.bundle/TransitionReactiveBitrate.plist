@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianRowFormat</key>
+	<string>cubitAsVisitor</string>
+	<key>drawerCycleValidation</key>
+	<string>interpolationWithComposite</string>
+	<key>errorEnvironmentDensity</key>
+	<string>toolDecoratorStyle</string>
+	<key>futureThanOperation</key>
+	<string>timerContextStatus</string>
+	<key>slashCommandRotation</key>
+	<string>scrollableBufferOpacity</string>
+	<key>taskUntilTemple</key>
+	<string>activeZoneResponse</string>
+</dict>
+</plist>

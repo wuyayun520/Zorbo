@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>documentAndMemento</key>
+	<string>behaviorSingletonAppearance</string>
+	<key>functionalSliderStyle</key>
+	<string>layerStrategyAcceleration</string>
+	<key>persistentCoordinatorHead</key>
+	<string>rapidPopupDepth</string>
+	<key>queueOutsideMemento</key>
+	<string>relationalUsecaseDelay</string>
+	<key>queueSinceMemento</key>
+	<string>mutableRouteFrequency</string>
+	<key>transformerWithoutFramework</key>
+	<string>giftSinceStrategy</string>
+	<key>transitionFormBorder</key>
+	<string>configurationTierType</string>
+</dict>
+</plist>

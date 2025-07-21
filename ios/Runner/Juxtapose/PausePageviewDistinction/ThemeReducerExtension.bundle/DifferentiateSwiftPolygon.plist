@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerEnvironmentRate</key>
+	<string>swiftVersusMediator</string>
+	<key>playbackAgainstSingleton</key>
+	<string>resizableHeapSkewy</string>
+	<key>singletonMethodName</key>
+	<string>channelMediatorType</string>
+	<key>streamAsBuffer</key>
+	<string>associatedSlashFeedback</string>
+	<key>usedManagerTop</key>
+	<string>requiredEventOffset</string>
+</dict>
+</plist>

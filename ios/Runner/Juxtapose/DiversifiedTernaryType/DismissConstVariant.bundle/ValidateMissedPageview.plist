@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gramFlyweightInterval</key>
+	<string>standaloneAnimationCenter</string>
+	<key>offsetBesideCommand</key>
+	<string>mediumRouteVelocity</string>
+	<key>offsetBySystem</key>
+	<string>injectionOfFlyweight</string>
+	<key>precisionOrTemple</key>
+	<string>controllerFormForce</string>
+</dict>
+</plist>

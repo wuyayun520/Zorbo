@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedEntropyDelay</key>
+	<string>segmentOutsideContext</string>
+	<key>effectCycleLeft</key>
+	<string>observerActionMargin</string>
+	<key>frameForVar</key>
+	<string>presenterLayerColor</string>
+	<key>immutableBlocSpeed</key>
+	<string>statelessSkinIndex</string>
+	<key>pivotalListviewName</key>
+	<string>specifyInstructionLocation</string>
+	<key>responseDecoratorVelocity</key>
+	<string>nextConstraintDistance</string>
+	<key>retainedAssetTheme</key>
+	<string>baselineCyclePressure</string>
+	<key>skirtAlongForm</key>
+	<string>positionDuringTask</string>
+	<key>titlePerLevel</key>
+	<string>viewEnvironmentStyle</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarKindPosition</key>
+	<string>iterativeReducerPadding</string>
+	<key>cellVisitorDirection</key>
+	<string>cursorViaJob</string>
+	<key>curveThroughContext</key>
+	<string>interpolationJobVelocity</string>
+	<key>interfaceParamSpeed</key>
+	<string>methodPrototypeResponse</string>
+	<key>painterInsideActivity</key>
+	<string>completerWithParameter</string>
+	<key>serviceWithoutPattern</key>
+	<string>heroTaskCoord</string>
+	<key>signatureFacadeFeedback</key>
+	<string>inactiveChapterDuration</string>
+	<key>webThemeSaturation</key>
+	<string>futureFlyweightFormat</string>
+</dict>
+</plist>

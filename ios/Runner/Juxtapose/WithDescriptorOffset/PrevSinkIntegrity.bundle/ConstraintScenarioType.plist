@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoNavigatorRight</key>
+	<string>reducerDuringCommand</string>
+	<key>channelsActivityOrigin</key>
+	<string>transitionContextColor</string>
+	<key>channelsFunctionSkewx</key>
+	<string>popupProxyStatus</string>
+	<key>cursorCycleDelay</key>
+	<string>techniqueCycleName</string>
+	<key>disabledCubitContrast</key>
+	<string>repositoryNearMemento</string>
+	<key>listviewPerStyle</key>
+	<string>oldAxisDepth</string>
+	<key>menuAtWork</key>
+	<string>bufferVersusProcess</string>
+	<key>sessionOfValue</key>
+	<string>publicControllerDensity</string>
+	<key>synchronousSpecifierTop</key>
+	<string>greatActivityOffset</string>
+	<key>viewSingletonRight</key>
+	<string>lazyCardOpacity</string>
+</dict>
+</plist>

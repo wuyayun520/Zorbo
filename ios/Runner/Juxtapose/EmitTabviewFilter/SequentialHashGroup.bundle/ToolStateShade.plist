@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveRouteFeedback</key>
+	<string>coordinatorLevelScale</string>
+	<key>behaviorForScope</key>
+	<string>animationBesideForm</string>
+	<key>directlyFactoryInset</key>
+	<string>groupVersusTask</string>
+	<key>reducerDecoratorResponse</key>
+	<string>temporaryDocumentShape</string>
+	<key>swiftOutsideMode</key>
+	<string>nextListviewContrast</string>
+</dict>
+</plist>

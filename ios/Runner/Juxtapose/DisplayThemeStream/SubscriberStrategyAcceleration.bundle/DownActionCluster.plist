@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerAmongEnvironment</key>
+	<string>accessoryActionPadding</string>
+	<key>cubeSingletonContrast</key>
+	<string>delegateSystemFrequency</string>
+	<key>intermediateNormDelay</key>
+	<string>firstConsumerRotation</string>
+	<key>logActionVisible</key>
+	<string>activeSignValidation</string>
+	<key>mobileHashColor</key>
+	<string>delegateSystemBound</string>
+	<key>pageviewOrShape</key>
+	<string>histogramBufferScale</string>
+	<key>resilientTextureCenter</key>
+	<string>bufferTaskResponse</string>
+	<key>resolverParameterAppearance</key>
+	<string>signViaVariable</string>
+	<key>sinkThanOperation</key>
+	<string>futureBeyondAction</string>
+</dict>
+</plist>

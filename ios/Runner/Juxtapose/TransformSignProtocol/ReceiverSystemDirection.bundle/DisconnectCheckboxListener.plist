@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeContainerTop</key>
+	<string>intermediateNavigatorEdge</string>
+	<key>gesturedetectorBeyondPrototype</key>
+	<string>mediaqueryModePadding</string>
+	<key>optimizerFromStructure</key>
+	<string>errorMediatorMode</string>
+	<key>presenterLayerCenter</key>
+	<string>dedicatedInteractorBrightness</string>
+	<key>primaryAlertTag</key>
+	<string>monsterBufferIndex</string>
+	<key>reactiveActionInset</key>
+	<string>commonObserverTag</string>
+	<key>sequentialCursorTheme</key>
+	<string>nodeSingletonAppearance</string>
+	<key>sliderFacadePosition</key>
+	<string>normalMediaStatus</string>
+	<key>titleSinceCycle</key>
+	<string>storageInsideMode</string>
+</dict>
+</plist>

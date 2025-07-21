@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationTierStatus</key>
+	<string>customDecorationFeedback</string>
+	<key>blocForActivity</key>
+	<string>stepThroughChain</string>
+	<key>cartesianDependencyAcceleration</key>
+	<string>composablePositionSize</string>
+	<key>disabledPositionedFormat</key>
+	<string>standaloneBorderTail</string>
+	<key>dynamicChannelOffset</key>
+	<string>temporaryPresenterCoord</string>
+	<key>independentSingletonFeedback</key>
+	<string>nativePopupHue</string>
+	<key>optimizerStructureTag</key>
+	<string>materialSceneTail</string>
+	<key>persistentAwaitMode</key>
+	<string>positionVersusMode</string>
+	<key>previewNearAction</key>
+	<string>anchorAtVar</string>
+	<key>viewWithoutOperation</key>
+	<string>transitionParamCoord</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxVarStyle</key>
+	<string>activeStreamVelocity</string>
+	<key>contractionTaskResponse</key>
+	<string>touchAndBuffer</string>
+	<key>labelKindScale</key>
+	<string>mainPopupFrequency</string>
+	<key>nativeOffsetSpacing</key>
+	<string>cellWithStrategy</string>
+	<key>notifierMementoHue</key>
+	<string>routeActivityRate</string>
+	<key>observerByFacade</key>
+	<string>sizeWorkRight</string>
+	<key>radiusOperationStyle</key>
+	<string>effectProcessCenter</string>
+	<key>reactiveMethodOpacity</key>
+	<string>materialVisitorShape</string>
+	<key>relationalConstraintOrigin</key>
+	<string>durationForLevel</string>
+</dict>
+</plist>

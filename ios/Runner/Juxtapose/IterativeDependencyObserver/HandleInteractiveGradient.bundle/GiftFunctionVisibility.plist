@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dropdownbuttonAwayPattern</key>
+	<string>signatureIncludeParameter</string>
+	<key>iterativeProviderOrientation</key>
+	<string>widgetProcessTheme</string>
+	<key>pointParamPadding</key>
+	<string>positionJobName</string>
+	<key>positionNumberColor</key>
+	<string>unsortedTaskKind</string>
+	<key>sortedMethodAppearance</key>
+	<string>consumerStyleContrast</string>
+	<key>taskViaKind</key>
+	<string>containerValueBorder</string>
+	<key>textPhaseKind</key>
+	<string>localStoreSpacing</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionTypeEdge</key>
+	<string>constraintCycleRate</string>
+	<key>eventIncludePattern</key>
+	<string>prevCardVisible</string>
+	<key>finalFramePressure</key>
+	<string>textureAndPrototype</string>
+	<key>iconBeyondOperation</key>
+	<string>techniqueFromComposite</string>
+	<key>mediaqueryStyleCount</key>
+	<string>vectorUntilParam</string>
+	<key>metadataChainColor</key>
+	<string>respectiveExpandedAcceleration</string>
+	<key>opaqueCharacterFlags</key>
+	<string>intensityModeContrast</string>
+	<key>stateWorkDirection</key>
+	<string>textureFromAdapter</string>
+	<key>transitionAmongState</key>
+	<string>presenterAboutCycle</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalChapterAppearance</key>
+	<string>independentScaleVisible</string>
+	<key>gridVariableBound</key>
+	<string>inheritedCursorBrightness</string>
+	<key>oldStateShade</key>
+	<string>builderIncludeState</string>
+	<key>rapidCharacterOffset</key>
+	<string>rectAsContext</string>
+	<key>tensorApertureOrientation</key>
+	<string>grainAwayLevel</string>
+	<key>tweenPhaseValidation</key>
+	<string>secondUnarySize</string>
+</dict>
+</plist>

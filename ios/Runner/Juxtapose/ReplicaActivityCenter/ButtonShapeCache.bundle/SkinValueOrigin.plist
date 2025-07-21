@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleAppbarFlags</key>
+	<string>visibleNormEdge</string>
+	<key>captionFacadeHue</key>
+	<string>themeWithComposite</string>
+	<key>chartBeyondFacade</key>
+	<string>blocStatePosition</string>
+	<key>ignoredTweenStatus</key>
+	<string>futureAtState</string>
+	<key>particleBeyondAdapter</key>
+	<string>durationByKind</string>
+	<key>scaleWorkValidation</key>
+	<string>stateViaAdapter</string>
+</dict>
+</plist>

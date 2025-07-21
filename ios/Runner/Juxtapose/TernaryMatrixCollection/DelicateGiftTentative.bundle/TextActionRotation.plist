@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedStoreInteraction</key>
+	<string>missionAroundLevel</string>
+	<key>asyncZoneMomentum</key>
+	<string>transitionIncludeCommand</string>
+	<key>cupertinoActionMode</key>
+	<string>cupertinoAssetHue</string>
+	<key>interfaceSystemName</key>
+	<string>intermediateCurveVelocity</string>
+	<key>localizationOutsideLayer</key>
+	<string>subsequentConstraintCoord</string>
+	<key>mobileInstructionOrientation</key>
+	<string>fusedEventStyle</string>
+	<key>threadFacadeMomentum</key>
+	<string>cursorDecoratorOpacity</string>
+	<key>timerMediatorSkewy</key>
+	<string>cartesianPresenterSkewy</string>
+</dict>
+</plist>

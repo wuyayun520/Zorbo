@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineAlongObserver</key>
+	<string>globalCallbackBrightness</string>
+	<key>cubitOperationTail</key>
+	<string>interactiveTabviewValidation</string>
+	<key>protocolDecoratorValidation</key>
+	<string>themeSingletonBottom</string>
+	<key>sineFromMode</key>
+	<string>gramKindOpacity</string>
+</dict>
+</plist>

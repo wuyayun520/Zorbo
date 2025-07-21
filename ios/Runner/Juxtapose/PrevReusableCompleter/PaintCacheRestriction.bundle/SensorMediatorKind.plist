@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryBesideState</key>
+	<string>priorExceptionForce</string>
+	<key>decorationUntilType</key>
+	<string>builderAlongParameter</string>
+	<key>gatePhaseForce</key>
+	<string>durationFromActivity</string>
+	<key>gesturedetectorAwayMode</key>
+	<string>multiBaselineValidation</string>
+	<key>lostMediaRate</key>
+	<string>sinkValueDistance</string>
+	<key>usecasePrototypeInset</key>
+	<string>asyncAllocatorVisible</string>
+</dict>
+</plist>

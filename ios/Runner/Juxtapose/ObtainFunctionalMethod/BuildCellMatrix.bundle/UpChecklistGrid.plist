@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerAroundFramework</key>
+	<string>explicitInstructionAppearance</string>
+	<key>concurrentObserverKind</key>
+	<string>statelessObserverCount</string>
+	<key>gesturedetectorAgainstCycle</key>
+	<string>menuCompositeSkewy</string>
+	<key>litePlateTheme</key>
+	<string>bufferInterpreterSaturation</string>
+	<key>menuValueSaturation</key>
+	<string>labelUntilTask</string>
+</dict>
+</plist>

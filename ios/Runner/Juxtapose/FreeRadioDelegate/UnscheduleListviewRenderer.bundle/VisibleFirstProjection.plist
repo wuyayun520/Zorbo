@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterStrategyCoord</key>
+	<string>containerCommandPadding</string>
+	<key>draggableMenuDuration</key>
+	<string>tickerWithoutCommand</string>
+	<key>liteServiceOrientation</key>
+	<string>cupertinoInterpreterType</string>
+	<key>localQueuePadding</key>
+	<string>commonRepositoryBound</string>
+	<key>pinchableCollectionType</key>
+	<string>mutableScreenDelay</string>
+	<key>resizableDescriptionState</key>
+	<string>directlyGrainDirection</string>
+	<key>similarSizedboxPressure</key>
+	<string>spriteActivityTag</string>
+	<key>usedSwitchSkewx</key>
+	<string>effectStagePadding</string>
+	<key>utilDuringCommand</key>
+	<string>accordionCheckboxMargin</string>
+</dict>
+</plist>

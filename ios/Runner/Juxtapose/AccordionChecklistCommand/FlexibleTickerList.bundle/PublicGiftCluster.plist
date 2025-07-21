@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianConfigurationShade</key>
+	<string>activatedLayoutDuration</string>
+	<key>constraintVisitorKind</key>
+	<string>commandScopePadding</string>
+	<key>crucialAwaitInterval</key>
+	<string>coordinatorAsAdapter</string>
+	<key>graphicMementoInteraction</key>
+	<string>indicatorFunctionStatus</string>
+	<key>ignoredTimerTail</key>
+	<string>intensityOperationValidation</string>
+	<key>indicatorPerLevel</key>
+	<string>referenceIncludeMode</string>
+	<key>interactorPlatformSaturation</key>
+	<string>publicVectorEdge</string>
+	<key>specifyTickerPosition</key>
+	<string>visibleTickerDuration</string>
+	<key>zoneBufferPressure</key>
+	<string>widgetWorkOrientation</string>
+</dict>
+</plist>

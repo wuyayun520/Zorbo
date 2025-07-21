@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionCoordinatorVisible</key>
+	<string>draggableDelegateOrientation</string>
+	<key>cubitWithoutAdapter</key>
+	<string>projectionLevelBrightness</string>
+	<key>futureCommandRight</key>
+	<string>consultativeTimerSpacing</string>
+	<key>interfaceVisitorVelocity</key>
+	<string>logarithmKindCenter</string>
+	<key>navigatorVariableStatus</key>
+	<string>commonProviderSpeed</string>
+	<key>protocolVariableFrequency</key>
+	<string>resourceStructureResponse</string>
+	<key>stateTaskInteraction</key>
+	<string>transitionThroughTemple</string>
+	<key>statefulPerEnvironment</key>
+	<string>completionScopeBehavior</string>
+	<key>unactivatedRectDirection</key>
+	<string>threadIncludeSingleton</string>
+	<key>utilWorkType</key>
+	<string>priorityAtOperation</string>
+</dict>
+</plist>

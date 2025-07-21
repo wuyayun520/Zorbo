@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryWithStage</key>
+	<string>directlyCubitValidation</string>
+	<key>boxParamDirection</key>
+	<string>previewVarShade</string>
+	<key>chartAsCommand</key>
+	<string>storeForEnvironment</string>
+	<key>getxTaskSkewy</key>
+	<string>titleModeSkewx</string>
+	<key>hardAwaitInteraction</key>
+	<string>hashStrategyResponse</string>
+	<key>heapVersusFunction</key>
+	<string>commonStateSpeed</string>
+	<key>specifierFromMemento</key>
+	<string>singletonContainCycle</string>
+	<key>streamDuringVar</key>
+	<string>batchAsParam</string>
+	<key>usedBoxSpacing</key>
+	<string>custompaintStrategyLocation</string>
+</dict>
+</plist>

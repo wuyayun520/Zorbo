@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonProcessInterval</key>
+	<string>managerAboutSystem</string>
+	<key>dependencyDuringInterpreter</key>
+	<string>boxshadowProxyOpacity</string>
+	<key>ephemeralPainterShade</key>
+	<string>lazyLayoutBound</string>
+	<key>gridviewUntilPrototype</key>
+	<string>subscriptionAndStage</string>
+	<key>hashParameterContrast</key>
+	<string>ephemeralPositionDirection</string>
+	<key>screenVersusBridge</key>
+	<string>progressbarTaskSkewx</string>
+	<key>sizedboxFrameworkVisibility</key>
+	<string>segmentOutsidePrototype</string>
+	<key>topicWithBuffer</key>
+	<string>graphSinceNumber</string>
+</dict>
+</plist>

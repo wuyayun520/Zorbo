@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentStepTension</key>
+	<string>behaviorAgainstMemento</string>
+	<key>equipmentActionStyle</key>
+	<string>columnOfKind</string>
+	<key>greatCardOrientation</key>
+	<string>subsequentInstructionDirection</string>
+	<key>independentRectHue</key>
+	<string>asyncTaskSpacing</string>
+	<key>largeInterfaceFrequency</key>
+	<string>modelBesideFramework</string>
+	<key>oldInkwellEdge</key>
+	<string>cellOutsideVisitor</string>
+	<key>progressbarFlyweightOpacity</key>
+	<string>promiseByProcess</string>
+	<key>scrollableInterpolationStatus</key>
+	<string>protocolDuringChain</string>
+	<key>smartWidgetLeft</key>
+	<string>sessionInsideProcess</string>
+</dict>
+</plist>

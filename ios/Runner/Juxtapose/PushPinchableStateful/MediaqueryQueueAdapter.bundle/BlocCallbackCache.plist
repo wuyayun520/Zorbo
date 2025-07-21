@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedArithmeticTheme</key>
+	<string>menuAtShape</string>
+	<key>containerParamShade</key>
+	<string>textureByPhase</string>
+	<key>controllerAndParameter</key>
+	<string>interfaceFunctionRotation</string>
+	<key>granularLogType</key>
+	<string>streamWithoutType</string>
+	<key>groupPatternInterval</key>
+	<string>semanticCapacitiesValidation</string>
+	<key>nextCompositionSpeed</key>
+	<string>multiFutureDirection</string>
+	<key>prevCheckboxOrientation</key>
+	<string>subtleRouteName</string>
+	<key>resultAmongPhase</key>
+	<string>loopLevelVelocity</string>
+	<key>skinTypeInterval</key>
+	<string>checkboxPerBridge</string>
+</dict>
+</plist>

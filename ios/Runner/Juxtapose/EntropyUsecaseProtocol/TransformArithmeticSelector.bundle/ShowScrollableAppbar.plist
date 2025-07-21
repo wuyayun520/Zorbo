@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationFrameworkFlags</key>
+	<string>inheritedSpecifierTop</string>
+	<key>explicitProfileEdge</key>
+	<string>multiplicationForChain</string>
+	<key>handlerBridgeAlignment</key>
+	<string>eventMediatorBound</string>
+	<key>hyperbolicEventMargin</key>
+	<string>alphaAsStyle</string>
+	<key>mediaqueryTierVelocity</key>
+	<string>deferredStatefulSkewx</string>
+	<key>nodeAmongInterpreter</key>
+	<string>dropdownbuttonValueBottom</string>
+	<key>particleModeColor</key>
+	<string>featureTaskVisible</string>
+	<key>previewWithStructure</key>
+	<string>visibleMemberColor</string>
+	<key>stateEnvironmentPressure</key>
+	<string>awaitVariableShape</string>
+	<key>tweenInsideTier</key>
+	<string>swiftTierOpacity</string>
+</dict>
+</plist>

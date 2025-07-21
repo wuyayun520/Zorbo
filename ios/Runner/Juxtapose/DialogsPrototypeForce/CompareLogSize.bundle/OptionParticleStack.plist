@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonAndMode</key>
+	<string>coordinatorAlongObserver</string>
+	<key>consultativeBasePadding</key>
+	<string>curveCommandInset</string>
+	<key>futureMediatorFeedback</key>
+	<string>largeParticleHead</string>
+	<key>indicatorAsCommand</key>
+	<string>multiInkwellInset</string>
+	<key>precisionContextCenter</key>
+	<string>coordinatorNearJob</string>
+	<key>singleSliderDirection</key>
+	<string>keyTweenShape</string>
+	<key>sliderWithoutVar</key>
+	<string>matrixStateBorder</string>
+	<key>subscriptionDespiteLevel</key>
+	<string>subpixelOrJob</string>
+</dict>
+</plist>

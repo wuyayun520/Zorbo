@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentCellPadding</key>
+	<string>globalButtonInteraction</string>
+	<key>dedicatedNibFrequency</key>
+	<string>masterVisitorDensity</string>
+	<key>delegateUntilLayer</key>
+	<string>tickerBeyondStage</string>
+	<key>frameTierOpacity</key>
+	<string>arithmeticControllerFeedback</string>
+	<key>integerFromCommand</key>
+	<string>observerSinceMode</string>
+	<key>mediumRowBehavior</key>
+	<string>specifyRouterBound</string>
+	<key>missedFeatureFrequency</key>
+	<string>lazyPresenterPadding</string>
+	<key>providerTaskVisible</key>
+	<string>hashOutsideTask</string>
+	<key>seamlessInstructionSaturation</key>
+	<string>interactorPhaseLeft</string>
+	<key>transitionLikePrototype</key>
+	<string>gemThanComposite</string>
+</dict>
+</plist>

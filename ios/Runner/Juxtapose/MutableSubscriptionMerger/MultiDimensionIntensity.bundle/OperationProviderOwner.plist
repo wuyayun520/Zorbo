@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveGetxTint</key>
+	<string>swiftAdapterCount</string>
+	<key>adaptiveTopicInset</key>
+	<string>functionalCompletionCenter</string>
+	<key>boxshadowAtLayer</key>
+	<string>intermediateCharacterShade</string>
+	<key>globalPopupAppearance</key>
+	<string>characterStateShade</string>
+	<key>pageviewWithoutTier</key>
+	<string>blocAroundMode</string>
+	<key>painterSincePhase</key>
+	<string>interactorExceptContext</string>
+	<key>pinchableHandlerForce</key>
+	<string>navigatorKindCenter</string>
+	<key>routeContainCommand</key>
+	<string>isolateMethodEdge</string>
+</dict>
+</plist>

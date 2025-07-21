@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gesturedetectorIncludeFramework</key>
+	<string>hyperbolicAxisAcceleration</string>
+	<key>overlayDespiteBridge</key>
+	<string>permissiveManagerShade</string>
+	<key>prevLocalizationVisibility</key>
+	<string>blocAlongWork</string>
+	<key>providerOfParam</key>
+	<string>iterativeDrawerColor</string>
+	<key>uniqueGraphShape</key>
+	<string>tableOutsideStage</string>
+</dict>
+</plist>

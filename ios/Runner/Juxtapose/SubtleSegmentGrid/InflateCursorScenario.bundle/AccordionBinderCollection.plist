@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleAboutFlyweight</key>
+	<string>interactiveTabbarIndex</string>
+	<key>channelsContainDecorator</key>
+	<string>positionPlatformLeft</string>
+	<key>completerPhaseDirection</key>
+	<string>controllerForValue</string>
+	<key>framePatternOpacity</key>
+	<string>transitionWithoutChain</string>
+	<key>newestAssetInteraction</key>
+	<string>channelSystemDelay</string>
+	<key>tweenKindPadding</key>
+	<string>titleFromFunction</string>
+</dict>
+</plist>

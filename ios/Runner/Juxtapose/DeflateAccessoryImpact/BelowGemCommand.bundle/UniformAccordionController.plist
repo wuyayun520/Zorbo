@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonFacadeDirection</key>
+	<string>radioDecoratorCount</string>
+	<key>cupertinoInjectionCount</key>
+	<string>iconContainSingleton</string>
+	<key>drawerVariableTag</key>
+	<string>listviewDecoratorMode</string>
+	<key>invisiblePopupStyle</key>
+	<string>observerAndProxy</string>
+	<key>localizationCommandTail</key>
+	<string>fusedSignSpacing</string>
+	<key>nodeAroundObserver</key>
+	<string>scrollCycleTransparency</string>
+	<key>pageviewWorkInterval</key>
+	<string>firstProviderDirection</string>
+	<key>publicTickerState</key>
+	<string>masterViaVisitor</string>
+	<key>tabviewViaAction</key>
+	<string>multiExpandedBrightness</string>
+</dict>
+</plist>

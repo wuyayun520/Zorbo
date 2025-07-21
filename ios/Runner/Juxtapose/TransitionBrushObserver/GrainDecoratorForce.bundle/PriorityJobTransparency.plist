@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosineLevelKind</key>
+	<string>topicThanVariable</string>
+	<key>localResultLeft</key>
+	<string>frameByEnvironment</string>
+	<key>missionDecoratorBehavior</key>
+	<string>symmetricTouchForce</string>
+	<key>positionPhaseCenter</key>
+	<string>widgetLayerSkewx</string>
+	<key>protocolEnvironmentScale</key>
+	<string>singleTransitionFormat</string>
+	<key>retainedQueueAlignment</key>
+	<string>topicInShape</string>
+	<key>unarySingletonBottom</key>
+	<string>enabledCubeBottom</string>
+</dict>
+</plist>

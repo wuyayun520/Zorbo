@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorLikeShape</key>
+	<string>boxshadowOutsideProxy</string>
+	<key>iterativeTransitionSkewx</key>
+	<string>mobxContainVar</string>
+	<key>methodNearStage</key>
+	<string>alertVersusProcess</string>
+	<key>nextAlertTheme</key>
+	<string>sophisticatedGrainDelay</string>
+	<key>transitionScopeDelay</key>
+	<string>statefulAgainstWork</string>
+	<key>vectorBridgeKind</key>
+	<string>bulletBySingleton</string>
+</dict>
+</plist>

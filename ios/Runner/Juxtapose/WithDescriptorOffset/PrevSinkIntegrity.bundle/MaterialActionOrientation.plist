@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardPreviewSpacing</key>
+	<string>gridMediatorBorder</string>
+	<key>denseStateBottom</key>
+	<string>persistentHeroKind</string>
+	<key>euclideanIndicatorLeft</key>
+	<string>commonQuerySize</string>
+	<key>fixedAppbarBrightness</key>
+	<string>euclideanAssetTheme</string>
+	<key>priorMediaqueryPosition</key>
+	<string>parallelResolverIndex</string>
+	<key>subscriptionNearForm</key>
+	<string>commandInsideVariable</string>
+</dict>
+</plist>

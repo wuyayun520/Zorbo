@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseOperationLocation</key>
+	<string>offsetContainPhase</string>
+	<key>durationSystemVisibility</key>
+	<string>seamlessMediaqueryLeft</string>
+	<key>gateThroughOperation</key>
+	<string>sceneDecoratorInterval</string>
+	<key>notifierMethodDelay</key>
+	<string>accessibleCallbackBorder</string>
+	<key>sampleDespiteDecorator</key>
+	<string>relationalSizeMargin</string>
+</dict>
+</plist>

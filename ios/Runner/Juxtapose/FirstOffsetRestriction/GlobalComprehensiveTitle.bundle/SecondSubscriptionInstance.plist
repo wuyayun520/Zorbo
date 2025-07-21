@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dropdownbuttonAgainstFlyweight</key>
+	<string>usecaseContextDirection</string>
+	<key>equalizationThroughTier</key>
+	<string>secondOverlayDelay</string>
+	<key>factoryBeyondBridge</key>
+	<string>independentAsyncPadding</string>
+	<key>interfaceFlyweightRate</key>
+	<string>resultWorkScale</string>
+	<key>multiAllocatorFormat</key>
+	<string>cupertinoMethodOrientation</string>
+	<key>pinchableAppbarTension</key>
+	<string>futureForPlatform</string>
+	<key>resourceAsFramework</key>
+	<string>mobileStructureTheme</string>
+	<key>swiftForMode</key>
+	<string>crucialActionDelay</string>
+	<key>taskJobRotation</key>
+	<string>compositionChainTransparency</string>
+</dict>
+</plist>

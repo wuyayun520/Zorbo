@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cycleBesideStage</key>
+	<string>baseOutsideForm</string>
+	<key>missionDespiteCycle</key>
+	<string>priorityParamLeft</string>
+	<key>offsetPerBuffer</key>
+	<string>signatureLevelAlignment</string>
+	<key>scaleDespitePattern</key>
+	<string>columnFlyweightFlags</string>
+</dict>
+</plist>

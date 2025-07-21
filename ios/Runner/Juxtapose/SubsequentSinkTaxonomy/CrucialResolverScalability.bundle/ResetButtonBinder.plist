@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerAxisAlignment</key>
+	<string>promiseViaStyle</string>
+	<key>grainThroughKind</key>
+	<string>asyncSystemTransparency</string>
+	<key>iconInsideCycle</key>
+	<string>scrollableCommandAppearance</string>
+	<key>immediateApertureTension</key>
+	<string>widgetFlyweightRate</string>
+	<key>localizationStructureFormat</key>
+	<string>axisContainVisitor</string>
+	<key>plateViaBuffer</key>
+	<string>viewThroughVariable</string>
+</dict>
+</plist>

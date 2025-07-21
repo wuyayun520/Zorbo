@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>pinchableTweenOrigin</key>
+	<string>listenerStageLocation</string>
+	<key>routeIncludeFramework</key>
+	<string>coordinatorFacadeDelay</string>
+	<key>sizeOperationDensity</key>
+	<string>mutableProviderIndex</string>
+	<key>transformerFormStyle</key>
+	<string>builderActionPosition</string>
+	<key>usecaseDespitePlatform</key>
+	<string>streamOperationBehavior</string>
+	<key>utilBeyondMethod</key>
+	<string>hierarchicalDelegateAcceleration</string>
+</dict>
+</plist>

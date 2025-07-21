@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisAgainstVar</key>
+	<string>nibContextSkewx</string>
+	<key>commandFlyweightScale</key>
+	<string>spineValueShape</string>
+	<key>directSliderSkewx</key>
+	<string>nodePhaseSpeed</string>
+	<key>eagerTransitionBound</key>
+	<string>decorationTierShade</string>
+	<key>ephemeralSegueCenter</key>
+	<string>keyDocumentAcceleration</string>
+	<key>invisibleCharacterTransparency</key>
+	<string>widgetWithoutPrototype</string>
+	<key>projectionThroughProxy</key>
+	<string>deferredProgressbarResponse</string>
+</dict>
+</plist>

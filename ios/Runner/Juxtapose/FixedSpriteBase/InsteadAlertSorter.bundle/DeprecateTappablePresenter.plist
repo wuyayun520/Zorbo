@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncTabviewBehavior</key>
+	<string>mainRequestVisible</string>
+	<key>checklistThanSingleton</key>
+	<string>explicitMarginValidation</string>
+	<key>completionValueMargin</key>
+	<string>blocInsideAction</string>
+	<key>declarativeQueueDirection</key>
+	<string>richtextForSingleton</string>
+	<key>lazyRequestAppearance</key>
+	<string>switchWithoutSystem</string>
+	<key>menuAmongActivity</key>
+	<string>criticalDelegateSpeed</string>
+	<key>operationMementoStatus</key>
+	<string>menuAsTier</string>
+	<key>playbackContextVelocity</key>
+	<string>dropdownbuttonCommandRate</string>
+	<key>reductionFlyweightForce</key>
+	<string>labelOrBridge</string>
+	<key>ternaryMementoVisible</key>
+	<string>standaloneSkinInterval</string>
+</dict>
+</plist>

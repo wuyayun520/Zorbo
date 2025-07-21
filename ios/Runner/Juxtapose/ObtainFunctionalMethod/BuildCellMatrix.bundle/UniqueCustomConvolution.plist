@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerExceptionName</key>
+	<string>accessibleGraphValidation</string>
+	<key>coordinatorByMethod</key>
+	<string>smallSensorCoord</string>
+	<key>cupertinoScreenMode</key>
+	<string>awaitVariableHue</string>
+	<key>missedRowVisibility</key>
+	<string>buttonPlatformVisibility</string>
+	<key>rowMementoVisible</key>
+	<string>grainContextDirection</string>
+	<key>scrollDespiteCycle</key>
+	<string>animatedMarginKind</string>
+</dict>
+</plist>

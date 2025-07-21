@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisByShape</key>
+	<string>standaloneTableSkewx</string>
+	<key>coordinatorOfAdapter</key>
+	<string>autoLayoutFormat</string>
+	<key>persistentInteractorTheme</key>
+	<string>themeCycleOrientation</string>
+	<key>publicCubeSpeed</key>
+	<string>movementProcessPosition</string>
+	<key>routerAgainstMediator</key>
+	<string>routeActionShade</string>
+	<key>semanticLogFlags</key>
+	<string>reducerThanValue</string>
+	<key>singletonAboutFunction</key>
+	<string>frameProxyTint</string>
+</dict>
+</plist>

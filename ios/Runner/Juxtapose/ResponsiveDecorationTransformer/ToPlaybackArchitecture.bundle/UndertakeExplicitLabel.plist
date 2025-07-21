@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonDescriptionBehavior</key>
+	<string>graphicVersusChain</string>
+	<key>controllerStatePadding</key>
+	<string>largeEventBound</string>
+	<key>customizedCoordinatorCenter</key>
+	<string>intuitiveModelColor</string>
+	<key>mediaLikePattern</key>
+	<string>screenBesideForm</string>
+	<key>scrollParameterOffset</key>
+	<string>disparateOptimizerMomentum</string>
+	<key>viewContainVar</key>
+	<string>paddingPlatformDirection</string>
+</dict>
+</plist>

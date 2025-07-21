@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationWithoutTask</key>
+	<string>modalNearStage</string>
+	<key>dedicatedLayerVelocity</key>
+	<string>allocatorBridgeOrientation</string>
+	<key>entityWithJob</key>
+	<string>taskOutsideVar</string>
+	<key>screenVisitorSkewy</key>
+	<string>transformerStyleSpacing</string>
+	<key>sinkAwayStage</key>
+	<string>hashUntilContext</string>
+</dict>
+</plist>

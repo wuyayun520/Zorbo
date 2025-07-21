@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionMethodVisibility</key>
+	<string>intermediatePainterTop</string>
+	<key>clipperPhaseFormat</key>
+	<string>persistentStreamDelay</string>
+	<key>momentumAdapterTint</key>
+	<string>toolMediatorAppearance</string>
+	<key>nextRowOrigin</key>
+	<string>memberLayerBottom</string>
+	<key>presenterBesideEnvironment</key>
+	<string>modelStateEdge</string>
+	<key>publicEventColor</key>
+	<string>mobileLabelBottom</string>
+	<key>specifierValueVelocity</key>
+	<string>streamChainBound</string>
+	<key>stackAgainstAdapter</key>
+	<string>dependencyAlongWork</string>
+	<key>viewJobDelay</key>
+	<string>desktopBufferFrequency</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonTechniqueTheme</key>
+	<string>scaffoldMediatorShape</string>
+	<key>frameStageDistance</key>
+	<string>popupUntilComposite</string>
+	<key>modelAndChain</key>
+	<string>controllerOutsideNumber</string>
+	<key>observerNumberTop</key>
+	<string>agileFeatureBrightness</string>
+	<key>previewVersusSingleton</key>
+	<string>binaryOfMediator</string>
+	<key>projectJobStatus</key>
+	<string>statefulSizeState</string>
+	<key>routeDespiteTier</key>
+	<string>interactiveCoordinatorHead</string>
+	<key>symmetricRequestFrequency</key>
+	<string>behaviorVersusMediator</string>
+	<key>unsortedIsolateValidation</key>
+	<string>asyncPlatformInset</string>
+	<key>unsortedListenerContrast</key>
+	<string>reducerPlatformRate</string>
+</dict>
+</plist>

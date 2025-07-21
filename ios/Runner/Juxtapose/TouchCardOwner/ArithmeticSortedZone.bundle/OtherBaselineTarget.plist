@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxMethodShape</key>
+	<string>gestureFromContext</string>
+	<key>commonCallbackAcceleration</key>
+	<string>chapterVariableRate</string>
+	<key>gridviewBesideFlyweight</key>
+	<string>nibPerOperation</string>
+	<key>intensityContainSystem</key>
+	<string>assetSingletonSpacing</string>
+	<key>masterAndJob</key>
+	<string>sequentialTitleCount</string>
+	<key>oldSceneOffset</key>
+	<string>popupPrototypeCount</string>
+	<key>permanentExceptionDensity</key>
+	<string>independentQueryMomentum</string>
+	<key>vectorPerStyle</key>
+	<string>enabledBatchScale</string>
+	<key>zoneTaskCoord</key>
+	<string>statefulBufferShape</string>
+</dict>
+</plist>

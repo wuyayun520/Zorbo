@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseVarBrightness</key>
+	<string>priorStreamStatus</string>
+	<key>cycleAmongStage</key>
+	<string>compositionLevelDepth</string>
+	<key>draggableFactoryScale</key>
+	<string>fusedPreviewType</string>
+	<key>movementAboutWork</key>
+	<string>popupPatternSpacing</string>
+	<key>requestMediatorOrigin</key>
+	<string>challengePlatformMomentum</string>
+	<key>retainedSegmentStatus</key>
+	<string>gridExceptPrototype</string>
+	<key>topicVariableHead</key>
+	<string>retainedVectorDistance</string>
+</dict>
+</plist>

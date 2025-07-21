@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticRowFeedback</key>
+	<string>gemPrototypeShade</string>
+	<key>axisViaParam</key>
+	<string>imageTaskShape</string>
+	<key>easyViewSkewy</key>
+	<string>directlyBufferBrightness</string>
+	<key>eventContainComposite</key>
+	<string>matrixAgainstSystem</string>
+	<key>fragmentAndOperation</key>
+	<string>subtleHeapVisible</string>
+	<key>hardPositionTint</key>
+	<string>relationalErrorPressure</string>
+	<key>responseInsideTask</key>
+	<string>layoutPerContext</string>
+	<key>usageAsNumber</key>
+	<string>rowContainFacade</string>
+</dict>
+</plist>

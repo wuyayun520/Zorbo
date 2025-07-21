@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaCompositeContrast</key>
+	<string>progressbarWorkOpacity</string>
+	<key>captionVersusContext</key>
+	<string>missionScopeValidation</string>
+	<key>fusedHandlerScale</key>
+	<string>scrollableOverlayIndex</string>
+	<key>materialProfileInset</key>
+	<string>cupertinoRoleCenter</string>
+	<key>sensorContextAcceleration</key>
+	<string>queueOrPrototype</string>
+	<key>topicFacadeInset</key>
+	<string>responseSinceValue</string>
+</dict>
+</plist>

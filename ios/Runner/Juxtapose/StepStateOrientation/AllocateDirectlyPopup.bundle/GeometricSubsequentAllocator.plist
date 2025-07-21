@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocBeyondSystem</key>
+	<string>flexibleDelegateRotation</string>
+	<key>directlyContainerFeedback</key>
+	<string>cardKindRight</string>
+	<key>fusedHeapOffset</key>
+	<string>dimensionTypeSkewx</string>
+	<key>intuitiveCapacitiesSkewx</key>
+	<string>managerStructureDirection</string>
+	<key>originalDescriptorResponse</key>
+	<string>navigationNumberRate</string>
+</dict>
+</plist>

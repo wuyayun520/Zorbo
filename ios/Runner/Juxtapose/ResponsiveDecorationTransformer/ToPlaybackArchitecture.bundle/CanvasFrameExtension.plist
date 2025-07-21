@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticTextureTop</key>
+	<string>opaqueCallbackAcceleration</string>
+	<key>getxActivityBorder</key>
+	<string>borderSystemBorder</string>
+	<key>layerAwayCycle</key>
+	<string>rowObserverVelocity</string>
+	<key>modelCycleShape</key>
+	<string>overlayValueSkewy</string>
+	<key>shaderOperationSpacing</key>
+	<string>tangentCompositeTension</string>
+	<key>sharedScreenRate</key>
+	<string>popupMethodFeedback</string>
+	<key>sliderWithoutOperation</key>
+	<string>singletonAtComposite</string>
+</dict>
+</plist>

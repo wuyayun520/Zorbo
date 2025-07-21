@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryStyleState</key>
+	<string>temporaryStatefulVisible</string>
+	<key>controllerMementoSpacing</key>
+	<string>gesturedetectorCommandTop</string>
+	<key>entityAroundLevel</key>
+	<string>mainSegueScale</string>
+	<key>flexiblePreviewMargin</key>
+	<string>viewViaStrategy</string>
+	<key>mediaqueryTypeTransparency</key>
+	<string>isolateWorkShade</string>
+	<key>newestGrainBrightness</key>
+	<string>reactiveAllocatorColor</string>
+</dict>
+</plist>

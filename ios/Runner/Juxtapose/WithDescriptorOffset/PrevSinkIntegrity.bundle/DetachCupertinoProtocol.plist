@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gridShapeFlags</key>
+	<string>progressbarParameterOpacity</string>
+	<key>lossOrDecorator</key>
+	<string>inkwellEnvironmentOrigin</string>
+	<key>notifierStyleSize</key>
+	<string>histogramActivityEdge</string>
+	<key>rectAmongLayer</key>
+	<string>listviewSingletonTransparency</string>
+	<key>singleAsyncInteraction</key>
+	<string>sinkMethodLocation</string>
+	<key>stampPlatformTag</key>
+	<string>standaloneVectorBound</string>
+</dict>
+</plist>

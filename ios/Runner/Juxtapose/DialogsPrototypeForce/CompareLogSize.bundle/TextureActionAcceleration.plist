@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeMethodRate</key>
+	<string>effectOrCycle</string>
+	<key>concreteGramTint</key>
+	<string>bulletActionLocation</string>
+	<key>labelValueFeedback</key>
+	<string>screenNearLevel</string>
+	<key>observerFlyweightOffset</key>
+	<string>localizationFlyweightAcceleration</string>
+	<key>prevDecorationTag</key>
+	<string>progressbarJobKind</string>
+	<key>serviceVarSpeed</key>
+	<string>notifierSystemInteraction</string>
+	<key>tangentViaDecorator</key>
+	<string>transformerIncludeLevel</string>
+</dict>
+</plist>

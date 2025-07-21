@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesWithWork</key>
+	<string>blocWithoutContext</string>
+	<key>invisibleEqualizationFeedback</key>
+	<string>actionBridgeBehavior</string>
+	<key>layoutChainRate</key>
+	<string>cellFlyweightValidation</string>
+	<key>localizationViaScope</key>
+	<string>capsuleEnvironmentAlignment</string>
+	<key>nativePreviewDensity</key>
+	<string>cartesianImageSize</string>
+	<key>resizableFeatureBound</key>
+	<string>disabledClipperColor</string>
+	<key>swiftTierVelocity</key>
+	<string>newestIntensityTheme</string>
+</dict>
+</plist>

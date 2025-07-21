@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedCubitDirection</key>
+	<string>lossViaPrototype</string>
+	<key>cubitOperationKind</key>
+	<string>effectScopeAcceleration</string>
+	<key>heapBridgeTag</key>
+	<string>transitionShapeTheme</string>
+	<key>hierarchicalProgressbarMode</key>
+	<string>graphPatternDensity</string>
+	<key>immutableBaselineFlags</key>
+	<string>uniformChapterSpeed</string>
+	<key>listenerForCycle</key>
+	<string>custompaintTypeFeedback</string>
+	<key>managerSinceMethod</key>
+	<string>curveParameterAppearance</string>
+	<key>menuObserverSkewy</key>
+	<string>globalDialogsStyle</string>
+	<key>responseShapeTop</key>
+	<string>apertureAmongCommand</string>
+	<key>singleObserverInset</key>
+	<string>rectViaPattern</string>
+</dict>
+</plist>

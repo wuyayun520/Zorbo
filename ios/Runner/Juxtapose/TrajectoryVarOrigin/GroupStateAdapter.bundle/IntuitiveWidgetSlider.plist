@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelModeValidation</key>
+	<string>storePrototypeInteraction</string>
+	<key>configurationAgainstFacade</key>
+	<string>durationTaskResponse</string>
+	<key>controllerPatternContrast</key>
+	<string>intuitiveTextAppearance</string>
+	<key>imperativeTimerSpeed</key>
+	<string>durationObserverDepth</string>
+	<key>managerLayerAlignment</key>
+	<string>menuLikeVar</string>
+	<key>sortedFeaturePadding</key>
+	<string>delegateStrategyTail</string>
+	<key>statelessProviderHue</key>
+	<string>hierarchicalTransformerSaturation</string>
+	<key>zoneOutsideLayer</key>
+	<string>pageviewExceptActivity</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarContextEdge</key>
+	<string>sliderAgainstEnvironment</string>
+	<key>elasticLocalizationRight</key>
+	<string>documentValueResponse</string>
+	<key>featureForLayer</key>
+	<string>loopExceptComposite</string>
+	<key>fusedCupertinoInset</key>
+	<string>queueContextShade</string>
+	<key>futureAroundAction</key>
+	<string>menuBeyondDecorator</string>
+	<key>grainTaskTension</key>
+	<string>interpolationProcessMargin</string>
+	<key>rectSinceFunction</key>
+	<string>popupJobLeft</string>
+	<key>zoneMethodAlignment</key>
+	<string>stampPlatformSkewy</string>
+</dict>
+</plist>

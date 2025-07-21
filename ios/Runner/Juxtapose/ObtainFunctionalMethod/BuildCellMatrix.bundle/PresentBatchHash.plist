@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoChapterSize</key>
+	<string>beginnerLayoutBrightness</string>
+	<key>clipperModeContrast</key>
+	<string>actionPlatformAlignment</string>
+	<key>crudeVectorPosition</key>
+	<string>sortedDrawerEdge</string>
+	<key>mediocreSubscriptionAlignment</key>
+	<string>mainTabbarForce</string>
+	<key>significantAlphaHue</key>
+	<string>sizeLayerFrequency</string>
+</dict>
+</plist>

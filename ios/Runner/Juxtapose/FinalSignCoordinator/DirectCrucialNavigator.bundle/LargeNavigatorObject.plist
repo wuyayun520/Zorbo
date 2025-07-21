@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationPerVar</key>
+	<string>smartCommandName</string>
+	<key>captionPerVariable</key>
+	<string>repositoryFacadeState</string>
+	<key>expandedAboutPattern</key>
+	<string>resilientDelegateMargin</string>
+	<key>gesturedetectorViaProcess</key>
+	<string>pageviewCompositeStatus</string>
+	<key>hardCommandStatus</key>
+	<string>webObserverSkewx</string>
+	<key>inkwellProcessContrast</key>
+	<string>labelSincePrototype</string>
+	<key>protocolInProcess</key>
+	<string>utilBeyondKind</string>
+	<key>singleInjectionCoord</key>
+	<string>errorCycleSaturation</string>
+	<key>spineAmongInterpreter</key>
+	<string>operationPhaseName</string>
+	<key>spriteFacadeName</key>
+	<string>rectBufferVelocity</string>
+</dict>
+</plist>

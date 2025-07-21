@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandFrameworkMode</key>
+	<string>reactiveRectAppearance</string>
+	<key>cubitIncludeVariable</key>
+	<string>dedicatedUsecaseInset</string>
+	<key>directLoopInterval</key>
+	<string>canvasWithoutTask</string>
+	<key>discardedNavigatorTop</key>
+	<string>cupertinoStateSpacing</string>
+	<key>explicitSensorDepth</key>
+	<string>lazyWidgetPressure</string>
+	<key>fixedLoopRotation</key>
+	<string>modelFunctionDelay</string>
+	<key>intuitiveGridColor</key>
+	<string>spotAmongAction</string>
+	<key>taskMementoTint</key>
+	<string>subsequentInjectionInterval</string>
+	<key>tickerActionVisibility</key>
+	<string>presenterPerTier</string>
+</dict>
+</plist>

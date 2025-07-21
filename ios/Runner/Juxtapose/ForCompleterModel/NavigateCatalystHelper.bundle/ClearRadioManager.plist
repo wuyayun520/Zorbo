@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeStoryboardValidation</key>
+	<string>lazyOverlayAppearance</string>
+	<key>alignmentCompositeBottom</key>
+	<string>animationThroughPattern</string>
+	<key>elasticSinkValidation</key>
+	<string>ternaryNumberOffset</string>
+	<key>observerStateValidation</key>
+	<string>greatPlaybackShade</string>
+	<key>protectedInterfacePadding</key>
+	<string>scrollableUsecaseMargin</string>
+	<key>tableTierFeedback</key>
+	<string>cardPrototypeBottom</string>
+	<key>zoneTempleDensity</key>
+	<string>composableEntitySkewy</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleTransitionBehavior</key>
+	<string>channelAtScope</string>
+	<key>asyncModulusKind</key>
+	<string>custompaintFunctionShade</string>
+	<key>currentConvolutionAlignment</key>
+	<string>alignmentLevelBrightness</string>
+	<key>gestureDuringBuffer</key>
+	<string>mediocreChannelVisibility</string>
+	<key>logContextIndex</key>
+	<string>subtleCaptionCenter</string>
+	<key>protocolDespiteDecorator</key>
+	<string>permissiveCupertinoForce</string>
+	<key>smartLayoutAlignment</key>
+	<string>graphicAboutValue</string>
+</dict>
+</plist>

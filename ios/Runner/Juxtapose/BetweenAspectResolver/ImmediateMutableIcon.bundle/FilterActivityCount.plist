@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralStepName</key>
+	<string>commonBaselineHue</string>
+	<key>metadataFunctionRight</key>
+	<string>functionalViewPosition</string>
+	<key>positionExceptVariable</key>
+	<string>scrollableHashInteraction</string>
+	<key>promiseAsState</key>
+	<string>decorationTierInset</string>
+	<key>resizableResponseDelay</key>
+	<string>sineVisitorInset</string>
+	<key>resizableUtilSpeed</key>
+	<string>reactiveDelegateValidation</string>
+	<key>scaleDespiteMemento</key>
+	<string>sortedFactoryMargin</string>
+	<key>textfieldAwayMode</key>
+	<string>standaloneViewContrast</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowContextInteraction</key>
+	<string>accessoryActionFeedback</string>
+	<key>dependencyInterpreterContrast</key>
+	<string>rapidMasterStyle</string>
+	<key>explicitGridviewTension</key>
+	<string>textInAdapter</string>
+	<key>interactiveNibSkewx</key>
+	<string>providerAsStage</string>
+	<key>routerByMethod</key>
+	<string>storyboardLikeDecorator</string>
+</dict>
+</plist>

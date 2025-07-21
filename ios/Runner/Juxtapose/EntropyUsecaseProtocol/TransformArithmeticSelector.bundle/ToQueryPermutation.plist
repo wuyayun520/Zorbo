@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentProcessBottom</key>
+	<string>criticalMenuOffset</string>
+	<key>challengeBesideState</key>
+	<string>dependencyPlatformRight</string>
+	<key>providerAsComposite</key>
+	<string>spineFrameworkMode</string>
+	<key>statelessSpineSkewy</key>
+	<string>stackStageDensity</string>
+</dict>
+</plist>

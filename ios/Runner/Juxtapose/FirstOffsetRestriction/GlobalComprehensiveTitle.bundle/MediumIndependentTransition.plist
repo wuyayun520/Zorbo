@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationSingletonDirection</key>
+	<string>requestTypeCount</string>
+	<key>behaviorForMediator</key>
+	<string>invisibleReferenceBorder</string>
+	<key>futureInterpreterAcceleration</key>
+	<string>publicShaderCoord</string>
+	<key>respectiveNavigatorLocation</key>
+	<string>semanticPrecisionOpacity</string>
+	<key>textProxySpacing</key>
+	<string>buttonLevelFlags</string>
+</dict>
+</plist>

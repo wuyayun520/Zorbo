@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartFrameworkLocation</key>
+	<string>dedicatedResourceHue</string>
+	<key>concurrentInteractorLeft</key>
+	<string>singleChecklistRate</string>
+	<key>configurationVersusSingleton</key>
+	<string>monsterOfChain</string>
+	<key>globalHashDelay</key>
+	<string>arithmeticProxyRate</string>
+	<key>listenerVarTag</key>
+	<string>fixedSceneTension</string>
+	<key>radioOutsideFacade</key>
+	<string>uniformSingletonColor</string>
+	<key>textureViaAdapter</key>
+	<string>mainAlphaVisible</string>
+	<key>tickerFunctionDepth</key>
+	<string>usecaseUntilPhase</string>
+</dict>
+</plist>

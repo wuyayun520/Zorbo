@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderUntilActivity</key>
+	<string>hashUntilCycle</string>
+	<key>lostSpriteOffset</key>
+	<string>variantLayerHue</string>
+	<key>monsterMethodAppearance</key>
+	<string>animatedEqualizationSize</string>
+	<key>profileTierIndex</key>
+	<string>enabledSubscriptionPosition</string>
+	<key>requiredQueueLeft</key>
+	<string>displayableDecorationFlags</string>
+	<key>signShapeContrast</key>
+	<string>repositoryPatternFlags</string>
+	<key>stepCycleState</key>
+	<string>musicPrototypeRight</string>
+	<key>viewVisitorPressure</key>
+	<string>subscriptionCompositeMargin</string>
+</dict>
+</plist>

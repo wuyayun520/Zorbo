@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisContainValue</key>
+	<string>pivotalEquipmentLeft</string>
+	<key>declarativePresenterTop</key>
+	<string>desktopNormShape</string>
+	<key>standaloneQueueAppearance</key>
+	<string>geometricGesturePadding</string>
+	<key>symbolJobForce</key>
+	<string>catalystWorkBehavior</string>
+	<key>tickerCompositeDelay</key>
+	<string>sequentialCapsuleFrequency</string>
+	<key>unactivatedExtensionTop</key>
+	<string>eventContainFramework</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderAtMediator</key>
+	<string>factoryTaskTop</string>
+	<key>desktopTransitionTop</key>
+	<string>mobileReducerDepth</string>
+	<key>drawerInTier</key>
+	<string>constraintParameterSpacing</string>
+	<key>granularStorageDelay</key>
+	<string>inheritedBuilderForce</string>
+	<key>resourceOperationStyle</key>
+	<string>previewStateEdge</string>
+	<key>sliderThroughTemple</key>
+	<string>listviewInsideCommand</string>
+	<key>tappableAlertSpeed</key>
+	<string>playbackContainValue</string>
+	<key>unsortedCubitKind</key>
+	<string>diversifiedBrushSize</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerModeShape</key>
+	<string>mobileIncludeMode</string>
+	<key>ephemeralQueueFeedback</key>
+	<string>entropyEnvironmentHead</string>
+	<key>histogramContainComposite</key>
+	<string>vectorAboutLevel</string>
+	<key>intermediateEntropyBehavior</key>
+	<string>logarithmCommandTheme</string>
+	<key>prevTopicTag</key>
+	<string>isolateAndPlatform</string>
+</dict>
+</plist>

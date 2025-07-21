@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventDuringCycle</key>
+	<string>resourceOrAction</string>
+	<key>modelInsideProcess</key>
+	<string>behaviorCommandBorder</string>
+	<key>navigationShapeMargin</key>
+	<string>priorMethodStyle</string>
+	<key>pageviewBeyondForm</key>
+	<string>profileNumberScale</string>
+	<key>permanentProgressbarHue</key>
+	<string>radioContainState</string>
+</dict>
+</plist>

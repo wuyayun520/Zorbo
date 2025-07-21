@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableCallbackBorder</key>
+	<string>cellAroundDecorator</string>
+	<key>delicatePreviewVisible</key>
+	<string>frameCompositePadding</string>
+	<key>shaderInsideContext</key>
+	<string>roleActivityOrientation</string>
+	<key>tabbarTierPadding</key>
+	<string>durationLayerSkewy</string>
+	<key>tableNearFlyweight</key>
+	<string>modulusJobVelocity</string>
+</dict>
+</plist>

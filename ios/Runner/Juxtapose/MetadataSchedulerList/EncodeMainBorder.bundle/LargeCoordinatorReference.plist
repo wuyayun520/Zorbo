@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardOperationDistance</key>
+	<string>gridStrategyOrigin</string>
+	<key>errorDuringDecorator</key>
+	<string>durationVarState</string>
+	<key>positionedNearParam</key>
+	<string>skinActionInset</string>
+	<key>sensorValueTheme</key>
+	<string>durationAndChain</string>
+	<key>webCallbackStatus</key>
+	<string>documentObserverHead</string>
+</dict>
+</plist>

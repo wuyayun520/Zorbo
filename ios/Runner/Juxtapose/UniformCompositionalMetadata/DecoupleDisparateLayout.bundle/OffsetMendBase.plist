@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousRichtextTail</key>
+	<string>nodeFlyweightVisible</string>
+	<key>containerCommandDuration</key>
+	<string>queueUntilDecorator</string>
+	<key>cupertinoByProxy</key>
+	<string>mutableInterpolationTension</string>
+	<key>effectFromFlyweight</key>
+	<string>resourceStateDensity</string>
+	<key>localizationStructureTheme</key>
+	<string>assetBridgeRight</string>
+	<key>specifyWidgetOrigin</key>
+	<string>histogramAsChain</string>
+</dict>
+</plist>

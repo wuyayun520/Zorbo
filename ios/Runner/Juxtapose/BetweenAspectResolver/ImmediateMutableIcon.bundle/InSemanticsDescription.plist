@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackCommandValidation</key>
+	<string>delegateStateDensity</string>
+	<key>dependencyAdapterFrequency</key>
+	<string>spotPerVar</string>
+	<key>precisionOperationSpeed</key>
+	<string>requiredSizeOrigin</string>
+	<key>priorExpandedScale</key>
+	<string>logarithmBridgeCoord</string>
+	<key>rowPlatformInterval</key>
+	<string>gesturedetectorEnvironmentBottom</string>
+	<key>storePlatformAlignment</key>
+	<string>popupIncludeWork</string>
+	<key>symmetricActionHead</key>
+	<string>coordinatorSinceStructure</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignoredMovementMode</key>
+	<string>referenceActivityFeedback</string>
+	<key>iterativeNavigationRotation</key>
+	<string>dependencyParamCoord</string>
+	<key>statelessPreviewResponse</key>
+	<string>signPerProxy</string>
+</dict>
+</plist>

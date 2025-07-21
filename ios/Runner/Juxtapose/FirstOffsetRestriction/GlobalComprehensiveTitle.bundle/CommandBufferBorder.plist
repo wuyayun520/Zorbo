@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveSpriteRate</key>
+	<string>drawerValueDelay</string>
+	<key>curvePlatformBottom</key>
+	<string>mediumGrainContrast</string>
+	<key>effectForAdapter</key>
+	<string>greatPreviewInteraction</string>
+	<key>handlerScopeMode</key>
+	<string>originalPresenterPadding</string>
+	<key>histogramBridgeColor</key>
+	<string>spineParamTop</string>
+	<key>indicatorPerMode</key>
+	<string>declarativeExceptionFlags</string>
+	<key>missionStrategyMomentum</key>
+	<string>tabbarWorkType</string>
+	<key>pinchableSessionIndex</key>
+	<string>memberForTask</string>
+</dict>
+</plist>

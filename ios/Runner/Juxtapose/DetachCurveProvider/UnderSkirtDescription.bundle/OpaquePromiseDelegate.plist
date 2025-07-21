@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionStrategyDensity</key>
+	<string>stateFrameworkResponse</string>
+	<key>effectPrototypeLeft</key>
+	<string>stampInState</string>
+	<key>localPaddingCount</key>
+	<string>localizationOrMode</string>
+	<key>promiseVisitorDelay</key>
+	<string>mapLevelLocation</string>
+	<key>subscriptionFunctionRotation</key>
+	<string>displayableQueryDepth</string>
+</dict>
+</plist>

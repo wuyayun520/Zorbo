@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistMediatorCount</key>
+	<string>missedGroupBrightness</string>
+	<key>gestureAndMethod</key>
+	<string>chapterSingletonBrightness</string>
+	<key>grayscaleModeScale</key>
+	<string>skinScopeFrequency</string>
+	<key>responseFrameworkCount</key>
+	<string>observerAndFunction</string>
+	<key>specifyTechniqueStyle</key>
+	<string>autoSliderSpeed</string>
+	<key>utilNumberTheme</key>
+	<string>retainedTableSaturation</string>
+</dict>
+</plist>

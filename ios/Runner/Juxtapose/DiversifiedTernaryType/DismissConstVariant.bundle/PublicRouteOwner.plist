@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveDurationInteraction</key>
+	<string>customAccessoryScale</string>
+	<key>decorationAgainstDecorator</key>
+	<string>singletonBesideShape</string>
+	<key>hashMediatorBrightness</key>
+	<string>scrollableCurveDensity</string>
+	<key>priorAccessoryOrientation</key>
+	<string>getxStateBorder</string>
+	<key>spriteScopeSpeed</key>
+	<string>sustainablePreviewFormat</string>
+	<key>topicAroundContext</key>
+	<string>intermediatePresenterEdge</string>
+	<key>touchMethodOrientation</key>
+	<string>localizationAgainstShape</string>
+</dict>
+</plist>

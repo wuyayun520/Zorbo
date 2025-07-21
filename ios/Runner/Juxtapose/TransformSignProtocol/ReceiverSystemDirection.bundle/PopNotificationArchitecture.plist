@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncOfAction</key>
+	<string>alignmentThanShape</string>
+	<key>blocIncludeType</key>
+	<string>errorDecoratorAppearance</string>
+	<key>controllerKindSaturation</key>
+	<string>responsiveManagerInteraction</string>
+	<key>easyActionStyle</key>
+	<string>usedNotificationSize</string>
+	<key>enabledGraphTail</key>
+	<string>gradientLayerOrientation</string>
+	<key>methodObserverRotation</key>
+	<string>notificationCommandType</string>
+	<key>tweenTempleFeedback</key>
+	<string>modelFunctionState</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedGrainInterval</key>
+	<string>progressbarBesideParameter</string>
+	<key>flexibleConfigurationDensity</key>
+	<string>resilientNodeDepth</string>
+	<key>gramFlyweightAppearance</key>
+	<string>resizableOffsetPadding</string>
+	<key>navigatorStateBrightness</key>
+	<string>cupertinoPlatformSaturation</string>
+	<key>requestAwayJob</key>
+	<string>transformerLayerRate</string>
+	<key>robustEntityType</key>
+	<string>integerDuringObserver</string>
+	<key>routerViaCycle</key>
+	<string>plateExceptVisitor</string>
+	<key>topicInVisitor</key>
+	<string>animationShapePadding</string>
+</dict>
+</plist>

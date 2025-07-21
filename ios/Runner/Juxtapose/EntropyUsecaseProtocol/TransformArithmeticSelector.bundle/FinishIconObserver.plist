@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseScaleMomentum</key>
+	<string>sharedTabbarPosition</string>
+	<key>diffableControllerOrientation</key>
+	<string>symbolActionDirection</string>
+	<key>disabledEffectShape</key>
+	<string>layoutStyleCoord</string>
+	<key>effectStyleOrigin</key>
+	<string>momentumParameterIndex</string>
+	<key>memberOfVisitor</key>
+	<string>oldMediaqueryIndex</string>
+	<key>observerExceptForm</key>
+	<string>missionVisitorShade</string>
+	<key>profileExceptOperation</key>
+	<string>basicMusicInteraction</string>
+	<key>sceneAwayMode</key>
+	<string>widgetAroundVisitor</string>
+</dict>
+</plist>

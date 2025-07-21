@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedAppbarShape</key>
+	<string>boxOfAction</string>
+	<key>awaitTypeShape</key>
+	<string>modelExceptCycle</string>
+	<key>cubitModeVisible</key>
+	<string>masterStructureForce</string>
+	<key>lostGridviewOrientation</key>
+	<string>curveViaNumber</string>
+	<key>missedNavigatorPressure</key>
+	<string>actionKindVisible</string>
+	<key>seamlessThemeTint</key>
+	<string>difficultMediaqueryInset</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateSystemOrientation</key>
+	<string>serviceJobIndex</string>
+	<key>multiplicationAmongLayer</key>
+	<string>mediumShaderLocation</string>
+	<key>resolverPerFramework</key>
+	<string>euclideanIconContrast</string>
+	<key>tablePerLayer</key>
+	<string>temporaryViewAlignment</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorSystemAcceleration</key>
+	<string>statefulCellDirection</string>
+	<key>directTitleScale</key>
+	<string>persistentProviderBehavior</string>
+	<key>listviewCommandName</key>
+	<string>previewAdapterStatus</string>
+	<key>mediaFacadeRotation</key>
+	<string>builderDuringAdapter</string>
+	<key>mobxIncludeParam</key>
+	<string>draggableTangentState</string>
+	<key>painterVarSaturation</key>
+	<string>delicateRectBorder</string>
+	<key>reducerTempleTag</key>
+	<string>zoneAdapterDistance</string>
+	<key>remainderPlatformLeft</key>
+	<string>containerBesideCommand</string>
+	<key>similarTextShape</key>
+	<string>isolateParamName</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveBesideStructure</key>
+	<string>commonFragmentDirection</string>
+	<key>managerActivityTop</key>
+	<string>popupContextTransparency</string>
+	<key>matrixModeVisible</key>
+	<string>synchronousSkirtHue</string>
+	<key>methodMementoShade</key>
+	<string>beginnerInterfaceDistance</string>
+	<key>methodOutsideParam</key>
+	<string>statelessLayerBrightness</string>
+	<key>modelStyleOrientation</key>
+	<string>prevCacheFeedback</string>
+	<key>statefulLocalizationSpeed</key>
+	<string>swiftVariableTension</string>
+	<key>symbolOfCycle</key>
+	<string>responsiveAspectResponse</string>
+</dict>
+</plist>

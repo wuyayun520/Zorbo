@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteZoneDuration</key>
+	<string>reactiveProfileSaturation</string>
+	<key>durationAsLevel</key>
+	<string>accordionSensorBrightness</string>
+	<key>featureDuringComposite</key>
+	<string>controllerKindVisible</string>
+	<key>mobileResolverLocation</key>
+	<string>segmentAmongContext</string>
+	<key>mobileScopeRotation</key>
+	<string>modalForCommand</string>
+</dict>
+</plist>

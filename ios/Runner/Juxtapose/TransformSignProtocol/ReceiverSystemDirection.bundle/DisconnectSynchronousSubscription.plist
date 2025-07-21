@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarFunctionStatus</key>
+	<string>typicalPageviewDistance</string>
+	<key>associatedBehaviorSize</key>
+	<string>clipperOutsideOperation</string>
+	<key>explicitDependencySkewy</key>
+	<string>effectAsTier</string>
+	<key>intensitySingletonVisibility</key>
+	<string>interactorContainComposite</string>
+	<key>logLayerTail</key>
+	<string>routeNearOperation</string>
+	<key>mediaqueryPatternDuration</key>
+	<string>metadataPatternDensity</string>
+	<key>resolverPerMethod</key>
+	<string>themeOperationVelocity</string>
+	<key>scrollableEntityTension</key>
+	<string>aspectVarSize</string>
+	<key>widgetSinceStructure</key>
+	<string>anchorFacadeTag</string>
+</dict>
+</plist>

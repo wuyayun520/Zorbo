@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationBesideFlyweight</key>
+	<string>gridviewNumberTop</string>
+	<key>densePresenterSkewx</key>
+	<string>originalLayoutBehavior</string>
+	<key>inkwellAlongState</key>
+	<string>alphaAndTask</string>
+	<key>materialChainOffset</key>
+	<string>robustChallengeMomentum</string>
+	<key>momentumInsideTask</key>
+	<string>firstTimerSpeed</string>
+	<key>operationCycleFormat</key>
+	<string>nativeStoreShade</string>
+	<key>robustControllerCoord</key>
+	<string>layoutChainName</string>
+	<key>textfieldLevelScale</key>
+	<string>tappableServiceOffset</string>
+	<key>unactivatedContainerFrequency</key>
+	<string>histogramStageScale</string>
+</dict>
+</plist>

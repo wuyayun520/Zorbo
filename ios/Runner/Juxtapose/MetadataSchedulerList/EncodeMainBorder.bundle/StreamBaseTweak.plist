@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonPhaseIndex</key>
+	<string>delegateInsideSingleton</string>
+	<key>modelVersusPrototype</key>
+	<string>sliderOperationHue</string>
+	<key>popupSystemTransparency</key>
+	<string>originalNavigatorAcceleration</string>
+	<key>transformerAdapterEdge</key>
+	<string>presenterCompositeValidation</string>
+</dict>
+</plist>

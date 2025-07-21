@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableHeroDepth</key>
+	<string>drawerValuePressure</string>
+	<key>gramPerVariable</key>
+	<string>resourceNumberBorder</string>
+	<key>handlerForVariable</key>
+	<string>subtleInjectionPressure</string>
+	<key>nodeFlyweightOpacity</key>
+	<string>actionOutsideComposite</string>
+	<key>priorIndicatorMargin</key>
+	<string>retainedPriorityShape</string>
+	<key>unactivatedPositionedBottom</key>
+	<string>baseParameterScale</string>
+</dict>
+</plist>

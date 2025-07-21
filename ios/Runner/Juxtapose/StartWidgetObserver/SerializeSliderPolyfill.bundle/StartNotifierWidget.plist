@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateSystemStyle</key>
+	<string>characterOrAdapter</string>
+	<key>flexibleViewBound</key>
+	<string>painterActivityDensity</string>
+	<key>loopViaEnvironment</key>
+	<string>decorationExceptParam</string>
+	<key>marginAlongVariable</key>
+	<string>tensorHeapPosition</string>
+	<key>nibMethodFrequency</key>
+	<string>discardedTextAlignment</string>
+	<key>semanticAlignmentColor</key>
+	<string>titleSystemMode</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticSemanticsStyle</key>
+	<string>diffablePositionForce</string>
+	<key>loopBesideShape</key>
+	<string>scaleProxyBorder</string>
+	<key>singletonDespiteForm</key>
+	<string>utilOrActivity</string>
+	<key>standaloneResolverVisibility</key>
+	<string>protectedActionResponse</string>
+</dict>
+</plist>

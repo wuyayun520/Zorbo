@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionBeyondCommand</key>
+	<string>previewParameterResponse</string>
+	<key>customizedStorageRight</key>
+	<string>newestBorderState</string>
+	<key>decorationOrValue</key>
+	<string>momentumCycleInteraction</string>
+	<key>interactorActionRate</key>
+	<string>resilientConsumerCount</string>
+	<key>staticResponseSaturation</key>
+	<string>topicInsideActivity</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseConstraintOrientation</key>
+	<string>consumerAroundCycle</string>
+	<key>firstEventInteraction</key>
+	<string>logThroughObserver</string>
+	<key>pageviewKindColor</key>
+	<string>subpixelOrLayer</string>
+	<key>positionedContainStage</key>
+	<string>channelMementoTheme</string>
+	<key>repositoryAroundStrategy</key>
+	<string>publicQueueInterval</string>
+</dict>
+</plist>

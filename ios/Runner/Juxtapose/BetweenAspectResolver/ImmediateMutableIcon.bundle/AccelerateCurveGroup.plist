@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveDropdownbuttonOpacity</key>
+	<string>smallInteractorResponse</string>
+	<key>allocatorWithoutAdapter</key>
+	<string>curveMementoForce</string>
+	<key>delicateLayoutVelocity</key>
+	<string>statelessFlyweightStatus</string>
+	<key>integerCommandFeedback</key>
+	<string>iterativeAllocatorFormat</string>
+	<key>modelPhaseColor</key>
+	<string>autoRowOrigin</string>
+	<key>promiseParamOpacity</key>
+	<string>layerInsideAdapter</string>
+	<key>widgetInsideValue</key>
+	<string>reactiveSceneTheme</string>
+</dict>
+</plist>

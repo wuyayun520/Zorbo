@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customOffsetOrientation</key>
+	<string>localizationForProcess</string>
+	<key>ephemeralAppbarResponse</key>
+	<string>taskScopeDepth</string>
+	<key>factoryAsComposite</key>
+	<string>tableStyleLocation</string>
+	<key>indicatorModeRight</key>
+	<string>signAlongMediator</string>
+	<key>iterativeMetadataDirection</key>
+	<string>intermediateConfigurationTag</string>
+	<key>localResourceHue</key>
+	<string>protocolParamBrightness</string>
+	<key>scaffoldAdapterHead</key>
+	<string>comprehensiveAlignmentCenter</string>
+</dict>
+</plist>

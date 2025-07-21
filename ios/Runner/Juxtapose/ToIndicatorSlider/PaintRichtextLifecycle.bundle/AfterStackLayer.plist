@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellAwayMode</key>
+	<string>firstViewStyle</string>
+	<key>futureStrategyTension</key>
+	<string>convolutionTaskAcceleration</string>
+	<key>iconVarType</key>
+	<string>logarithmActivityBrightness</string>
+	<key>layoutTaskDensity</key>
+	<string>materialNodeColor</string>
+	<key>switchFromForm</key>
+	<string>advancedGetxStyle</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonBridgeOrientation</key>
+	<string>sortedActivityTransparency</string>
+	<key>disabledCubitMode</key>
+	<string>checklistBesideComposite</string>
+	<key>interactiveRequestShade</key>
+	<string>concurrentStoryboardSaturation</string>
+	<key>keyStatelessHue</key>
+	<string>mobileCaptionBound</string>
+</dict>
+</plist>

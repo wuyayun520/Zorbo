@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorProxyBound</key>
+	<string>graphPerInterpreter</string>
+	<key>currentSensorResponse</key>
+	<string>resourceBufferLocation</string>
+	<key>disparateSliderScale</key>
+	<string>anchorByAdapter</string>
+	<key>providerUntilProxy</key>
+	<string>ternaryJobSpacing</string>
+	<key>rowLayerStatus</key>
+	<string>autoObserverDistance</string>
+	<key>sinkInBridge</key>
+	<string>sampleAroundWork</string>
+	<key>tweenVariableDensity</key>
+	<string>declarativeCurveAcceleration</string>
+</dict>
+</plist>

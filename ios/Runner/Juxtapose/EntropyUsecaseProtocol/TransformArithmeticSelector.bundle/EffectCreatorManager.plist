@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activePositionedAcceleration</key>
+	<string>sliderOutsideCycle</string>
+	<key>beginnerReducerSkewx</key>
+	<string>sortedSensorFeedback</string>
+	<key>chartCycleBorder</key>
+	<string>alignmentStructurePressure</string>
+	<key>consumerPatternOpacity</key>
+	<string>gestureParamHead</string>
+	<key>handlerObserverVisible</key>
+	<string>interactorFromFunction</string>
+	<key>labelMethodVelocity</key>
+	<string>multiplicationTaskPressure</string>
+	<key>spineCommandScale</key>
+	<string>basicNodeFlags</string>
+</dict>
+</plist>

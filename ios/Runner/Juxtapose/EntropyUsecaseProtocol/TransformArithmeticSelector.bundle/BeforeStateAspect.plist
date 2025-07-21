@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentShapeMomentum</key>
+	<string>accessoryPatternMargin</string>
+	<key>asyncResponseBehavior</key>
+	<string>particleBeyondTier</string>
+	<key>backwardBufferType</key>
+	<string>routeSystemMode</string>
+	<key>resolverExceptType</key>
+	<string>precisionStateFormat</string>
+	<key>similarResponseLeft</key>
+	<string>alignmentActionTransparency</string>
+	<key>skirtForContext</key>
+	<string>heapAtAction</string>
+	<key>subpixelInsidePhase</key>
+	<string>effectMethodType</string>
+</dict>
+</plist>

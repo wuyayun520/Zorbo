@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>richtextBridgeStatus</key>
+	<string>radioForTask</string>
+	<key>routeLevelForce</key>
+	<string>extensionSingletonDistance</string>
+	<key>spotNearLevel</key>
+	<string>fragmentBesideType</string>
+	<key>zoneWithoutMethod</key>
+	<string>activityAsProcess</string>
+</dict>
+</plist>

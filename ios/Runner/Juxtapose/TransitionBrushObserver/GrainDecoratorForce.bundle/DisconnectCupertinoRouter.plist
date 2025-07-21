@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentMethodHue</key>
+	<string>independentTopicKind</string>
+	<key>animatedCharacterRight</key>
+	<string>sessionAwayVariable</string>
+	<key>behaviorStyleKind</key>
+	<string>radiusTierBehavior</string>
+	<key>injectionParamDuration</key>
+	<string>durationTaskPadding</string>
+	<key>largeViewAppearance</key>
+	<string>primaryScaleVisible</string>
+	<key>managerProxyKind</key>
+	<string>sizeMethodBorder</string>
+	<key>tappableZoneSpeed</key>
+	<string>featureVersusTemple</string>
+	<key>taskUntilBuffer</key>
+	<string>finalGridSkewx</string>
+	<key>zoneParamDepth</key>
+	<string>brushStructureDelay</string>
+</dict>
+</plist>

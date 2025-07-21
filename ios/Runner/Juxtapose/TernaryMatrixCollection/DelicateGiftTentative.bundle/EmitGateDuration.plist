@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionExceptComposite</key>
+	<string>managerExceptMethod</string>
+	<key>dialogsInsideStructure</key>
+	<string>lastControllerFeedback</string>
+	<key>groupStructureOpacity</key>
+	<string>gridPatternBehavior</string>
+	<key>subpixelAroundEnvironment</key>
+	<string>drawerKindMomentum</string>
+	<key>symbolDuringShape</key>
+	<string>directSkirtState</string>
+	<key>textfieldMethodDelay</key>
+	<string>workflowParamBottom</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationStyleSaturation</key>
+	<string>heroParamSize</string>
+	<key>listenerParamSkewy</key>
+	<string>diversifiedEquipmentRate</string>
+	<key>localizationAlongMediator</key>
+	<string>alignmentTempleAppearance</string>
+	<key>relationalLayerOpacity</key>
+	<string>roleViaLevel</string>
+	<key>reusableAsyncDepth</key>
+	<string>sinkVersusStyle</string>
+	<key>scaffoldStageVelocity</key>
+	<string>missedRouteName</string>
+	<key>streamThroughSingleton</key>
+	<string>firstDescriptorFlags</string>
+</dict>
+</plist>

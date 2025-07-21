@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerUntilShape</key>
+	<string>lostPromiseState</string>
+	<key>interfacePhaseStyle</key>
+	<string>operationDuringProxy</string>
+	<key>nodeAwayStructure</key>
+	<string>rowExceptBridge</string>
+	<key>notifierInFlyweight</key>
+	<string>routeAndMode</string>
+	<key>requestThroughDecorator</key>
+	<string>draggableScaffoldEdge</string>
+	<key>signPerFramework</key>
+	<string>remainderValueStatus</string>
+	<key>statefulGateAcceleration</key>
+	<string>statefulBaselineShape</string>
+</dict>
+</plist>

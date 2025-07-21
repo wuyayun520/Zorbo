@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentSystemStatus</key>
+	<string>declarativeToolStyle</string>
+	<key>sceneForObserver</key>
+	<string>chartIncludeValue</string>
+	<key>tappablePrecisionFormat</key>
+	<string>viewPatternEdge</string>
+</dict>
+</plist>

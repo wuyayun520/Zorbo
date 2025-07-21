@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleFunctionInterval</key>
+	<string>pointCompositePadding</string>
+	<key>criticalExponentValidation</key>
+	<string>optionInValue</string>
+	<key>currentCoordinatorFlags</key>
+	<string>cupertinoResponseRotation</string>
+	<key>decorationValueAppearance</key>
+	<string>reactiveUtilSpacing</string>
+	<key>easyOperationDuration</key>
+	<string>desktopGrayscaleLeft</string>
+	<key>futureFrameworkRotation</key>
+	<string>textInsideMode</string>
+	<key>promiseModeOffset</key>
+	<string>rowLevelOpacity</string>
+	<key>streamStageScale</key>
+	<string>stepBridgeFrequency</string>
+</dict>
+</plist>

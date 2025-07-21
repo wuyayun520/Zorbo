@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoDurationIndex</key>
+	<string>standaloneMarginRotation</string>
+	<key>cacheInsideTier</key>
+	<string>overlayTaskDistance</string>
+	<key>interpolationInsideEnvironment</key>
+	<string>hyperbolicMovementAcceleration</string>
+	<key>interpolationPerContext</key>
+	<string>interactiveBinaryBrightness</string>
+	<key>mediaqueryThanMethod</key>
+	<string>cubitSingletonAlignment</string>
+	<key>multiplicationWithoutTier</key>
+	<string>offsetStageSkewx</string>
+	<key>mutableBuilderCenter</key>
+	<string>positionDuringComposite</string>
+	<key>utilIncludeTier</key>
+	<string>threadContainPhase</string>
+</dict>
+</plist>

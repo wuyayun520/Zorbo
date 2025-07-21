@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentChainFeedback</key>
+	<string>sliderCompositeBottom</string>
+	<key>alignmentPatternLocation</key>
+	<string>cacheWithStage</string>
+	<key>hashScopeTransparency</key>
+	<string>brushWithLevel</string>
+	<key>menuJobName</key>
+	<string>popupValueState</string>
+	<key>otherCubitTint</key>
+	<string>uniformInstructionAlignment</string>
+	<key>prismaticMapMargin</key>
+	<string>largeDependencyIndex</string>
+	<key>symbolPrototypeLocation</key>
+	<string>robustContainerDepth</string>
+</dict>
+</plist>

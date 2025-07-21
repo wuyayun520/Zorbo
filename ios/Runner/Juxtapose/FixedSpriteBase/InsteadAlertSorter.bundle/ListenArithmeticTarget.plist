@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exceptionForType</key>
+	<string>secondRepositorySize</string>
+	<key>listenerOperationSpeed</key>
+	<string>interactorExceptPhase</string>
+	<key>nodeBesideAction</key>
+	<string>elasticDelegateAcceleration</string>
+	<key>sizedboxFacadeSpacing</key>
+	<string>controllerCompositeCoord</string>
+</dict>
+</plist>

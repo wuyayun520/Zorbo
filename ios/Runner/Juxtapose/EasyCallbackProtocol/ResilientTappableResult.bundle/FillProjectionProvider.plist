@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertFacadeValidation</key>
+	<string>rowLevelContrast</string>
+	<key>animatedFrameRate</key>
+	<string>futureThanScope</string>
+	<key>collectionFrameworkName</key>
+	<string>geometricCommandContrast</string>
+	<key>grainUntilPlatform</key>
+	<string>prevUsecaseInterval</string>
+	<key>musicTypeRight</key>
+	<string>ephemeralMenuSpacing</string>
+	<key>radioOfOperation</key>
+	<string>dependencyPatternTail</string>
+	<key>rapidDecorationMode</key>
+	<string>tweenStrategyMargin</string>
+	<key>storyboardContextOrigin</key>
+	<string>singleChannelInterval</string>
+	<key>streamWithoutState</key>
+	<string>transitionMethodKind</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyFutureMargin</key>
+	<string>baseAwayCommand</string>
+	<key>ignoredScrollTop</key>
+	<string>viewScopeEdge</string>
+	<key>liteGraphSpeed</key>
+	<string>awaitInShape</string>
+	<key>resultSystemInterval</key>
+	<string>sharedCoordinatorBorder</string>
+	<key>smartTransformerSize</key>
+	<string>sliderOfSingleton</string>
+	<key>storeAndEnvironment</key>
+	<string>staticProjectMode</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorMementoDirection</key>
+	<string>originalMobileBehavior</string>
+	<key>decorationInsideFunction</key>
+	<string>spriteVariableInteraction</string>
+	<key>dedicatedManagerCount</key>
+	<string>providerCyclePadding</string>
+	<key>masterLikeBridge</key>
+	<string>nativeTaskName</string>
+	<key>navigatorAmongDecorator</key>
+	<string>priorityStructureOpacity</string>
+	<key>projectionBeyondVariable</key>
+	<string>controllerVarMode</string>
+	<key>skinWithoutFacade</key>
+	<string>axisIncludeAction</string>
+	<key>symmetricProgressbarShape</key>
+	<string>blocInFunction</string>
+</dict>
+</plist>

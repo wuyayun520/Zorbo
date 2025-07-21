@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleOrFacade</key>
+	<string>agileGridOrientation</string>
+	<key>functionalGraphStatus</key>
+	<string>dedicatedActivityVisibility</string>
+	<key>iconWithoutMemento</key>
+	<string>screenPatternBorder</string>
+	<key>techniqueVersusVariable</key>
+	<string>resilientMissionPadding</string>
+</dict>
+</plist>

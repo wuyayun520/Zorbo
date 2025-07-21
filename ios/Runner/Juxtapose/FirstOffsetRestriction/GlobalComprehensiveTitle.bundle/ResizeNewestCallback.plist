@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperWorkPadding</key>
+	<string>asyncSineFormat</string>
+	<key>effectBufferShade</key>
+	<string>usedApertureKind</string>
+	<key>largeRichtextBorder</key>
+	<string>positionVariableScale</string>
+	<key>positionObserverAcceleration</key>
+	<string>accessibleCollectionTension</string>
+	<key>swiftPerTask</key>
+	<string>missedListenerColor</string>
+</dict>
+</plist>

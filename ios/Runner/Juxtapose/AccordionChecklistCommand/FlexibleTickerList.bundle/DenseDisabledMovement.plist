@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveCatalystKind</key>
+	<string>visibleScreenTheme</string>
+	<key>asyncDuringBridge</key>
+	<string>effectTaskScale</string>
+	<key>certificateMediatorRight</key>
+	<string>resizableFlexDepth</string>
+	<key>commandSinceValue</key>
+	<string>exceptionSinceEnvironment</string>
+	<key>easyButtonContrast</key>
+	<string>specifierLikeMediator</string>
+	<key>gateStrategyTag</key>
+	<string>resourceEnvironmentScale</string>
+	<key>labelVersusBuffer</key>
+	<string>effectAroundDecorator</string>
+	<key>reductionPrototypeType</key>
+	<string>layerActionDepth</string>
+	<key>routerProcessDepth</key>
+	<string>queueProxyRate</string>
+</dict>
+</plist>

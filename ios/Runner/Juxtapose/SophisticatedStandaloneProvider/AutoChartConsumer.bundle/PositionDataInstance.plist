@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalUtilValidation</key>
+	<string>overlaySingletonBehavior</string>
+	<key>queueFacadeFrequency</key>
+	<string>permanentIsolateOrientation</string>
+	<key>queueMediatorHue</key>
+	<string>intensityWithoutStage</string>
+	<key>uniformDelegateKind</key>
+	<string>globalCurveTension</string>
+</dict>
+</plist>

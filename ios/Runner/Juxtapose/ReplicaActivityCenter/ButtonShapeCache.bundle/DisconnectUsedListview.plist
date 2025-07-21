@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderNearLevel</key>
+	<string>widgetMethodMode</string>
+	<key>buttonVariableSpacing</key>
+	<string>unactivatedCurveLocation</string>
+	<key>graphicShapeDelay</key>
+	<string>apertureActivityFeedback</string>
+	<key>iterativeTextfieldDistance</key>
+	<string>rowDuringNumber</string>
+	<key>loopAgainstNumber</key>
+	<string>observerViaMemento</string>
+	<key>rapidBitrateSize</key>
+	<string>touchWithoutMode</string>
+	<key>resourceStageAlignment</key>
+	<string>symbolOutsideOperation</string>
+	<key>roleAlongAction</key>
+	<string>draggableSwitchAcceleration</string>
+	<key>spriteSinceParam</key>
+	<string>diffableMarginMargin</string>
+</dict>
+</plist>

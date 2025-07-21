@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubeAboutAdapter</key>
+	<string>loopAtOperation</string>
+	<key>featureVersusChain</key>
+	<string>gestureAdapterState</string>
+	<key>fixedExpandedKind</key>
+	<string>inactiveContainerRotation</string>
+	<key>iconAwayKind</key>
+	<string>timerPlatformLocation</string>
+	<key>litePositionedSize</key>
+	<string>rapidResultSkewy</string>
+	<key>primaryPainterDistance</key>
+	<string>delegateMethodEdge</string>
+	<key>sineThanFacade</key>
+	<string>stateVersusType</string>
+	<key>singletonOfVar</key>
+	<string>routerForBridge</string>
+	<key>textParamValidation</key>
+	<string>precisionInMediator</string>
+</dict>
+</plist>

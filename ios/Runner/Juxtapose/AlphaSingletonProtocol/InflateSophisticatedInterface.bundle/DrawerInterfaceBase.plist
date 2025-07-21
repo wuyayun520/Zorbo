@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticScrollInterval</key>
+	<string>textOfMemento</string>
+	<key>memberByFramework</key>
+	<string>gridLayerSkewx</string>
+	<key>mobxAboutVar</key>
+	<string>nodeBufferTheme</string>
+	<key>presenterDuringContext</key>
+	<string>nibBeyondMethod</string>
+	<key>presenterSinceFunction</key>
+	<string>routerShapeStyle</string>
+	<key>tappableBitrateHue</key>
+	<string>scrollMediatorVelocity</string>
+	<key>timerFormInset</key>
+	<string>elasticCollectionDuration</string>
+	<key>viewTierSize</key>
+	<string>cubitAgainstBuffer</string>
+</dict>
+</plist>

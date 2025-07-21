@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellCompositeBehavior</key>
+	<string>threadScopeEdge</string>
+	<key>crucialGramSpeed</key>
+	<string>captionActionVelocity</string>
+	<key>effectVariableAcceleration</key>
+	<string>effectWorkTag</string>
+	<key>frameOrValue</key>
+	<string>navigatorVersusBridge</string>
+	<key>inheritedMusicPadding</key>
+	<string>tappableTaskFormat</string>
+	<key>interfaceOutsidePlatform</key>
+	<string>alignmentCompositeResponse</string>
+	<key>isolateActivityIndex</key>
+	<string>concurrentTransitionCenter</string>
+	<key>kernelPerFramework</key>
+	<string>agileFrameVisible</string>
+	<key>scaleAlongVisitor</key>
+	<string>roleViaTemple</string>
+</dict>
+</plist>

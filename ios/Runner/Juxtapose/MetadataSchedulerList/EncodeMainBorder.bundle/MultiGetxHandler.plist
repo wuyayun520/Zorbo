@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateSingletonFeedback</key>
+	<string>dimensionPatternShape</string>
+	<key>independentTickerType</key>
+	<string>sinkAtLevel</string>
+	<key>mediaAsCommand</key>
+	<string>commonUtilBottom</string>
+	<key>modulusBeyondJob</key>
+	<string>assetByLayer</string>
+	<key>permanentOptionSpeed</key>
+	<string>coordinatorAdapterFrequency</string>
+	<key>stateFrameworkSaturation</key>
+	<string>menuFromBuffer</string>
+	<key>vectorExceptCycle</key>
+	<string>interpolationAlongTask</string>
+	<key>visibleEntityAlignment</key>
+	<string>similarTransformerOrientation</string>
+</dict>
+</plist>

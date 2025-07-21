@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationWithMethod</key>
+	<string>retainedManagerMode</string>
+	<key>inactivePainterFormat</key>
+	<string>actionByContext</string>
+	<key>interactiveSignRate</key>
+	<string>behaviorSinceTask</string>
+	<key>modelObserverHead</key>
+	<string>transformerLayerVisibility</string>
+	<key>nodeStateMomentum</key>
+	<string>diffableCompleterAcceleration</string>
+	<key>priorityNumberTop</key>
+	<string>streamVersusDecorator</string>
+	<key>reducerFacadeShape</key>
+	<string>inheritedBehaviorBound</string>
+</dict>
+</plist>

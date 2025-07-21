@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeFactoryVelocity</key>
+	<string>reusableZoneSaturation</string>
+	<key>baselineLikeChain</key>
+	<string>reducerInsideCommand</string>
+	<key>customTextValidation</key>
+	<string>singletonAsMode</string>
+	<key>customizedConvolutionSize</key>
+	<string>animatedOptionMode</string>
+	<key>grainMediatorBehavior</key>
+	<string>alphaScopeScale</string>
+	<key>retainedSlashMode</key>
+	<string>notificationAwayVariable</string>
+	<key>stepCompositeOrientation</key>
+	<string>animationAboutValue</string>
+</dict>
+</plist>

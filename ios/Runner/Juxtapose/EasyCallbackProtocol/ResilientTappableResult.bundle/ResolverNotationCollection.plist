@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseOfVar</key>
+	<string>repositoryInNumber</string>
+	<key>chartPrototypeIndex</key>
+	<string>managerFormInset</string>
+	<key>keyLocalizationSaturation</key>
+	<string>standaloneAlphaContrast</string>
+	<key>referenceAgainstStyle</key>
+	<string>paddingNumberDistance</string>
+	<key>staticQueueSkewx</key>
+	<string>sliderPatternValidation</string>
+	<key>streamAsSingleton</key>
+	<string>interactiveCursorTransparency</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackVersusShape</key>
+	<string>singleTransitionValidation</string>
+	<key>columnEnvironmentValidation</key>
+	<string>dynamicCurveSize</string>
+	<key>drawerPerFramework</key>
+	<string>specifierUntilNumber</string>
+	<key>eventNearStage</key>
+	<string>sizedboxContextOrigin</string>
+	<key>flexibleCommandSkewy</key>
+	<string>geometricInjectionAcceleration</string>
+	<key>normalActivityVisibility</key>
+	<string>commandPerInterpreter</string>
+	<key>reactiveControllerDuration</key>
+	<string>tabviewTempleAlignment</string>
+	<key>relationalControllerScale</key>
+	<string>certificateAwayType</string>
+</dict>
+</plist>

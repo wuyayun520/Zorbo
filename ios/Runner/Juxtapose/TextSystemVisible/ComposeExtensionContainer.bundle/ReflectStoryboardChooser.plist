@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentThroughLevel</key>
+	<string>multiThreadRate</string>
+	<key>certificateMementoFeedback</key>
+	<string>reducerIncludeStage</string>
+	<key>chartMementoSaturation</key>
+	<string>pointPerState</string>
+	<key>cubitVarCenter</key>
+	<string>coordinatorCommandVelocity</string>
+	<key>listenerFunctionTail</key>
+	<string>musicCommandName</string>
+	<key>resolverContainEnvironment</key>
+	<string>progressbarLayerSkewy</string>
+	<key>sizeFormContrast</key>
+	<string>fixedMusicVisibility</string>
+</dict>
+</plist>

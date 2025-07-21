@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorBesideFlyweight</key>
+	<string>cosineWithFramework</string>
+	<key>animationFromFlyweight</key>
+	<string>serviceNearPattern</string>
+	<key>asyncThroughOperation</key>
+	<string>unsortedRadiusScale</string>
+	<key>captionAndTemple</key>
+	<string>numericalEffectInset</string>
+	<key>characterParamState</key>
+	<string>vectorActionFeedback</string>
+	<key>concurrentCertificateInset</key>
+	<string>cartesianToolBehavior</string>
+	<key>durationMementoShape</key>
+	<string>textfieldAgainstCommand</string>
+	<key>injectionOrPhase</key>
+	<string>bufferCycleScale</string>
+	<key>sliderOrTask</key>
+	<string>tickerIncludeShape</string>
+</dict>
+</plist>

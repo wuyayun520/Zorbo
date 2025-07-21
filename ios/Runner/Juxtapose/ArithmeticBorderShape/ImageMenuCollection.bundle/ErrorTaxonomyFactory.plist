@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaShapeVelocity</key>
+	<string>asyncAmongStage</string>
+	<key>currentCycleInteraction</key>
+	<string>seamlessBoxInteraction</string>
+	<key>nibValueVelocity</key>
+	<string>vectorVersusStyle</string>
+	<key>queryStageHead</key>
+	<string>imageInSingleton</string>
+	<key>resilientActionTop</key>
+	<string>tickerInPrototype</string>
+	<key>swiftWithStyle</key>
+	<string>previewNumberDepth</string>
+</dict>
+</plist>

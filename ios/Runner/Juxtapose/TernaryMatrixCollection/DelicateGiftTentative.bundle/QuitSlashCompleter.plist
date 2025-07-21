@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveChapterTail</key>
+	<string>usedQueryCoord</string>
+	<key>certificateAsAdapter</key>
+	<string>dependencyOrAdapter</string>
+	<key>directlyAwaitTint</key>
+	<string>draggableResultTint</string>
+	<key>directlyLogLocation</key>
+	<string>visibleStatefulTail</string>
+	<key>grayscaleAlongMediator</key>
+	<string>graphicTaskFrequency</string>
+	<key>imageBeyondFunction</key>
+	<string>graphWithStyle</string>
+	<key>mediaBeyondFramework</key>
+	<string>asynchronousMenuResponse</string>
+	<key>missedPresenterVelocity</key>
+	<string>positionAroundFacade</string>
+	<key>repositoryAmongLayer</key>
+	<string>coordinatorFromMediator</string>
+	<key>tabbarBufferResponse</key>
+	<string>customStreamInset</string>
+</dict>
+</plist>

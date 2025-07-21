@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletPatternFormat</key>
+	<string>gridviewCycleBottom</string>
+	<key>curveFromMemento</key>
+	<string>blocMediatorVisible</string>
+	<key>dynamicInteractorAppearance</key>
+	<string>customInterfacePadding</string>
+	<key>functionalCommandBound</key>
+	<string>curveTaskFeedback</string>
+	<key>normalResolverStyle</key>
+	<string>captionOfParam</string>
+	<key>semanticCapsuleCount</key>
+	<string>timerDespiteSingleton</string>
+	<key>tensorInteractorInterval</key>
+	<string>hyperbolicRichtextFlags</string>
+</dict>
+</plist>

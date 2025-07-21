@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>groupBeyondJob</key>
+	<string>containerLikeScope</string>
+	<key>independentPointPosition</key>
+	<string>requestVersusState</string>
+	<key>interpolationInsideShape</key>
+	<string>webPromiseDepth</string>
+	<key>lastStepRotation</key>
+	<string>descriptionParameterScale</string>
+	<key>layerParameterFlags</key>
+	<string>localGestureHead</string>
+	<key>resourceActivityMomentum</key>
+	<string>disparateActionFlags</string>
+</dict>
+</plist>

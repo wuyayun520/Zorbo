@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableCapacitiesBound</key>
+	<string>directlyConstraintCoord</string>
+	<key>imperativeIconMargin</key>
+	<string>accessibleScaffoldTheme</string>
+	<key>mediumCommandPadding</key>
+	<string>signSingletonInset</string>
+	<key>multiPlateName</key>
+	<string>getxAmongAction</string>
+	<key>priorityAdapterOffset</key>
+	<string>disabledViewDensity</string>
+	<key>relationalReferenceTransparency</key>
+	<string>customizedActivitySaturation</string>
+	<key>resourceWithForm</key>
+	<string>singletonDuringJob</string>
+	<key>spinePerInterpreter</key>
+	<string>textureInChain</string>
+	<key>vectorTaskAlignment</key>
+	<string>fusedIndicatorTag</string>
+</dict>
+</plist>

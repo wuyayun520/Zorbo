@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>durationContextFeedback</key>
+	<string>agileControllerSkewy</string>
+	<key>entropyOrLayer</key>
+	<string>cellLevelSpeed</string>
+	<key>flexFlyweightCoord</key>
+	<string>frameStatePadding</string>
+	<key>independentEquipmentHead</key>
+	<string>primaryConfigurationDuration</string>
+	<key>liteImageMargin</key>
+	<string>baselineLayerColor</string>
+	<key>rowCompositeShade</key>
+	<string>batchAmongFlyweight</string>
+	<key>webListenerCenter</key>
+	<string>commandAgainstStage</string>
+</dict>
+</plist>

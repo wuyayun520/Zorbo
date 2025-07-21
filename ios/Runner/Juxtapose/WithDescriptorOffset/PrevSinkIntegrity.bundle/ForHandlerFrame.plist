@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featureBridgeSkewy</key>
+	<string>intermediateBlocShape</string>
+	<key>layoutAgainstPlatform</key>
+	<string>coordinatorBeyondCommand</string>
+	<key>layoutOperationTail</key>
+	<string>navigationThroughStructure</string>
+	<key>listviewBesideContext</key>
+	<string>builderExceptPrototype</string>
+	<key>methodFlyweightDepth</key>
+	<string>dropdownbuttonBesideVisitor</string>
+	<key>mutableNotificationInset</key>
+	<string>gridviewEnvironmentTail</string>
+	<key>presenterObserverPressure</key>
+	<string>methodActionType</string>
+	<key>slashChainRotation</key>
+	<string>specifierBeyondPlatform</string>
+	<key>vectorWithoutJob</key>
+	<string>tabviewStructureAcceleration</string>
+</dict>
+</plist>

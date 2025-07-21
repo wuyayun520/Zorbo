@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioAmongFramework</key>
+	<string>disabledTweenFeedback</string>
+	<key>cupertinoWithoutAdapter</key>
+	<string>utilThroughSystem</string>
+	<key>featureAboutTemple</key>
+	<string>tweenBeyondSingleton</string>
+	<key>fragmentAtFacade</key>
+	<string>liteSegueBrightness</string>
+	<key>roleSystemTint</key>
+	<string>unactivatedEffectVisible</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionInsideParam</key>
+	<string>transitionScopeName</string>
+	<key>challengeBeyondType</key>
+	<string>coordinatorAmongFunction</string>
+	<key>eventFacadeRotation</key>
+	<string>resolverModeName</string>
+	<key>normalTextfieldSkewx</key>
+	<string>zonePatternValidation</string>
+	<key>segmentLevelOpacity</key>
+	<string>iterativeCommandOpacity</string>
+	<key>sliderExceptTier</key>
+	<string>composableRequestSkewx</string>
+	<key>uniformQueryFlags</key>
+	<string>mobxLikeDecorator</string>
+</dict>
+</plist>

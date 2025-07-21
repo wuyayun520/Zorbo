@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentRepositorySaturation</key>
+	<string>criticalSwiftForce</string>
+	<key>grainStateFrequency</key>
+	<string>stateVarTail</string>
+	<key>gridOfDecorator</key>
+	<string>newestViewBrightness</string>
+	<key>hyperbolicEffectEdge</key>
+	<string>widgetThroughCommand</string>
+	<key>keyBufferContrast</key>
+	<string>handlerViaKind</string>
+	<key>nativeChecklistValidation</key>
+	<string>stepJobAcceleration</string>
+</dict>
+</plist>

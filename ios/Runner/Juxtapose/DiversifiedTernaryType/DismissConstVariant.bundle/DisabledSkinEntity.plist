@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryPlatformHead</key>
+	<string>signByFramework</string>
+	<key>layoutByInterpreter</key>
+	<string>directSemanticsSpacing</string>
+	<key>musicShapeFeedback</key>
+	<string>topicUntilComposite</string>
+	<key>projectionWithoutPhase</key>
+	<string>cubitFromActivity</string>
+	<key>textureAgainstWork</key>
+	<string>textLevelHue</string>
+	<key>uniformFutureIndex</key>
+	<string>singleInteractorShade</string>
+</dict>
+</plist>

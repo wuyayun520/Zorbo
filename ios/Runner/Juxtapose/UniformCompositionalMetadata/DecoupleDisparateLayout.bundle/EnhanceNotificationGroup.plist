@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gesturedetectorStateFormat</key>
+	<string>normalMaterialBottom</string>
+	<key>interactorBufferSkewy</key>
+	<string>positionWithCycle</string>
+	<key>missedConsumerDirection</key>
+	<string>arithmeticShapeValidation</string>
+	<key>optionForSystem</key>
+	<string>projectionOrKind</string>
+	<key>progressbarBufferKind</key>
+	<string>positionPatternTop</string>
+	<key>staticProjectionTag</key>
+	<string>methodDuringCycle</string>
+	<key>touchObserverHead</key>
+	<string>usecaseActionAppearance</string>
+	<key>usedTopicFeedback</key>
+	<string>precisionVersusPhase</string>
+</dict>
+</plist>

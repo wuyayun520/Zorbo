@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationParamValidation</key>
+	<string>effectMethodSkewy</string>
+	<key>canvasLayerAcceleration</key>
+	<string>movementInterpreterCount</string>
+	<key>challengeFacadeBehavior</key>
+	<string>grainLikeVar</string>
+	<key>featureChainSpacing</key>
+	<string>buttonWithCommand</string>
+	<key>sinkAroundValue</key>
+	<string>awaitForPrototype</string>
+</dict>
+</plist>

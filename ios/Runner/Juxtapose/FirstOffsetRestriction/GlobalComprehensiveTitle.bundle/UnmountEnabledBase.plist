@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncAboutStage</key>
+	<string>bitrateBufferTag</string>
+	<key>ephemeralSubscriptionRate</key>
+	<string>unaryMediatorDelay</string>
+	<key>flexBeyondFunction</key>
+	<string>inheritedHeapVisibility</string>
+	<key>navigatorVersusFlyweight</key>
+	<string>operationAmongObserver</string>
+	<key>robustProviderSpacing</key>
+	<string>accordionViewTint</string>
+	<key>semanticEventDuration</key>
+	<string>columnSystemSaturation</string>
+	<key>substantialDropdownbuttonState</key>
+	<string>activityInsideType</string>
+</dict>
+</plist>

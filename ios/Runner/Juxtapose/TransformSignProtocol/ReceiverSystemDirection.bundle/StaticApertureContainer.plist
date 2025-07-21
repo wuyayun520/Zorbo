@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hardVectorDensity</key>
+	<string>errorInVisitor</string>
+	<key>integerStateAlignment</key>
+	<string>priorityUntilEnvironment</string>
+	<key>otherAspectSize</key>
+	<string>multiNavigatorSize</string>
+	<key>paddingWithObserver</key>
+	<string>taskNumberTail</string>
+	<key>requestStateShade</key>
+	<string>liteMediaSkewx</string>
+	<key>seamlessPreviewTop</key>
+	<string>explicitPaddingHead</string>
+</dict>
+</plist>

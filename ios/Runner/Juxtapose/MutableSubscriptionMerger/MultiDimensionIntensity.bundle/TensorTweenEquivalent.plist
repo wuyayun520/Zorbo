@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedStoryboardDelay</key>
+	<string>dynamicAwaitHead</string>
+	<key>bulletFacadeSaturation</key>
+	<string>alertPerParam</string>
+	<key>configurationDuringOperation</key>
+	<string>techniqueMethodSize</string>
+	<key>globalTangentPadding</key>
+	<string>activitySystemFormat</string>
+	<key>gradientViaPhase</key>
+	<string>ignoredNotificationDistance</string>
+	<key>layerBufferDepth</key>
+	<string>localizationPlatformShape</string>
+	<key>previewStageTop</key>
+	<string>mediocreSinkSaturation</string>
+	<key>riverpodMediatorTop</key>
+	<string>controllerAsMediator</string>
+	<key>rowInStage</key>
+	<string>heapObserverScale</string>
+</dict>
+</plist>

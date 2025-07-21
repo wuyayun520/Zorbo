@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousGraphTop</key>
+	<string>gesturedetectorProxyType</string>
+	<key>difficultInjectionStyle</key>
+	<string>dynamicResultContrast</string>
+	<key>localBlocContrast</key>
+	<string>singleIndicatorBorder</string>
+	<key>matrixAboutLayer</key>
+	<string>canvasModeAcceleration</string>
+	<key>remainderShapeRate</key>
+	<string>scrollableTickerFrequency</string>
+	<key>responseWithoutStructure</key>
+	<string>optionByForm</string>
+	<key>uniqueVariantDensity</key>
+	<string>backwardBulletOrigin</string>
+	<key>utilTempleDensity</key>
+	<string>tweenTaskForce</string>
+</dict>
+</plist>

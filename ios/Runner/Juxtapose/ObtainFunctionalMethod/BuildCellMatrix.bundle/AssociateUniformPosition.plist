@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarDecoratorShape</key>
+	<string>sizedboxAgainstStyle</string>
+	<key>baselineBufferVelocity</key>
+	<string>reactiveActionCount</string>
+	<key>delicateBuilderPressure</key>
+	<string>completerTypeDirection</string>
+	<key>handlerWorkDistance</key>
+	<string>alphaCompositeAppearance</string>
+	<key>mobileGrainShade</key>
+	<string>semanticGesturedetectorBehavior</string>
+	<key>notificationVisitorColor</key>
+	<string>pinchableFragmentName</string>
+	<key>subtleGraphTransparency</key>
+	<string>easyPreviewMode</string>
+	<key>widgetCompositeState</key>
+	<string>streamObserverState</string>
+</dict>
+</plist>

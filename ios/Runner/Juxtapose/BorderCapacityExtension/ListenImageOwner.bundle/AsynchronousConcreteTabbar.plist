@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasAlongChain</key>
+	<string>groupChainState</string>
+	<key>cupertinoContextValidation</key>
+	<string>marginEnvironmentFlags</string>
+	<key>scrollStructureOrientation</key>
+	<string>routerVariableAlignment</string>
+	<key>signatureAsScope</key>
+	<string>screenThroughStructure</string>
+	<key>titleInNumber</key>
+	<string>fragmentScopeBrightness</string>
+	<key>workflowCommandTheme</key>
+	<string>configurationInterpreterTail</string>
+</dict>
+</plist>

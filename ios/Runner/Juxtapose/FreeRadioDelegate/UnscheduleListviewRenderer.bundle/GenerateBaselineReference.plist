@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryStageStyle</key>
+	<string>clipperThanLevel</string>
+	<key>basicCharacterAcceleration</key>
+	<string>cacheAroundShape</string>
+	<key>effectLayerStyle</key>
+	<string>particleDespiteEnvironment</string>
+	<key>errorExceptShape</key>
+	<string>shaderAsCommand</string>
+	<key>masterViaScope</key>
+	<string>matrixPatternKind</string>
+	<key>responsiveAsyncLocation</key>
+	<string>durationAwayState</string>
+	<key>scrollCompositeOrigin</key>
+	<string>widgetAlongMode</string>
+	<key>visibleOverlayCount</key>
+	<string>equipmentUntilContext</string>
+</dict>
+</plist>

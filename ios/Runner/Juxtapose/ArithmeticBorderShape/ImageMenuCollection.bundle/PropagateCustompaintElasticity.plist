@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customGridFeedback</key>
+	<string>desktopConstraintTop</string>
+	<key>hashContextKind</key>
+	<string>mobileNearLevel</string>
+	<key>iconBeyondPhase</key>
+	<string>masterActivityInteraction</string>
+	<key>loopAsWork</key>
+	<string>interactorJobSize</string>
+	<key>mediocreFrameCount</key>
+	<string>reducerStyleResponse</string>
+	<key>sophisticatedControllerEdge</key>
+	<string>invisibleProfileVisible</string>
+	<key>utilAndBridge</key>
+	<string>reactiveSpineVisibility</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasKindRight</key>
+	<string>unaryInParam</string>
+	<key>desktopAspectBound</key>
+	<string>protectedResponseSpacing</string>
+	<key>inactiveRowLocation</key>
+	<string>tappablePageviewMargin</string>
+	<key>masterInsideLevel</key>
+	<string>getxLevelSpacing</string>
+	<key>missedConfigurationPadding</key>
+	<string>mobilePlatformMargin</string>
+	<key>missedModalSkewx</key>
+	<string>textfieldActivityMomentum</string>
+	<key>rowLevelTint</key>
+	<string>denseSliderPadding</string>
+	<key>switchBesideShape</key>
+	<string>optionFromFlyweight</string>
+	<key>visibleTouchBound</key>
+	<string>labelStructureFeedback</string>
+</dict>
+</plist>

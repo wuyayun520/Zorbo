@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationInProxy</key>
+	<string>eventMethodSkewy</string>
+	<key>assetAboutProxy</key>
+	<string>tabviewDespitePattern</string>
+	<key>decorationVisitorLocation</key>
+	<string>localCallbackHue</string>
+	<key>flexibleServiceFormat</key>
+	<string>futureSystemHead</string>
+	<key>fusedPetTransparency</key>
+	<string>heapWithoutCommand</string>
+	<key>heapAsObserver</key>
+	<string>statelessReducerMode</string>
+	<key>lostPresenterHead</key>
+	<string>hyperbolicStampSkewx</string>
+	<key>popupLayerContrast</key>
+	<string>persistentEventDuration</string>
+	<key>radioSinceState</key>
+	<string>diffableGrainShade</string>
+</dict>
+</plist>

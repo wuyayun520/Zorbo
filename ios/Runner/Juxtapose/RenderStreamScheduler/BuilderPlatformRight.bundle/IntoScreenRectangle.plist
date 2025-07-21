@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelAndAdapter</key>
+	<string>swiftThanState</string>
+	<key>controllerParameterStyle</key>
+	<string>previewPerParam</string>
+	<key>dimensionParameterName</key>
+	<string>scaffoldInStage</string>
+	<key>equipmentOutsideEnvironment</key>
+	<string>groupOutsideAdapter</string>
+	<key>hardObserverCount</key>
+	<string>fixedBaselineFeedback</string>
+	<key>hierarchicalSliderVelocity</key>
+	<string>nibAboutStructure</string>
+	<key>mapThanVar</key>
+	<string>marginBeyondTask</string>
+	<key>presenterSystemMargin</key>
+	<string>textTypeCoord</string>
+	<key>textureViaPattern</key>
+	<string>normalRouteDirection</string>
+</dict>
+</plist>

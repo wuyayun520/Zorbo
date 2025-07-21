@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableNodeLeft</key>
+	<string>mainRouteSpeed</string>
+	<key>draggableDimensionVelocity</key>
+	<string>rowContextOrigin</string>
+	<key>resolverAgainstVisitor</key>
+	<string>cursorStructureValidation</string>
+	<key>spriteIncludeWork</key>
+	<string>spotContainSystem</string>
+	<key>streamContainFlyweight</key>
+	<string>independentLoopState</string>
+	<key>synchronousInstructionRate</key>
+	<string>pointIncludeType</string>
+	<key>toolSinceStage</key>
+	<string>paddingSinceSingleton</string>
+</dict>
+</plist>

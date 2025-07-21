@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerExceptKind</key>
+	<string>chapterContainForm</string>
+	<key>animationAboutFramework</key>
+	<string>unaryOfType</string>
+	<key>animationByKind</key>
+	<string>listenerBridgeColor</string>
+	<key>blocStageDistance</key>
+	<string>topicObserverColor</string>
+	<key>constraintDecoratorFrequency</key>
+	<string>labelTaskDensity</string>
+	<key>cupertinoStyleSkewy</key>
+	<string>synchronousIconAcceleration</string>
+	<key>navigatorEnvironmentSpeed</key>
+	<string>gateExceptPlatform</string>
+	<key>optionDespiteInterpreter</key>
+	<string>taskMediatorDepth</string>
+	<key>storageBufferMomentum</key>
+	<string>sliderThroughFramework</string>
+	<key>viewSystemIndex</key>
+	<string>navigationThanForm</string>
+</dict>
+</plist>

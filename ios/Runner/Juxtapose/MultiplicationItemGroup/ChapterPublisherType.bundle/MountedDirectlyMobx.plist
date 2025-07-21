@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationWorkShade</key>
+	<string>declarativeTransitionVelocity</string>
+	<key>disabledSingletonName</key>
+	<string>discardedUtilCount</string>
+	<key>navigatorAsScope</key>
+	<string>reactiveRepositoryFrequency</string>
+	<key>rowValueName</key>
+	<string>screenOutsideObserver</string>
+	<key>segmentModeFormat</key>
+	<string>challengePerShape</string>
+	<key>semanticsExceptStrategy</key>
+	<string>routerAdapterPosition</string>
+</dict>
+</plist>

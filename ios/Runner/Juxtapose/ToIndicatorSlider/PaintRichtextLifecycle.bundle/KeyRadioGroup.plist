@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackShapeAppearance</key>
+	<string>missedCallbackPressure</string>
+	<key>checklistInShape</key>
+	<string>synchronousGraphSize</string>
+	<key>commonControllerOrientation</key>
+	<string>presenterLikeWork</string>
+	<key>featureAmongFunction</key>
+	<string>routeAlongLayer</string>
+	<key>sortedMemberBehavior</key>
+	<string>plateFacadeHue</string>
+	<key>statePhaseBound</key>
+	<string>bufferFacadeContrast</string>
+	<key>textForVariable</key>
+	<string>swiftPlatformOpacity</string>
+</dict>
+</plist>

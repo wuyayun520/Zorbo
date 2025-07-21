@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaDespiteLevel</key>
+	<string>subscriptionBeyondObserver</string>
+	<key>customizedTouchIndex</key>
+	<string>mediaViaBridge</string>
+	<key>requiredDrawerBehavior</key>
+	<string>gramAboutActivity</string>
+	<key>skinIncludeSystem</key>
+	<string>unsortedGramRate</string>
+	<key>streamAgainstMediator</key>
+	<string>pinchableListviewTag</string>
+	<key>tableTempleAppearance</key>
+	<string>cosineAmongObserver</string>
+	<key>widgetEnvironmentKind</key>
+	<string>publicMusicBound</string>
+	<key>widgetJobKind</key>
+	<string>resourceFacadeStyle</string>
+</dict>
+</plist>

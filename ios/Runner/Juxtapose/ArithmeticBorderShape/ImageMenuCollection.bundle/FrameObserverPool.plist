@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveMatrixTheme</key>
+	<string>geometricRadioType</string>
+	<key>animatedcontainerInLevel</key>
+	<string>widgetAmongEnvironment</string>
+	<key>frameJobTint</key>
+	<string>publicQueueFlags</string>
+	<key>multiDecorationStyle</key>
+	<string>cacheThroughShape</string>
+	<key>requestForTask</key>
+	<string>missionStrategySpacing</string>
+	<key>richtextIncludeChain</key>
+	<string>loopObserverAppearance</string>
+	<key>sampleParamAppearance</key>
+	<string>menuScopeSaturation</string>
+</dict>
+</plist>

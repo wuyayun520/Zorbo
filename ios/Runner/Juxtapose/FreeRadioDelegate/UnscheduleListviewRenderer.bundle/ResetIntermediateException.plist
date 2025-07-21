@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateExceptFlyweight</key>
+	<string>awaitContainDecorator</string>
+	<key>dependencyStrategyHue</key>
+	<string>futureAndSingleton</string>
+	<key>hardViewBorder</key>
+	<string>tickerObserverOpacity</string>
+	<key>immediateRoleForce</key>
+	<string>constWidgetSpacing</string>
+	<key>pivotalIntensityPosition</key>
+	<string>diversifiedBinaryOrientation</string>
+	<key>playbackPlatformIndex</key>
+	<string>nodeDecoratorKind</string>
+	<key>slashVisitorTransparency</key>
+	<string>equipmentAndSystem</string>
+	<key>sustainableInjectionRate</key>
+	<string>concurrentCompositionAlignment</string>
+	<key>webMemberAcceleration</key>
+	<string>hashLayerMargin</string>
+</dict>
+</plist>

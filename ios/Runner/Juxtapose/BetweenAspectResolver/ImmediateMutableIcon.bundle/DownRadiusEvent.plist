@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentStreamDepth</key>
+	<string>radiusObserverBound</string>
+	<key>cursorActionScale</key>
+	<string>cubeVersusLevel</string>
+	<key>intensityForFunction</key>
+	<string>containerOrParam</string>
+	<key>intuitiveLayerPosition</key>
+	<string>completionBesideSystem</string>
+	<key>taskIncludeCommand</key>
+	<string>canvasOfFacade</string>
+</dict>
+</plist>

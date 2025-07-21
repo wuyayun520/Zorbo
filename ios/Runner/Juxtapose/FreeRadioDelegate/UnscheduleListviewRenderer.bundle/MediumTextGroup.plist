@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseLevelDuration</key>
+	<string>localizationUntilBridge</string>
+	<key>basicAllocatorHead</key>
+	<string>interactorVariableDuration</string>
+	<key>equalizationTypeLocation</key>
+	<string>channelsViaEnvironment</string>
+	<key>notifierAwayStyle</key>
+	<string>providerPrototypeFlags</string>
+</dict>
+</plist>

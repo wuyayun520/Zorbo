@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>handlerForMemento</key>
+	<string>directlyControllerShade</string>
+	<key>lazyRouterName</key>
+	<string>cardNumberContrast</string>
+	<key>optimizerInsideVisitor</key>
+	<string>queryUntilBridge</string>
+	<key>reductionStateSaturation</key>
+	<string>typicalSizeCenter</string>
+	<key>scrollObserverRight</key>
+	<string>lostViewDistance</string>
+</dict>
+</plist>

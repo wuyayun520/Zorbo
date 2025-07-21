@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gradientAdapterPosition</key>
+	<string>routerJobDelay</string>
+	<key>marginViaPrototype</key>
+	<string>durationStateInterval</string>
+	<key>movementKindCenter</key>
+	<string>animationAsKind</string>
+	<key>storyboardVisitorBehavior</key>
+	<string>offsetAlongSingleton</string>
+	<key>tickerBeyondVar</key>
+	<string>remainderOperationOpacity</string>
+	<key>transitionFromPrototype</key>
+	<string>liteNavigationTint</string>
+</dict>
+</plist>

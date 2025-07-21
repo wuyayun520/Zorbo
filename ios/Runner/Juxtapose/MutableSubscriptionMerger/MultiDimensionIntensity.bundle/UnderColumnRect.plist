@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystFacadeFlags</key>
+	<string>liteAllocatorTop</string>
+	<key>gemPrototypeFrequency</key>
+	<string>composableDecorationDelay</string>
+	<key>requestViaFramework</key>
+	<string>associatedTextDepth</string>
+	<key>scrollableStreamSpacing</key>
+	<string>tangentPlatformHead</string>
+	<key>segmentMediatorSpeed</key>
+	<string>positionDecoratorRotation</string>
+	<key>statelessStreamOffset</key>
+	<string>widgetFormFrequency</string>
+	<key>timerActivitySpeed</key>
+	<string>standaloneStatelessFeedback</string>
+</dict>
+</plist>

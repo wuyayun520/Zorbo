@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistSystemIndex</key>
+	<string>missedBlocRate</string>
+	<key>commandDuringPattern</key>
+	<string>blocJobDistance</string>
+	<key>constraintValueDensity</key>
+	<string>inheritedGemSpeed</string>
+	<key>dimensionActivityOffset</key>
+	<string>missionFacadeBottom</string>
+	<key>methodVariableTension</key>
+	<string>cellFacadeMode</string>
+	<key>opaqueTangentRight</key>
+	<string>frameChainInterval</string>
+</dict>
+</plist>

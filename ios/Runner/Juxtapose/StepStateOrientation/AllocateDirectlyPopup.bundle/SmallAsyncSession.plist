@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxProcessHead</key>
+	<string>mainRowFeedback</string>
+	<key>fusedAxisFlags</key>
+	<string>apertureOperationSaturation</string>
+	<key>normFunctionVisibility</key>
+	<string>indicatorContainBuffer</string>
+	<key>parallelLocalizationSkewx</key>
+	<string>decorationAndState</string>
+	<key>rowCommandCenter</key>
+	<string>hierarchicalFutureOffset</string>
+</dict>
+</plist>

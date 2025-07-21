@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintStyleSpeed</key>
+	<string>boxActionRight</string>
+	<key>cycleOrStructure</key>
+	<string>invisibleNavigatorMargin</string>
+	<key>independentBehaviorPadding</key>
+	<string>anchorNearStyle</string>
+	<key>notificationValueAppearance</key>
+	<string>sceneObserverState</string>
+	<key>responsiveRoleContrast</key>
+	<string>captionProcessBottom</string>
+	<key>similarCanvasStyle</key>
+	<string>lossViaObserver</string>
+	<key>streamTempleRate</key>
+	<string>cupertinoSinceNumber</string>
+</dict>
+</plist>

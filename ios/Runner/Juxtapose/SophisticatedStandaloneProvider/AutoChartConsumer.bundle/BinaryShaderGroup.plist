@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheStyleAppearance</key>
+	<string>frameDespiteProcess</string>
+	<key>curveFacadeInset</key>
+	<string>discardedInteractorInset</string>
+	<key>customizedEffectFormat</key>
+	<string>scaleNearTask</string>
+	<key>immediateOptimizerBorder</key>
+	<string>sliderCompositeTension</string>
+	<key>nodeAwayOperation</key>
+	<string>ignoredExpandedDensity</string>
+	<key>smallLabelOrigin</key>
+	<string>draggableSkinForce</string>
+</dict>
+</plist>

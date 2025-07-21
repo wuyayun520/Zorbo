@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxVarOffset</key>
+	<string>custompaintMementoVisible</string>
+	<key>canvasThanComposite</key>
+	<string>descriptionBridgeAlignment</string>
+	<key>geometricReductionInterval</key>
+	<string>immutablePointFormat</string>
+	<key>musicMediatorSkewx</key>
+	<string>indicatorTempleTension</string>
+	<key>nextSwiftState</key>
+	<string>entropyAndBuffer</string>
+	<key>opaqueEffectDepth</key>
+	<string>normalProgressbarDistance</string>
+	<key>paddingOperationFrequency</key>
+	<string>singletonShapeDirection</string>
+	<key>queueChainVisibility</key>
+	<string>asyncAssetBound</string>
+	<key>transitionAroundMode</key>
+	<string>nativeStateFrequency</string>
+</dict>
+</plist>

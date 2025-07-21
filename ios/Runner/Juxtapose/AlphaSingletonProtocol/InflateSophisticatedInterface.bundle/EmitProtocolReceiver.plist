@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledBinaryPadding</key>
+	<string>labelSinceFacade</string>
+	<key>labelKindScale</key>
+	<string>layoutCyclePosition</string>
+	<key>labelOfLevel</key>
+	<string>momentumFromValue</string>
+	<key>missedRectBorder</key>
+	<string>pointStyleState</string>
+	<key>modulusViaType</key>
+	<string>reusableBinaryTransparency</string>
+	<key>reusableInterfaceSaturation</key>
+	<string>equalizationIncludeSingleton</string>
+	<key>textfieldFrameworkMomentum</key>
+	<string>nodeKindVisibility</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelAtTier</key>
+	<string>menuWithoutStructure</string>
+	<key>completerViaTier</key>
+	<string>containerDuringComposite</string>
+	<key>enabledMovementBrightness</key>
+	<string>accordionBaselineFormat</string>
+	<key>positionVarScale</key>
+	<string>cubitWorkPosition</string>
+	<key>publicEntityVisible</key>
+	<string>dynamicSegueTint</string>
+	<key>statelessBinaryInteraction</key>
+	<string>disabledShaderRight</string>
+</dict>
+</plist>

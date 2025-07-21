@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentDuringOperation</key>
+	<string>lossAwayForm</string>
+	<key>layoutForCommand</key>
+	<string>ephemeralMaterialSpacing</string>
+	<key>materialChannelVelocity</key>
+	<string>channelsOutsideVariable</string>
+	<key>statefulClipperVelocity</key>
+	<string>dependencyAboutInterpreter</string>
+</dict>
+</plist>

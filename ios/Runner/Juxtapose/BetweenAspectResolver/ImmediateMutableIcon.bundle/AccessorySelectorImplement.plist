@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionNearStrategy</key>
+	<string>advancedLayoutInteraction</string>
+	<key>concurrentBrushFormat</key>
+	<string>advancedCupertinoBrightness</string>
+	<key>cubitDuringComposite</key>
+	<string>usecasePhaseAcceleration</string>
+	<key>imageMediatorTheme</key>
+	<string>textureByEnvironment</string>
+	<key>largeConstraintOrientation</key>
+	<string>sceneTaskKind</string>
+	<key>operationLikeChain</key>
+	<string>textfieldOfParameter</string>
+	<key>positionUntilProxy</key>
+	<string>easyProfileCoord</string>
+	<key>switchInterpreterTransparency</key>
+	<string>spinePrototypeBorder</string>
+	<key>tickerAroundCommand</key>
+	<string>agileLayoutDuration</string>
+</dict>
+</plist>

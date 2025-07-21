@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeStatelessValidation</key>
+	<string>mediumStatefulSpeed</string>
+	<key>animationInPlatform</key>
+	<string>particleContainKind</string>
+	<key>boxFlyweightKind</key>
+	<string>criticalShaderAcceleration</string>
+	<key>capacitiesAsMethod</key>
+	<string>storyboardStyleVisible</string>
+	<key>challengeVersusLayer</key>
+	<string>behaviorObserverDepth</string>
+	<key>exceptionOrAdapter</key>
+	<string>bulletOperationState</string>
+	<key>slashShapeHue</key>
+	<string>substantialDependencyDirection</string>
+	<key>standaloneEffectVisible</key>
+	<string>statelessCommandTint</string>
+	<key>tensorLayoutValidation</key>
+	<string>reductionAtParam</string>
+	<key>titleLikeFunction</key>
+	<string>usecaseContainProcess</string>
+</dict>
+</plist>

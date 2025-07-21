@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseLevelSkewy</key>
+	<string>usecaseAtFacade</string>
+	<key>cubitKindVelocity</key>
+	<string>visibleRadiusResponse</string>
+	<key>curveMementoOrientation</key>
+	<string>callbackActionTail</string>
+	<key>resolverIncludeFramework</key>
+	<string>cardTaskScale</string>
+</dict>
+</plist>

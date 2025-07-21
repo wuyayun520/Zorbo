@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoBeyondState</key>
+	<string>ephemeralManagerBorder</string>
+	<key>dependencyUntilFlyweight</key>
+	<string>interactiveDropdownbuttonOrientation</string>
+	<key>dropdownbuttonFacadeDuration</key>
+	<string>textureExceptStage</string>
+	<key>inkwellAndActivity</key>
+	<string>semanticGateKind</string>
+	<key>iterativeGraphicType</key>
+	<string>substantialAwaitCoord</string>
+	<key>labelMementoTransparency</key>
+	<string>priorityMethodInteraction</string>
+	<key>reductionFromContext</key>
+	<string>grainDecoratorKind</string>
+	<key>referenceContainChain</key>
+	<string>listenerFlyweightRotation</string>
+	<key>scaffoldEnvironmentBehavior</key>
+	<string>deferredBlocName</string>
+</dict>
+</plist>

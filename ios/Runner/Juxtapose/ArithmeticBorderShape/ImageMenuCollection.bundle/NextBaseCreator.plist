@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackContextEdge</key>
+	<string>queueCommandInset</string>
+	<key>gridUntilSingleton</key>
+	<string>resourceActionDepth</string>
+	<key>hardUnaryLocation</key>
+	<string>statefulPaddingInteraction</string>
+	<key>interpolationObserverTint</key>
+	<string>getxDuringContext</string>
+	<key>robustCompletionDepth</key>
+	<string>spotCompositeMode</string>
+	<key>specifyTaskDelay</key>
+	<string>lazyRoutePressure</string>
+</dict>
+</plist>

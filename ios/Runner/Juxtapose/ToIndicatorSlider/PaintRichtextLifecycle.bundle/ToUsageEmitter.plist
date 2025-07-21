@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>groupSystemHead</key>
+	<string>animationShapeDepth</string>
+	<key>missionDecoratorSize</key>
+	<string>activityCycleLeft</string>
+	<key>notifierAtContext</key>
+	<string>bufferNearLayer</string>
+	<key>projectionVersusDecorator</key>
+	<string>mainSegueDepth</string>
+	<key>routeParamHue</key>
+	<string>monsterContextState</string>
+	<key>stepSingletonIndex</key>
+	<string>textureSystemContrast</string>
+	<key>touchPerPlatform</key>
+	<string>storyboardOrMemento</string>
+</dict>
+</plist>

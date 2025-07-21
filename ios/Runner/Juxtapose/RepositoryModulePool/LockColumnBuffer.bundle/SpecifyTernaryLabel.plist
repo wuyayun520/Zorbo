@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionThroughContext</key>
+	<string>alignmentFunctionScale</string>
+	<key>configurationTempleSaturation</key>
+	<string>displayableIndicatorContrast</string>
+	<key>delegateCommandAcceleration</key>
+	<string>capacitiesStateFormat</string>
+	<key>inheritedMediaquerySkewy</key>
+	<string>ephemeralOperationDirection</string>
+	<key>interactorExceptWork</key>
+	<string>usecaseProcessBehavior</string>
+	<key>monsterSinceContext</key>
+	<string>interfaceAroundVisitor</string>
+</dict>
+</plist>

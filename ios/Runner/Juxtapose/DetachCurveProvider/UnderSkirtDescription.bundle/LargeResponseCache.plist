@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackVersusState</key>
+	<string>integerAgainstStructure</string>
+	<key>draggableSegmentDensity</key>
+	<string>descriptionStateSize</string>
+	<key>labelMethodValidation</key>
+	<string>queryValueSpacing</string>
+	<key>pinchableResourceShape</key>
+	<string>observerAwayContext</string>
+	<key>promiseBesideState</key>
+	<string>reactiveTaskDepth</string>
+	<key>protocolAmongContext</key>
+	<string>mainTopicPosition</string>
+	<key>statelessToolOrigin</key>
+	<string>seamlessBufferTag</string>
+</dict>
+</plist>

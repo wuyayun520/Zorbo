@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inactiveViewEdge</key>
+	<string>ignoredBaselineTint</string>
+	<key>overlayWithContext</key>
+	<string>gridviewInPrototype</string>
+	<key>permissiveControllerDistance</key>
+	<string>radioCompositeInset</string>
+	<key>resourceAsLevel</key>
+	<string>mutableCosineBorder</string>
+	<key>sliderByStructure</key>
+	<string>constraintAroundFunction</string>
+	<key>utilPrototypeInteraction</key>
+	<string>interactorVisitorVisibility</string>
+</dict>
+</plist>

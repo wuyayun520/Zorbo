@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveSignPosition</key>
+	<string>rapidSampleAlignment</string>
+	<key>aspectPlatformTail</key>
+	<string>operationNearForm</string>
+	<key>asyncStageCoord</key>
+	<string>notificationActionFormat</string>
+	<key>callbackFlyweightDirection</key>
+	<string>touchMethodRotation</string>
+	<key>gesturedetectorDespiteStage</key>
+	<string>clipperAdapterCenter</string>
+</dict>
+</plist>

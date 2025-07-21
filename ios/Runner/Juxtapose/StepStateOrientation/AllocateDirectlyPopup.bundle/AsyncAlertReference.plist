@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisPerStage</key>
+	<string>builderContextFormat</string>
+	<key>delegateBesideAdapter</key>
+	<string>cycleStateTheme</string>
+	<key>mutableMethodShade</key>
+	<string>completionVariableShape</string>
+	<key>parallelStackType</key>
+	<string>prismaticNodeFormat</string>
+	<key>semanticCompleterType</key>
+	<string>statefulBesideMediator</string>
+	<key>sharedCubitAlignment</key>
+	<string>observerProcessSpacing</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncMaterialHue</key>
+	<string>reducerStyleValidation</string>
+	<key>cartesianBaselineOffset</key>
+	<string>fusedReferenceRotation</string>
+	<key>hardInjectionColor</key>
+	<string>matrixKindCenter</string>
+	<key>hashFromSingleton</key>
+	<string>scaleFunctionAppearance</string>
+	<key>lossVarColor</key>
+	<string>sortedContainerFormat</string>
+	<key>radioStageShape</key>
+	<string>baseAroundStrategy</string>
+	<key>serviceParameterSaturation</key>
+	<string>interactiveObserverLeft</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledAccessoryBorder</key>
+	<string>permissiveObserverVisibility</string>
+	<key>hashAlongCommand</key>
+	<string>diffableGridviewDelay</string>
+	<key>intuitiveZoneType</key>
+	<string>cubitPhaseTag</string>
+	<key>layerBridgeBrightness</key>
+	<string>unsortedListenerAcceleration</string>
+	<key>widgetOfActivity</key>
+	<string>unactivatedBoxshadowColor</string>
+</dict>
+</plist>

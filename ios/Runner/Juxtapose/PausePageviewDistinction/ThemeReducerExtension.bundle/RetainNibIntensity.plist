@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cycleStructureDirection</key>
+	<string>factoryContainVariable</string>
+	<key>discardedFactoryBound</key>
+	<string>getxStructureSaturation</string>
+	<key>ephemeralMethodMode</key>
+	<string>robustUnaryDepth</string>
+	<key>observerFormShade</key>
+	<string>extensionWorkType</string>
+	<key>queueDuringMode</key>
+	<string>missionStateResponse</string>
+</dict>
+</plist>

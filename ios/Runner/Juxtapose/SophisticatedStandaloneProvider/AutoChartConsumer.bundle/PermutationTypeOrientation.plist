@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateFlyweightAcceleration</key>
+	<string>injectionFormInset</string>
+	<key>containerObserverBottom</key>
+	<string>injectionFlyweightCoord</string>
+	<key>controllerCommandBehavior</key>
+	<string>robustColumnSkewy</string>
+	<key>functionalGroupOpacity</key>
+	<string>interpolationParamDirection</string>
+	<key>movementSingletonContrast</key>
+	<string>navigatorIncludeState</string>
+	<key>particleOrPhase</key>
+	<string>captionStageSkewx</string>
+	<key>tickerAboutVar</key>
+	<string>uniqueConfigurationBrightness</string>
+</dict>
+</plist>

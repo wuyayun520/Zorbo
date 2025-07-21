@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnAtTask</key>
+	<string>resourceParamEdge</string>
+	<key>enabledSliderEdge</key>
+	<string>tappableAppbarTag</string>
+	<key>iconProcessContrast</key>
+	<string>tableAsMemento</string>
+	<key>managerFlyweightMargin</key>
+	<string>optimizerFormRight</string>
+	<key>publicNormBottom</key>
+	<string>significantWidgetShape</string>
+	<key>reducerSingletonKind</key>
+	<string>reactiveContainerBottom</string>
+	<key>routerLevelOrigin</key>
+	<string>retainedConfigurationShade</string>
+	<key>spineObserverLeft</key>
+	<string>gridParameterForce</string>
+	<key>uniformExpandedOrigin</key>
+	<string>gridviewLikeOperation</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerPetShape</key>
+	<string>projectionOperationCoord</string>
+	<key>bufferInChain</key>
+	<string>gesturedetectorContainScope</string>
+	<key>constraintViaFlyweight</key>
+	<string>threadMediatorDelay</string>
+	<key>delegateByMode</key>
+	<string>explicitInjectionColor</string>
+	<key>logBridgeResponse</key>
+	<string>crudeOffsetAlignment</string>
+	<key>parallelSegueTag</key>
+	<string>labelJobDepth</string>
+	<key>radiusContainCommand</key>
+	<string>pointSingletonRotation</string>
+	<key>tickerVisitorTag</key>
+	<string>specifierSinceVar</string>
+</dict>
+</plist>

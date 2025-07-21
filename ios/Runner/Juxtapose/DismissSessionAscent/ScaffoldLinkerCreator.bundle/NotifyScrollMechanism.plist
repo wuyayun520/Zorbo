@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityScopeFlags</key>
+	<string>webResourceAppearance</string>
+	<key>configurationByTask</key>
+	<string>completionPerCommand</string>
+	<key>deferredRouteBottom</key>
+	<string>staticContainerMode</string>
+	<key>difficultActivityHead</key>
+	<string>statelessForOperation</string>
+	<key>instructionAlongMethod</key>
+	<string>mutableQueryResponse</string>
+	<key>promiseScopePosition</key>
+	<string>requiredUtilTail</string>
+	<key>queueVersusChain</key>
+	<string>switchActivityAcceleration</string>
+	<key>synchronousTangentVisibility</key>
+	<string>musicChainVisibility</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterProcessTheme</key>
+	<string>advancedIconMode</string>
+	<key>difficultAnimationBound</key>
+	<string>radiusFlyweightInteraction</string>
+	<key>draggableProfileDelay</key>
+	<string>accessibleBuilderTheme</string>
+	<key>modelAroundFunction</key>
+	<string>menuPerVar</string>
+	<key>movementFromObserver</key>
+	<string>viewVersusCycle</string>
+	<key>responseForSystem</key>
+	<string>backwardMemberVisibility</string>
+	<key>spriteFacadePosition</key>
+	<string>smartRectAlignment</string>
+	<key>streamJobStatus</key>
+	<string>retainedListenerTop</string>
+	<key>usecaseLevelOrientation</key>
+	<string>subtleSegueSpeed</string>
+</dict>
+</plist>

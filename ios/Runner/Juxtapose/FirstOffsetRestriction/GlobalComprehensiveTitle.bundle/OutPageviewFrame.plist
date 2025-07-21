@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxStageSaturation</key>
+	<string>sequentialPlaybackOpacity</string>
+	<key>convolutionIncludeMethod</key>
+	<string>signLikeDecorator</string>
+	<key>firstClipperSpeed</key>
+	<string>mobileFacadeDirection</string>
+	<key>originalIntegerShade</key>
+	<string>apertureScopeMode</string>
+	<key>storageTypeTag</key>
+	<string>firstBufferFormat</string>
+	<key>usedTransitionInterval</key>
+	<string>hyperbolicScrollTag</string>
+</dict>
+</plist>

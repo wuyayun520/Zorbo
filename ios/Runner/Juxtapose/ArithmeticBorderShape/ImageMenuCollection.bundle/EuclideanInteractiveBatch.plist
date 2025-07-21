@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equipmentNearStage</key>
+	<string>curveOutsideTemple</string>
+	<key>singleButtonEdge</key>
+	<string>routeMementoOrientation</string>
+	<key>widgetValueTop</key>
+	<string>uniqueThreadSpeed</string>
+</dict>
+</plist>

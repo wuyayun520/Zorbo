@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveConstraintEdge</key>
+	<string>frameWorkShape</string>
+	<key>anchorModeCoord</key>
+	<string>mapIncludeEnvironment</string>
+	<key>channelFromTier</key>
+	<string>imperativeToolResponse</string>
+	<key>entityWithoutJob</key>
+	<string>statefulLayoutDirection</string>
+	<key>normalZoneInteraction</key>
+	<string>transitionIncludeParameter</string>
+	<key>opaqueManagerDepth</key>
+	<string>specifyCellOffset</string>
+	<key>responsiveLoopBound</key>
+	<string>mediaqueryMethodTop</string>
+	<key>shaderWithoutMode</key>
+	<string>petLikeCycle</string>
+	<key>synchronousBlocInteraction</key>
+	<string>scaffoldObserverBound</string>
+	<key>usecaseBridgeFormat</key>
+	<string>interfaceDuringFramework</string>
+</dict>
+</plist>

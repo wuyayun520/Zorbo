@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonMediaInset</key>
+	<string>ephemeralViewFrequency</string>
+	<key>delegateAlongFlyweight</key>
+	<string>spriteInsideMode</string>
+	<key>groupVariableShade</key>
+	<string>allocatorNumberDirection</string>
+	<key>interactorPerStyle</key>
+	<string>singleControllerBound</string>
+	<key>reducerChainMode</key>
+	<string>queryFormBottom</string>
+	<key>responseBufferDistance</key>
+	<string>tweenVisitorFlags</string>
+	<key>subpixelParamCoord</key>
+	<string>challengeOfBuffer</string>
+	<key>temporaryModelMode</key>
+	<string>modelVersusObserver</string>
+	<key>viewAboutPrototype</key>
+	<string>agileStoreResponse</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedSpecifierDirection</key>
+	<string>unaryLikeScope</string>
+	<key>dedicatedSignDirection</key>
+	<string>subpixelVersusChain</string>
+	<key>descriptorOfBuffer</key>
+	<string>mobileVersusVisitor</string>
+	<key>protocolCommandScale</key>
+	<string>clipperNumberTag</string>
+</dict>
+</plist>

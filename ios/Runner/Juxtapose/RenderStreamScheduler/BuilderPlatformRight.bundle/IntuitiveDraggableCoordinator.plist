@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticBuilderShade</key>
+	<string>completerStageEdge</string>
+	<key>dialogsByContext</key>
+	<string>imperativeCheckboxSpacing</string>
+	<key>groupKindTransparency</key>
+	<string>borderDespiteInterpreter</string>
+	<key>isolateVariableVisible</key>
+	<string>gridviewInsideProxy</string>
+	<key>layoutOutsideOperation</key>
+	<string>crudeHandlerState</string>
+	<key>spineOrBuffer</key>
+	<string>isolateJobAppearance</string>
+	<key>statefulAboutStructure</key>
+	<string>normalDelegateOrigin</string>
+</dict>
+</plist>

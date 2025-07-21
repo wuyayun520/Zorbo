@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintThanNumber</key>
+	<string>sequentialInkwellFlags</string>
+	<key>controllerFrameworkRate</key>
+	<string>explicitGraphStyle</string>
+	<key>euclideanBlocDelay</key>
+	<string>builderOrActivity</string>
+	<key>featureExceptObserver</key>
+	<string>keyViewFeedback</string>
+	<key>gesturedetectorOrMemento</key>
+	<string>customizedUsageOrientation</string>
+	<key>immediateOverlayCenter</key>
+	<string>containerIncludeSingleton</string>
+	<key>resultStateInterval</key>
+	<string>overlayModeRate</string>
+	<key>substantialCaptionDirection</key>
+	<string>channelForVar</string>
+	<key>timerParamShade</key>
+	<string>sizeObserverVisibility</string>
+</dict>
+</plist>

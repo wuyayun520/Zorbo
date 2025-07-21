@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>queueFromDecorator</key>
+	<string>currentQueueLeft</string>
+	<key>sharedCubeShape</key>
+	<string>transitionDuringContext</string>
+	<key>sizeWithoutSystem</key>
+	<string>unaryContainProxy</string>
+	<key>standaloneSpotBound</key>
+	<string>transitionNearKind</string>
+	<key>textureActionStyle</key>
+	<string>channelsAndSystem</string>
+</dict>
+</plist>

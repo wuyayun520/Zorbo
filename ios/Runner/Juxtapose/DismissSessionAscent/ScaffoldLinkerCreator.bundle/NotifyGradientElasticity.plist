@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAsJob</key>
+	<string>viewFormTop</string>
+	<key>appbarAsActivity</key>
+	<string>gridAsInterpreter</string>
+	<key>controllerCompositeAppearance</key>
+	<string>handlerStrategyIndex</string>
+	<key>delegateKindTheme</key>
+	<string>constraintFrameworkEdge</string>
+	<key>directResultDirection</key>
+	<string>primaryGestureBehavior</string>
+	<key>directStorageInset</key>
+	<string>cartesianGesturedetectorAlignment</string>
+	<key>ephemeralTransformerShape</key>
+	<string>localSessionKind</string>
+	<key>reusableSymbolColor</key>
+	<string>coordinatorPhaseInterval</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousCallbackStatus</key>
+	<string>completionDuringParam</string>
+	<key>canvasStateType</key>
+	<string>directEffectType</string>
+	<key>cosineNearContext</key>
+	<string>interactorOperationDirection</string>
+	<key>discardedStoreInset</key>
+	<string>multiViewVelocity</string>
+	<key>gridSinceLevel</key>
+	<string>profileOfEnvironment</string>
+	<key>groupLikeNumber</key>
+	<string>bitrateStateTheme</string>
+	<key>presenterStrategyFeedback</key>
+	<string>spriteCompositeOrientation</string>
+	<key>slashSingletonPressure</key>
+	<string>offsetFlyweightSpeed</string>
+	<key>spriteThroughKind</key>
+	<string>equalizationAboutVar</string>
+</dict>
+</plist>

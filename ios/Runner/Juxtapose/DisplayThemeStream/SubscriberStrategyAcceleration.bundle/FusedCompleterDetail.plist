@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedNavigatorDirection</key>
+	<string>particleWithEnvironment</string>
+	<key>criticalToolPosition</key>
+	<string>smallNotifierPadding</string>
+	<key>euclideanBufferCoord</key>
+	<string>tensorControllerRotation</string>
+	<key>fusedAnchorAcceleration</key>
+	<string>prevBlocBrightness</string>
+	<key>hierarchicalChapterOrientation</key>
+	<string>pointLevelStatus</string>
+	<key>metadataParamValidation</key>
+	<string>semanticsWithoutDecorator</string>
+	<key>permanentTextInset</key>
+	<string>alertVisitorDistance</string>
+	<key>priorControllerSpacing</key>
+	<string>timerContainActivity</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineCompositeEdge</key>
+	<string>listviewVersusCommand</string>
+	<key>discardedIntensityRate</key>
+	<string>commandFacadeAppearance</string>
+	<key>discardedQueryOffset</key>
+	<string>taskCycleForce</string>
+	<key>featureStrategyLeft</key>
+	<string>asyncCallbackSpeed</string>
+	<key>resizableToolColor</key>
+	<string>asyncProcessOrientation</string>
+	<key>sampleNumberBorder</key>
+	<string>protocolOutsideCommand</string>
+</dict>
+</plist>

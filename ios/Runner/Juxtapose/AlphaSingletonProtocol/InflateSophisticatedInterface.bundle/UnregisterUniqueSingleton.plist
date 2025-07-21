@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedControllerHue</key>
+	<string>borderByAdapter</string>
+	<key>draggableBorderStatus</key>
+	<string>convolutionBesidePattern</string>
+	<key>dynamicIconSkewy</key>
+	<string>sizeChainAlignment</string>
+	<key>gestureContextPressure</key>
+	<string>anchorValueLeft</string>
+	<key>globalLoopTail</key>
+	<string>textOfAdapter</string>
+	<key>gradientThanParam</key>
+	<string>containerFromValue</string>
+	<key>hyperbolicTabbarTension</key>
+	<string>utilDuringParameter</string>
+	<key>mobileInsidePlatform</key>
+	<string>hyperbolicMetadataPosition</string>
+	<key>opaqueFactoryScale</key>
+	<string>tappableQueryState</string>
+	<key>parallelQueryDelay</key>
+	<string>axisModeShade</string>
+</dict>
+</plist>

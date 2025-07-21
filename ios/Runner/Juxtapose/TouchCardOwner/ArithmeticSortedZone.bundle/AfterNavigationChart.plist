@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleChecklistDensity</key>
+	<string>containerAboutMemento</string>
+	<key>alignmentStrategyStyle</key>
+	<string>equalizationBeyondStage</string>
+	<key>animatedTaskCoord</key>
+	<string>grainFrameworkPadding</string>
+	<key>animationIncludeMediator</key>
+	<string>sequentialRowOrigin</string>
+	<key>mutableTransitionShape</key>
+	<string>capacitiesFlyweightResponse</string>
+	<key>pinchableAsyncAppearance</key>
+	<string>sinePatternOffset</string>
+	<key>scaleViaSystem</key>
+	<string>blocVisitorSpacing</string>
+	<key>subtlePositionVisible</key>
+	<string>ignoredLogName</string>
+	<key>utilAtVariable</key>
+	<string>euclideanCursorForce</string>
+</dict>
+</plist>

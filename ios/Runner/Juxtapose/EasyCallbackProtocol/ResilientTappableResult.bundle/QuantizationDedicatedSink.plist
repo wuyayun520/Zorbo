@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frameInsideStyle</key>
+	<string>nextHeapInterval</string>
+	<key>granularChannelsStatus</key>
+	<string>ignoredCharacterBrightness</string>
+	<key>intermediateSymbolInterval</key>
+	<string>tweenCommandAppearance</string>
+	<key>offsetStageMargin</key>
+	<string>eagerTransformerOrientation</string>
+	<key>pinchableEntityTop</key>
+	<string>bulletThanScope</string>
+	<key>spriteOutsideStage</key>
+	<string>concurrentManagerBrightness</string>
+	<key>textLevelSpacing</key>
+	<string>protectedBufferOffset</string>
+	<key>zonePatternLocation</key>
+	<string>uniformStorageDistance</string>
+</dict>
+</plist>

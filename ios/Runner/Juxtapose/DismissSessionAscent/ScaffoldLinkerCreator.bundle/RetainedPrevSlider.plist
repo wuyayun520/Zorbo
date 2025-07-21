@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperDespiteStrategy</key>
+	<string>layoutBeyondTemple</string>
+	<key>draggableRequestDistance</key>
+	<string>inheritedEqualizationShade</string>
+	<key>interactorAgainstMethod</key>
+	<string>prevInterfaceSpacing</string>
+	<key>interfaceThroughSingleton</key>
+	<string>futureFromFramework</string>
+	<key>progressbarAlongForm</key>
+	<string>providerValueBehavior</string>
+	<key>smallAnchorShade</key>
+	<string>tweenThroughProcess</string>
+	<key>smallHandlerOpacity</key>
+	<string>observerInsideTemple</string>
+	<key>standaloneGridviewDistance</key>
+	<string>metadataFacadeTint</string>
+	<key>taskTierLeft</key>
+	<string>missionTierScale</string>
+	<key>webNavigatorDensity</key>
+	<string>durationAwayCycle</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>sortedBlocDirection</key>
+	<string>newestArithmeticContrast</string>
+	<key>specifyStoryboardName</key>
+	<string>tweenNumberScale</string>
+	<key>streamScopeCenter</key>
+	<string>completerSystemCenter</string>
+</dict>
+</plist>

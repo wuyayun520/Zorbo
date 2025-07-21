@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorNearVisitor</key>
+	<string>resolverWithType</string>
+	<key>consultativeLoopHue</key>
+	<string>widgetInterpreterTheme</string>
+	<key>controllerStateValidation</key>
+	<string>listenerStateStatus</string>
+	<key>globalProgressbarPosition</key>
+	<string>lastTweenBehavior</string>
+	<key>publicEffectKind</key>
+	<string>euclideanStepType</string>
+	<key>serviceVariableBound</key>
+	<string>typicalGiftTransparency</string>
+	<key>spotModeOffset</key>
+	<string>dropdownbuttonVarMode</string>
+	<key>transitionParameterTheme</key>
+	<string>resourceParameterOpacity</string>
+</dict>
+</plist>

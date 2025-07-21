@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonSystemIndex</key>
+	<string>gridNearProcess</string>
+	<key>radiusOutsideTask</key>
+	<string>retainedUsecaseOffset</string>
+	<key>scrollViaFacade</key>
+	<string>stackContextCoord</string>
+	<key>textfieldFacadeDistance</key>
+	<string>visibleCommandCoord</string>
+</dict>
+</plist>

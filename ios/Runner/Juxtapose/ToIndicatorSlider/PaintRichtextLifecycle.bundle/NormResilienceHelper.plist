@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerTitleSpacing</key>
+	<string>similarTaskRight</string>
+	<key>configurationTaskRight</key>
+	<string>secondResourceFormat</string>
+	<key>featureUntilActivity</key>
+	<string>axisStateTail</string>
+	<key>optimizerForSingleton</key>
+	<string>fixedSliderTint</string>
+	<key>popupUntilTask</key>
+	<string>providerBesideTemple</string>
+	<key>presenterSingletonForce</key>
+	<string>specifierTempleBorder</string>
+	<key>referenceStatePressure</key>
+	<string>cupertinoCommandScale</string>
+</dict>
+</plist>

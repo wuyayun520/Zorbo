@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticHandlerDelay</key>
+	<string>allocatorPerLevel</string>
+	<key>chapterAgainstStyle</key>
+	<string>interactorForChain</string>
+	<key>completerAgainstMethod</key>
+	<string>beginnerStatefulRight</string>
+	<key>exceptionActivityCount</key>
+	<string>relationalIndicatorLeft</string>
+	<key>interpolationAlongStructure</key>
+	<string>interpolationStageShape</string>
+	<key>notifierObserverRate</key>
+	<string>oldCaptionDistance</string>
+	<key>screenAdapterLeft</key>
+	<string>keyDrawerVisibility</string>
+	<key>similarResolverSpacing</key>
+	<string>dynamicCurveTail</string>
+	<key>stepValueOffset</key>
+	<string>progressbarLayerEdge</string>
+	<key>visibleZoneOpacity</key>
+	<string>smartResponseDensity</string>
+</dict>
+</plist>

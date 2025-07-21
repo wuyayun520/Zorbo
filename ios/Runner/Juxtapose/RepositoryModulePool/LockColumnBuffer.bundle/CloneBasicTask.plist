@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousExponentVisibility</key>
+	<string>groupAtType</string>
+	<key>firstResolverFormat</key>
+	<string>interfaceObserverName</string>
+	<key>localizationOutsideOperation</key>
+	<string>tensorSpriteIndex</string>
+	<key>responseDuringTemple</key>
+	<string>featureValueType</string>
+	<key>stateSingletonOrientation</key>
+	<string>gridKindOrientation</string>
+	<key>subsequentFrameRate</key>
+	<string>handlerProcessTag</string>
+	<key>usedLayerOrigin</key>
+	<string>spriteAsDecorator</string>
+	<key>viewVariableFeedback</key>
+	<string>independentWorkflowSpeed</string>
+</dict>
+</plist>

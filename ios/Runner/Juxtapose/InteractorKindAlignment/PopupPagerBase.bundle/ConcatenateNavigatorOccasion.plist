@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseUntilFunction</key>
+	<string>semanticWidgetBrightness</string>
+	<key>blocFlyweightSpeed</key>
+	<string>commonMetadataTop</string>
+	<key>mediaqueryModeDistance</key>
+	<string>stepCommandBottom</string>
+	<key>projectScopeBottom</key>
+	<string>opaqueCheckboxCoord</string>
+	<key>stepWithoutEnvironment</key>
+	<string>viewContainStructure</string>
+</dict>
+</plist>

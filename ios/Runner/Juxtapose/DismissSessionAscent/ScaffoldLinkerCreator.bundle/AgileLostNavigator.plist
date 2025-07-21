@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonLayoutStyle</key>
+	<string>decorationAroundJob</string>
+	<key>draggableCupertinoState</key>
+	<string>alignmentValueOffset</string>
+	<key>eventOrCommand</key>
+	<string>liteSceneDirection</string>
+	<key>painterSingletonDirection</key>
+	<string>handlerChainFlags</string>
+	<key>positionStrategyInset</key>
+	<string>interfaceChainMomentum</string>
+	<key>sinkThanMethod</key>
+	<string>aspectPrototypeHead</string>
+	<key>standaloneCatalystMomentum</key>
+	<string>decorationSystemDistance</string>
+</dict>
+</plist>

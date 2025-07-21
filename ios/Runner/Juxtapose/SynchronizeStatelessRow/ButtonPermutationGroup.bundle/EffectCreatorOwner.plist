@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorPerFacade</key>
+	<string>fixedZoneSaturation</string>
+	<key>globalOptionInterval</key>
+	<string>injectionActivityStatus</string>
+	<key>gradientDuringProcess</key>
+	<string>nodePatternOffset</string>
+	<key>invisibleLayoutIndex</key>
+	<string>serviceThroughTask</string>
+	<key>rapidCoordinatorInset</key>
+	<string>histogramAdapterFormat</string>
+	<key>secondDelegateFormat</key>
+	<string>nibAdapterSpacing</string>
+	<key>transitionFunctionTail</key>
+	<string>smartInterfaceAcceleration</string>
+</dict>
+</plist>

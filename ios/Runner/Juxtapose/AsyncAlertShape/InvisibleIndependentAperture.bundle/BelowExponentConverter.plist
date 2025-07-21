@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheThanVar</key>
+	<string>futureAtState</string>
+	<key>characterValueType</key>
+	<string>constraintAdapterTheme</string>
+	<key>metadataBridgeCount</key>
+	<string>standaloneStepInset</string>
+	<key>progressbarPerPlatform</key>
+	<string>graphMediatorRight</string>
+	<key>resourceBridgeValidation</key>
+	<string>interfaceBesideScope</string>
+	<key>stackAmongSingleton</key>
+	<string>inkwellLevelOrientation</string>
+	<key>statelessFrameworkDensity</key>
+	<string>ignoredProtocolSpeed</string>
+	<key>zoneTaskValidation</key>
+	<string>elasticSizeSpacing</string>
+</dict>
+</plist>

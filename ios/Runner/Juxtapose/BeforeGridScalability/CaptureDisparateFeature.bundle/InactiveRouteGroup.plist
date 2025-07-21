@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocActionFeedback</key>
+	<string>geometricMultiplicationLeft</string>
+	<key>indicatorModeType</key>
+	<string>projectIncludeType</string>
+	<key>lostCallbackMargin</key>
+	<string>advancedTextureTop</string>
+	<key>responseChainName</key>
+	<string>layoutWorkDistance</string>
+	<key>staticNibPressure</key>
+	<string>specifierOperationShade</string>
+</dict>
+</plist>

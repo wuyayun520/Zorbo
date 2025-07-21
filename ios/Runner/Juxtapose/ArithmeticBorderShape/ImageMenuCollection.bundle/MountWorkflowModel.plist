@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableTopicResponse</key>
+	<string>routeOfInterpreter</string>
+	<key>precisionAsVariable</key>
+	<string>smallUtilSkewy</string>
+	<key>resourceActionSpacing</key>
+	<string>transitionCycleVisible</string>
+</dict>
+</plist>

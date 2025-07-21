@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticProcessEdge</key>
+	<string>specifyUtilFeedback</string>
+	<key>collectionFrameworkSize</key>
+	<string>movementInterpreterFrequency</string>
+	<key>controllerAtValue</key>
+	<string>routeOutsideTask</string>
+	<key>explicitTickerPressure</key>
+	<string>previewViaState</string>
+	<key>methodOrComposite</key>
+	<string>bufferAboutFlyweight</string>
+	<key>mutableResourceSkewx</key>
+	<string>usecaseContextInterval</string>
+	<key>singletonStyleResponse</key>
+	<string>plateLayerFeedback</string>
+	<key>tickerMediatorAlignment</key>
+	<string>titleCommandPressure</string>
+	<key>webConfigurationStyle</key>
+	<string>gramTierSpeed</string>
+</dict>
+</plist>

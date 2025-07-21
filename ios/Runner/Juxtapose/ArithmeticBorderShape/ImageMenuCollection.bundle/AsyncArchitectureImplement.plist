@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticCoordinatorSkewy</key>
+	<string>pivotalPetFormat</string>
+	<key>layoutVariableAcceleration</key>
+	<string>eagerOptionInteraction</string>
+	<key>popupMementoCoord</key>
+	<string>difficultCoordinatorOrigin</string>
+	<key>storageCommandMode</key>
+	<string>originalGridviewSaturation</string>
+</dict>
+</plist>

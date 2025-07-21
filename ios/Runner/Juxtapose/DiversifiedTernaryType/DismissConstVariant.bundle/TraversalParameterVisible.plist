@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterVisitorDirection</key>
+	<string>directDialogsDelay</string>
+	<key>delegateVersusTask</key>
+	<string>usecaseAndCycle</string>
+	<key>exponentContextShade</key>
+	<string>robustServiceInteraction</string>
+	<key>interfaceLayerFrequency</key>
+	<string>errorWorkBound</string>
+	<key>metadataDuringFacade</key>
+	<string>layerVarCenter</string>
+	<key>otherThemeTransparency</key>
+	<string>reusableSliderOrigin</string>
+	<key>statefulThroughValue</key>
+	<string>routerDespitePrototype</string>
+	<key>visibleObserverBound</key>
+	<string>draggableDelegateScale</string>
+	<key>webProfileDuration</key>
+	<string>reductionNearObserver</string>
+</dict>
+</plist>

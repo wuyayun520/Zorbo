@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterEnvironmentDuration</key>
+	<string>intermediateSpriteVisibility</string>
+	<key>intermediateProgressbarRate</key>
+	<string>beginnerPromiseMode</string>
+	<key>isolateContainBridge</key>
+	<string>mapByInterpreter</string>
+	<key>movementStructureBrightness</key>
+	<string>dialogsWithKind</string>
+	<key>optimizerCommandDistance</key>
+	<string>apertureAndChain</string>
+	<key>subtleCellResponse</key>
+	<string>listenerTypeName</string>
+</dict>
+</plist>

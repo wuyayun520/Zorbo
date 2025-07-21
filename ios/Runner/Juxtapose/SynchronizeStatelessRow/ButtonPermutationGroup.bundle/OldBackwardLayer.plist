@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorPrototypeContrast</key>
+	<string>nibBesideMemento</string>
+	<key>declarativeMenuBrightness</key>
+	<string>normAndType</string>
+	<key>newestChecklistDensity</key>
+	<string>beginnerInterpolationDensity</string>
+	<key>positionAsMethod</key>
+	<string>reactiveAxisColor</string>
+	<key>spriteBesideKind</key>
+	<string>getxInType</string>
+</dict>
+</plist>

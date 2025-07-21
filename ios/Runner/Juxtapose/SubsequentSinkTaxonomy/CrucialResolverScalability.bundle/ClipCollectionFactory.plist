@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonParameterRotation</key>
+	<string>marginInsideBridge</string>
+	<key>cursorAdapterInset</key>
+	<string>compositionalNibEdge</string>
+	<key>futureBesideKind</key>
+	<string>marginForMode</string>
+	<key>handlerProcessStatus</key>
+	<string>mobileInkwellBound</string>
+	<key>modalOrWork</key>
+	<string>mediocreUsecaseVisibility</string>
+	<key>resourceJobState</key>
+	<string>mobileCallbackPadding</string>
+	<key>resourceModeCount</key>
+	<string>consumerDecoratorResponse</string>
+	<key>stateObserverSpacing</key>
+	<string>dependencyBufferOrigin</string>
+	<key>viewVersusStrategy</key>
+	<string>errorOutsideProcess</string>
+</dict>
+</plist>

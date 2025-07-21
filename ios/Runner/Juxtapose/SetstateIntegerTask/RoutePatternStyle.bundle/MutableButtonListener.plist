@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseForFacade</key>
+	<string>gemKindFormat</string>
+	<key>bitrateJobTint</key>
+	<string>mediumSpriteInteraction</string>
+	<key>blocAtInterpreter</key>
+	<string>commonTitleDensity</string>
+	<key>concurrentRowFlags</key>
+	<string>streamTaskOrigin</string>
+	<key>dynamicEqualizationPressure</key>
+	<string>grainPhaseTail</string>
+	<key>hyperbolicConstraintCenter</key>
+	<string>actionPlatformBound</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationInSingleton</key>
+	<string>segueVisitorMargin</string>
+	<key>effectVarRight</key>
+	<string>cartesianPaddingMargin</string>
+	<key>flexibleCupertinoEdge</key>
+	<string>listviewMementoShape</string>
+	<key>managerMementoPressure</key>
+	<string>asynchronousManagerTheme</string>
+	<key>publicMemberTension</key>
+	<string>integerProxyOffset</string>
+	<key>repositoryInterpreterMargin</key>
+	<string>topicObserverMomentum</string>
+	<key>resolverActivityPressure</key>
+	<string>granularToolForce</string>
+	<key>richtextDespiteMediator</key>
+	<string>frameTypeInteraction</string>
+	<key>workflowOrCommand</key>
+	<string>radioSingletonBorder</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constGraphicDistance</key>
+	<string>plateStageSaturation</string>
+	<key>convolutionLayerSkewx</key>
+	<string>localMenuMode</string>
+	<key>layoutNearSystem</key>
+	<string>rowKindFeedback</string>
+	<key>queueLayerEdge</key>
+	<string>baselineAsLayer</string>
+	<key>sharedMissionLocation</key>
+	<string>anchorWithoutAdapter</string>
+	<key>widgetContainProxy</key>
+	<string>independentTextfieldPosition</string>
+</dict>
+</plist>

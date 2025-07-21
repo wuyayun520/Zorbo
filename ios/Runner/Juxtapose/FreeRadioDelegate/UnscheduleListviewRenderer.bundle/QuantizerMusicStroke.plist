@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartCommandLeft</key>
+	<string>buttonCommandIndex</string>
+	<key>clipperDespiteMethod</key>
+	<string>mutableCompleterFeedback</string>
+	<key>featureJobOffset</key>
+	<string>hierarchicalExponentAppearance</string>
+	<key>largeSymbolSkewx</key>
+	<string>frameInStage</string>
+	<key>nextMasterCoord</key>
+	<string>oldCollectionLocation</string>
+	<key>queueAgainstCommand</key>
+	<string>liteTimerInset</string>
+</dict>
+</plist>

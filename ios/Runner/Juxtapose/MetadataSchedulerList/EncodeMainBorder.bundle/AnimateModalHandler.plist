@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>navigationPerBridge</key>
+	<string>constraintBesideType</string>
+	<key>serviceProxyVisibility</key>
+	<string>capsuleOfFacade</string>
+	<key>synchronousRequestDistance</key>
+	<string>usedZoneEdge</string>
+	<key>temporaryCursorOrigin</key>
+	<string>agileSubscriptionFlags</string>
+</dict>
+</plist>

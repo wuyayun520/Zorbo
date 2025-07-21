@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileFutureStyle</key>
+	<string>newestConstraintRate</string>
+	<key>alertForStage</key>
+	<string>mobxVarDirection</string>
+	<key>chapterOrFlyweight</key>
+	<string>localizationProcessSaturation</string>
+	<key>delegateBesideBridge</key>
+	<string>responseBufferPadding</string>
+	<key>lazyNavigationTheme</key>
+	<string>lostUsecaseForce</string>
+	<key>rectVisitorPadding</key>
+	<string>allocatorWithoutProcess</string>
+</dict>
+</plist>

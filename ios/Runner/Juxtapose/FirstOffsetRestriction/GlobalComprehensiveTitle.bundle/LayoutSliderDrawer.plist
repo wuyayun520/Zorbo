@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationChainSize</key>
+	<string>liteDelegateSaturation</string>
+	<key>delegateStyleKind</key>
+	<string>permissiveTextFlags</string>
+	<key>directReductionTop</key>
+	<string>immediateMenuMargin</string>
+	<key>intensityForActivity</key>
+	<string>assetAmongVar</string>
+	<key>mapSingletonFeedback</key>
+	<string>observerAlongDecorator</string>
+	<key>resilientSliderDensity</key>
+	<string>touchJobDensity</string>
+	<key>rowLikeProxy</key>
+	<string>repositoryProxyMargin</string>
+	<key>usedInteractorShade</key>
+	<string>actionPerVisitor</string>
+</dict>
+</plist>

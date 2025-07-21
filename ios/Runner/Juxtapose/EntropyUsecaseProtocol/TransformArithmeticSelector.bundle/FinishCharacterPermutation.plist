@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteBlocMargin</key>
+	<string>resilientMusicTint</string>
+	<key>controllerDuringTemple</key>
+	<string>titleFormOpacity</string>
+	<key>convolutionPatternInset</key>
+	<string>hyperbolicGestureOffset</string>
+	<key>inactiveGestureRotation</key>
+	<string>builderActivityBorder</string>
+	<key>interactorFlyweightColor</key>
+	<string>commandStateBehavior</string>
+	<key>opaqueRectCoord</key>
+	<string>delegateFromProcess</string>
+	<key>progressbarFromJob</key>
+	<string>semanticOffsetName</string>
+	<key>responseSingletonValidation</key>
+	<string>navigationParamVisible</string>
+	<key>seamlessSeguePosition</key>
+	<string>mobxParameterStyle</string>
+</dict>
+</plist>

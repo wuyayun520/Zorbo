@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentIntensityPressure</key>
+	<string>buttonNearParam</string>
+	<key>imageBeyondActivity</key>
+	<string>pinchableSingletonVisible</string>
+	<key>observerAwayScope</key>
+	<string>resourceAboutParameter</string>
+	<key>swiftFacadeInteraction</key>
+	<string>opaquePositionState</string>
+</dict>
+</plist>

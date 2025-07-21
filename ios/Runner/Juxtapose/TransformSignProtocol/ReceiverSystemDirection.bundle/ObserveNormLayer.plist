@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseProviderRate</key>
+	<string>equipmentSingletonSpacing</string>
+	<key>gridPlatformBehavior</key>
+	<string>dependencyUntilPrototype</string>
+	<key>mobileManagerPosition</key>
+	<string>usedDelegateVisibility</string>
+	<key>statelessResolverDensity</key>
+	<string>priorExpandedCoord</string>
+	<key>widgetWithParam</key>
+	<string>behaviorSingletonTint</string>
+</dict>
+</plist>

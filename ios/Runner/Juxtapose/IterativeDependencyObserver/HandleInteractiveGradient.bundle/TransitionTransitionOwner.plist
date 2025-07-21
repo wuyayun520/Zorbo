@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationDespitePhase</key>
+	<string>agileCardTail</string>
+	<key>controllerVersusMethod</key>
+	<string>custompaintFromCycle</string>
+	<key>draggableEffectFrequency</key>
+	<string>staticAnchorShape</string>
+	<key>fixedTernaryFrequency</key>
+	<string>accessibleWidgetTail</string>
+	<key>gradientInPrototype</key>
+	<string>transitionShapeVelocity</string>
+	<key>mobileVectorSpacing</key>
+	<string>consultativeRouteStyle</string>
+	<key>precisionSingletonVelocity</key>
+	<string>repositoryFormPressure</string>
+	<key>semanticNibName</key>
+	<string>gestureOfMethod</string>
+	<key>textLevelLeft</key>
+	<string>modelExceptBridge</string>
+</dict>
+</plist>

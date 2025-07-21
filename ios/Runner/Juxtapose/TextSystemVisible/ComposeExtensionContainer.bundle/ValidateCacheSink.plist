@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitCompositeBehavior</key>
+	<string>advancedCoordinatorDirection</string>
+	<key>constraintLevelRotation</key>
+	<string>persistentCustompaintAppearance</string>
+	<key>entityThroughComposite</key>
+	<string>streamProcessContrast</string>
+	<key>functionalMethodFlags</key>
+	<string>deferredNormAppearance</string>
+	<key>numericalPresenterName</key>
+	<string>largeProgressbarCoord</string>
+	<key>routeAtPlatform</key>
+	<string>resizableStateLeft</string>
+	<key>temporaryNotifierCenter</key>
+	<string>swiftNearFacade</string>
+	<key>titleModeDepth</key>
+	<string>reactiveResolverValidation</string>
+</dict>
+</plist>

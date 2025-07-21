@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationVisitorOrigin</key>
+	<string>cupertinoButtonBehavior</string>
+	<key>asynchronousParticleOrigin</key>
+	<string>spineAndState</string>
+	<key>dropdownbuttonBridgeBrightness</key>
+	<string>progressbarNearFunction</string>
+	<key>globalLayoutDepth</key>
+	<string>anchorContainDecorator</string>
+	<key>injectionTaskDensity</key>
+	<string>inactiveInterfaceAcceleration</string>
+	<key>responseStyleBehavior</key>
+	<string>navigationOperationSpacing</string>
+	<key>serviceObserverDirection</key>
+	<string>iterativeRadioStyle</string>
+	<key>signFrameworkHead</key>
+	<string>accessoryWithType</string>
+</dict>
+</plist>

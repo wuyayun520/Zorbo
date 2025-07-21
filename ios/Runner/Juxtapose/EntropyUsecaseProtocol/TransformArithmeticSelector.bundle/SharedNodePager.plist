@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletNearCommand</key>
+	<string>labelProcessPressure</string>
+	<key>bulletPerBridge</key>
+	<string>touchCommandRight</string>
+	<key>channelTaskFrequency</key>
+	<string>chapterAlongParam</string>
+	<key>cupertinoAmongEnvironment</key>
+	<string>hierarchicalOffsetState</string>
+	<key>disparateCallbackOpacity</key>
+	<string>retainedPrecisionVisible</string>
+	<key>extensionInSingleton</key>
+	<string>pinchableChapterAppearance</string>
+	<key>featureParamLeft</key>
+	<string>grayscaleTempleEdge</string>
+	<key>interpolationMethodShade</key>
+	<string>binaryStageTint</string>
+	<key>multiGateVelocity</key>
+	<string>sceneStateTension</string>
+</dict>
+</plist>

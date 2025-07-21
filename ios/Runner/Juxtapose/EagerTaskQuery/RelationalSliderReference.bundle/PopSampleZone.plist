@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticTaskBound</key>
+	<string>normAmongStrategy</string>
+	<key>featureVersusPrototype</key>
+	<string>grayscaleAmongParam</string>
+	<key>frameFormTransparency</key>
+	<string>heroInsideBridge</string>
+	<key>frameSinceWork</key>
+	<string>logarithmAmongLayer</string>
+	<key>gestureCompositeHue</key>
+	<string>previewBeyondLevel</string>
+	<key>integerProxyBottom</key>
+	<string>sustainableSwitchRate</string>
+	<key>pageviewAtLayer</key>
+	<string>touchStateScale</string>
+</dict>
+</plist>

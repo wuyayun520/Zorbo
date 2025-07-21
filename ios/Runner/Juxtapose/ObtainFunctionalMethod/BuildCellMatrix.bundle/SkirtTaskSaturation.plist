@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileGesturedetectorStyle</key>
+	<string>particleFormAppearance</string>
+	<key>blocOutsideProcess</key>
+	<string>storeUntilWork</string>
+	<key>disabledArithmeticShape</key>
+	<string>tappableHashTheme</string>
+	<key>lazyFrameStatus</key>
+	<string>imperativeRepositoryCount</string>
+	<key>mapOperationRate</key>
+	<string>commonRadiusEdge</string>
+	<key>radioPatternOrientation</key>
+	<string>subsequentReducerPosition</string>
+	<key>reducerNearType</key>
+	<string>tabviewAroundMediator</string>
+	<key>routePatternSpacing</key>
+	<string>capsuleAroundLevel</string>
+	<key>tickerActivityFrequency</key>
+	<string>spineViaValue</string>
+	<key>timerContextSpeed</key>
+	<string>persistentTaskSkewy</string>
+</dict>
+</plist>

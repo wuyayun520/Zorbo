@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationFlyweightAlignment</key>
+	<string>managerParamTheme</string>
+	<key>dynamicRadiusCount</key>
+	<string>popupCycleColor</string>
+	<key>equipmentPerVar</key>
+	<string>anchorByActivity</string>
+	<key>immutableServiceSkewx</key>
+	<string>gradientContextScale</string>
+	<key>intensityPhaseDistance</key>
+	<string>transformerAgainstFunction</string>
+	<key>resolverByProcess</key>
+	<string>challengeValueSkewy</string>
+	<key>slashAroundValue</key>
+	<string>resilientNotificationLocation</string>
+</dict>
+</plist>

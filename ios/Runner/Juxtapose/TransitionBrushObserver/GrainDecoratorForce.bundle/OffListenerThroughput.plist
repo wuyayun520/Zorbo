@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackThanCycle</key>
+	<string>layoutPatternIndex</string>
+	<key>commandContextSaturation</key>
+	<string>columnStructureMode</string>
+	<key>crudeStorageTint</key>
+	<string>protocolParamFlags</string>
+	<key>easyViewAcceleration</key>
+	<string>gestureLikeChain</string>
+	<key>multiTransitionSaturation</key>
+	<string>taskOutsideAdapter</string>
+	<key>notifierLayerInteraction</key>
+	<string>progressbarWorkStyle</string>
+	<key>semanticSkinFrequency</key>
+	<string>handlerStateSpeed</string>
+	<key>swiftTierType</key>
+	<string>offsetBufferPosition</string>
+</dict>
+</plist>

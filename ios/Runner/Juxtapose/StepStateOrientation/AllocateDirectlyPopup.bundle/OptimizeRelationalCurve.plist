@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterStrategyFeedback</key>
+	<string>workflowWorkDepth</string>
+	<key>characterOrValue</key>
+	<string>mutableViewShape</string>
+	<key>imperativeBufferStatus</key>
+	<string>iterativeVectorFeedback</string>
+	<key>persistentIndicatorTheme</key>
+	<string>immediateResultShade</string>
+	<key>previewAsFacade</key>
+	<string>loopThroughStage</string>
+	<key>spriteTypeOffset</key>
+	<string>significantTimerValidation</string>
+</dict>
+</plist>

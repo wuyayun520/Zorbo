@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetTempleTheme</key>
+	<string>requiredSinkSpacing</string>
+	<key>constraintDespiteAction</key>
+	<string>masterBridgeStatus</string>
+	<key>cubitThroughComposite</key>
+	<string>secondStateVisible</string>
+	<key>layoutInsideBridge</key>
+	<string>sizeProxyMode</string>
+	<key>mobileCallbackState</key>
+	<string>routeDecoratorSpacing</string>
+	<key>permanentLocalizationOrigin</key>
+	<string>dedicatedTableShape</string>
+	<key>unactivatedConstraintTension</key>
+	<string>mediaqueryFlyweightForce</string>
+</dict>
+</plist>

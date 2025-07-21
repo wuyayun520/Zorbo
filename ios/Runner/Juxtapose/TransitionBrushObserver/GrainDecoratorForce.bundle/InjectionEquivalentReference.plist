@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationOperationBehavior</key>
+	<string>elasticSwitchDistance</string>
+	<key>asyncCanvasScale</key>
+	<string>cursorContextRight</string>
+	<key>behaviorProcessDelay</key>
+	<string>themePatternInterval</string>
+	<key>checklistFrameworkFlags</key>
+	<string>unactivatedRadiusDensity</string>
+	<key>errorInterpreterValidation</key>
+	<string>basicStreamDuration</string>
+	<key>iconOutsideFlyweight</key>
+	<string>parallelStepContrast</string>
+	<key>popupLikeMode</key>
+	<string>layerOfPlatform</string>
+	<key>radioAwayComposite</key>
+	<string>clipperForPrototype</string>
+	<key>storyboardThanTask</key>
+	<string>vectorMediatorLeft</string>
+	<key>timerOrFlyweight</key>
+	<string>arithmeticTypeSize</string>
+</dict>
+</plist>

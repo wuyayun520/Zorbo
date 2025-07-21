@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintAroundState</key>
+	<string>collectionAgainstInterpreter</string>
+	<key>containerPerProxy</key>
+	<string>asyncAtTask</string>
+	<key>frameActionRate</key>
+	<string>challengeThanFacade</string>
+	<key>isolateForKind</key>
+	<string>easyMobxType</string>
+	<key>listviewWithPrototype</key>
+	<string>resourceAdapterRotation</string>
+	<key>modalContainBridge</key>
+	<string>handlerWithAdapter</string>
+	<key>relationalBuilderSpacing</key>
+	<string>parallelToolTint</string>
+	<key>responsiveDurationInset</key>
+	<string>operationValueBound</string>
+	<key>routeWorkInset</key>
+	<string>iconFlyweightType</string>
+	<key>singleMediaFlags</key>
+	<string>appbarTempleDepth</string>
+</dict>
+</plist>

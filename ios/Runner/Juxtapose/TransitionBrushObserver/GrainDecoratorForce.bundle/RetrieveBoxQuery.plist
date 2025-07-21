@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesFacadePressure</key>
+	<string>mediumActionShade</string>
+	<key>checklistLevelStatus</key>
+	<string>opaqueListviewSkewx</string>
+	<key>effectUntilChain</key>
+	<string>crudePrecisionDuration</string>
+	<key>modulusDuringWork</key>
+	<string>advancedBehaviorContrast</string>
+	<key>observerCycleInteraction</key>
+	<string>materialInProxy</string>
+	<key>observerPatternVisible</key>
+	<string>mediumSpriteIndex</string>
+	<key>operationTypeSkewx</key>
+	<string>seamlessEventAppearance</string>
+	<key>presenterInPhase</key>
+	<string>blocJobVelocity</string>
+	<key>typicalWidgetSpeed</key>
+	<string>assetTempleIndex</string>
+</dict>
+</plist>

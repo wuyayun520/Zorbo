@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationFacadeSpeed</key>
+	<string>disparateConfigurationSpeed</string>
+	<key>cupertinoFlyweightPadding</key>
+	<string>collectionOutsideSingleton</string>
+	<key>hashFromStrategy</key>
+	<string>concreteHashFlags</string>
+	<key>logarithmWithCommand</key>
+	<string>textfieldAmongPlatform</string>
+	<key>mediaqueryAgainstStructure</key>
+	<string>configurationChainCenter</string>
+	<key>navigatorAlongContext</key>
+	<string>challengeCycleVisibility</string>
+	<key>sessionAwayComposite</key>
+	<string>inkwellPerParameter</string>
+	<key>viewAgainstDecorator</key>
+	<string>navigatorShapeVisibility</string>
+	<key>widgetInsideShape</key>
+	<string>radioStageLocation</string>
+</dict>
+</plist>

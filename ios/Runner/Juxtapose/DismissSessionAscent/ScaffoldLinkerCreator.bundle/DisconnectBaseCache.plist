@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerPerShape</key>
+	<string>storyboardOperationLeft</string>
+	<key>asyncDecoratorAppearance</key>
+	<string>inactiveRequestOrigin</string>
+	<key>asynchronousInterpolationFeedback</key>
+	<string>sessionBesideTier</string>
+	<key>completerFromMemento</key>
+	<string>eventDuringParameter</string>
+	<key>cubitProxyBrightness</key>
+	<string>taskMementoBorder</string>
+	<key>discardedUtilEdge</key>
+	<string>dynamicQueueStatus</string>
+	<key>resourceMethodPadding</key>
+	<string>signMethodFormat</string>
+	<key>robustSampleRight</key>
+	<string>overlayBufferScale</string>
+	<key>sensorChainOrientation</key>
+	<string>queryDespiteTask</string>
+</dict>
+</plist>

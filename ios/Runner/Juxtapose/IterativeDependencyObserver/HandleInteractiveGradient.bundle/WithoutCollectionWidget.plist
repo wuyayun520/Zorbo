@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoTernaryStatus</key>
+	<string>errorAlongContext</string>
+	<key>delegateAmongMediator</key>
+	<string>bufferMediatorVisible</string>
+	<key>inkwellActionState</key>
+	<string>normalGroupBound</string>
+	<key>integerWithInterpreter</key>
+	<string>accessibleSemanticsMargin</string>
+	<key>iterativeDelegatePadding</key>
+	<string>parallelStoreInset</string>
+	<key>lazySpineDistance</key>
+	<string>keyAssetDensity</string>
+	<key>movementStageSaturation</key>
+	<string>coordinatorStageRate</string>
+	<key>mutableLossSize</key>
+	<string>functionalCertificateContrast</string>
+	<key>subpixelFacadeRight</key>
+	<string>layoutContainKind</string>
+</dict>
+</plist>

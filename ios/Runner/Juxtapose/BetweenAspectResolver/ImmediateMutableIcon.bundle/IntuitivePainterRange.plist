@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionTaskFeedback</key>
+	<string>smallZoneVelocity</string>
+	<key>granularProviderAppearance</key>
+	<string>animationContainAdapter</string>
+	<key>hierarchicalGrainShape</key>
+	<string>persistentCardLocation</string>
+	<key>independentSegueBehavior</key>
+	<string>hierarchicalParticleTop</string>
+	<key>rapidSymbolDirection</key>
+	<string>dimensionWithoutForm</string>
+	<key>screenContextRate</key>
+	<string>materialFrameSpeed</string>
+	<key>slashTypeBottom</key>
+	<string>factoryByTask</string>
+	<key>tweenProcessAppearance</key>
+	<string>tappableRequestDuration</string>
+	<key>webAlignmentFeedback</key>
+	<string>permanentAlignmentInteraction</string>
+</dict>
+</plist>

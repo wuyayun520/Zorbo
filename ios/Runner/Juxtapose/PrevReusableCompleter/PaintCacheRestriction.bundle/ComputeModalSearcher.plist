@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticConstraintStyle</key>
+	<string>keyAspectPosition</string>
+	<key>cupertinoResourceOrientation</key>
+	<string>curveVarHue</string>
+	<key>marginStrategyDuration</key>
+	<string>localRectCoord</string>
+	<key>streamValueFormat</key>
+	<string>layoutInterpreterSize</string>
+	<key>uniformBaselineType</key>
+	<string>reusableStatelessResponse</string>
+</dict>
+</plist>

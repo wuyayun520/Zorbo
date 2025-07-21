@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activitySinceStrategy</key>
+	<string>discardedBuilderAppearance</string>
+	<key>globalSpineFrequency</key>
+	<string>widgetSystemAcceleration</string>
+	<key>modalAsKind</key>
+	<string>significantImageDepth</string>
+	<key>pinchableFragmentCount</key>
+	<string>prismaticMemberVisible</string>
+	<key>secondStreamVisible</key>
+	<string>skinThanMediator</string>
+	<key>sizedboxStateValidation</key>
+	<string>decorationMethodOrigin</string>
+</dict>
+</plist>

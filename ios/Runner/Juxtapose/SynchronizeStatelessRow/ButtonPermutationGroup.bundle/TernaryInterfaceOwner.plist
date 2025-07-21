@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorThroughTemple</key>
+	<string>navigationOrCycle</string>
+	<key>callbackVarSpacing</key>
+	<string>curveByTemple</string>
+	<key>hyperbolicGroupCoord</key>
+	<string>slashActionInset</string>
+	<key>interactiveUnaryForce</key>
+	<string>staticBoxshadowStyle</string>
+	<key>primarySignatureAlignment</key>
+	<string>parallelPointDelay</string>
+	<key>transitionMementoTail</key>
+	<string>cursorJobShape</string>
+</dict>
+</plist>

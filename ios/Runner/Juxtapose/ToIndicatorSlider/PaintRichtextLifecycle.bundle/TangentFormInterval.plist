@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousCacheBound</key>
+	<string>smallChannelsSpacing</string>
+	<key>cubeForAdapter</key>
+	<string>layoutActivitySpacing</string>
+	<key>eagerStoreContrast</key>
+	<string>builderAmongMediator</string>
+	<key>normalStepSkewy</key>
+	<string>lazyEffectShade</string>
+	<key>taskPerMediator</key>
+	<string>widgetLikeMemento</string>
+</dict>
+</plist>

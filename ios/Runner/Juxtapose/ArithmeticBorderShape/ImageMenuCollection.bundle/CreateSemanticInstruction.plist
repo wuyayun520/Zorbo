@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionLikeInterpreter</key>
+	<string>controllerAmongContext</string>
+	<key>delegateAmongParameter</key>
+	<string>signForLevel</string>
+	<key>modelCompositeAcceleration</key>
+	<string>timerOrComposite</string>
+	<key>offsetNearBuffer</key>
+	<string>finalDurationIndex</string>
+	<key>opaqueManagerInteraction</key>
+	<string>binaryFromOperation</string>
+	<key>permanentGetxHead</key>
+	<string>delegateInSingleton</string>
+	<key>sharedImageRotation</key>
+	<string>capsuleContainPlatform</string>
+	<key>transitionMediatorShape</key>
+	<string>smallStateCoord</string>
+</dict>
+</plist>

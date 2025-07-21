@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionBlocFormat</key>
+	<string>subpixelCommandHue</string>
+	<key>commandObserverBrightness</key>
+	<string>mobileViaStrategy</string>
+	<key>intuitiveBehaviorVisible</key>
+	<string>disparateViewSkewy</string>
+	<key>mobxLikeSingleton</key>
+	<string>errorAboutNumber</string>
+	<key>precisionAndScope</key>
+	<string>threadLikePattern</string>
+	<key>sizedboxMementoTheme</key>
+	<string>grainStrategySpacing</string>
+	<key>stateVisitorTail</key>
+	<string>currentFactoryAlignment</string>
+</dict>
+</plist>

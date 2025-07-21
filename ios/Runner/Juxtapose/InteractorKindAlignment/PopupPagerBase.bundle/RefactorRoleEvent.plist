@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedPlateFlags</key>
+	<string>commandTypeInteraction</string>
+	<key>animationProxyInteraction</key>
+	<string>bufferTierAlignment</string>
+	<key>dependencyVersusMethod</key>
+	<string>nodeFacadeVisibility</string>
+	<key>positionDuringProcess</key>
+	<string>entityVarTail</string>
+	<key>tangentInsideStructure</key>
+	<string>zoneCycleDepth</string>
+</dict>
+</plist>

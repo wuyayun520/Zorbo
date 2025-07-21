@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationContainParameter</key>
+	<string>utilBeyondFacade</string>
+	<key>gestureAboutFlyweight</key>
+	<string>enabledTweenSpeed</string>
+	<key>handlerProcessDepth</key>
+	<string>vectorCycleFrequency</string>
+	<key>intensityValueMomentum</key>
+	<string>pinchableContainerOrigin</string>
+	<key>resourceContextDensity</key>
+	<string>activeAssetTail</string>
+</dict>
+</plist>

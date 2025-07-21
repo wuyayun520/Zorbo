@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorTempleBehavior</key>
+	<string>cardVisitorEdge</string>
+	<key>arithmeticTransitionTop</key>
+	<string>missedSessionOpacity</string>
+	<key>baselineJobContrast</key>
+	<string>arithmeticIncludeDecorator</string>
+	<key>cardStateRotation</key>
+	<string>activeNavigatorBorder</string>
+	<key>controllerWithoutContext</key>
+	<string>usedManagerTint</string>
+	<key>cupertinoParameterOrientation</key>
+	<string>memberSinceLayer</string>
+	<key>invisibleConstraintFrequency</key>
+	<string>coordinatorWorkDepth</string>
+	<key>offsetTierTag</key>
+	<string>enabledNavigatorOffset</string>
+	<key>routeEnvironmentName</key>
+	<string>screenContainActivity</string>
+</dict>
+</plist>

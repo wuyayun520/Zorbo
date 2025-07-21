@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxParameterKind</key>
+	<string>typicalTweenValidation</string>
+	<key>concurrentBitrateSize</key>
+	<string>grainPerComposite</string>
+	<key>gemFunctionShape</key>
+	<string>framePlatformOffset</string>
+	<key>gradientStyleFormat</key>
+	<string>durationTaskFormat</string>
+	<key>labelParamFrequency</key>
+	<string>heroStageStyle</string>
+	<key>mainConfigurationRotation</key>
+	<string>frameStateSaturation</string>
+	<key>sliderScopeSpacing</key>
+	<string>mainThemeInset</string>
+	<key>topicUntilProxy</key>
+	<string>modalUntilSingleton</string>
+</dict>
+</plist>

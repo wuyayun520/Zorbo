@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnSystemFlags</key>
+	<string>sensorNumberVisible</string>
+	<key>controllerCompositeRotation</key>
+	<string>repositoryFacadeInset</string>
+	<key>invisibleZoneOrientation</key>
+	<string>constLayerInset</string>
+	<key>sinkExceptStructure</key>
+	<string>inkwellFacadeBorder</string>
+	<key>smartQueryFlags</key>
+	<string>prevOptionAcceleration</string>
+	<key>symmetricParticleTint</key>
+	<string>layoutSystemKind</string>
+	<key>temporaryDurationPosition</key>
+	<string>transitionActivityState</string>
+	<key>uniqueGramCenter</key>
+	<string>draggableAssetRotation</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveMomentumTransparency</key>
+	<string>subtleAwaitTransparency</string>
+	<key>containerProxyPosition</key>
+	<string>graphicNearFramework</string>
+	<key>customOverlayBottom</key>
+	<string>concurrentGestureCount</string>
+	<key>eventAwayScope</key>
+	<string>immutableTransitionOpacity</string>
+	<key>gradientValueName</key>
+	<string>controllerFlyweightCount</string>
+	<key>greatRowTension</key>
+	<string>tickerAgainstType</string>
+	<key>injectionFromPrototype</key>
+	<string>bufferStyleRotation</string>
+	<key>nibShapeMode</key>
+	<string>agileBaseTransparency</string>
+	<key>permissiveCursorDepth</key>
+	<string>currentCurveBorder</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaParamSize</key>
+	<string>themeParameterOpacity</string>
+	<key>challengePrototypePadding</key>
+	<string>intermediateCaptionLocation</string>
+	<key>pageviewVersusFlyweight</key>
+	<string>standaloneSizedboxOpacity</string>
+	<key>previewInsideLayer</key>
+	<string>entityIncludeScope</string>
+	<key>primaryBlocVelocity</key>
+	<string>delegateUntilFacade</string>
+	<key>sensorMethodFlags</key>
+	<string>characterAtKind</string>
+</dict>
+</plist>

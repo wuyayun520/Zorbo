@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoTitleInteraction</key>
+	<string>explicitProfileFormat</string>
+	<key>globalUtilIndex</key>
+	<string>singletonWorkMode</string>
+	<key>persistentUsageBrightness</key>
+	<string>resolverForFlyweight</string>
+	<key>stampThroughLayer</key>
+	<string>ternaryNearOperation</string>
+	<key>subscriptionWithoutObserver</key>
+	<string>mapCompositeRotation</string>
+	<key>swiftByOperation</key>
+	<string>offsetStateSkewx</string>
+	<key>textJobTail</key>
+	<string>vectorBesideFunction</string>
+</dict>
+</plist>

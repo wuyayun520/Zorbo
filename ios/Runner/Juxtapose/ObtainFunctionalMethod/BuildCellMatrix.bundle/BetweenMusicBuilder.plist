@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeSliderLocation</key>
+	<string>granularBlocDensity</string>
+	<key>deferredFrameTransparency</key>
+	<string>eventParamCount</string>
+	<key>descriptorOrType</key>
+	<string>zoneOfProcess</string>
+	<key>inactiveInteractorInteraction</key>
+	<string>viewPatternFrequency</string>
+	<key>priorityOrShape</key>
+	<string>eventOfContext</string>
+</dict>
+</plist>

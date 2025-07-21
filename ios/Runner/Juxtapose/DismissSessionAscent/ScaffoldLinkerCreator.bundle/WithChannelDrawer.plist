@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitWidgetAlignment</key>
+	<string>accordionSpotSaturation</string>
+	<key>interactorCycleStatus</key>
+	<string>offsetFormResponse</string>
+	<key>intuitiveTabviewEdge</key>
+	<string>playbackBridgeDirection</string>
+	<key>labelNumberDensity</key>
+	<string>exceptionWithoutStyle</string>
+</dict>
+</plist>

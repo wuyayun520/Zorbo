@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetTypeForce</key>
+	<string>resizableResolverDirection</string>
+	<key>dependencySingletonLocation</key>
+	<string>interactorUntilProcess</string>
+	<key>directEventSkewy</key>
+	<string>backwardInterpolationMargin</string>
+	<key>disabledListviewRotation</key>
+	<string>lossAmongBridge</string>
+	<key>firstCaptionTail</key>
+	<string>modalPhaseAcceleration</string>
+	<key>keyMemberContrast</key>
+	<string>gesturedetectorStructureForce</string>
+	<key>providerParameterRight</key>
+	<string>presenterScopeStyle</string>
+	<key>seamlessAxisName</key>
+	<string>euclideanAsyncFormat</string>
+	<key>sinkAboutContext</key>
+	<string>techniqueCompositeColor</string>
+</dict>
+</plist>

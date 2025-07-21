@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistTaskTransparency</key>
+	<string>descriptionContainValue</string>
+	<key>criticalRequestSpacing</key>
+	<string>methodAmongSingleton</string>
+	<key>dynamicAxisPressure</key>
+	<string>interactorPhaseTint</string>
+	<key>intensityAdapterInset</key>
+	<string>mainTransitionIndex</string>
+	<key>oldDescriptorSkewy</key>
+	<string>publicFutureLocation</string>
+	<key>positionedSystemTag</key>
+	<string>resultStrategyMode</string>
+	<key>statefulInstructionVelocity</key>
+	<string>hyperbolicAxisName</string>
+	<key>titleParamCount</key>
+	<string>requestFromFramework</string>
+</dict>
+</plist>

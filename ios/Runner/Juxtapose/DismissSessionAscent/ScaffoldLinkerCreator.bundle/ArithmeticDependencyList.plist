@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerThroughLayer</key>
+	<string>dependencyOfStyle</string>
+	<key>errorChainTop</key>
+	<string>commonTickerContrast</string>
+	<key>graphLevelTheme</key>
+	<string>otherScaffoldBrightness</string>
+	<key>listviewShapeFeedback</key>
+	<string>gridMediatorFrequency</string>
+	<key>statelessDurationEdge</key>
+	<string>easySizeTag</string>
+</dict>
+</plist>

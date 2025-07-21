@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperPlatformRate</key>
+	<string>effectAmongScope</string>
+	<key>frameMediatorCoord</key>
+	<string>precisionAsValue</string>
+	<key>gridviewStyleOrigin</key>
+	<string>gestureVersusWork</string>
+	<key>opaqueSignatureFlags</key>
+	<string>intermediateAxisPosition</string>
+	<key>progressbarModeSpeed</key>
+	<string>commandPatternLocation</string>
+	<key>riverpodContextSize</key>
+	<string>exceptionPerDecorator</string>
+</dict>
+</plist>

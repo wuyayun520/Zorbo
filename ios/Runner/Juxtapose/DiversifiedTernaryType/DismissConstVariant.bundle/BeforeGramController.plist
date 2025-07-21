@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleAwaitResponse</key>
+	<string>graphAsKind</string>
+	<key>controllerActivityValidation</key>
+	<string>asyncOperationKind</string>
+	<key>cycleTaskPadding</key>
+	<string>batchFacadeDepth</string>
+	<key>desktopNodeAlignment</key>
+	<string>effectBridgeSpeed</string>
+	<key>directlyFeatureMargin</key>
+	<string>geometricCommandSpacing</string>
+	<key>listenerThroughComposite</key>
+	<string>reductionAroundTask</string>
+	<key>presenterExceptPrototype</key>
+	<string>scrollablePaddingTint</string>
+	<key>sensorSystemDuration</key>
+	<string>accessibleLayerVisibility</string>
+	<key>transformerUntilTemple</key>
+	<string>taskStageAcceleration</string>
+</dict>
+</plist>

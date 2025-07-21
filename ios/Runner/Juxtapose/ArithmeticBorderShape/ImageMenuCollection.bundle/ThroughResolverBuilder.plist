@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationExceptState</key>
+	<string>fixedExpandedTransparency</string>
+	<key>behaviorObserverInterval</key>
+	<string>swiftInStrategy</string>
+	<key>directlyChartRotation</key>
+	<string>asyncCompositeKind</string>
+	<key>discardedButtonDelay</key>
+	<string>interactiveCubitSize</string>
+	<key>segmentOperationContrast</key>
+	<string>asyncObserverCoord</string>
+	<key>spriteBeyondObserver</key>
+	<string>stateAwayObserver</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intuitiveTransitionAcceleration</key>
+	<string>layoutTypeInset</string>
+	<key>newestBatchMargin</key>
+	<string>accessibleLabelTransparency</string>
+	<key>pinchableSensorShape</key>
+	<string>queryLikeJob</string>
+	<key>primaryQueryPosition</key>
+	<string>widgetTierSpeed</string>
+	<key>responsiveListviewKind</key>
+	<string>protocolStateStyle</string>
+	<key>semanticsNumberVisibility</key>
+	<string>labelDecoratorTail</string>
+	<key>spriteModeValidation</key>
+	<string>tweenEnvironmentLocation</string>
+	<key>utilTaskOrientation</key>
+	<string>managerActivityTint</string>
+	<key>variantWithoutFlyweight</key>
+	<string>screenTaskShade</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorOrSystem</key>
+	<string>symmetricInterfaceDistance</string>
+	<key>sceneVisitorTop</key>
+	<string>activatedObserverSkewx</string>
+	<key>significantColumnValidation</key>
+	<string>captionTempleMode</string>
+	<key>widgetContextAlignment</key>
+	<string>cubeAsActivity</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintInterpreterForce</key>
+	<string>mobxAboutEnvironment</string>
+	<key>entityWithoutFramework</key>
+	<string>buttonAdapterDepth</string>
+	<key>handlerActionInset</key>
+	<string>bitrateAgainstFramework</string>
+	<key>layoutInsideKind</key>
+	<string>mainMobxHue</string>
+	<key>navigatorStructureFeedback</key>
+	<string>baselineOfPlatform</string>
+	<key>responsiveActionDepth</key>
+	<string>characterNearSystem</string>
+	<key>rowScopeKind</key>
+	<string>switchViaParam</string>
+	<key>significantCubitAppearance</key>
+	<string>accessoryExceptTask</string>
+	<key>timerPlatformContrast</key>
+	<string>hardStepCount</string>
+</dict>
+</plist>

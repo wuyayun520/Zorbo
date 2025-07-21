@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>labelPerTier</key>
+	<string>currentViewOpacity</string>
+	<key>managerInterpreterSaturation</key>
+	<string>cardCommandIndex</string>
+	<key>reactiveStorageResponse</key>
+	<string>cartesianReductionPosition</string>
+	<key>resizableLabelTransparency</key>
+	<string>singleAssetDelay</string>
+	<key>respectiveNotifierSpacing</key>
+	<string>descriptionObserverState</string>
+	<key>statePatternDepth</key>
+	<string>buttonParameterHead</string>
+	<key>taskWorkValidation</key>
+	<string>layerProxyState</string>
+	<key>ternaryPlatformBound</key>
+	<string>lazyColumnCount</string>
+	<key>touchAndProxy</key>
+	<string>parallelGrainName</string>
+	<key>usecaseBridgeFrequency</key>
+	<string>previewPhaseVelocity</string>
+</dict>
+</plist>

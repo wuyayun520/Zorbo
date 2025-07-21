@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncDecorationBound</key>
+	<string>asynchronousBorderBottom</string>
+	<key>constBlocDirection</key>
+	<string>otherGraphicHue</string>
+	<key>contractionDespiteDecorator</key>
+	<string>methodAndType</string>
+	<key>layoutInDecorator</key>
+	<string>documentFromProcess</string>
+	<key>metadataVersusInterpreter</key>
+	<string>lossVarTransparency</string>
+	<key>queueInsideParam</key>
+	<string>cacheTaskContrast</string>
+	<key>utilWithObserver</key>
+	<string>lastReferenceSpeed</string>
+</dict>
+</plist>

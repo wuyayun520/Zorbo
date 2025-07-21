@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedPopupVisible</key>
+	<string>actionUntilJob</string>
+	<key>arithmeticParticleAppearance</key>
+	<string>hierarchicalMarginInset</string>
+	<key>canvasInsideSingleton</key>
+	<string>mediocreFrameSpacing</string>
+	<key>cubitCommandCenter</key>
+	<string>fragmentStructureTag</string>
+	<key>primaryHeapBottom</key>
+	<string>viewViaScope</string>
+	<key>protectedExceptionDensity</key>
+	<string>cursorModeBorder</string>
+	<key>rectPerCycle</key>
+	<string>baselineOperationShape</string>
+	<key>serviceCycleFrequency</key>
+	<string>finalSkirtLeft</string>
+</dict>
+</plist>

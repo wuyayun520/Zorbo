@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorBesidePlatform</key>
+	<string>featureActivityStatus</string>
+	<key>bulletTypeOrientation</key>
+	<string>concurrentTopicInset</string>
+	<key>composableFactoryTheme</key>
+	<string>advancedDelegateDepth</string>
+	<key>denseQueryVisibility</key>
+	<string>animationAgainstForm</string>
+	<key>descriptorPerPattern</key>
+	<string>interpolationEnvironmentTransparency</string>
+	<key>granularModelScale</key>
+	<string>swiftLikeJob</string>
+	<key>hardViewDuration</key>
+	<string>previewBeyondShape</string>
+	<key>interfaceOperationEdge</key>
+	<string>channelParamOrientation</string>
+	<key>relationalSingletonRotation</key>
+	<string>activeCompleterDistance</string>
+	<key>routeTypeEdge</key>
+	<string>rowAwayNumber</string>
+</dict>
+</plist>

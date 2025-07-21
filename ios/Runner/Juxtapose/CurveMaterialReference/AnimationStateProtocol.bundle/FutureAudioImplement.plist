@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchContainDecorator</key>
+	<string>otherAlertBottom</string>
+	<key>batchInterpreterSpeed</key>
+	<string>remainderInTier</string>
+	<key>channelByLevel</key>
+	<string>canvasStateSaturation</string>
+	<key>convolutionUntilCycle</key>
+	<string>cubitParamOrigin</string>
+	<key>gateMediatorBottom</key>
+	<string>sustainableAperturePressure</string>
+	<key>gramByAction</key>
+	<string>chartLayerAppearance</string>
+	<key>heroAwayType</key>
+	<string>checklistNearActivity</string>
+	<key>mobileWithParameter</key>
+	<string>modalVarPosition</string>
+	<key>semanticsNumberFormat</key>
+	<string>constHandlerRotation</string>
+	<key>statelessCollectionType</key>
+	<string>coordinatorFromTask</string>
+</dict>
+</plist>

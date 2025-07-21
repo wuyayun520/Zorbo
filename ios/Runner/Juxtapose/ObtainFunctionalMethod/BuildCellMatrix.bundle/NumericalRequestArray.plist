@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintAlongFlyweight</key>
+	<string>uniqueNodeFlags</string>
+	<key>indicatorProxyAlignment</key>
+	<string>alignmentModeHue</string>
+	<key>movementAndObserver</key>
+	<string>scrollableTopicInset</string>
+	<key>navigationAlongAction</key>
+	<string>dynamicBehaviorLocation</string>
+	<key>paddingAndCommand</key>
+	<string>singleBufferDepth</string>
+	<key>responseFunctionTension</key>
+	<string>vectorAgainstVariable</string>
+	<key>usageFormHead</key>
+	<string>invisibleNavigatorRight</string>
+</dict>
+</plist>

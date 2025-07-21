@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityAdapterInteraction</key>
+	<string>alphaProxyVelocity</string>
+	<key>brushCompositeSpeed</key>
+	<string>sessionCompositeRotation</string>
+	<key>customNavigatorCenter</key>
+	<string>layoutSingletonSpeed</string>
+	<key>nodeAwayPattern</key>
+	<string>sizeStateVisible</string>
+	<key>priorityChainCoord</key>
+	<string>curveIncludeActivity</string>
+	<key>requestAboutBuffer</key>
+	<string>switchContextSpeed</string>
+	<key>rowInterpreterDirection</key>
+	<string>rectMementoMomentum</string>
+	<key>sustainableFragmentMode</key>
+	<string>queueDuringBuffer</string>
+</dict>
+</plist>

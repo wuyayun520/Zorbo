@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedCoordinatorTheme</key>
+	<string>effectOutsideParameter</string>
+	<key>cacheTierTransparency</key>
+	<string>multiplicationBufferAppearance</string>
+	<key>cubitExceptInterpreter</key>
+	<string>unactivatedNibName</string>
+	<key>customCheckboxMode</key>
+	<string>pinchableRepositoryName</string>
+	<key>factorySystemRight</key>
+	<string>logarithmNumberFlags</string>
+	<key>flexibleCaptionVisibility</key>
+	<string>asyncGrayscaleDistance</string>
+	<key>greatDurationHead</key>
+	<string>nextStreamType</string>
+	<key>liteZoneHue</key>
+	<string>reducerThanObserver</string>
+	<key>parallelAlignmentInset</key>
+	<string>displayableTangentDuration</string>
+</dict>
+</plist>

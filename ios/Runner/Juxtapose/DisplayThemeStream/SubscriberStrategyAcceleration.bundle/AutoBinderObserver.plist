@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>errorContextStatus</key>
+	<string>momentumViaAction</string>
+	<key>histogramAdapterHead</key>
+	<string>characterBeyondCommand</string>
+	<key>movementWithShape</key>
+	<string>singleFrameVelocity</string>
+	<key>streamStrategyRight</key>
+	<string>completerLikeStrategy</string>
+</dict>
+</plist>

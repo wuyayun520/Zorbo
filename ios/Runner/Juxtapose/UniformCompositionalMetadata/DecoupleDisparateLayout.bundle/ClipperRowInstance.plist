@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardAtFlyweight</key>
+	<string>tablePerFlyweight</string>
+	<key>collectionAlongMemento</key>
+	<string>tangentAroundTemple</string>
+	<key>crudeHashVisibility</key>
+	<string>marginWithStage</string>
+	<key>matrixStageKind</key>
+	<string>dialogsAboutMediator</string>
+	<key>positionAsCommand</key>
+	<string>modelJobForce</string>
+</dict>
+</plist>

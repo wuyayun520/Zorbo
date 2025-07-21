@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionBesideAdapter</key>
+	<string>optimizerOrStage</string>
+	<key>agileLabelTop</key>
+	<string>independentGestureRotation</string>
+	<key>appbarWithoutFlyweight</key>
+	<string>compositionalSliderTop</string>
+	<key>iterativeContainerTag</key>
+	<string>sceneDecoratorRotation</string>
+	<key>largeTaskTransparency</key>
+	<string>profileAwaySingleton</string>
+	<key>remainderContainMemento</key>
+	<string>managerInAdapter</string>
+	<key>resultVarCount</key>
+	<string>bitrateFrameworkInteraction</string>
+	<key>sustainableSessionTail</key>
+	<string>plateOrFunction</string>
+	<key>toolValueInset</key>
+	<string>vectorJobStyle</string>
+</dict>
+</plist>

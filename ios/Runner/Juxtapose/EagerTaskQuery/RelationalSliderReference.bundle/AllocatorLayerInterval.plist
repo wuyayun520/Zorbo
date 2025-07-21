@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionUntilSystem</key>
+	<string>tickerInBuffer</string>
+	<key>concreteTimerVelocity</key>
+	<string>storageCommandBrightness</string>
+	<key>dependencyKindFormat</key>
+	<string>utilAtPlatform</string>
+	<key>layoutNearLevel</key>
+	<string>injectionInterpreterDelay</string>
+	<key>lostSemanticsEdge</key>
+	<string>actionMethodHue</string>
+	<key>serviceThanValue</key>
+	<string>signContainSingleton</string>
+</dict>
+</plist>

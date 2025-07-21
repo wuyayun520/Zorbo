@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticEntityLeft</key>
+	<string>rapidExtensionFormat</string>
+	<key>channelActivityRight</key>
+	<string>usecaseLevelFrequency</string>
+	<key>chartDecoratorStatus</key>
+	<string>textfieldOperationSkewy</string>
+	<key>enabledIndicatorVelocity</key>
+	<string>sliderPerCycle</string>
+	<key>euclideanVectorFrequency</key>
+	<string>constraintWithMemento</string>
+	<key>offsetLayerVisibility</key>
+	<string>alertAtPrototype</string>
+	<key>scrollableLabelSkewx</key>
+	<string>dialogsVariableTail</string>
+	<key>smartSliderBehavior</key>
+	<string>webFactoryDuration</string>
+	<key>textureNearTask</key>
+	<string>segmentPerLayer</string>
+</dict>
+</plist>

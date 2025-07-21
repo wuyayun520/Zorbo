@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonStructureSpacing</key>
+	<string>petIncludeBridge</string>
+	<key>constraintFrameworkName</key>
+	<string>parallelUnaryShade</string>
+	<key>movementBeyondContext</key>
+	<string>frameScopeInteraction</string>
+	<key>multiplicationMediatorDistance</key>
+	<string>coordinatorVariableVisible</string>
+	<key>precisionKindFlags</key>
+	<string>intensityWorkIndex</string>
+	<key>standaloneStatefulInset</key>
+	<string>sharedMenuName</string>
+	<key>statefulTypeSize</key>
+	<string>cursorBesideParameter</string>
+</dict>
+</plist>

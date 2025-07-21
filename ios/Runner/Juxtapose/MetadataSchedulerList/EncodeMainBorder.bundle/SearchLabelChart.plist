@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedVectorAcceleration</key>
+	<string>menuFormType</string>
+	<key>characterDecoratorValidation</key>
+	<string>viewByChain</string>
+	<key>dedicatedLabelTheme</key>
+	<string>customNavigatorDelay</string>
+	<key>dynamicNavigatorMargin</key>
+	<string>containerActivityHead</string>
+	<key>flexThanVar</key>
+	<string>singleLocalizationState</string>
+	<key>globalRectRotation</key>
+	<string>riverpodAdapterPadding</string>
+	<key>memberPlatformDirection</key>
+	<string>exceptionVariableMode</string>
+	<key>texturePhaseIndex</key>
+	<string>vectorModeMode</string>
+	<key>variantWithoutFlyweight</key>
+	<string>localizationPhaseIndex</string>
+</dict>
+</plist>

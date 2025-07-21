@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveCertificateAcceleration</key>
+	<string>sortedSlashRotation</string>
+	<key>cupertinoStateValidation</key>
+	<string>progressbarWithBuffer</string>
+	<key>dependencyFacadeVelocity</key>
+	<string>seamlessFeatureFeedback</string>
+	<key>layoutDecoratorOrientation</key>
+	<string>overlayAsProcess</string>
+	<key>marginFunctionKind</key>
+	<string>mediaDuringMethod</string>
+	<key>rapidThemeFlags</key>
+	<string>projectTypeFormat</string>
+	<key>repositoryParamRotation</key>
+	<string>labelInterpreterVisible</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedAppbarState</key>
+	<string>fixedResponseDepth</string>
+	<key>consultativeControllerFormat</key>
+	<string>resilientDropdownbuttonBound</string>
+	<key>documentVersusInterpreter</key>
+	<string>nodeVersusMediator</string>
+	<key>layoutFunctionAlignment</key>
+	<string>zoneModeName</string>
+	<key>observerViaParameter</key>
+	<string>reactiveNodeMargin</string>
+</dict>
+</plist>

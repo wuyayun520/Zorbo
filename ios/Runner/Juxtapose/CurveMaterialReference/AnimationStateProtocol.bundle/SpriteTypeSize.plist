@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptionVarFlags</key>
+	<string>expandedActionFlags</string>
+	<key>descriptorBeyondDecorator</key>
+	<string>delegateParameterBound</string>
+	<key>imageIncludeSingleton</key>
+	<string>certificateAmongProcess</string>
+	<key>methodForComposite</key>
+	<string>dependencyCommandDirection</string>
+	<key>rapidEffectType</key>
+	<string>baselineExceptProxy</string>
+	<key>subpixelLayerInteraction</key>
+	<string>riverpodStrategyRight</string>
+	<key>titleProcessTail</key>
+	<string>effectAlongKind</string>
+</dict>
+</plist>

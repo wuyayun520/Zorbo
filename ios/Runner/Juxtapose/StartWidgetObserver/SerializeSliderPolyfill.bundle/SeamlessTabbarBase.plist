@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredFragmentSkewx</key>
+	<string>entityOutsideTier</string>
+	<key>dependencyStrategyContrast</key>
+	<string>anchorInFunction</string>
+	<key>interfaceContextDelay</key>
+	<string>agileLabelMode</string>
+	<key>invisibleNavigationSkewx</key>
+	<string>positionAgainstKind</string>
+	<key>labelPhaseEdge</key>
+	<string>webSliderDelay</string>
+	<key>mobileStateBottom</key>
+	<string>materialTitleTop</string>
+	<key>rectObserverDelay</key>
+	<string>singleSpecifierAlignment</string>
+	<key>scrollValueVisibility</key>
+	<string>behaviorScopeResponse</string>
+</dict>
+</plist>

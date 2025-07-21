@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentVarLocation</key>
+	<string>toolOrWork</string>
+	<key>animatedConstraintBottom</key>
+	<string>appbarAroundProxy</string>
+	<key>animationPhaseSize</key>
+	<string>toolActionSaturation</string>
+	<key>blocAsJob</key>
+	<string>radioParamBorder</string>
+	<key>cosineWorkEdge</key>
+	<string>skinActivityStyle</string>
+	<key>heroWithoutState</key>
+	<string>nativeTickerLeft</string>
+	<key>priorRectShape</key>
+	<string>capsuleAroundMode</string>
+	<key>scaffoldProxyPosition</key>
+	<string>significantStateName</string>
+	<key>techniqueInterpreterTheme</key>
+	<string>graphicInterpreterDirection</string>
+</dict>
+</plist>

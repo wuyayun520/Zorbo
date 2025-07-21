@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitUntilBridge</key>
+	<string>activityStateHue</string>
+	<key>graphicBufferContrast</key>
+	<string>interactorActivitySpacing</string>
+	<key>rectLevelTop</key>
+	<string>resourceAroundStage</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>opaqueViewDensity</key>
+	<string>custompaintSinceJob</string>
+	<key>prismaticStateFlags</key>
+	<string>uniqueGesturePadding</string>
+	<key>queryMethodTransparency</key>
+	<string>transitionFacadeTransparency</string>
+	<key>uniformGateVisible</key>
+	<string>easyContractionDirection</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocActionShade</key>
+	<string>concurrentTernaryOrigin</string>
+	<key>cubitSingletonTint</key>
+	<string>metadataDuringScope</string>
+	<key>disparateThemeRate</key>
+	<string>metadataPlatformTint</string>
+	<key>draggableResourceRight</key>
+	<string>multiNodeBrightness</string>
+	<key>errorBufferContrast</key>
+	<string>expandedCommandShape</string>
+	<key>handlerBufferHue</key>
+	<string>nativeCommandSpeed</string>
+	<key>layerAtOperation</key>
+	<string>denseSliderBehavior</string>
+	<key>multiplicationFacadeOffset</key>
+	<string>mediaqueryThanState</string>
+</dict>
+</plist>

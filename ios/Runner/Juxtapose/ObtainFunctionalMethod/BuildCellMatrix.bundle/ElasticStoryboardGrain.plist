@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchInDecorator</key>
+	<string>appbarPerProxy</string>
+	<key>bufferAndContext</key>
+	<string>activityPerState</string>
+	<key>documentParamMargin</key>
+	<string>prismaticProjectionRotation</string>
+	<key>gridDuringSingleton</key>
+	<string>backwardPrecisionForce</string>
+	<key>layoutSinceFramework</key>
+	<string>mutableControllerSkewy</string>
+	<key>metadataParameterRight</key>
+	<string>advancedCallbackVelocity</string>
+	<key>pointParamAppearance</key>
+	<string>granularZoneSpacing</string>
+	<key>providerPrototypeContrast</key>
+	<string>monsterBeyondPrototype</string>
+	<key>textStructureSaturation</key>
+	<string>viewVariableCount</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonLabelScale</key>
+	<string>observerContainSystem</string>
+	<key>controllerModeInteraction</key>
+	<string>monsterPatternBehavior</string>
+	<key>interfaceMethodTag</key>
+	<string>scrollableFrameContrast</string>
+	<key>layoutEnvironmentCoord</key>
+	<string>invisibleCursorMargin</string>
+	<key>missedCallbackAlignment</key>
+	<string>sustainableSkinDepth</string>
+	<key>newestLocalizationTension</key>
+	<string>callbackLikeScope</string>
+	<key>roleForFacade</key>
+	<string>radiusBridgeVelocity</string>
+	<key>signatureFromComposite</key>
+	<string>compositionalControllerDistance</string>
+	<key>tensorZoneSpacing</key>
+	<string>tappableNormOrientation</string>
+</dict>
+</plist>

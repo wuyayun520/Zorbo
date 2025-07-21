@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedPrecisionFlags</key>
+	<string>streamCompositeTop</string>
+	<key>checklistAsScope</key>
+	<string>priorFutureShape</string>
+	<key>lostEffectFlags</key>
+	<string>semanticsAsFunction</string>
+	<key>nativeZoneAcceleration</key>
+	<string>storeByFlyweight</string>
+</dict>
+</plist>

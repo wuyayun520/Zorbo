@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorNearFlyweight</key>
+	<string>slashWithoutAdapter</string>
+	<key>capsuleWithoutShape</key>
+	<string>navigatorProcessVisible</string>
+	<key>indicatorChainShape</key>
+	<string>injectionDuringFacade</string>
+	<key>loopModeVelocity</key>
+	<string>utilAsFlyweight</string>
+	<key>menuAlongCommand</key>
+	<string>lossChainColor</string>
+	<key>singleCompositionAppearance</key>
+	<string>scrollableInteractorType</string>
+	<key>sinkExceptProcess</key>
+	<string>bufferStrategyPadding</string>
+	<key>skinAlongAction</key>
+	<string>reusableExpandedScale</string>
+</dict>
+</plist>

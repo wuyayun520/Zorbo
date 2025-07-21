@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grayscaleInsideValue</key>
+	<string>clipperLayerTheme</string>
+	<key>managerPatternContrast</key>
+	<string>nodeAtJob</string>
+	<key>previewTaskSkewx</key>
+	<string>labelPerTask</string>
+	<key>remainderVarRate</key>
+	<string>animationFormEdge</string>
+	<key>subpixelModeInset</key>
+	<string>allocatorModeType</string>
+	<key>topicMementoVisible</key>
+	<string>chapterInParam</string>
+</dict>
+</plist>

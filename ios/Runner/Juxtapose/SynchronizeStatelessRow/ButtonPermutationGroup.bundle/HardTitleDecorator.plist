@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoVisitorDepth</key>
+	<string>toolBufferColor</string>
+	<key>dependencyDespiteProxy</key>
+	<string>routeAwaySingleton</string>
+	<key>errorExceptFlyweight</key>
+	<string>widgetExceptMemento</string>
+	<key>handlerPhaseFormat</key>
+	<string>semanticsKindFeedback</string>
+	<key>liteGesturedetectorTransparency</key>
+	<string>sustainableResultOrientation</string>
+	<key>playbackEnvironmentBound</key>
+	<string>offsetBeyondVar</string>
+	<key>robustButtonValidation</key>
+	<string>cupertinoIsolateInterval</string>
+</dict>
+</plist>

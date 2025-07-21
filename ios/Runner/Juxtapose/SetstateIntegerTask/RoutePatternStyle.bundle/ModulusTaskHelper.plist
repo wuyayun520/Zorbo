@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorOrFlyweight</key>
+	<string>concurrentWidgetHue</string>
+	<key>containerPlatformCenter</key>
+	<string>queueEnvironmentTheme</string>
+	<key>denseInjectionRate</key>
+	<string>relationalNodeInset</string>
+	<key>masterPrototypeInset</key>
+	<string>basicSignatureBottom</string>
+	<key>modelSinceActivity</key>
+	<string>normalBaselineState</string>
+	<key>rowForValue</key>
+	<string>stateCommandSpacing</string>
+	<key>themeLayerTag</key>
+	<string>methodStyleCoord</string>
+</dict>
+</plist>

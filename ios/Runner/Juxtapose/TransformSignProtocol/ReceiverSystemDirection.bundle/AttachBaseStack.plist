@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionBoxBound</key>
+	<string>cubitCommandTransparency</string>
+	<key>cubitExceptVar</key>
+	<string>customBehaviorShape</string>
+	<key>lastGrainResponse</key>
+	<string>isolateFlyweightPosition</string>
+	<key>mutableSubpixelMode</key>
+	<string>resultModeHead</string>
+	<key>seamlessErrorDelay</key>
+	<string>alphaModeForce</string>
+	<key>sizeOrCommand</key>
+	<string>primaryDescriptionDistance</string>
+	<key>spineAtProxy</key>
+	<string>textStructureOffset</string>
+	<key>statefulProxySkewx</key>
+	<string>displayableQueryDirection</string>
+	<key>subtleSubpixelName</key>
+	<string>transitionDuringComposite</string>
+</dict>
+</plist>

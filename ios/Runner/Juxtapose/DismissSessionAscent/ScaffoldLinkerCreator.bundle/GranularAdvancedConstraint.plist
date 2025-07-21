@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchStructureFormat</key>
+	<string>iterativeConfigurationVelocity</string>
+	<key>builderBesideSystem</key>
+	<string>behaviorAndVisitor</string>
+	<key>customCharacterIndex</key>
+	<string>queueAsVariable</string>
+	<key>directTaskDelay</key>
+	<string>dedicatedActivityLeft</string>
+	<key>euclideanPriorityContrast</key>
+	<string>sequentialDependencyEdge</string>
+	<key>opaqueSessionEdge</key>
+	<string>offsetCompositeFrequency</string>
+	<key>overlayWithMemento</key>
+	<string>finalProgressbarVelocity</string>
+	<key>taskFacadeTheme</key>
+	<string>transformerModeInset</string>
+	<key>titleStageDelay</key>
+	<string>persistentExpandedDuration</string>
+</dict>
+</plist>

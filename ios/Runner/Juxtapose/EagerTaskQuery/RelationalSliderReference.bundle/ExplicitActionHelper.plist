@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocAtParameter</key>
+	<string>zoneObserverOpacity</string>
+	<key>injectionIncludeAdapter</key>
+	<string>titleAroundEnvironment</string>
+	<key>protectedSpineType</key>
+	<string>liteDocumentVisible</string>
+	<key>segueFromTier</key>
+	<string>smartCommandStatus</string>
+	<key>streamNumberSpacing</key>
+	<string>normByProcess</string>
+</dict>
+</plist>

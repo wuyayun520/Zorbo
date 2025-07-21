@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hashTypeShade</key>
+	<string>sortedParticleTag</string>
+	<key>immediateRectTint</key>
+	<string>menuAtSystem</string>
+	<key>interactiveEntityScale</key>
+	<string>advancedInteractorIndex</string>
+	<key>localManagerRight</key>
+	<string>compositionalOffsetAppearance</string>
+	<key>positionParamBorder</key>
+	<string>normalThemeCenter</string>
+	<key>storageStateDelay</key>
+	<string>layoutPlatformVelocity</string>
+	<key>utilContainDecorator</key>
+	<string>allocatorIncludeMemento</string>
+</dict>
+</plist>

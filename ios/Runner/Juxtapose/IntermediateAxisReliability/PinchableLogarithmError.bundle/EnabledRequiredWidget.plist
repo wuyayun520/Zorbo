@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncUntilPattern</key>
+	<string>builderWithContext</string>
+	<key>crudeTabbarRotation</key>
+	<string>deferredAllocatorTint</string>
+	<key>popupForFlyweight</key>
+	<string>chartExceptShape</string>
+	<key>rectContextPosition</key>
+	<string>blocPerTask</string>
+</dict>
+</plist>

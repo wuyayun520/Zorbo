@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoStreamTension</key>
+	<string>sharedTickerDuration</string>
+	<key>blocBesideFramework</key>
+	<string>consumerInsideActivity</string>
+	<key>tickerContextFrequency</key>
+	<string>reactiveEntityInteraction</string>
+	<key>touchThanComposite</key>
+	<string>smartLossAcceleration</string>
+</dict>
+</plist>

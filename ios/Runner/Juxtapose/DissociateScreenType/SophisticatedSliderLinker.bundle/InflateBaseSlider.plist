@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryTempleDuration</key>
+	<string>popupLikeShape</string>
+	<key>drawerValueDelay</key>
+	<string>heapTierSpeed</string>
+	<key>flexNearPrototype</key>
+	<string>flexTaskTransparency</string>
+	<key>indicatorWorkShape</key>
+	<string>scaleBridgeTop</string>
+	<key>layerOutsideTier</key>
+	<string>touchFacadeMargin</string>
+	<key>loopWorkSpeed</key>
+	<string>rowIncludeTask</string>
+	<key>presenterVarHead</key>
+	<string>fixedPageviewScale</string>
+	<key>rapidExpandedDepth</key>
+	<string>routeAtMethod</string>
+</dict>
+</plist>

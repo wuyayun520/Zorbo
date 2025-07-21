@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionFlyweightMode</key>
+	<string>containerOutsideState</string>
+	<key>ephemeralUtilSkewx</key>
+	<string>concurrentSineForce</string>
+	<key>flexFromStyle</key>
+	<string>gemFromObserver</string>
+	<key>skirtAtStrategy</key>
+	<string>particleAtActivity</string>
+	<key>symbolFlyweightPadding</key>
+	<string>delegateWithType</string>
+	<key>topicStrategyStatus</key>
+	<string>permanentTimerTop</string>
+</dict>
+</plist>

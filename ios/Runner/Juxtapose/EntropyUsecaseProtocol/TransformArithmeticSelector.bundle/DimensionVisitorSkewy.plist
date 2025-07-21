@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralGridBehavior</key>
+	<string>blocExceptCycle</string>
+	<key>intermediateTextfieldOrigin</key>
+	<string>interfaceForShape</string>
+	<key>kernelSystemDelay</key>
+	<string>dependencyCommandFrequency</string>
+	<key>progressbarCompositeFlags</key>
+	<string>buttonTierOpacity</string>
+	<key>resizableHandlerTop</key>
+	<string>tweenNumberResponse</string>
+	<key>singletonUntilTask</key>
+	<string>repositoryScopeOpacity</string>
+	<key>specifierNumberPressure</key>
+	<string>rectPatternKind</string>
+	<key>spriteCycleDelay</key>
+	<string>crucialCacheSkewx</string>
+	<key>storageFromFunction</key>
+	<string>instructionStructureMode</string>
+</dict>
+</plist>

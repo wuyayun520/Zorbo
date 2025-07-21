@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineActivityDelay</key>
+	<string>animationContextDuration</string>
+	<key>controllerVersusDecorator</key>
+	<string>queueWithMemento</string>
+	<key>drawerPhaseFeedback</key>
+	<string>featureShapeType</string>
+	<key>paddingProxyFormat</key>
+	<string>isolateCycleDuration</string>
+	<key>retainedBitrateCenter</key>
+	<string>statefulGrainStatus</string>
+	<key>subscriptionAsSystem</key>
+	<string>nativeGraphVisible</string>
+</dict>
+</plist>

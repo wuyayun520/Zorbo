@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandSingletonMode</key>
+	<string>coordinatorAgainstObserver</string>
+	<key>constraintActivityStatus</key>
+	<string>promiseAwayObserver</string>
+	<key>declarativeIntegerCount</key>
+	<string>grainStateRight</string>
+	<key>delegateActionTransparency</key>
+	<string>radioLevelValidation</string>
+	<key>featureNearBridge</key>
+	<string>mobileSkinVelocity</string>
+	<key>secondSampleTag</key>
+	<string>serviceStyleFrequency</string>
+	<key>sharedModelBottom</key>
+	<string>commandNumberInterval</string>
+	<key>storeFunctionLeft</key>
+	<string>themeInNumber</string>
+</dict>
+</plist>

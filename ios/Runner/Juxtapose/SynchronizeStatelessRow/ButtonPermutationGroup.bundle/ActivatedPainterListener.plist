@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationTaskCoord</key>
+	<string>sinkPlatformBrightness</string>
+	<key>asyncProcessBrightness</key>
+	<string>radioAwayCycle</string>
+	<key>factoryCycleAcceleration</key>
+	<string>positionedBeyondActivity</string>
+	<key>handlerBridgeAlignment</key>
+	<string>symbolVisitorTag</string>
+	<key>methodAlongVariable</key>
+	<string>axisOutsideShape</string>
+	<key>sequentialRiverpodType</key>
+	<string>effectVersusDecorator</string>
+	<key>transformerAroundInterpreter</key>
+	<string>columnShapeStatus</string>
+</dict>
+</plist>

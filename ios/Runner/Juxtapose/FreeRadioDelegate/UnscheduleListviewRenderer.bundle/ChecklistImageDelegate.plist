@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorStateTransparency</key>
+	<string>compositionalQuerySkewy</string>
+	<key>animationAsKind</key>
+	<string>baselineOutsideScope</string>
+	<key>bufferAwayNumber</key>
+	<string>scrollableGestureBrightness</string>
+	<key>commandLikeLevel</key>
+	<string>reducerAroundSystem</string>
+	<key>controllerFrameworkValidation</key>
+	<string>axisThroughDecorator</string>
+	<key>draggableAwaitKind</key>
+	<string>priorityPrototypeState</string>
+	<key>localProviderMode</key>
+	<string>associatedIndicatorOrigin</string>
+	<key>optionOutsideWork</key>
+	<string>baselineAdapterTransparency</string>
+	<key>sliderNearStyle</key>
+	<string>cursorTierDirection</string>
+</dict>
+</plist>

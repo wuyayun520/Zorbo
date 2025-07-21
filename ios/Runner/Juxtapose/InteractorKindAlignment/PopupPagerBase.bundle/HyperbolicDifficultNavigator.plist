@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryAndActivity</key>
+	<string>bufferAtLevel</string>
+	<key>animatedPreviewDistance</key>
+	<string>taskNearTask</string>
+	<key>controllerLayerCount</key>
+	<string>expandedAgainstPrototype</string>
+	<key>decorationByStyle</key>
+	<string>profileOfStyle</string>
+	<key>effectTypeLocation</key>
+	<string>localizationFunctionVisible</string>
+	<key>frameOutsideBridge</key>
+	<string>diversifiedResourceShade</string>
+	<key>similarListenerVisibility</key>
+	<string>permanentObserverSaturation</string>
+	<key>tappableHashMode</key>
+	<string>interactiveModelDistance</string>
+	<key>usedRemainderContrast</key>
+	<string>intuitiveGetxBottom</string>
+</dict>
+</plist>

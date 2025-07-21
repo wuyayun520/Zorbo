@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderContainMethod</key>
+	<string>otherDecorationSize</string>
+	<key>clipperFormShape</key>
+	<string>dropdownbuttonActionDensity</string>
+	<key>cupertinoBaseSize</key>
+	<string>alignmentValueRate</string>
+	<key>cycleObserverKind</key>
+	<string>cursorMethodFrequency</string>
+	<key>finalRichtextPadding</key>
+	<string>mobxSystemRight</string>
+	<key>heroBufferBound</key>
+	<string>errorJobPadding</string>
+	<key>requestContainDecorator</key>
+	<string>unsortedTickerMargin</string>
+	<key>roleCommandInterval</key>
+	<string>mediaqueryProcessTop</string>
+	<key>sensorInProcess</key>
+	<string>taskAmongProxy</string>
+</dict>
+</plist>

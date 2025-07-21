@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveErrorLeft</key>
+	<string>subscriptionOfTask</string>
+	<key>captionTaskPadding</key>
+	<string>inactivePointAppearance</string>
+	<key>dialogsChainTransparency</key>
+	<string>largeCycleSaturation</string>
+	<key>injectionStructureKind</key>
+	<string>crudePlaybackRotation</string>
+	<key>radiusSystemBrightness</key>
+	<string>effectThroughSingleton</string>
+	<key>resilientInterfaceType</key>
+	<string>normalThemeInteraction</string>
+	<key>rowInLevel</key>
+	<string>equipmentAboutNumber</string>
+	<key>scrollFormDirection</key>
+	<string>dependencyLevelLeft</string>
+	<key>segueOrKind</key>
+	<string>nextCompositionFormat</string>
+	<key>timerVersusTier</key>
+	<string>gestureAlongMode</string>
+</dict>
+</plist>

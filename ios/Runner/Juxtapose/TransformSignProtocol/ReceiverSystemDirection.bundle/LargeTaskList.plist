@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowWorkBehavior</key>
+	<string>numericalGridTheme</string>
+	<key>discardedTitleSize</key>
+	<string>tappableRowFeedback</string>
+	<key>inheritedParticleBrightness</key>
+	<string>reusableAllocatorSaturation</string>
+	<key>isolateWorkTail</key>
+	<string>resultDuringProxy</string>
+	<key>layoutAmongStage</key>
+	<string>draggableBulletFrequency</string>
+</dict>
+</plist>

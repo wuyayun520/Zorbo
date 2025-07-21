@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionOrOperation</key>
+	<string>segueAroundPattern</string>
+	<key>criticalSingletonStatus</key>
+	<string>effectTaskTheme</string>
+	<key>firstProgressbarDuration</key>
+	<string>nativeInkwellBottom</string>
+	<key>heroProxyEdge</key>
+	<string>progressbarStructureVisibility</string>
+	<key>layerBufferInset</key>
+	<string>commandLayerPadding</string>
+	<key>mediaUntilFramework</key>
+	<string>previewActivityEdge</string>
+</dict>
+</plist>

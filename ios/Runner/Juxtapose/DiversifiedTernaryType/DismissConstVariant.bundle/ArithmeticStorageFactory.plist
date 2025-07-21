@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveProviderInterval</key>
+	<string>smallSingletonInterval</string>
+	<key>advancedAppbarLeft</key>
+	<string>descriptorCycleOffset</string>
+	<key>chapterAgainstBridge</key>
+	<string>bulletStrategyForce</string>
+	<key>cycleBeyondVisitor</key>
+	<string>blocNearStyle</string>
+	<key>gateExceptContext</key>
+	<string>flexibleModulusEdge</string>
+	<key>hashOutsideScope</key>
+	<string>scaleVersusAdapter</string>
+	<key>notifierOutsideMemento</key>
+	<string>isolateAndBridge</string>
+	<key>requiredStateResponse</key>
+	<string>labelStrategyEdge</string>
+	<key>titleViaVar</key>
+	<string>mobxAmongCycle</string>
+</dict>
+</plist>

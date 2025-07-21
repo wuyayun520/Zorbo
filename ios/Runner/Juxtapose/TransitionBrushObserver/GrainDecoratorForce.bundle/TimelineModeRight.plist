@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleAwaitAlignment</key>
+	<string>invisibleBehaviorStyle</string>
+	<key>controllerCompositeAcceleration</key>
+	<string>enabledRepositoryDelay</string>
+	<key>dependencyProcessDepth</key>
+	<string>buttonObserverInterval</string>
+	<key>listenerBeyondStage</key>
+	<string>cubitScopePadding</string>
+	<key>resourcePhaseDuration</key>
+	<string>subscriptionMementoDuration</string>
+	<key>responsiveSegueOrientation</key>
+	<string>taskWorkAlignment</string>
+	<key>sequentialMarginTint</key>
+	<string>layoutKindTag</string>
+	<key>singleCoordinatorInterval</key>
+	<string>lazyCyclePadding</string>
+</dict>
+</plist>

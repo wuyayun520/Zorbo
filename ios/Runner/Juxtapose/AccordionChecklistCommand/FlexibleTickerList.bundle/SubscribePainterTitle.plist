@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileCanvasOffset</key>
+	<string>futureThroughStage</string>
+	<key>durationInStyle</key>
+	<string>tabbarInMode</string>
+	<key>routeAgainstBuffer</key>
+	<string>requestThroughEnvironment</string>
+	<key>statefulInterfaceBehavior</key>
+	<string>keyMethodBehavior</string>
+	<key>ternaryViaPrototype</key>
+	<string>paddingChainBottom</string>
+</dict>
+</plist>

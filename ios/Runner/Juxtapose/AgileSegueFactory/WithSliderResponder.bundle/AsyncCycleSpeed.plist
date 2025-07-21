@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegatePlatformFeedback</key>
+	<string>normalRequestTag</string>
+	<key>immutableEquipmentPosition</key>
+	<string>independentCallbackSpeed</string>
+	<key>localizationLevelAppearance</key>
+	<string>directThreadCount</string>
+	<key>materialWithoutObserver</key>
+	<string>slashCycleFlags</string>
+	<key>permanentSinkPadding</key>
+	<string>autoBlocShape</string>
+	<key>popupIncludeVar</key>
+	<string>monsterContextPadding</string>
+	<key>providerVariablePosition</key>
+	<string>widgetBeyondAdapter</string>
+</dict>
+</plist>

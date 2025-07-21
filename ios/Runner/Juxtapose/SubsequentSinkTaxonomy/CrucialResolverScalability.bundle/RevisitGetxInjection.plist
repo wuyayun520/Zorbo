@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationAtAction</key>
+	<string>chapterObserverRotation</string>
+	<key>backwardFrameHue</key>
+	<string>rectScopeTension</string>
+	<key>compositionFacadeColor</key>
+	<string>singletonByDecorator</string>
+	<key>effectActivityEdge</key>
+	<string>bufferAgainstMediator</string>
+	<key>responseInsideFlyweight</key>
+	<string>tabbarSystemPosition</string>
+	<key>sequentialCompletionDepth</key>
+	<string>titleCommandAppearance</string>
+	<key>sharedReducerDepth</key>
+	<string>comprehensiveNavigationIndex</string>
+	<key>titleSingletonBorder</key>
+	<string>instructionLevelColor</string>
+</dict>
+</plist>

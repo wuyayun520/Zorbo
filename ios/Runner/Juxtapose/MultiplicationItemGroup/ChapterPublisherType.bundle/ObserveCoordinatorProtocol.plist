@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedButtonDuration</key>
+	<string>assetAsTask</string>
+	<key>commandAwaySingleton</key>
+	<string>descriptorSinceSystem</string>
+	<key>nibStateForce</key>
+	<string>mutableProviderVisibility</string>
+	<key>spineVersusChain</key>
+	<string>managerForShape</string>
+</dict>
+</plist>

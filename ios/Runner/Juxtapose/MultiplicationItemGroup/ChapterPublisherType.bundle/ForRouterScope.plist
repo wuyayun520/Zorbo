@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertDuringScope</key>
+	<string>seamlessToolTop</string>
+	<key>boxshadowShapeEdge</key>
+	<string>unaryInsideBuffer</string>
+	<key>constPageviewVelocity</key>
+	<string>unactivatedErrorInteraction</string>
+	<key>futureSystemSaturation</key>
+	<string>utilOfLayer</string>
+	<key>logarithmStageTheme</key>
+	<string>crudeCompletionName</string>
+	<key>statefulSizedboxOrientation</key>
+	<string>callbackVisitorAcceleration</string>
+	<key>tickerValueBrightness</key>
+	<string>spriteCompositeValidation</string>
+</dict>
+</plist>

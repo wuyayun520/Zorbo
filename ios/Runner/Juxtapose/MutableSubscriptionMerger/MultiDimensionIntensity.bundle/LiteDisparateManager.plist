@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialGestureInteraction</key>
+	<string>retainedTabviewInset</string>
+	<key>custompaintUntilFlyweight</key>
+	<string>actionExceptShape</string>
+	<key>gateMediatorMargin</key>
+	<string>granularControllerShade</string>
+	<key>keyGrainBottom</key>
+	<string>musicCycleColor</string>
+	<key>logarithmSinceVisitor</key>
+	<string>nativeCycleAppearance</string>
+	<key>reusableThreadShape</key>
+	<string>resourceNearForm</string>
+	<key>sharedCurveLocation</key>
+	<string>projectAsState</string>
+	<key>smartSignSaturation</key>
+	<string>subtleProviderInset</string>
+	<key>themePatternInterval</key>
+	<string>intensityScopeTension</string>
+</dict>
+</plist>

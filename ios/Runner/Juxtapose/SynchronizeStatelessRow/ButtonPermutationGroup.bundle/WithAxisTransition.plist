@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardActivityRotation</key>
+	<string>intermediateLogForce</string>
+	<key>difficultCursorDirection</key>
+	<string>streamBesideLayer</string>
+	<key>modelSinceActivity</key>
+	<string>desktopPrecisionRight</string>
+	<key>nativeCurveAcceleration</key>
+	<string>layerActionName</string>
+	<key>paddingSystemPressure</key>
+	<string>segmentContextTint</string>
+	<key>primaryLabelTag</key>
+	<string>scrollableContainerKind</string>
+	<key>usagePatternName</key>
+	<string>offsetFromStyle</string>
+</dict>
+</plist>

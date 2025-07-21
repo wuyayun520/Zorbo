@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteMissionLeft</key>
+	<string>containerLikeSystem</string>
+	<key>dependencyOutsideSystem</key>
+	<string>borderExceptFunction</string>
+	<key>descriptorKindFlags</key>
+	<string>interfaceAdapterTint</string>
+	<key>intermediatePetBehavior</key>
+	<string>channelMementoOpacity</string>
+	<key>painterOrPrototype</key>
+	<string>techniqueAtForm</string>
+	<key>particleVarLocation</key>
+	<string>staticBoxshadowColor</string>
+	<key>rowKindSpeed</key>
+	<string>assetTierSpeed</string>
+	<key>scrollableMovementSkewy</key>
+	<string>otherConfigurationKind</string>
+	<key>signStyleRate</key>
+	<string>singletonAsFramework</string>
+</dict>
+</plist>

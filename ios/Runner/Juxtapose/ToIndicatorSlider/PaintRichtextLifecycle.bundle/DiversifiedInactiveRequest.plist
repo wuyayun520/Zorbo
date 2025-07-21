@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandForPlatform</key>
+	<string>techniqueTaskRotation</string>
+	<key>diffableManagerStatus</key>
+	<string>localizationForLevel</string>
+	<key>gridCommandSkewy</key>
+	<string>directlyThreadSize</string>
+	<key>intensityDecoratorBrightness</key>
+	<string>significantBoxEdge</string>
+	<key>lostResultOpacity</key>
+	<string>requiredPainterRate</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsStageSaturation</key>
+	<string>transformerWorkPressure</string>
+	<key>criticalSinkBrightness</key>
+	<string>fusedSpotStyle</string>
+	<key>diffableFrameShape</key>
+	<string>tabviewDecoratorBehavior</string>
+	<key>fixedParticleName</key>
+	<string>variantAndParam</string>
+	<key>greatStreamSkewx</key>
+	<string>canvasBesideStrategy</string>
+	<key>isolateFromOperation</key>
+	<string>precisionNearFunction</string>
+	<key>resultBesideShape</key>
+	<string>liteWorkflowCount</string>
+	<key>significantProjectIndex</key>
+	<string>semanticsPerPlatform</string>
+	<key>stampFlyweightDirection</key>
+	<string>controllerViaAdapter</string>
+	<key>zoneActionSkewy</key>
+	<string>denseMaterialForce</string>
+</dict>
+</plist>

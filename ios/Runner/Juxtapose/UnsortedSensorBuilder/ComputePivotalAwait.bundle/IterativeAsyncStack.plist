@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticAnimationAlignment</key>
+	<string>usecaseByEnvironment</string>
+	<key>challengeFrameworkFlags</key>
+	<string>iconParameterSkewy</string>
+	<key>commonSemanticsVelocity</key>
+	<string>layoutPrototypeOrientation</string>
+	<key>disabledScreenColor</key>
+	<string>workflowBeyondStage</string>
+	<key>themeSingletonDirection</key>
+	<string>overlayPlatformShade</string>
+	<key>widgetInVariable</key>
+	<string>accessoryByProxy</string>
+</dict>
+</plist>

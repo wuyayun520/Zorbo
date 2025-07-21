@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedFrameContrast</key>
+	<string>offsetBridgeMargin</string>
+	<key>appbarAmongStyle</key>
+	<string>overlayInsideStage</string>
+	<key>menuVarEdge</key>
+	<string>statelessZoneEdge</string>
+	<key>particleFormSkewx</key>
+	<string>transitionSinceDecorator</string>
+	<key>publicHandlerOrigin</key>
+	<string>graphActionOffset</string>
+	<key>secondGrainHead</key>
+	<string>promiseInsideStructure</string>
+	<key>usageThanBuffer</key>
+	<string>clipperOperationOpacity</string>
+</dict>
+</plist>

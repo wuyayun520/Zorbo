@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedCellTint</key>
+	<string>switchTempleVisibility</string>
+	<key>contractionObserverKind</key>
+	<string>statefulCubitKind</string>
+	<key>independentConfigurationFeedback</key>
+	<string>keyProviderShade</string>
+	<key>mobxPlatformKind</key>
+	<string>materialFutureSpeed</string>
+	<key>sizeDespiteFramework</key>
+	<string>permanentAwaitOpacity</string>
+	<key>tensorGrainInterval</key>
+	<string>dependencyAmongSingleton</string>
+</dict>
+</plist>

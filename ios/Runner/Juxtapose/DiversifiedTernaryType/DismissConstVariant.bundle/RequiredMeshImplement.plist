@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteAlignmentBehavior</key>
+	<string>cycleWithTask</string>
+	<key>difficultCatalystPosition</key>
+	<string>easyMetadataAcceleration</string>
+	<key>diversifiedNormAppearance</key>
+	<string>singleSceneCenter</string>
+	<key>serviceFromAdapter</key>
+	<string>desktopOptimizerDirection</string>
+</dict>
+</plist>

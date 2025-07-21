@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorAwayPhase</key>
+	<string>customSemanticsState</string>
+	<key>grainInterpreterShape</key>
+	<string>statefulPerLayer</string>
+	<key>modelAsOperation</key>
+	<string>particleWithWork</string>
+	<key>shaderVersusStrategy</key>
+	<string>smartSwitchMomentum</string>
+	<key>specifierParamStatus</key>
+	<string>capacitiesAgainstCommand</string>
+	<key>touchContextVisibility</key>
+	<string>discardedContainerShape</string>
+	<key>unaryAwayVariable</key>
+	<string>lazyRouterRate</string>
+</dict>
+</plist>

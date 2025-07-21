@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitStyleOrientation</key>
+	<string>mediaqueryDuringPhase</string>
+	<key>coordinatorAsBridge</key>
+	<string>diffableListenerFrequency</string>
+	<key>disabledStreamTransparency</key>
+	<string>overlayPhaseInteraction</string>
+	<key>hashCompositeInteraction</key>
+	<string>cardPlatformIndex</string>
+	<key>injectionAdapterVisibility</key>
+	<string>inkwellInActivity</string>
+	<key>protocolPrototypeTail</key>
+	<string>alignmentUntilPattern</string>
+	<key>reactiveGestureDepth</key>
+	<string>queryTempleTheme</string>
+	<key>skinParamForce</key>
+	<string>titleDecoratorStyle</string>
+</dict>
+</plist>

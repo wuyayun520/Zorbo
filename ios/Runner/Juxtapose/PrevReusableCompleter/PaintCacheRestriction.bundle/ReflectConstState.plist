@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationUntilPrototype</key>
+	<string>heroSinceTask</string>
+	<key>aspectForProxy</key>
+	<string>nextGraphPressure</string>
+	<key>assetDecoratorDensity</key>
+	<string>bulletTaskStyle</string>
+	<key>composableRepositoryRate</key>
+	<string>routeChainBound</string>
+	<key>curveOrComposite</key>
+	<string>modalAtStyle</string>
+	<key>normByLevel</key>
+	<string>profileInterpreterInset</string>
+	<key>semanticCompositionVisible</key>
+	<string>isolateProcessStatus</string>
+	<key>themeProxyForce</key>
+	<string>tappableCursorIndex</string>
+	<key>timerStateRight</key>
+	<string>associatedResourceState</string>
+</dict>
+</plist>

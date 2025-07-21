@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleCoordinatorSize</key>
+	<string>clipperOrSystem</string>
+	<key>interactorCommandDirection</key>
+	<string>mediaqueryBridgeRight</string>
+	<key>opaqueSkinOrigin</key>
+	<string>ignoredSceneSize</string>
+	<key>singletonParamResponse</key>
+	<string>reducerFunctionAppearance</string>
+</dict>
+</plist>

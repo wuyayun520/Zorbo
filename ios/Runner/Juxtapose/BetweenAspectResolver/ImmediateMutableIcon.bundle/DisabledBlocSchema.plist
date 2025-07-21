@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterVariableDelay</key>
+	<string>monsterVersusLevel</string>
+	<key>interfaceByProcess</key>
+	<string>handlerValueMode</string>
+	<key>interfaceInState</key>
+	<string>synchronousHeroCount</string>
+	<key>promisePhasePadding</key>
+	<string>managerByOperation</string>
+	<key>stateThroughMethod</key>
+	<string>curveModeOrientation</string>
+	<key>usecaseStyleOrientation</key>
+	<string>dependencyPlatformState</string>
+</dict>
+</plist>

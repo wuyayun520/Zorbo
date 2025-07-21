@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableCollectionBorder</key>
+	<string>taskVisitorRight</string>
+	<key>cupertinoFormAcceleration</key>
+	<string>cosineThroughForm</string>
+	<key>hashAgainstVisitor</key>
+	<string>routeLikeTask</string>
+	<key>segueStyleInset</key>
+	<string>groupWithTier</string>
+	<key>sophisticatedOverlayBrightness</key>
+	<string>cursorAtType</string>
+	<key>storyboardNearLevel</key>
+	<string>topicWithPrototype</string>
+</dict>
+</plist>

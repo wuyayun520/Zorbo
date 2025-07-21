@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inheritedMarginSkewx</key>
+	<string>flexVariableBorder</string>
+	<key>radioOutsideSingleton</key>
+	<string>managerAgainstScope</string>
+	<key>skirtScopeMargin</key>
+	<string>sizeAwayState</string>
+</dict>
+</plist>

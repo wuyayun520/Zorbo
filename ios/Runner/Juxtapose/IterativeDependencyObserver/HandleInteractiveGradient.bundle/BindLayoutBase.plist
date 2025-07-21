@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderFacadeMode</key>
+	<string>alertPatternFlags</string>
+	<key>cardShapeCount</key>
+	<string>enabledArithmeticStatus</string>
+	<key>draggableSliderSkewy</key>
+	<string>listviewModeOffset</string>
+	<key>interactorProcessSaturation</key>
+	<string>seamlessBlocDistance</string>
+	<key>labelAgainstValue</key>
+	<string>fixedSwitchRate</string>
+	<key>layoutByBridge</key>
+	<string>heapScopeSkewy</string>
+	<key>widgetContextDirection</key>
+	<string>sineStyleBottom</string>
+</dict>
+</plist>

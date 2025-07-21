@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasStyleColor</key>
+	<string>reactiveLocalizationTheme</string>
+	<key>constSpinePadding</key>
+	<string>normForState</string>
+	<key>delegatePatternShape</key>
+	<string>unaryAndObserver</string>
+	<key>granularRadiusValidation</key>
+	<string>tappableProviderShape</string>
+	<key>hierarchicalMarginPadding</key>
+	<string>menuTempleFrequency</string>
+	<key>managerStageValidation</key>
+	<string>queryVersusChain</string>
+	<key>navigatorFacadeHead</key>
+	<string>loopPhaseRight</string>
+	<key>otherHandlerSkewy</key>
+	<string>animationShapeSize</string>
+</dict>
+</plist>

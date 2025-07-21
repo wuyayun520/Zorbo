@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerPerMode</key>
+	<string>popupFlyweightTail</string>
+	<key>cycleValueFlags</key>
+	<string>mediumFrameRight</string>
+	<key>decorationFunctionCount</key>
+	<string>currentCheckboxCount</string>
+	<key>exceptionInsideFunction</key>
+	<string>tickerTierTop</string>
+	<key>methodStrategyRight</key>
+	<string>mainIntegerVisible</string>
+	<key>observerInProxy</key>
+	<string>dynamicViewState</string>
+	<key>remainderByTask</key>
+	<string>parallelAsyncTheme</string>
+	<key>repositoryInsideFunction</key>
+	<string>presenterExceptNumber</string>
+	<key>timerFunctionPadding</key>
+	<string>singleParticleShade</string>
+</dict>
+</plist>

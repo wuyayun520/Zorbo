@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionInterpreterDelay</key>
+	<string>stepInFunction</string>
+	<key>interactorAsParam</key>
+	<string>customTernaryInset</string>
+	<key>providerThroughStrategy</key>
+	<string>bulletAroundVisitor</string>
+	<key>storageStyleFeedback</key>
+	<string>offsetNearMediator</string>
+	<key>textfieldThanPattern</key>
+	<string>custompaintFromBridge</string>
+</dict>
+</plist>

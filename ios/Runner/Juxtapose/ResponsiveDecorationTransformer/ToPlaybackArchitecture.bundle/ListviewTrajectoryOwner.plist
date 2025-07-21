@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerAgainstForm</key>
+	<string>priorTickerRate</string>
+	<key>convolutionStyleBrightness</key>
+	<string>tweenStyleSpacing</string>
+	<key>customizedDocumentSpacing</key>
+	<string>titleContainDecorator</string>
+	<key>customizedViewResponse</key>
+	<string>streamAboutFacade</string>
+	<key>interactiveRouteInset</key>
+	<string>controllerContainMethod</string>
+	<key>responsiveQueuePressure</key>
+	<string>entityEnvironmentBorder</string>
+</dict>
+</plist>

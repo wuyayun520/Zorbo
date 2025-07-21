@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesForParam</key>
+	<string>uniqueConfigurationIndex</string>
+	<key>customModulusForce</key>
+	<string>listviewBridgeBrightness</string>
+	<key>cycleVarMomentum</key>
+	<string>baselineOutsideLayer</string>
+	<key>ephemeralTransformerTag</key>
+	<string>reductionInEnvironment</string>
+	<key>interpolationCycleColor</key>
+	<string>functionalChannelBrightness</string>
+	<key>layoutOrFacade</key>
+	<string>drawerAdapterKind</string>
+	<key>paddingAsParameter</key>
+	<string>cubitSystemCoord</string>
+	<key>resourceWithoutChain</key>
+	<string>agileLabelStyle</string>
+	<key>spriteViaMediator</key>
+	<string>modulusAtPlatform</string>
+	<key>statefulJobDuration</key>
+	<string>firstReducerShape</string>
+</dict>
+</plist>

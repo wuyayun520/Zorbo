@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoContainerType</key>
+	<string>dialogsVersusScope</string>
+	<key>chartPhaseAppearance</key>
+	<string>ternaryNearBuffer</string>
+	<key>labelSinceLevel</key>
+	<string>timerWorkBorder</string>
+	<key>multiAwaitPressure</key>
+	<string>particleAtState</string>
+	<key>normWorkOrientation</key>
+	<string>multiplicationUntilValue</string>
+	<key>taskPrototypeBehavior</key>
+	<string>queryPhaseStatus</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleGramDensity</key>
+	<string>sequentialDrawerInset</string>
+	<key>batchChainSize</key>
+	<string>sizeAroundBridge</string>
+	<key>ephemeralTextOpacity</key>
+	<string>scaleVariableOpacity</string>
+	<key>labelCycleTransparency</key>
+	<string>movementLayerBrightness</string>
+	<key>permanentHistogramScale</key>
+	<string>statelessPatternFeedback</string>
+	<key>routeStructureSpacing</key>
+	<string>aspectratioActionBottom</string>
+	<key>stateVariableDelay</key>
+	<string>scaleThroughSingleton</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedHashMode</key>
+	<string>resourceOperationOpacity</string>
+	<key>batchByFlyweight</key>
+	<string>dynamicCursorDelay</string>
+	<key>containerContainVisitor</key>
+	<string>sequentialReferenceVelocity</string>
+	<key>elasticIndicatorAppearance</key>
+	<string>challengeOrScope</string>
+	<key>grainVisitorValidation</key>
+	<string>overlayValueType</string>
+	<key>primaryListenerBound</key>
+	<string>subscriptionInterpreterIndex</string>
+	<key>responseBufferStatus</key>
+	<string>commonTableInterval</string>
+	<key>statelessPhaseRotation</key>
+	<string>tensorUnaryScale</string>
+</dict>
+</plist>

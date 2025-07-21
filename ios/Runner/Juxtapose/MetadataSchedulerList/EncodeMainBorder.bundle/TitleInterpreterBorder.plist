@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseTaskAlignment</key>
+	<string>resolverPhaseBound</string>
+	<key>cacheAmongStage</key>
+	<string>histogramForPlatform</string>
+	<key>effectWithEnvironment</key>
+	<string>usecaseInterpreterOffset</string>
+	<key>layoutWorkInset</key>
+	<string>relationalSymbolOffset</string>
+	<key>navigationVersusValue</key>
+	<string>heroInsideContext</string>
+	<key>nextRiverpodAppearance</key>
+	<string>sizeAmongProxy</string>
+	<key>priorityPhaseInterval</key>
+	<string>metadataByInterpreter</string>
+	<key>widgetAboutTemple</key>
+	<string>signWithLayer</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnEnvironmentOrigin</key>
+	<string>imageCompositeAcceleration</string>
+	<key>convolutionLikeAction</key>
+	<string>radiusChainOffset</string>
+	<key>explicitEffectDelay</key>
+	<string>collectionJobContrast</string>
+	<key>grainForNumber</key>
+	<string>characterPhaseSpacing</string>
+	<key>imperativeErrorBrightness</key>
+	<string>handlerTypeBehavior</string>
+	<key>paddingBeyondStyle</key>
+	<string>iconInShape</string>
+	<key>positionVersusProcess</key>
+	<string>parallelSingletonState</string>
+	<key>webBlocContrast</key>
+	<string>cardValueTint</string>
+</dict>
+</plist>

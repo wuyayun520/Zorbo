@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionFormRate</key>
+	<string>rectViaMode</string>
+	<key>containerSystemCenter</key>
+	<string>compositionalReferenceOffset</string>
+	<key>enabledLoopInteraction</key>
+	<string>roleChainLeft</string>
+	<key>fusedRiverpodBehavior</key>
+	<string>beginnerNodeDepth</string>
+	<key>radiusIncludeJob</key>
+	<string>resolverMediatorCoord</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentParticleTheme</key>
+	<string>discardedPointLeft</string>
+	<key>directlyHeapCoord</key>
+	<string>reducerActionIndex</string>
+	<key>interactorParamLeft</key>
+	<string>visibleStackStyle</string>
+	<key>normalContainerRotation</key>
+	<string>multiplicationPerTask</string>
+	<key>opaqueAllocatorTop</key>
+	<string>textureBufferLeft</string>
+	<key>pivotalButtonFeedback</key>
+	<string>consumerOfAdapter</string>
+	<key>reducerMediatorSkewx</key>
+	<string>responsiveEqualizationRate</string>
+	<key>samplePrototypeVisible</key>
+	<string>allocatorInTask</string>
+	<key>zoneOfMode</key>
+	<string>assetCommandShade</string>
+</dict>
+</plist>

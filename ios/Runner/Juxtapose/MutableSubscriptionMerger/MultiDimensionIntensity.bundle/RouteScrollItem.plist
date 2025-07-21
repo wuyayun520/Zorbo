@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterWithoutBuffer</key>
+	<string>disabledConfigurationSaturation</string>
+	<key>flexibleAwaitKind</key>
+	<string>chapterPerTask</string>
+	<key>globalUtilSize</key>
+	<string>textOperationShape</string>
+	<key>lazyChapterTop</key>
+	<string>discardedSubscriptionCount</string>
+	<key>notifierTierOrientation</key>
+	<string>tabviewVarAlignment</string>
+	<key>observerVariableEdge</key>
+	<string>sampleShapePosition</string>
+	<key>swiftDespiteFacade</key>
+	<string>euclideanResolverFormat</string>
+	<key>threadOrMethod</key>
+	<string>layerParamCount</string>
+	<key>uniformAlignmentTop</key>
+	<string>anchorThroughAdapter</string>
+</dict>
+</plist>

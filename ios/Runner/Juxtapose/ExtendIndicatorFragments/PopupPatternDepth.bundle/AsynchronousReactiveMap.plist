@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationInterpreterBottom</key>
+	<string>mobileWorkScale</string>
+	<key>asyncExpandedBound</key>
+	<string>cacheNearStyle</string>
+	<key>dialogsExceptStrategy</key>
+	<string>imageVarSaturation</string>
+</dict>
+</plist>

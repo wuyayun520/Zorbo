@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationByMethod</key>
+	<string>cupertinoAdapterLeft</string>
+	<key>intuitiveControllerSpacing</key>
+	<string>inheritedContractionType</string>
+	<key>priorityLevelPosition</key>
+	<string>responsiveChannelsColor</string>
+	<key>routeAtMode</key>
+	<string>oldAllocatorTheme</string>
+	<key>usecasePerVar</key>
+	<string>gridviewFlyweightColor</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerZoneStyle</key>
+	<string>pageviewPerFlyweight</string>
+	<key>callbackAgainstChain</key>
+	<string>originalBoxshadowCenter</string>
+	<key>factoryBeyondProcess</key>
+	<string>mobxPerDecorator</string>
+	<key>methodModeBound</key>
+	<string>disabledMonsterKind</string>
+	<key>navigationAmongChain</key>
+	<string>flexibleParticleFlags</string>
+	<key>streamNearTask</key>
+	<string>navigatorDuringFlyweight</string>
+	<key>touchParamBottom</key>
+	<string>reductionPhaseMode</string>
+	<key>viewOrTask</key>
+	<string>respectiveProgressbarTail</string>
+</dict>
+</plist>

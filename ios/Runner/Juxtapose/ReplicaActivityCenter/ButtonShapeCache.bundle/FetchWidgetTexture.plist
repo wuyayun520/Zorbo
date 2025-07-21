@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandFlyweightMode</key>
+	<string>dialogsThroughLevel</string>
+	<key>compositionalRectShape</key>
+	<string>consumerBufferBehavior</string>
+	<key>enabledFrameStyle</key>
+	<string>statefulValueBehavior</string>
+	<key>heapVarCoord</key>
+	<string>ignoredEventInset</string>
+	<key>optimizerContextMomentum</key>
+	<string>threadPatternAcceleration</string>
+	<key>repositoryDuringPrototype</key>
+	<string>resolverExceptLayer</string>
+	<key>scrollableSizedboxDensity</key>
+	<string>subsequentInkwellResponse</string>
+	<key>stepLikeKind</key>
+	<string>stackWorkColor</string>
+</dict>
+</plist>

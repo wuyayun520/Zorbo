@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalDelegateTheme</key>
+	<string>getxWithSystem</string>
+	<key>graphNearPlatform</key>
+	<string>queryDuringComposite</string>
+	<key>intermediateLayoutDelay</key>
+	<string>fusedBoxOrientation</string>
+	<key>standaloneDrawerShape</key>
+	<string>momentumSinceStructure</string>
+	<key>stepCommandDepth</key>
+	<string>sustainablePlateAcceleration</string>
+</dict>
+</plist>

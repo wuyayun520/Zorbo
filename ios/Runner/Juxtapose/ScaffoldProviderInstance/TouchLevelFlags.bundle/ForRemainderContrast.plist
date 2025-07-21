@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticStreamKind</key>
+	<string>associatedDecorationInterval</string>
+	<key>groupThroughStrategy</key>
+	<string>tweenVariableState</string>
+	<key>referenceCompositeTint</key>
+	<string>baselineStrategyFormat</string>
+	<key>resilientLocalizationDensity</key>
+	<string>textureStyleDensity</string>
+	<key>stateBufferTint</key>
+	<string>heapMethodPressure</string>
+	<key>subpixelIncludeOperation</key>
+	<string>factoryAlongLayer</string>
+	<key>subtleQueryFlags</key>
+	<string>vectorContainMediator</string>
+	<key>toolEnvironmentCenter</key>
+	<string>navigationParamTheme</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionAwayChain</key>
+	<string>smartBoxScale</string>
+	<key>gridFromMethod</key>
+	<string>behaviorSystemLeft</string>
+	<key>labelInPlatform</key>
+	<string>nodePlatformCount</string>
+	<key>utilChainOrientation</key>
+	<string>storyboardAtAdapter</string>
+	<key>vectorWorkOffset</key>
+	<string>menuVarStatus</string>
+</dict>
+</plist>

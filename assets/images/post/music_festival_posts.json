@@ -1,0 +1,1306 @@
+{
+  "posts": [
+    {
+      "userId": "user_1",
+      "username": "Sarah_Music",
+      "avatar": "assets/images/post/1/post_1.jpg",
+      "content": "Coachella 2024 was absolutely incredible! 🎵 The energy was electric and the crowd was amazing. Can't believe I got to see my favorite artists live! #Coachella2024 #MusicFestival #LiveMusic",
+      "media": [
+        {
+          "type": "image",
+          "url": "assets/images/post/1/post_1.jpg",
+          "description": "Main stage at Coachella with amazing sunset"
+        },
+        {
+          "type": "image", 
+          "url": "assets/images/post/1/post_2.jpg",
+          "description": "Crowd dancing to electronic music"
+        },
+        {
+          "type": "image",
+          "url": "assets/images/post/1/post_3.jpg", 
+          "description": "Art installations at the festival"
+        },
+        {
+          "type": "image",
+          "url": "assets/images/post/1/post_4.jpg",
+          "description": "Food vendors and festival atmosphere"
+        }
+      ],
+      "likes": 124,
+      "comments": 5,
+      "location": "Coachella Valley, CA",
+      "tags": ["coachella", "musicfestival", "livemusic", "summer2024"],
+      "commentsList": [
+        {
+          "commentId": "c1_1",
+          "userId": "user_comment_1",
+          "username": "MusicLover23",
+          "content": "OMG I was there too! The sunset during the main act was absolutely magical! 🌅"
+        },
+        {
+          "commentId": "c1_2",
+          "userId": "user_comment_2",
+          "username": "FestivalFan",
+          "content": "Coachella never disappoints! The sound quality was incredible this year 🎧"
+        },
+        {
+          "commentId": "c1_3",
+          "userId": "user_comment_3",
+          "username": "DanceFloor_Queen",
+          "content": "That crowd energy was insane! Best festival vibes ever 💃"
+        },
+        {
+          "commentId": "c1_4",
+          "userId": "user_comment_4",
+          "username": "LiveMusicAddict",
+          "content": "The art installations were so cool! Perfect backdrop for the music 🎨"
+        },
+        {
+          "commentId": "c1_5",
+          "userId": "user_comment_5",
+          "username": "CoachellaVet",
+          "content": "Been to 5 Coachellas and this was definitely one of the best! 🙌"
+        }
+      ]
+    },
+    {
+      "userId": "user_2", 
+      "username": "Mike_Rocker",
+      "avatar": "assets/images/post/2/post_1.jpg",
+      "content": "Rock in Rio was absolutely EPIC! 🤘 The headliners crushed it and the Brazilian crowd knows how to party! Best festival experience ever! #RockInRio #RockMusic #FestivalLife",
+      "media": [
+        {
+          "type": "image",
+          "url": "assets/images/post/2/post_1.jpg", 
+          "description": "Main stage with massive crowd"
+        },
+        {
+          "type": "image",
+          "url": "assets/images/post/2/post_2.jpg",
+          "description": "Rock band performing on stage"
+        },
+        {
+          "type": "image",
+          "url": "assets/images/post/2/post_3.jpg",
+          "description": "Festival grounds and atmosphere"
+        }
+      ],
+      "likes": 216,
+      "comments": 7,
+      "location": "Rio de Janeiro, Brazil",
+      "tags": ["rockinrio", "rockmusic", "brazil", "festival"],
+      "commentsList": [
+        {
+          "commentId": "c2_1",
+          "userId": "user_comment_6",
+          "username": "RockGod88",
+          "content": "Brazilian crowds are the BEST! The energy was off the charts! 🇧🇷🔥"
+        },
+        {
+          "commentId": "c2_2",
+          "userId": "user_comment_7",
+          "username": "MetalHead_Rio",
+          "content": "That guitar solo had me in tears! Pure rock perfection 🎸"
+        },
+        {
+          "commentId": "c2_3",
+          "userId": "user_comment_8",
+          "username": "FestivalHopper",
+          "content": "Rock in Rio is on another level! The production was incredible 🤘"
+        },
+        {
+          "commentId": "c2_4",
+          "userId": "user_comment_9",
+          "username": "BrazilianRocker",
+          "content": "So proud of our festival! Rio knows how to rock! 🎵"
+        },
+        {
+          "commentId": "c2_5",
+          "userId": "user_comment_10",
+          "username": "ConcertPhotog",
+          "content": "Amazing shots! The lighting during the headliner set was perfect 📸"
+        },
+        {
+          "commentId": "c2_6",
+          "userId": "user_comment_11",
+          "username": "RockFestivalFan",
+          "content": "That crowd singing along gave me chills! Rock music unites us all 🎤"
+        },
+        {
+          "commentId": "c2_7",
+          "userId": "user_comment_12",
+          "username": "LiveMusicLife",
+          "content": "The sound system was incredible! Felt every beat in my chest 🥁"
+        }
+      ]
+    },
+    {
+      "userId": "user_3",
+      "username": "Emma_DJ",
+      "avatar": "assets/images/post/2/post_3.jpg", 
+      "content": "Tomorrowland was a dream come true! 🎧 The DJ sets were mind-blowing and the production was next level. Electronic music heaven! #Tomorrowland #EDM #ElectronicMusic",
+      "media": [
+        {
+          "type": "video",
+          "url": "assets/images/post/3/post_1.mp4",
+          "description": "Main stage performance with fireworks"
+        }
+      ],
+      "likes": 341,
+      "comments": 8,
+      "location": "Boom, Belgium",
+      "tags": ["tomorrowland", "edm", "electronicmusic", "belgium"],
+      "commentsList": [
+        {
+          "commentId": "c3_1",
+          "userId": "user_comment_13",
+          "username": "EDM_Lover",
+          "content": "Those fireworks during the drop were INSANE! 🎆✨"
+        },
+        {
+          "commentId": "c3_2",
+          "userId": "user_comment_14",
+          "username": "TomorrowlandVet",
+          "content": "Tomorrowland never fails to create magic! The stage design was incredible 🎪"
+        },
+        {
+          "commentId": "c3_3",
+          "userId": "user_comment_15",
+          "username": "ElectronicVibes",
+          "content": "That bass drop at 1:30 in the video gave me goosebumps! 🔊"
+        },
+        {
+          "commentId": "c3_4",
+          "userId": "user_comment_16",
+          "username": "RaveFamily",
+          "content": "The unity and love at Tomorrowland is unmatched! PLUR forever 💕"
+        },
+        {
+          "commentId": "c3_5",
+          "userId": "user_comment_17",
+          "username": "DJFanatic",
+          "content": "Which DJ was playing during this set? The mixing was flawless! 🎛️"
+        },
+        {
+          "commentId": "c3_6",
+          "userId": "user_comment_18",
+          "username": "FestivalDancer",
+          "content": "Danced until sunrise! My feet hurt but my heart is full 💃"
+        },
+        {
+          "commentId": "c3_7",
+          "userId": "user_comment_19",
+          "username": "ElectronicMusic_Fan",
+          "content": "The production quality at Tomorrowland is always next level! 🎬"
+        },
+        {
+          "commentId": "c3_8",
+          "userId": "user_comment_20",
+          "username": "BelgiumPride",
+          "content": "So proud that Belgium hosts the world's best electronic festival! 🇧🇪"
+        }
+      ]
+    },
+    {
+      "userId": "user_4",
+      "username": "Alex_Concert",
+      "avatar": "assets/images/post/4/post_1.jpg",
+      "content": "Glastonbury Festival was absolutely magical! 🌟 The atmosphere, the music, the people - everything was perfect. Already planning for next year! #Glastonbury #UKFestival #MusicMagic",
+      "media": [
+        {
+          "type": "image",
+          "url": "assets/images/post/4/post_1.jpg",
+          "description": "Pyramid Stage at sunset"
+        },
+        {
+          "type": "image",
+          "url": "assets/images/post/4/post_2.jpg",
+          "description": "Crowd enjoying the music"
+        },
+        {
+          "type": "image",
+          "url": "assets/images/post/4/post_3.jpg",
+          "description": "Festival camping area"
+        }
+      ],
+      "likes": 182,
+      "comments": 6,
+      "location": "Pilton, Somerset, UK",
+      "tags": ["glastonbury", "ukfestival", "musicmagic", "summer"],
+      "commentsList": [
+        {
+          "commentId": "c4_1",
+          "userId": "user_comment_21",
+          "username": "GlastoVeteran",
+          "content": "Glastonbury is pure magic! The Pyramid Stage sunset is legendary 🌅"
+        },
+        {
+          "commentId": "c4_2",
+          "userId": "user_comment_22",
+          "username": "UKFestivalFan",
+          "content": "The diversity of music at Glasto is incredible! Something for everyone 🎵"
+        },
+        {
+          "commentId": "c4_3",
+          "userId": "user_comment_23",
+          "username": "CampingLife",
+          "content": "Camping at Glastonbury is half the experience! Made so many friends 🏕️"
+        },
+        {
+          "commentId": "c4_4",
+          "userId": "user_comment_24",
+          "username": "MusicMagic_UK",
+          "content": "That sunset during the headliner set was absolutely breathtaking! 🌄"
+        },
+        {
+          "commentId": "c4_5",
+          "userId": "user_comment_25",
+          "username": "FestivalSpirit",
+          "content": "Glastonbury has the best atmosphere of any festival! The community is amazing 💚"
+        },
+        {
+          "commentId": "c4_6",
+          "userId": "user_comment_26",
+          "username": "SomersetLocal",
+          "content": "So proud to have Glastonbury in our county! It brings such joy to everyone 🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+        }
+      ]
+    },
+    {
+      "userId": "user_5",
+      "username": "Lisa_Pop",
+      "avatar": "assets/images/post/5/post_1.jpg",
+      "content": "Lollapalooza Chicago was incredible! 🎤 The lineup was stacked and the energy was amazing. Pop music at its finest! #Lollapalooza #Chicago #PopMusic",
+      "media": [
+        {
+          "type": "image",
+          "url": "assets/images/post/5/post_1.jpg",
+          "description": "Main stage with pop artist performing"
+        },
+        {
+          "type": "image",
+          "url": "assets/images/post/5/post_2.jpg",
+          "description": "Festival crowd and atmosphere"
+        },
+        {
+          "type": "image",
+          "url": "assets/images/post/5/post_3.jpg",
+          "description": "Food and drink vendors"
+        },
+        {
+          "type": "image",
+          "url": "assets/images/post/5/post_4.jpg",
+          "description": "Art installations and decorations"
+        }
+      ],
+      "likes": 178,
+      "comments": 9,
+      "location": "Grant Park, Chicago, IL",
+      "tags": ["lollapalooza", "chicago", "popmusic", "festival"],
+      "commentsList": [
+        {
+          "commentId": "c5_1",
+          "userId": "user_comment_27",
+          "username": "ChicagoMusicFan",
+          "content": "Grant Park looked absolutely stunning! Chicago knows how to host a festival 🏙️"
+        },
+        {
+          "commentId": "c5_2",
+          "userId": "user_comment_28",
+          "username": "PopMusicLover",
+          "content": "That pop artist's performance was incredible! Such powerful vocals 🎤"
+        },
+        {
+          "commentId": "c5_3",
+          "userId": "user_comment_29",
+          "username": "LollaVet",
+          "content": "Lollapalooza always has the best food vendors! Almost as good as the music 🍕"
+        },
+        {
+          "commentId": "c5_4",
+          "userId": "user_comment_30",
+          "username": "FestivalFoodie",
+          "content": "The art installations were so cool! Perfect Instagram spots 📸"
+        },
+        {
+          "commentId": "c5_5",
+          "userId": "user_comment_31",
+          "username": "MidwestRaver",
+          "content": "Chicago festivals hit different! The skyline backdrop is unbeatable 🌆"
+        },
+        {
+          "commentId": "c5_6",
+          "userId": "user_comment_32",
+          "username": "PopCultureFan",
+          "content": "The lineup this year was absolutely stacked! So many amazing artists 🌟"
+        },
+        {
+          "commentId": "c5_7",
+          "userId": "user_comment_33",
+          "username": "ChiTownPride",
+          "content": "Nothing beats a Chicago summer festival! The energy was electric ⚡"
+        },
+        {
+          "commentId": "c5_8",
+          "userId": "user_comment_34",
+          "username": "ConcertAddict",
+          "content": "Already counting down the days until next year's Lollapalooza! 📅"
+        },
+        {
+          "commentId": "c5_9",
+          "userId": "user_comment_35",
+          "username": "GrantParkLover",
+          "content": "Grant Park is the perfect venue for a festival! So much space to dance 💃"
+        }
+      ]
+    },
+    {
+      "userId": "user_6",
+      "username": "David_Indie",
+      "avatar": "assets/images/post/6/post_1.jpg",
+      "content": "SXSW was absolutely amazing! 🎸 Discovered so many incredible indie artists and the atmosphere was electric. Austin knows how to throw a festival! #SXSW #IndieMusic #Austin",
+      "media": [
+        {
+          "type": "image",
+          "url": "assets/images/post/6/post_1.jpg",
+          "description": "Indie band performing at venue"
+        },
+        {
+          "type": "image",
+          "url": "assets/images/post/6/post_2.jpg",
+          "description": "Crowd at intimate venue"
+        },
+        {
+          "type": "image",
+          "url": "assets/images/post/6/post_3.jpg",
+          "description": "Street performances"
+        },
+        {
+          "type": "image",
+          "url": "assets/images/post/6/post_4.jpg",
+          "description": "Festival wristbands and passes"
+        },
+        {
+          "type": "image",
+          "url": "assets/images/post/6/post_5.jpg",
+          "description": "Austin cityscape during festival"
+        }
+      ],
+      "likes": 82,
+      "comments": 4,
+      "location": "Austin, TX",
+      "tags": ["sxsw", "indiemusic", "austin", "texas"],
+      "commentsList": [
+        {
+          "commentId": "c6_1",
+          "userId": "user_comment_36",
+          "username": "IndieDiscoverer",
+          "content": "SXSW is the best place to discover new music! Found my new favorite band 🎵"
+        },
+        {
+          "commentId": "c6_2",
+          "userId": "user_comment_37",
+          "username": "AustinLocal",
+          "content": "Austin during SXSW is pure magic! The whole city comes alive 🌟"
+        },
+        {
+          "commentId": "c6_3",
+          "userId": "user_comment_38",
+          "username": "MusicScout",
+          "content": "The intimate venues make SXSW so special! Up close with amazing artists 🎤"
+        },
+        {
+          "commentId": "c6_4",
+          "userId": "user_comment_39",
+          "username": "TexasMusicFan",
+          "content": "Those street performances were incredible! Music everywhere you look 🎸"
+        }
+      ]
+    },
+    {
+      "userId": "user_7",
+      "username": "Maria_Latin",
+      "avatar": "assets/images/post/7/post_1.jpg",
+      "content": "Ultra Music Festival Miami was AMAZING! 🔥 The Latin music stage was incredible and the energy was unmatched. Best weekend ever! #UltraMiami #LatinMusic #Miami",
+      "media": [
+        {
+          "type": "image",
+          "url": "assets/images/post/7/post_1.jpg",
+          "description": "Main stage with Latin artist"
+        },
+        {
+          "type": "image",
+          "url": "assets/images/post/7/post_2.jpg",
+          "description": "Crowd dancing to Latin music"
+        },
+        {
+          "type": "image",
+          "url": "assets/images/post/7/post_3.jpg",
+          "description": "Miami skyline during festival"
+        },
+        {
+          "type": "image",
+          "url": "assets/images/post/7/post_4.jpg",
+          "description": "Festival decorations and lights"
+        }
+      ],
+      "likes": 235,
+      "comments": 10,
+      "location": "Bayfront Park, Miami, FL",
+      "tags": ["ultramiami", "latinmusic", "miami", "edm"],
+      "commentsList": [
+        {
+          "commentId": "c7_1",
+          "userId": "user_comment_40",
+          "username": "MiamiVibes",
+          "content": "Ultra Miami is always incredible! The Latin stage was absolutely amazing 🔥"
+        },
+        {
+          "commentId": "c7_2",
+          "userId": "user_comment_41",
+          "username": "LatinMusicLover",
+          "content": "The Latin artists brought such amazing energy! Couldn't stop dancing 💃"
+        },
+        {
+          "commentId": "c7_3",
+          "userId": "user_comment_42",
+          "username": "UltraFan2024",
+          "content": "Bayfront Park with the Miami skyline is the perfect festival backdrop 🌴"
+        },
+        {
+          "commentId": "c7_4",
+          "userId": "user_comment_43",
+          "username": "EDMLatino",
+          "content": "The fusion of Latin rhythms with EDM was absolutely incredible! 🎶"
+        },
+        {
+          "commentId": "c7_5",
+          "userId": "user_comment_44",
+          "username": "MiamiLocal",
+          "content": "Miami knows how to party! Ultra brings the best energy to our city 🌊"
+        },
+        {
+          "commentId": "c7_6",
+          "userId": "user_comment_45",
+          "username": "FestivalLights",
+          "content": "Those stage lights and decorations were mind-blowing! Visual paradise ✨"
+        },
+        {
+          "commentId": "c7_7",
+          "userId": "user_comment_46",
+          "username": "SalsaEDM",
+          "content": "Never thought I'd hear salsa beats at an EDM festival! So creative 🎺"
+        },
+        {
+          "commentId": "c7_8",
+          "userId": "user_comment_47",
+          "username": "UltraVeteran",
+          "content": "Been to Ultra for 5 years and this was definitely one of the best! 🙌"
+        },
+        {
+          "commentId": "c7_9",
+          "userId": "user_comment_48",
+          "username": "BeachFestival",
+          "content": "Dancing under the Miami stars was absolutely magical! Perfect weather too 🌟"
+        },
+        {
+          "commentId": "c7_10",
+          "userId": "user_comment_49",
+          "username": "CulturalFusion",
+          "content": "Love how Ultra celebrates different cultures! The Latin stage was amazing 🌍"
+        }
+      ]
+    },
+    {
+      "userId": "user_8",
+      "username": "Tom_Electronic",
+      "avatar": "assets/images/post/7/post_3.jpg",
+      "content": "Electric Daisy Carnival was absolutely INSANE! ⚡ The production, the music, the people - everything was perfect. EDC never disappoints! #EDC #LasVegas #ElectronicMusic",
+      "media": [
+        {
+          "type": "video",
+          "url": "assets/images/post/8/post_1.mp4",
+          "description": "Main stage performance with lasers and fireworks"
+        }
+      ],
+      "likes": 47,
+      "comments": 6,
+      "location": "Las Vegas Motor Speedway, NV",
+      "tags": ["edc", "lasvegas", "electronicmusic", "rave"],
+      "commentsList": [
+        {
+          "commentId": "c8_1",
+          "userId": "user_comment_50",
+          "username": "EDCFamily",
+          "content": "EDC Las Vegas is pure magic! The production value is unmatched 🎪"
+        },
+        {
+          "commentId": "c8_2",
+          "userId": "user_comment_51",
+          "username": "RaveLife",
+          "content": "Those fireworks during the drop gave me chills! Absolutely incredible 🎆"
+        },
+        {
+          "commentId": "c8_3",
+          "userId": "user_comment_52",
+          "username": "VegasRaver",
+          "content": "Las Vegas is the perfect home for EDC! The energy is electric ⚡"
+        },
+        {
+          "commentId": "c8_4",
+          "userId": "user_comment_53",
+          "username": "ElectronicDreams",
+          "content": "The laser show was out of this world! Technology meets music perfectly 🌈"
+        },
+        {
+          "commentId": "c8_5",
+          "userId": "user_comment_54",
+          "username": "PLURVibes",
+          "content": "The PLUR spirit at EDC is incredible! Made friends from all over the world 🌍"
+        },
+        {
+          "commentId": "c8_6",
+          "userId": "user_comment_55",
+          "username": "MotorSpeedwayMagic",
+          "content": "The Motor Speedway is the perfect venue! So much space for all the stages 🏁"
+        }
+      ]
+    },
+    {
+      "userId": "user_9",
+      "username": "Jazz_Festival_Lover",
+      "avatar": "assets/images/post/9/post_1.jpg",
+      "content": "New Orleans Jazz Festival was absolutely soulful! 🎷 The jazz vibes were incredible and the food was amazing. Best cultural experience ever! #JazzFest #NewOrleans #JazzMusic",
+      "media": [
+        {
+          "type": "image",
+          "url": "assets/images/post/9/post_1.jpg",
+          "description": "Jazz band performing on stage"
+        },
+        {
+          "type": "image",
+          "url": "assets/images/post/9/post_2.jpg",
+          "description": "Crowd enjoying jazz music"
+        },
+        {
+          "type": "image",
+          "url": "assets/images/post/9/post_3.jpg",
+          "description": "Festival food and atmosphere"
+        },
+        {
+          "type": "image",
+          "url": "assets/images/post/9/post_4.jpg",
+          "description": "New Orleans street scene"
+        }
+      ],
+      "likes": 146,
+      "comments": 6,
+      "location": "New Orleans, LA",
+      "tags": ["jazzfest", "neworleans", "jazzmusic", "culture"],
+      "commentsList": [
+        {
+          "commentId": "c9_1",
+          "userId": "user_comment_56",
+          "username": "JazzSoul",
+          "content": "The jazz vibes in NOLA are unmatched! That saxophone solo was incredible 🎷"
+        },
+        {
+          "commentId": "c9_2",
+          "userId": "user_comment_57",
+          "username": "NOLALocal",
+          "content": "Jazz Fest is the heart of our city! The culture and music are everything 🎵"
+        },
+        {
+          "commentId": "c9_3",
+          "userId": "user_comment_58",
+          "username": "FestivalFoodie",
+          "content": "The food at Jazz Fest is almost as good as the music! Gumbo heaven 🍲"
+        },
+        {
+          "commentId": "c9_4",
+          "userId": "user_comment_59",
+          "username": "JazzEnthusiast",
+          "content": "That brass band performance was absolutely electrifying! New Orleans magic 🎺"
+        },
+        {
+          "commentId": "c9_5",
+          "userId": "user_comment_60",
+          "username": "CulturalExplorer",
+          "content": "The cultural diversity at Jazz Fest is incredible! Music brings everyone together 🌍"
+        },
+        {
+          "commentId": "c9_6",
+          "userId": "user_comment_61",
+          "username": "SoulMusicFan",
+          "content": "The soul and blues performances were mind-blowing! Pure emotion 🎤"
+        }
+      ]
+    },
+    {
+      "userId": "user_10",
+      "username": "Country_Music_Fan",
+      "avatar": "assets/images/post/10/post_1.jpg",
+      "content": "Stagecoach Festival was absolutely incredible! 🤠 The country music was amazing and the cowboy vibes were perfect. Best country festival ever! #Stagecoach #CountryMusic #Nashville",
+      "media": [
+        {
+          "type": "image",
+          "url": "assets/images/post/10/post_1.jpg",
+          "description": "Country music stage with crowd"
+        },
+        {
+          "type": "image",
+          "url": "assets/images/post/10/post_2.jpg",
+          "description": "Festival atmosphere and decorations"
+        },
+        {
+          "type": "image",
+          "url": "assets/images/post/10/post_3.jpg",
+          "description": "Country music performance"
+        }
+      ],
+      "likes": 224,
+      "comments": 7,
+      "location": "Indio, CA",
+      "tags": ["stagecoach", "countrymusic", "nashville", "festival"],
+      "commentsList": [
+        {
+          "commentId": "c10_1",
+          "userId": "user_comment_62",
+          "username": "CowboyCountry",
+          "content": "Stagecoach is the ultimate country music experience! Those cowboy boots were everywhere 🤠"
+        },
+        {
+          "commentId": "c10_2",
+          "userId": "user_comment_63",
+          "username": "NashvilleDreamer",
+          "content": "The country music lineup was stacked! Every artist brought their A-game 🎤"
+        },
+        {
+          "commentId": "c10_3",
+          "userId": "user_comment_64",
+          "username": "FestivalCowboy",
+          "content": "The western atmosphere was perfect! Felt like being in a country music movie 🎬"
+        },
+        {
+          "commentId": "c10_4",
+          "userId": "user_comment_65",
+          "username": "CountryVibes",
+          "content": "That guitar solo had everyone singing along! Country music unites us all 🎸"
+        },
+        {
+          "commentId": "c10_5",
+          "userId": "user_comment_66",
+          "username": "StagecoachVet",
+          "content": "Been to Stagecoach 3 times and this was definitely the best! The energy was incredible ⚡"
+        },
+        {
+          "commentId": "c10_6",
+          "userId": "user_comment_67",
+          "username": "CountryMusicLover",
+          "content": "The storytelling in country music is unmatched! Every song tells a story 📖"
+        },
+        {
+          "commentId": "c10_7",
+          "userId": "user_comment_68",
+          "username": "FestivalRider",
+          "content": "The stage design was incredible! Perfect backdrop for country music 🎪"
+        }
+      ]
+    },
+    {
+      "userId": "user_11",
+      "username": "HipHop_Head",
+      "avatar": "assets/images/post/11/post_1.jpg",
+      "content": "Rolling Loud was absolutely AMAZING! 🔥 The hip-hop energy was insane and the performances were legendary. Best rap festival ever! #RollingLoud #HipHop #RapMusic",
+      "media": [
+        {
+          "type": "image",
+          "url": "assets/images/post/11/post_1.jpg",
+          "description": "Hip-hop artist performing on stage"
+        },
+        {
+          "type": "image",
+          "url": "assets/images/post/11/post_2.jpg",
+          "description": "Crowd at hip-hop festival"
+        },
+        {
+          "type": "image",
+          "url": "assets/images/post/11/post_3.jpg",
+          "description": "Festival atmosphere and lights"
+        }
+      ],
+      "likes": 356,
+      "comments": 8,
+      "location": "Miami, FL",
+      "tags": ["rollingloud", "hiphop", "rapmusic", "miami"],
+      "commentsList": [
+        {
+          "commentId": "c11_1",
+          "userId": "user_comment_69",
+          "username": "RapFanatic",
+          "content": "Rolling Loud is the ultimate hip-hop experience! The energy was off the charts 🔥"
+        },
+        {
+          "commentId": "c11_2",
+          "userId": "user_comment_70",
+          "username": "HipHopHead",
+          "content": "That rap battle was insane! The crowd was going wild 🎤"
+        },
+        {
+          "commentId": "c11_3",
+          "userId": "user_comment_71",
+          "username": "MiamiRapper",
+          "content": "Miami knows how to throw a hip-hop festival! The vibes were perfect 🌴"
+        },
+        {
+          "commentId": "c11_4",
+          "userId": "user_comment_72",
+          "username": "FestivalMC",
+          "content": "The stage production was incredible! Perfect for hip-hop performances 🎬"
+        },
+        {
+          "commentId": "c11_5",
+          "userId": "user_comment_73",
+          "username": "RapCulture",
+          "content": "Hip-hop culture was alive and well! The community spirit was amazing 💯"
+        },
+        {
+          "commentId": "c11_6",
+          "userId": "user_comment_74",
+          "username": "BeatsAndRhymes",
+          "content": "Those beats were banging! The sound system was perfect 🔊"
+        },
+        {
+          "commentId": "c11_7",
+          "userId": "user_comment_75",
+          "username": "FestivalGoer",
+          "content": "The crowd was so hyped! Everyone was rapping along to every song 🎵"
+        },
+        {
+          "commentId": "c11_8",
+          "userId": "user_comment_76",
+          "username": "HipHopVeteran",
+          "content": "Been to many hip-hop festivals but Rolling Loud is the best! Unmatched energy ⚡"
+        }
+      ]
+    },
+    {
+      "userId": "user_12",
+      "username": "EDM_Enthusiast",
+      "avatar": "assets/images/post/11/post_3.jpg",
+      "content": "Electric Zoo was absolutely ELECTRIC! ⚡ The electronic music was mind-blowing and the crowd was amazing. Best EDM festival experience! #ElectricZoo #EDM #ElectronicMusic",
+      "media": [
+        {
+          "type": "video",
+          "url": "assets/images/post/12/post_1.mp4",
+          "description": "EDM performance with lights and effects"
+        }
+      ],
+      "likes": 279,
+      "comments": 6,
+      "location": "New York, NY",
+      "tags": ["electriczoo", "edm", "electronicmusic", "nyc"],
+      "commentsList": [
+        {
+          "commentId": "c12_1",
+          "userId": "user_comment_77",
+          "username": "NYCRaver",
+          "content": "Electric Zoo in NYC is always incredible! The city skyline backdrop is perfect 🌃"
+        },
+        {
+          "commentId": "c12_2",
+          "userId": "user_comment_78",
+          "username": "EDMFanatic",
+          "content": "Those electronic beats were absolutely insane! The drops were mind-blowing 🎧"
+        },
+        {
+          "commentId": "c12_3",
+          "userId": "user_comment_79",
+          "username": "FestivalDancer",
+          "content": "Danced until my feet hurt! The energy was absolutely electric 💃"
+        },
+        {
+          "commentId": "c12_4",
+          "userId": "user_comment_80",
+          "username": "ElectronicVibes",
+          "content": "The light show was incredible! Technology and music perfectly combined ✨"
+        },
+        {
+          "commentId": "c12_5",
+          "userId": "user_comment_81",
+          "username": "ZooVeteran",
+          "content": "Electric Zoo never disappoints! The production value is always top-notch 🎪"
+        },
+        {
+          "commentId": "c12_6",
+          "userId": "user_comment_82",
+          "username": "BassHead",
+          "content": "That bass drop at 2:15 in the video gave me chills! Absolutely incredible 🔊"
+        }
+      ]
+    },
+    {
+      "userId": "user_13",
+      "username": "Classical_Music_Lover",
+      "avatar": "assets/images/post/13/post_1.jpg",
+      "content": "Tanglewood Music Festival was absolutely magical! 🎻 The classical music was breathtaking and the outdoor setting was perfect. Best classical festival ever! #Tanglewood #ClassicalMusic #Symphony",
+      "media": [
+        {
+          "type": "image",
+          "url": "assets/images/post/13/post_1.jpg",
+          "description": "Classical orchestra performing outdoors"
+        },
+        {
+          "type": "image",
+          "url": "assets/images/post/13/post_2.jpg",
+          "description": "Outdoor concert setting"
+        }
+      ],
+      "likes": 1234,
+      "comments": 5,
+      "location": "Lenox, MA",
+      "tags": ["tanglewood", "classicalmusic", "symphony", "outdoor"],
+      "commentsList": [
+        {
+          "commentId": "c13_1",
+          "userId": "user_comment_83",
+          "username": "ClassicalFan",
+          "content": "Tanglewood is pure magic! The outdoor setting makes classical music even more beautiful 🌲"
+        },
+        {
+          "commentId": "c13_2",
+          "userId": "user_comment_84",
+          "username": "SymphonyLover",
+          "content": "That symphony performance was absolutely breathtaking! The acoustics were perfect 🎻"
+        },
+        {
+          "commentId": "c13_3",
+          "userId": "user_comment_85",
+          "username": "MusicScholar",
+          "content": "The classical music selection was incredible! Every piece was perfectly performed 🎼"
+        },
+        {
+          "commentId": "c13_4",
+          "userId": "user_comment_86",
+          "username": "OutdoorConcert",
+          "content": "Listening to classical music outdoors is such a unique experience! Nature and music 🌿"
+        },
+        {
+          "commentId": "c13_5",
+          "userId": "user_comment_87",
+          "username": "BerkshireLocal",
+          "content": "So proud to have Tanglewood in the Berkshires! It's a cultural treasure 🏛️"
+        }
+      ]
+    },
+    {
+      "userId": "user_14",
+      "username": "Blues_Festival_Goer",
+      "avatar": "assets/images/post/14/post_1.jpg",
+      "content": "Chicago Blues Festival was absolutely soulful! 🎸 The blues music was incredible and the atmosphere was electric. Best blues experience ever! #ChicagoBlues #BluesMusic #Chicago",
+      "media": [
+        {
+          "type": "image",
+          "url": "assets/images/post/14/post_1.jpg",
+          "description": "Blues band performing on stage"
+        },
+        {
+          "type": "image",
+          "url": "assets/images/post/14/post_2.jpg",
+          "description": "Crowd enjoying blues music"
+        }
+      ],
+      "likes": 178,
+      "comments": 5,
+      "location": "Chicago, IL",
+      "tags": ["chicagoblues", "bluesmusic", "chicago", "soul"],
+      "commentsList": [
+        {
+          "commentId": "c14_1",
+          "userId": "user_comment_88",
+          "username": "BluesLover",
+          "content": "Chicago Blues Festival is legendary! The soul and emotion in the music is incredible 🎸"
+        },
+        {
+          "commentId": "c14_2",
+          "userId": "user_comment_89",
+          "username": "SoulMusicFan",
+          "content": "The blues guitar solos were absolutely mesmerizing! Pure emotion in every note 🎵"
+        },
+        {
+          "commentId": "c14_3",
+          "userId": "user_comment_90",
+          "username": "ChicagoLocal",
+          "content": "Chicago is the home of blues! The festival brings the city to life 🌆"
+        },
+        {
+          "commentId": "c14_4",
+          "userId": "user_comment_91",
+          "username": "BluesEnthusiast",
+          "content": "The storytelling in blues music is unmatched! Every song tells a story 📖"
+        },
+        {
+          "commentId": "c14_5",
+          "userId": "user_comment_92",
+          "username": "FestivalGoer",
+          "content": "The atmosphere was so intimate and soulful! Blues brings people together 💙"
+        }
+      ]
+    },
+    {
+      "userId": "user_15",
+      "username": "Folk_Music_Fan",
+      "avatar": "assets/images/post/15/post_1.jpg",
+      "content": "Newport Folk Festival was absolutely magical! 🪕 The folk music was beautiful and the community spirit was amazing. Best folk festival ever! #NewportFolk #FolkMusic #RhodeIsland",
+      "media": [
+        {
+          "type": "image",
+          "url": "assets/images/post/15/post_1.jpg",
+          "description": "Folk musicians performing outdoors"
+        },
+        {
+          "type": "image",
+          "url": "assets/images/post/15/post_2.jpg",
+          "description": "Festival atmosphere and crowd"
+        }
+      ],
+      "likes": 146,
+      "comments": 5,
+      "location": "Newport, RI",
+      "tags": ["newportfolk", "folkmusic", "rhodeisland", "community"],
+      "commentsList": [
+        {
+          "commentId": "c15_1",
+          "userId": "user_comment_93",
+          "username": "FolkLover",
+          "content": "Newport Folk Festival is pure magic! The intimate setting is perfect for folk music 🪕"
+        },
+        {
+          "commentId": "c15_2",
+          "userId": "user_comment_94",
+          "username": "CommunitySpirit",
+          "content": "The community spirit at Newport Folk is incredible! Everyone feels like family 💕"
+        },
+        {
+          "commentId": "c15_3",
+          "userId": "user_comment_95",
+          "username": "AcousticFan",
+          "content": "The acoustic performances were absolutely beautiful! Pure, raw talent 🎤"
+        },
+        {
+          "commentId": "c15_4",
+          "userId": "user_comment_96",
+          "username": "RhodeIslandLocal",
+          "content": "So proud to have Newport Folk in Rhode Island! It's a cultural gem 🏛️"
+        },
+        {
+          "commentId": "c15_5",
+          "userId": "user_comment_97",
+          "username": "StorytellingMusic",
+          "content": "Folk music tells the best stories! The lyrics were so meaningful 📝"
+        }
+      ]
+    },
+    {
+      "userId": "user_16",
+      "username": "Reggae_Festival_Goer",
+      "avatar": "assets/images/post/16/post_1.jpg",
+      "content": "Reggae Sumfest was absolutely amazing! 🎵 The reggae vibes were incredible and the positive energy was everywhere. Best reggae festival ever! #ReggaeSumfest #ReggaeMusic #Jamaica",
+      "media": [
+        {
+          "type": "image",
+          "url": "assets/images/post/16/post_1.jpg",
+          "description": "Reggae artist performing on stage"
+        },
+        {
+          "type": "image",
+          "url": "assets/images/post/16/post_2.jpg",
+          "description": "Festival crowd and atmosphere"
+        },
+        {
+          "type": "image",
+          "url": "assets/images/post/16/post_3.jpg",
+          "description": "Jamaican culture and music"
+        },
+        {
+          "type": "image",
+          "url": "assets/images/post/16/post_4.jpg",
+          "description": "Festival decorations and lights"
+        },
+        {
+          "type": "image",
+          "url": "assets/images/post/16/post_5.jpg",
+          "description": "Beach festival setting"
+        }
+      ],
+      "likes": 235,
+      "comments": 7,
+      "location": "Montego Bay, Jamaica",
+      "tags": ["reggaesumfest", "reggaemusic", "jamaica", "positivevibes"],
+      "commentsList": [
+        {
+          "commentId": "c16_1",
+          "userId": "user_comment_98",
+          "username": "ReggaeLover",
+          "content": "Reggae Sumfest is pure positive vibes! The energy was absolutely incredible 🌟"
+        },
+        {
+          "commentId": "c16_2",
+          "userId": "user_comment_99",
+          "username": "JamaicanPride",
+          "content": "So proud of our reggae music! Jamaica knows how to throw a festival 🇯🇲"
+        },
+        {
+          "commentId": "c16_3",
+          "userId": "user_comment_100",
+          "username": "PositiveVibes",
+          "content": "The positive energy at Reggae Sumfest was unmatched! Love and unity everywhere 💚"
+        },
+        {
+          "commentId": "c16_4",
+          "userId": "user_comment_101",
+          "username": "BeachFestival",
+          "content": "Reggae by the beach is the perfect combination! The setting was magical 🏖️"
+        },
+        {
+          "commentId": "c16_5",
+          "userId": "user_comment_102",
+          "username": "CulturalMusic",
+          "content": "The cultural significance of reggae music was so powerful! Music with a message 🎤"
+        },
+        {
+          "commentId": "c16_6",
+          "userId": "user_comment_103",
+          "username": "FestivalDancer",
+          "content": "Danced to reggae all night long! The rhythms were absolutely infectious 💃"
+        },
+        {
+          "commentId": "c16_7",
+          "userId": "user_comment_104",
+          "username": "MontegoBayLocal",
+          "content": "Montego Bay is the perfect host for Reggae Sumfest! The vibes are always right 🌴"
+        }
+      ]
+    },
+    {
+      "userId": "user_17",
+      "username": "Rock_Festival_Enthusiast",
+      "avatar": "assets/images/post/17/post_1.jpg",
+      "content": "Download Festival was absolutely EPIC! 🤘 The rock music was incredible and the mosh pits were insane. Best rock festival ever! #DownloadFestival #RockMusic #UK",
+      "media": [
+        {
+          "type": "image",
+          "url": "assets/images/post/17/post_1.jpg",
+          "description": "Rock band performing on main stage"
+        },
+        {
+          "type": "image",
+          "url": "assets/images/post/17/post_2.jpg",
+          "description": "Crowd at rock festival"
+        },
+        {
+          "type": "image",
+          "url": "assets/images/post/17/post_3.jpg",
+          "description": "Festival atmosphere and lights"
+        },
+        {
+          "type": "image",
+          "url": "assets/images/post/17/post_4.jpg",
+          "description": "Rock music performance"
+        }
+      ],
+      "likes": 226,
+      "comments": 7,
+      "location": "Donington Park, UK",
+      "tags": ["downloadfestival", "rockmusic", "uk", "metal"],
+      "commentsList": [
+        {
+          "commentId": "c17_1",
+          "userId": "user_comment_105",
+          "username": "RockGod",
+          "content": "Download Festival is the ultimate rock experience! The energy was absolutely insane 🤘"
+        },
+        {
+          "commentId": "c17_2",
+          "userId": "user_comment_106",
+          "username": "MetalHead",
+          "content": "Those mosh pits were absolutely wild! Rock music brings out the best in people 💪"
+        },
+        {
+          "commentId": "c17_3",
+          "userId": "user_comment_107",
+          "username": "UKRockFan",
+          "content": "Donington Park is the perfect venue for Download! The atmosphere is electric ⚡"
+        },
+        {
+          "commentId": "c17_4",
+          "userId": "user_comment_108",
+          "username": "FestivalVeteran",
+          "content": "Been to Download 5 times and this was definitely the best! The lineup was incredible 🎸"
+        },
+        {
+          "commentId": "c17_5",
+          "userId": "user_comment_109",
+          "username": "RockCommunity",
+          "content": "The rock community at Download is amazing! Everyone is so friendly and passionate 🤝"
+        },
+        {
+          "commentId": "c17_6",
+          "userId": "user_comment_110",
+          "username": "GuitarHero",
+          "content": "Those guitar solos were absolutely mind-blowing! Rock music at its finest 🎸"
+        },
+        {
+          "commentId": "c17_7",
+          "userId": "user_comment_111",
+          "username": "FestivalCamper",
+          "content": "Camping at Download is half the experience! Made so many rock friends 🏕️"
+        }
+      ]
+    },
+    {
+      "userId": "user_18",
+      "username": "Electronic_Music_Fan",
+      "avatar": "assets/images/post/18/post_1.jpg",
+      "content": "Burning Man was absolutely TRANSFORMATIVE! 🔥 The art, music, and community were incredible. Best festival experience ever! #BurningMan #ArtMusic #Nevada",
+      "media": [
+        {
+          "type": "image",
+          "url": "assets/images/post/18/post_1.jpg",
+          "description": "Art installations and music at Burning Man"
+        },
+        {
+          "type": "image",
+          "url": "assets/images/post/18/post_2.jpg",
+          "description": "Festival atmosphere and community"
+        },
+        {
+          "type": "image",
+          "url": "assets/images/post/18/post_3.jpg",
+          "description": "Desert festival setting"
+        },
+        {
+          "type": "image",
+          "url": "assets/images/post/18/post_4.jpg",
+          "description": "Art and music fusion"
+        }
+      ],
+      "likes": 152,
+      "comments": 8,
+      "location": "Black Rock City, NV",
+      "tags": ["burningman", "artmusic", "nevada", "community"],
+      "commentsList": [
+        {
+          "commentId": "c18_1",
+          "userId": "user_comment_112",
+          "username": "BurnerVeteran",
+          "content": "Burning Man is more than a festival - it's a way of life! The community is incredible 🔥"
+        },
+        {
+          "commentId": "c18_2",
+          "userId": "user_comment_113",
+          "username": "ArtMusicFusion",
+          "content": "The fusion of art and music at Burning Man is absolutely mind-blowing! 🎨🎵"
+        },
+        {
+          "commentId": "c18_3",
+          "userId": "user_comment_114",
+          "username": "DesertFestival",
+          "content": "The desert setting makes Burning Man so unique! The dust storms were epic 🌪️"
+        },
+        {
+          "commentId": "c18_4",
+          "userId": "user_comment_115",
+          "username": "CommunitySpirit",
+          "content": "The community spirit at Burning Man is unmatched! Everyone is so giving and kind 💕"
+        },
+        {
+          "commentId": "c18_5",
+          "userId": "user_comment_116",
+          "username": "TransformativeExperience",
+          "content": "Burning Man truly changed my perspective on life! Such a transformative experience 🌟"
+        },
+        {
+          "commentId": "c18_6",
+          "userId": "user_comment_117",
+          "username": "ArtInstallation",
+          "content": "The art installations were absolutely incredible! Music and art perfectly combined 🎭"
+        },
+        {
+          "commentId": "c18_7",
+          "userId": "user_comment_118",
+          "username": "NevadaLocal",
+          "content": "Black Rock City is a temporary paradise! The energy is absolutely electric ⚡"
+        },
+        {
+          "commentId": "c18_8",
+          "userId": "user_comment_119",
+          "username": "FestivalPhilosopher",
+          "content": "Burning Man teaches us about community, art, and self-expression! Life-changing 🧘"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "totalPosts": 18,
+    "totalUsers": 18,
+    "festivals": [
+      "Coachella",
+      "Rock in Rio", 
+      "Tomorrowland",
+      "Glastonbury",
+      "Lollapalooza",
+      "SXSW",
+      "Ultra Music Festival",
+      "Electric Daisy Carnival",
+      "New Orleans Jazz Festival",
+      "Stagecoach Festival",
+      "Rolling Loud",
+      "Electric Zoo",
+      "Tanglewood Music Festival",
+      "Chicago Blues Festival",
+      "Newport Folk Festival",
+      "Reggae Sumfest",
+      "Download Festival",
+      "Burning Man"
+    ],
+    "locations": [
+      "Coachella Valley, CA",
+      "Rio de Janeiro, Brazil",
+      "Boom, Belgium", 
+      "Pilton, Somerset, UK",
+      "Grant Park, Chicago, IL",
+      "Austin, TX",
+      "Bayfront Park, Miami, FL",
+      "Las Vegas Motor Speedway, NV",
+      "New Orleans, LA",
+      "Indio, CA",
+      "Miami, FL",
+      "New York, NY",
+      "Lenox, MA",
+      "Chicago, IL",
+      "Newport, RI",
+      "Montego Bay, Jamaica",
+      "Donington Park, UK",
+      "Black Rock City, NV"
+    ],
+    "musicGenres": [
+      "Pop",
+      "Rock",
+      "Electronic",
+      "Indie",
+      "Latin",
+      "EDM",
+      "Jazz",
+      "Country",
+      "Hip-Hop",
+      "Classical",
+      "Blues",
+      "Folk",
+      "Reggae",
+      "Metal",
+      "Art Music"
+    ]
+  }
+} 

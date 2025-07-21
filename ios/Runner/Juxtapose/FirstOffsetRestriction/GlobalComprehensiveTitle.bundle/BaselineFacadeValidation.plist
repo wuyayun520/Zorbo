@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsLayerBehavior</key>
+	<string>entityContainStage</string>
+	<key>grainFromScope</key>
+	<string>dynamicRemainderContrast</string>
+	<key>interactorActivityEdge</key>
+	<string>layoutLevelMargin</string>
+	<key>repositoryAndSystem</key>
+	<string>taskParameterBottom</string>
+	<key>rowNumberSpeed</key>
+	<string>navigatorForBuffer</string>
+</dict>
+</plist>

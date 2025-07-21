@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousMaterialTail</key>
+	<string>accordionAccessoryLeft</string>
+	<key>drawerOrAdapter</key>
+	<string>labelProxyVisibility</string>
+	<key>pageviewContextCount</key>
+	<string>constAlertColor</string>
+	<key>shaderWithoutFacade</key>
+	<string>scaffoldOutsideCommand</string>
+	<key>transformerParamDuration</key>
+	<string>eventDecoratorForce</string>
+</dict>
+</plist>

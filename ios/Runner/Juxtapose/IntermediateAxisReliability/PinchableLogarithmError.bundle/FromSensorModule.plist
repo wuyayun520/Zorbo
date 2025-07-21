@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicSubscriptionDirection</key>
+	<string>buttonStrategyPosition</string>
+	<key>integerFormTransparency</key>
+	<string>completerLevelIndex</string>
+	<key>managerObserverDelay</key>
+	<string>plateTaskState</string>
+	<key>mediumSkinBehavior</key>
+	<string>imperativeMultiplicationLeft</string>
+	<key>menuFlyweightBound</key>
+	<string>skinFacadeStatus</string>
+	<key>navigatorStyleSpeed</key>
+	<string>groupFormBound</string>
+	<key>oldRouterDensity</key>
+	<string>coordinatorStructureState</string>
+</dict>
+</plist>

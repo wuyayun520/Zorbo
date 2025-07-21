@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderStyleLocation</key>
+	<string>singletonVarVisibility</string>
+	<key>cacheIncludeSingleton</key>
+	<string>materialAboutBridge</string>
+	<key>contractionActionTheme</key>
+	<string>bufferModeValidation</string>
+	<key>flexParameterVisibility</key>
+	<string>functionalResponseTop</string>
+	<key>gesturedetectorActionName</key>
+	<string>riverpodDuringCycle</string>
+	<key>pointContainFlyweight</key>
+	<string>boxshadowAgainstMemento</string>
+	<key>streamEnvironmentInteraction</key>
+	<string>baseFlyweightDuration</string>
+</dict>
+</plist>

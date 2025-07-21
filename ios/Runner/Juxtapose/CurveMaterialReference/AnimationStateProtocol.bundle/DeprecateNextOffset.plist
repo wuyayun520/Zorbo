@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeAwaitOrientation</key>
+	<string>flexibleExceptionMargin</string>
+	<key>catalystMediatorKind</key>
+	<string>standaloneMobileShade</string>
+	<key>curveTaskBehavior</key>
+	<string>semanticsPlatformStatus</string>
+	<key>firstMonsterContrast</key>
+	<string>liteStoragePosition</string>
+	<key>hardStatelessBehavior</key>
+	<string>symbolWorkPadding</string>
+	<key>musicPatternInterval</key>
+	<string>durationTaskInset</string>
+	<key>playbackWithoutFramework</key>
+	<string>ignoredBorderColor</string>
+	<key>shaderAtCommand</key>
+	<string>boxShapeTag</string>
+</dict>
+</plist>

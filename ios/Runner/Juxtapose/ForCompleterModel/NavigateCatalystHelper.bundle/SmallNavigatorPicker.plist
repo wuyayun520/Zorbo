@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agilePainterValidation</key>
+	<string>expandedTierLocation</string>
+	<key>checklistTaskSaturation</key>
+	<string>completerSinceComposite</string>
+	<key>indicatorActionTheme</key>
+	<string>binaryNearObserver</string>
+	<key>navigatorWithStructure</key>
+	<string>containerWithVisitor</string>
+	<key>parallelTransitionTheme</key>
+	<string>instructionDespiteMethod</string>
+	<key>signOrTask</key>
+	<string>asyncTechniqueTail</string>
+</dict>
+</plist>

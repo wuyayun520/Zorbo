@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedTransitionTag</key>
+	<string>frameBridgePadding</string>
+	<key>indicatorPatternTint</key>
+	<string>resizableTitleVisible</string>
+	<key>liteSymbolInteraction</key>
+	<string>cellAlongSystem</string>
+	<key>sequentialActivityDelay</key>
+	<string>similarNotifierAppearance</string>
+	<key>skirtDuringCycle</key>
+	<string>crudeIntensityForce</string>
+	<key>symmetricServiceInset</key>
+	<string>typicalPositionedResponse</string>
+	<key>tweenStateStyle</key>
+	<string>shaderAboutType</string>
+</dict>
+</plist>

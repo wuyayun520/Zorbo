@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyChartType</key>
+	<string>materialAtScope</string>
+	<key>dynamicZoneScale</key>
+	<string>interactiveTaskCenter</string>
+	<key>imageAlongScope</key>
+	<string>callbackWithoutActivity</string>
+	<key>normBridgeFlags</key>
+	<string>histogramLikeWork</string>
+	<key>routerFormStyle</key>
+	<string>symbolFunctionTop</string>
+	<key>statelessBeyondNumber</key>
+	<string>crudeGrainDepth</string>
+</dict>
+</plist>

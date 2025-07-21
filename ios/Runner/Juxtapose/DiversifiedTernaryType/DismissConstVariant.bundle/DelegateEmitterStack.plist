@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanResourceInterval</key>
+	<string>buttonAsAction</string>
+	<key>interfaceInAction</key>
+	<string>synchronousNodeInset</string>
+	<key>offsetViaLevel</key>
+	<string>playbackVersusInterpreter</string>
+	<key>providerJobVisibility</key>
+	<string>clipperBeyondFlyweight</string>
+	<key>sliderByKind</key>
+	<string>grainStageKind</string>
+</dict>
+</plist>

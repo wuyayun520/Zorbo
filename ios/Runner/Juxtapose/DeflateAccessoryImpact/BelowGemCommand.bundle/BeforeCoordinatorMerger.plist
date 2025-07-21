@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inactiveInjectionStyle</key>
+	<string>semanticDependencyRight</string>
+	<key>inkwellByStrategy</key>
+	<string>slashParameterCount</string>
+	<key>invisibleSampleFrequency</key>
+	<string>activeBlocPosition</string>
+	<key>prevListviewHue</key>
+	<string>independentRoleTop</string>
+	<key>radiusAboutParam</key>
+	<string>relationalDecorationOrientation</string>
+	<key>scrollableContractionPadding</key>
+	<string>difficultInstructionDelay</string>
+	<key>viewPerForm</key>
+	<string>numericalPresenterTint</string>
+</dict>
+</plist>

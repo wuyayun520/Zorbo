@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonMomentumStyle</key>
+	<string>storeSinceTier</string>
+	<key>durationIncludeMediator</key>
+	<string>painterSingletonHead</string>
+	<key>eventPatternBottom</key>
+	<string>buttonExceptPhase</string>
+	<key>finalStateAppearance</key>
+	<string>brushInFunction</string>
+	<key>intermediateIntensityBorder</key>
+	<string>durationMediatorTail</string>
+	<key>notifierFromType</key>
+	<string>nodeSingletonSpeed</string>
+	<key>optimizerCompositeShape</key>
+	<string>decorationBeyondSingleton</string>
+	<key>providerViaType</key>
+	<string>commandNumberColor</string>
+	<key>retainedGrainMargin</key>
+	<string>pointAlongPhase</string>
+</dict>
+</plist>

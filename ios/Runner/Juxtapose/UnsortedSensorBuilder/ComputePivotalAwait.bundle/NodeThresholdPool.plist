@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalSegmentTheme</key>
+	<string>utilDecoratorStatus</string>
+	<key>desktopFeaturePosition</key>
+	<string>layoutBeyondFunction</string>
+	<key>eventInsideProcess</key>
+	<string>allocatorInsideStage</string>
+	<key>geometricSpriteTag</key>
+	<string>directlyArithmeticBorder</string>
+	<key>invisibleGraphicDirection</key>
+	<string>popupAmongMemento</string>
+	<key>modelBridgeSaturation</key>
+	<string>sensorFormSkewy</string>
+	<key>modelParamFlags</key>
+	<string>transformerTypeTail</string>
+	<key>statelessMultiplicationPosition</key>
+	<string>repositorySingletonDirection</string>
+	<key>subscriptionJobCount</key>
+	<string>eagerHistogramCount</string>
+</dict>
+</plist>

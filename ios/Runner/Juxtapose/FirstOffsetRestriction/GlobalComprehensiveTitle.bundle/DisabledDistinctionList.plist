@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonSystemTag</key>
+	<string>persistentNodeLeft</string>
+	<key>clipperOutsideLevel</key>
+	<string>zoneWithoutForm</string>
+	<key>frameSystemVelocity</key>
+	<string>resourceAndBridge</string>
+	<key>hierarchicalStreamRotation</key>
+	<string>channelViaProxy</string>
+	<key>stepLayerState</key>
+	<string>popupFacadeSaturation</string>
+</dict>
+</plist>

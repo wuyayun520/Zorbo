@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeBlocState</key>
+	<string>heapAgainstTier</string>
+	<key>channelActivityOpacity</key>
+	<string>tabbarAlongLevel</string>
+	<key>fixedReferenceTheme</key>
+	<string>crudePainterShade</string>
+	<key>intuitiveLabelFormat</key>
+	<string>inkwellContainPhase</string>
+	<key>largeSkinMargin</key>
+	<string>plateExceptOperation</string>
+	<key>sequentialViewMode</key>
+	<string>capacitiesBridgeTint</string>
+	<key>viewCommandShade</key>
+	<string>typicalSampleMomentum</string>
+</dict>
+</plist>

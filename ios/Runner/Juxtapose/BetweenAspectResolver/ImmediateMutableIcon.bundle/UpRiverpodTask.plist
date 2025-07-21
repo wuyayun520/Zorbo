@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationVariableTheme</key>
+	<string>scrollableCaptionInset</string>
+	<key>directBrushValidation</key>
+	<string>menuInContext</string>
+	<key>durationStyleDistance</key>
+	<string>lastPositionShade</string>
+	<key>interpolationWithoutJob</key>
+	<string>callbackEnvironmentInteraction</string>
+	<key>localTextfieldShape</key>
+	<string>entityDespiteBridge</string>
+	<key>menuChainSkewy</key>
+	<string>originalObserverKind</string>
+	<key>observerVariablePressure</key>
+	<string>accordionShaderBound</string>
+	<key>spriteInMemento</key>
+	<string>smartClipperAcceleration</string>
+	<key>textBeyondPrototype</key>
+	<string>promiseByInterpreter</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableIndicatorBound</key>
+	<string>segueTempleDensity</string>
+	<key>exceptionProcessTransparency</key>
+	<string>customAnimationTag</string>
+	<key>routeContextTag</key>
+	<string>tabviewForVar</string>
+	<key>scaleAmongStyle</key>
+	<string>workflowAlongChain</string>
+	<key>skinAgainstValue</key>
+	<string>elasticGrainShade</string>
+</dict>
+</plist>

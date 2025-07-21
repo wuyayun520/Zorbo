@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationDuringScope</key>
+	<string>robustOptimizerTheme</string>
+	<key>composableAspectOrientation</key>
+	<string>statefulBlocHead</string>
+	<key>lostRowDirection</key>
+	<string>progressbarParamResponse</string>
+	<key>navigatorInterpreterOrigin</key>
+	<string>delegateStylePadding</string>
+	<key>normalUtilMode</key>
+	<string>transitionActivityFrequency</string>
+	<key>seamlessSampleTransparency</key>
+	<string>tickerTierDepth</string>
+	<key>serviceContainScope</key>
+	<string>eagerIconType</string>
+	<key>transformerProxyTint</key>
+	<string>alignmentVariableFormat</string>
+	<key>transformerStrategyRotation</key>
+	<string>queryFlyweightOffset</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>isolateKindInteraction</key>
+	<string>textureLikeAdapter</string>
+	<key>layoutSystemInteraction</key>
+	<string>descriptionOutsideProxy</string>
+	<key>menuFlyweightAcceleration</key>
+	<string>statelessWithVar</string>
+	<key>originalMobxStyle</key>
+	<string>musicDecoratorMomentum</string>
+	<key>queueBridgeIndex</key>
+	<string>activeVectorVisible</string>
+	<key>resourceNumberVelocity</key>
+	<string>concreteSymbolHue</string>
+	<key>singletonWithOperation</key>
+	<string>tweenParamRotation</string>
+	<key>tweenNearFacade</key>
+	<string>missedTweenDelay</string>
+</dict>
+</plist>

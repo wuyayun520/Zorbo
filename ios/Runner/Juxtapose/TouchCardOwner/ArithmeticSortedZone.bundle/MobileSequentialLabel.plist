@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystTierContrast</key>
+	<string>greatConstraintPadding</string>
+	<key>denseChartBrightness</key>
+	<string>mediaBeyondActivity</string>
+	<key>diffableBaseVelocity</key>
+	<string>frameParameterDistance</string>
+	<key>independentDimensionName</key>
+	<string>customRouteBehavior</string>
+	<key>memberNearSystem</key>
+	<string>nodeOfBuffer</string>
+	<key>menuDecoratorInset</key>
+	<string>spotAtCommand</string>
+	<key>nativeSampleBehavior</key>
+	<string>futurePrototypeLeft</string>
+	<key>previewPrototypeFrequency</key>
+	<string>backwardLabelLocation</string>
+	<key>reductionAroundFramework</key>
+	<string>touchEnvironmentOpacity</string>
+	<key>reusableBuilderState</key>
+	<string>texturePrototypeScale</string>
+</dict>
+</plist>

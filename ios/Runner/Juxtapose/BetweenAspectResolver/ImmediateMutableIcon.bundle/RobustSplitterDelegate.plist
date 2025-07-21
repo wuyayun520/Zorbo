@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>futureActionFlags</key>
+	<string>currentLocalizationTag</string>
+	<key>imageOutsideStrategy</key>
+	<string>normVersusLevel</string>
+	<key>utilFromChain</key>
+	<string>prismaticRowLeft</string>
+</dict>
+</plist>

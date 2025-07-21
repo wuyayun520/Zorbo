@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedMasterResponse</key>
+	<string>mutableViewTheme</string>
+	<key>pageviewBeyondActivity</key>
+	<string>stackVersusLayer</string>
+	<key>routeFlyweightContrast</key>
+	<string>prevBulletCenter</string>
+	<key>unaryAroundVisitor</key>
+	<string>exponentAroundTier</string>
+</dict>
+</plist>

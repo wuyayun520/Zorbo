@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorOutsideBuffer</key>
+	<string>mediumSpriteIndex</string>
+	<key>autoBorderPosition</key>
+	<string>projectTempleTint</string>
+	<key>containerVariableBottom</key>
+	<string>newestCanvasOpacity</string>
+	<key>diffableGestureTint</key>
+	<string>imperativeAsyncVelocity</string>
+	<key>frameBridgeBound</key>
+	<string>particleBeyondJob</string>
+	<key>publicStatefulHead</key>
+	<string>functionalFuturePressure</string>
+	<key>rowInVar</key>
+	<string>prevGraphInterval</string>
+	<key>streamObserverAlignment</key>
+	<string>curveForSystem</string>
+	<key>textureLikeScope</key>
+	<string>buttonAndBridge</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveErrorRotation</key>
+	<string>gesturedetectorOrActivity</string>
+	<key>batchSinceStrategy</key>
+	<string>apertureAwayShape</string>
+	<key>borderDespiteVisitor</key>
+	<string>commonDecorationBound</string>
+	<key>eagerReducerBottom</key>
+	<string>blocContainContext</string>
+	<key>queueOperationType</key>
+	<string>compositionNumberPressure</string>
+	<key>sliderShapePosition</key>
+	<string>statelessTernaryLeft</string>
+	<key>spriteSingletonTag</key>
+	<string>sizeMethodAlignment</string>
+	<key>stateFromActivity</key>
+	<string>getxEnvironmentOffset</string>
+	<key>transitionActivityTheme</key>
+	<string>nodeWithBuffer</string>
+</dict>
+</plist>

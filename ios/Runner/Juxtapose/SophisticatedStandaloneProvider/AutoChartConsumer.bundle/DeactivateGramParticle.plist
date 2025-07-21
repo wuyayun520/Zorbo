@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferOfEnvironment</key>
+	<string>integerThroughProcess</string>
+	<key>featureBufferLeft</key>
+	<string>bufferActionRight</string>
+	<key>featureStructureCoord</key>
+	<string>progressbarWorkSpeed</string>
+	<key>oldNotificationKind</key>
+	<string>modelSingletonFrequency</string>
+	<key>relationalQueryInteraction</key>
+	<string>skirtStateTop</string>
+	<key>secondPriorityValidation</key>
+	<string>publicGraphVisible</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesUntilActivity</key>
+	<string>cubitInsideWork</string>
+	<key>durationExceptShape</key>
+	<string>iconActivityMargin</string>
+	<key>futureVariableBehavior</key>
+	<string>taskMementoTag</string>
+	<key>geometricAllocatorVisibility</key>
+	<string>imperativePainterTransparency</string>
+	<key>isolateAlongInterpreter</key>
+	<string>eventPlatformResponse</string>
+	<key>lostShaderTheme</key>
+	<string>usagePrototypeTail</string>
+	<key>popupForInterpreter</key>
+	<string>resourceStateVelocity</string>
+	<key>radioLevelDistance</key>
+	<string>elasticProjectEdge</string>
+</dict>
+</plist>

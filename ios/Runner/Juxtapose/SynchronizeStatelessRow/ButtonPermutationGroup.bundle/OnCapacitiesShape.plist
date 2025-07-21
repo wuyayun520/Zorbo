@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledSubscriptionTheme</key>
+	<string>navigatorUntilActivity</string>
+	<key>fixedStoreVelocity</key>
+	<string>nativeDecorationPosition</string>
+	<key>momentumInPlatform</key>
+	<string>bufferCycleVisible</string>
+</dict>
+</plist>

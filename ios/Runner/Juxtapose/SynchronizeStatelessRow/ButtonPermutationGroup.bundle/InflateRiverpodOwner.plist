@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellBeyondStyle</key>
+	<string>constMediaqueryMode</string>
+	<key>interfaceKindSkewy</key>
+	<string>displayableFeatureDelay</string>
+	<key>repositoryBufferContrast</key>
+	<string>pointActionDensity</string>
+	<key>repositoryEnvironmentBehavior</key>
+	<string>scrollByVar</string>
+	<key>semanticTimerName</key>
+	<string>associatedCoordinatorFlags</string>
+	<key>singletonViaKind</key>
+	<string>robustStorageOffset</string>
+	<key>usageAtCycle</key>
+	<string>characterIncludePlatform</string>
+</dict>
+</plist>

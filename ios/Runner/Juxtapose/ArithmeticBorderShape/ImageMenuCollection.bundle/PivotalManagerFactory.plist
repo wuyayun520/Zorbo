@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocPatternState</key>
+	<string>ephemeralNotificationFormat</string>
+	<key>effectBeyondState</key>
+	<string>playbackCycleInset</string>
+	<key>entityByAction</key>
+	<string>sessionPatternVisibility</string>
+	<key>listviewPerMemento</key>
+	<string>transitionLevelCoord</string>
+	<key>publicChecklistTop</key>
+	<string>lastCallbackRotation</string>
+	<key>queueProxyInterval</key>
+	<string>baselineTypeShade</string>
+	<key>roleOutsideType</key>
+	<string>constPainterBorder</string>
+	<key>transitionWithoutType</key>
+	<string>factoryInterpreterRotation</string>
+</dict>
+</plist>

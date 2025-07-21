@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionTypeLocation</key>
+	<string>independentStackVisible</string>
+	<key>cubitStyleName</key>
+	<string>cursorOfLevel</string>
+	<key>flexibleStepCoord</key>
+	<string>specifyGridTag</string>
+	<key>groupExceptNumber</key>
+	<string>usageInFramework</string>
+	<key>hardSizedboxState</key>
+	<string>allocatorChainOpacity</string>
+	<key>layerPlatformInteraction</key>
+	<string>featureAroundLevel</string>
+	<key>lazyRouterSaturation</key>
+	<string>navigationAlongAdapter</string>
+	<key>normThanFlyweight</key>
+	<string>radioVariableMargin</string>
+	<key>offsetDecoratorTension</key>
+	<string>previewPerLevel</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoChannelInterval</key>
+	<string>subsequentCoordinatorRate</string>
+	<key>concurrentCertificateTransparency</key>
+	<string>ephemeralTimerAcceleration</string>
+	<key>curveSingletonHue</key>
+	<string>independentDropdownbuttonDensity</string>
+	<key>mediaAmongParameter</key>
+	<string>switchObserverLeft</string>
+	<key>navigatorInterpreterInset</key>
+	<string>builderStateSpacing</string>
+	<key>nodeCommandFeedback</key>
+	<string>sineInsideValue</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>documentBeyondMediator</key>
+	<string>reducerThanAdapter</string>
+	<key>drawerActivityBorder</key>
+	<string>tabviewProcessTop</string>
+	<key>fusedDocumentLocation</key>
+	<string>scrollableClipperValidation</string>
+	<key>interactorMediatorBehavior</key>
+	<string>dependencyOrSystem</string>
+	<key>intermediateTaskInset</key>
+	<string>inactiveMapResponse</string>
+	<key>stackJobTransparency</key>
+	<string>descriptionBridgeResponse</string>
+	<key>stateDecoratorTail</key>
+	<string>textLikeTask</string>
+	<key>synchronousAppbarPressure</key>
+	<string>catalystFromProxy</string>
+</dict>
+</plist>

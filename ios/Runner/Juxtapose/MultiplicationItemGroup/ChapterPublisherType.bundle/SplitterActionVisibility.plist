@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorVersusCycle</key>
+	<string>presenterAgainstFramework</string>
+	<key>aspectratioDuringStage</key>
+	<string>mutableContainerTail</string>
+	<key>baselineTempleTheme</key>
+	<string>plateDecoratorPressure</string>
+	<key>cursorBufferRate</key>
+	<string>requestAndCommand</string>
+	<key>customResourceState</key>
+	<string>layoutExceptPattern</string>
+	<key>getxCommandDepth</key>
+	<string>delegateStrategyPressure</string>
+	<key>movementWithoutCommand</key>
+	<string>protocolExceptValue</string>
+	<key>subpixelBesideLevel</key>
+	<string>effectFlyweightFormat</string>
+	<key>workflowProcessName</key>
+	<string>singletonOfOperation</string>
+</dict>
+</plist>

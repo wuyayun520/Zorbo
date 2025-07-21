@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equalizationFlyweightTheme</key>
+	<string>activatedLayoutDepth</string>
+	<key>grayscaleVisitorTheme</key>
+	<string>layoutByVariable</string>
+	<key>layoutVariableSpeed</key>
+	<string>activeRepositoryAppearance</string>
+	<key>modulusSingletonBrightness</key>
+	<string>skinBridgeDistance</string>
+	<key>retainedModalShade</key>
+	<string>swiftParamTension</string>
+	<key>utilThroughStructure</key>
+	<string>opaqueThemeResponse</string>
+	<key>visibleStackDuration</key>
+	<string>sizeVisitorIndex</string>
+</dict>
+</plist>

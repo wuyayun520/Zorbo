@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentOrLayer</key>
+	<string>asyncStatelessAppearance</string>
+	<key>commandSinceStrategy</key>
+	<string>marginFromDecorator</string>
+	<key>completionPlatformDistance</key>
+	<string>cellChainIndex</string>
+	<key>dynamicChallengeMode</key>
+	<string>mutableReductionLeft</string>
+	<key>hashAndSingleton</key>
+	<string>giftValueTint</string>
+	<key>smallQueryStatus</key>
+	<string>curveTypePadding</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertIncludeChain</key>
+	<string>modelParameterFormat</string>
+	<key>canvasAgainstNumber</key>
+	<string>semanticCubitBorder</string>
+	<key>descriptorTaskSaturation</key>
+	<string>hierarchicalGraphBound</string>
+	<key>featureAgainstProxy</key>
+	<string>sizeStageTension</string>
+	<key>lastCurveTint</key>
+	<string>rectTaskInteraction</string>
+	<key>segmentBridgeHead</key>
+	<string>lastRadiusAlignment</string>
+</dict>
+</plist>

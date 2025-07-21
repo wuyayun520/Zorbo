@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationMediatorName</key>
+	<string>textureEnvironmentDirection</string>
+	<key>batchEnvironmentDistance</key>
+	<string>clipperExceptBuffer</string>
+	<key>channelEnvironmentMomentum</key>
+	<string>requestExceptKind</string>
+	<key>globalAnimationBehavior</key>
+	<string>cartesianSliderColor</string>
+	<key>inheritedBaselineSize</key>
+	<string>animatedcontainerStructureMargin</string>
+	<key>particleOrJob</key>
+	<string>sophisticatedLayerTop</string>
+	<key>publicIntegerBrightness</key>
+	<string>completerKindMargin</string>
+	<key>streamOrLayer</key>
+	<string>immediateExceptionDelay</string>
+</dict>
+</plist>

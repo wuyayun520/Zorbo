@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activePopupDuration</key>
+	<string>singletonModeDelay</string>
+	<key>borderParameterSkewx</key>
+	<string>buttonChainDelay</string>
+	<key>dimensionChainStyle</key>
+	<string>cubitAlongSingleton</string>
+	<key>factoryThanMode</key>
+	<string>newestStreamCenter</string>
+	<key>localBulletName</key>
+	<string>variantThroughNumber</string>
+	<key>logarithmObserverStatus</key>
+	<string>presenterAgainstBuffer</string>
+	<key>providerProcessBound</key>
+	<string>channelByChain</string>
+	<key>usecaseCommandState</key>
+	<string>primaryGemEdge</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsExceptComposite</key>
+	<string>allocatorStyleVisible</string>
+	<key>reductionVersusCommand</key>
+	<string>grainExceptScope</string>
+	<key>responseAsScope</key>
+	<string>memberLayerPadding</string>
+	<key>toolPhaseVisibility</key>
+	<string>baselineInterpreterOpacity</string>
+	<key>topicOperationAppearance</key>
+	<string>channelsStrategyPadding</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentInjectionPosition</key>
+	<string>responsiveBrushBehavior</string>
+	<key>immutableStreamHue</key>
+	<string>commandFlyweightBehavior</string>
+	<key>permanentCycleInteraction</key>
+	<string>sharedCanvasRate</string>
+	<key>streamProcessDepth</key>
+	<string>metadataDuringActivity</string>
+	<key>taskExceptDecorator</key>
+	<string>metadataExceptLayer</string>
+	<key>zoneModeInset</key>
+	<string>injectionBeyondStyle</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fragmentOutsideStructure</key>
+	<string>gramForPrototype</string>
+	<key>histogramStyleBehavior</key>
+	<string>mediaqueryCommandFlags</string>
+	<key>isolateNearPattern</key>
+	<string>canvasAmongEnvironment</string>
+	<key>kernelStateKind</key>
+	<string>mediaStyleContrast</string>
+	<key>multiNodeLeft</key>
+	<string>extensionTierShape</string>
+	<key>popupStateAppearance</key>
+	<string>usecaseDuringForm</string>
+	<key>semanticSizeValidation</key>
+	<string>progressbarAsScope</string>
+	<key>usedMethodName</key>
+	<string>invisibleParticleBorder</string>
+</dict>
+</plist>

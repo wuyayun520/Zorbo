@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equalizationPlatformDuration</key>
+	<string>cellPatternBound</string>
+	<key>immediateMovementValidation</key>
+	<string>requestViaPhase</string>
+	<key>projectionContainCycle</key>
+	<string>customSwiftIndex</string>
+	<key>remainderForVar</key>
+	<string>resourceOrMethod</string>
+	<key>transformerTierShade</key>
+	<string>iconFromCycle</string>
+</dict>
+</plist>

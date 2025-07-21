@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocAroundStrategy</key>
+	<string>delegateWorkAcceleration</string>
+	<key>dedicatedReductionValidation</key>
+	<string>keyBoxSkewy</string>
+	<key>dropdownbuttonValueCoord</key>
+	<string>otherHistogramShade</string>
+	<key>projectionWithoutBridge</key>
+	<string>fixedSingletonContrast</string>
+	<key>semanticChallengeDistance</key>
+	<string>taskAmongProcess</string>
+	<key>singletonAlongComposite</key>
+	<string>enabledUnaryForce</string>
+	<key>staticStatefulVelocity</key>
+	<string>uniformTransitionDelay</string>
+</dict>
+</plist>

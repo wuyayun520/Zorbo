@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationViaActivity</key>
+	<string>functionalBlocBehavior</string>
+	<key>beginnerIntegerBehavior</key>
+	<string>offsetSinceCycle</string>
+	<key>ephemeralParticleName</key>
+	<string>tabbarContainBuffer</string>
+	<key>layoutDuringOperation</key>
+	<string>effectJobHue</string>
+	<key>typicalDurationPressure</key>
+	<string>paddingVersusTask</string>
+</dict>
+</plist>

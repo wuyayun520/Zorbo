@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorObserverScale</key>
+	<string>usedHandlerSpeed</string>
+	<key>cubitAdapterRate</key>
+	<string>matrixBeyondCycle</string>
+	<key>disparateCurveLeft</key>
+	<string>mediaNumberInset</string>
+	<key>interfaceIncludeShape</key>
+	<string>appbarAgainstSystem</string>
+	<key>queueFromLevel</key>
+	<string>iterativeCollectionContrast</string>
+	<key>skinAtJob</key>
+	<string>queueStateDuration</string>
+	<key>spotWithoutNumber</key>
+	<string>streamScopeDensity</string>
+	<key>taskBesideLayer</key>
+	<string>viewSinceStyle</string>
+	<key>threadBeyondFacade</key>
+	<string>respectiveInteractorTint</string>
+</dict>
+</plist>

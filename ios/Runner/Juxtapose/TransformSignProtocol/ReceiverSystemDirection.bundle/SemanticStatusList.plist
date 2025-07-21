@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frameAsPattern</key>
+	<string>statefulGesturedetectorTint</string>
+	<key>hardReducerTint</key>
+	<string>rapidTextMode</string>
+	<key>remainderMethodBehavior</key>
+	<string>oldExpandedAppearance</string>
+	<key>requiredConstraintFeedback</key>
+	<string>queueByVar</string>
+	<key>reusableErrorLeft</key>
+	<string>projectionKindStyle</string>
+	<key>workflowAmongLevel</key>
+	<string>cacheCommandVisibility</string>
+</dict>
+</plist>

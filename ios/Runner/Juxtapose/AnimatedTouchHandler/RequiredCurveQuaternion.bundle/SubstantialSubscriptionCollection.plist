@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationContainState</key>
+	<string>difficultMemberFormat</string>
+	<key>asyncBitrateMode</key>
+	<string>remainderViaComposite</string>
+	<key>exceptionJobTail</key>
+	<string>playbackNearValue</string>
+	<key>expandedNumberDelay</key>
+	<string>bufferWithoutCycle</string>
+	<key>flexibleSinkRate</key>
+	<string>painterByStrategy</string>
+	<key>flexibleSymbolOrientation</key>
+	<string>discardedAnimatedcontainerBehavior</string>
+	<key>statelessNavigatorBorder</key>
+	<string>promiseWithoutOperation</string>
+	<key>taskPrototypeHead</key>
+	<string>scrollActionRotation</string>
+</dict>
+</plist>

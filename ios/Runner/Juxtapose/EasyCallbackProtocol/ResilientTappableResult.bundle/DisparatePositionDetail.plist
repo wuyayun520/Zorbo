@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationFrameworkFlags</key>
+	<string>radioAgainstSingleton</string>
+	<key>blocVariableSpeed</key>
+	<string>parallelCanvasKind</string>
+	<key>chartCycleCenter</key>
+	<string>prismaticDelegateSpacing</string>
+	<key>compositionVersusNumber</key>
+	<string>constraintFormDuration</string>
+	<key>firstLayerName</key>
+	<string>beginnerSizeDepth</string>
+	<key>rowProcessOpacity</key>
+	<string>streamUntilContext</string>
+	<key>sinkLayerSkewx</key>
+	<string>flexibleSizeLeft</string>
+	<key>unactivatedWidgetOffset</key>
+	<string>lostPresenterBrightness</string>
+</dict>
+</plist>

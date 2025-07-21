@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarShapeOrientation</key>
+	<string>accessoryNearTier</string>
+	<key>challengeCommandLeft</key>
+	<string>timerWithoutParam</string>
+	<key>denseCallbackAlignment</key>
+	<string>particleExceptMemento</string>
+	<key>explicitChallengeBottom</key>
+	<string>resultByStyle</string>
+	<key>scrollableSegmentBottom</key>
+	<string>permanentUnaryStyle</string>
+	<key>typicalWidgetDirection</key>
+	<string>normalPlateName</string>
+</dict>
+</plist>

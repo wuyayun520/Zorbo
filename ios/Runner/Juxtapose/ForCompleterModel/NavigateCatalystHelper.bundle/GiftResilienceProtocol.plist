@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationFlyweightEdge</key>
+	<string>synchronousResponseTop</string>
+	<key>functionalLoopName</key>
+	<string>awaitByPhase</string>
+	<key>nextKernelDuration</key>
+	<string>stackInWork</string>
+	<key>providerMementoVisible</key>
+	<string>kernelCommandName</string>
+</dict>
+</plist>

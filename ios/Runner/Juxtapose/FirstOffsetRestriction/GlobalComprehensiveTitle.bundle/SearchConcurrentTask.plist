@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>invisibleStatelessFeedback</key>
+	<string>captionLevelSize</string>
+	<key>listenerAdapterTop</key>
+	<string>asynchronousPlaybackFlags</string>
+	<key>modelActivitySkewy</key>
+	<string>pivotalFrameSize</string>
+	<key>providerPrototypeTransparency</key>
+	<string>primaryMobileTheme</string>
+	<key>sensorLevelInset</key>
+	<string>equalizationProxyRate</string>
+	<key>symmetricVariantType</key>
+	<string>notifierSinceCommand</string>
+</dict>
+</plist>

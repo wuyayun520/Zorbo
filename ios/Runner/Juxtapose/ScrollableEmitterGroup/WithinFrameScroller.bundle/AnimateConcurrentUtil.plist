@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderCycleTheme</key>
+	<string>equalizationParamPadding</string>
+	<key>cubitTaskTail</key>
+	<string>titleFormEdge</string>
+	<key>factoryVariableHue</key>
+	<string>materialStreamDistance</string>
+	<key>hierarchicalChapterDuration</key>
+	<string>positionChainKind</string>
+	<key>immediatePriorityVelocity</key>
+	<string>resizableObserverMode</string>
+	<key>responseDespiteShape</key>
+	<string>gridviewBufferPadding</string>
+	<key>viewDecoratorOffset</key>
+	<string>eventNearStyle</string>
+</dict>
+</plist>

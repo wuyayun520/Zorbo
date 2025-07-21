@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveInsideWork</key>
+	<string>composableTweenInset</string>
+	<key>enabledUnaryTag</key>
+	<string>containerAmongParam</string>
+	<key>multiPreviewScale</key>
+	<string>accessoryPerType</string>
+	<key>synchronousViewHue</key>
+	<string>transitionStrategyBottom</string>
+	<key>themeLayerOrientation</key>
+	<string>columnByChain</string>
+</dict>
+</plist>

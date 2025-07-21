@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>futureJobAlignment</key>
+	<string>integerOrCommand</string>
+	<key>imageSystemSpacing</key>
+	<string>appbarOrTask</string>
+	<key>mapOutsideInterpreter</key>
+	<string>workflowScopeStatus</string>
+	<key>nibAlongValue</key>
+	<string>appbarPhaseDistance</string>
+	<key>notifierNearParameter</key>
+	<string>mutableButtonInset</string>
+	<key>unaryDespiteMethod</key>
+	<string>injectionAlongStrategy</string>
+</dict>
+</plist>

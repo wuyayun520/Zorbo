@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeGesturedetectorCoord</key>
+	<string>widgetParamPosition</string>
+	<key>decorationActivityRotation</key>
+	<string>borderProxyLeft</string>
+	<key>featurePatternInterval</key>
+	<string>clipperStageCoord</string>
+	<key>opaqueCubitInteraction</key>
+	<string>variantParamSpacing</string>
+	<key>positionedAtOperation</key>
+	<string>bufferOrBridge</string>
+</dict>
+</plist>

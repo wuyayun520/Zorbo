@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionInterpolationCoord</key>
+	<string>inactiveSliderPosition</string>
+	<key>buttonCycleFlags</key>
+	<string>stackValueFrequency</string>
+	<key>chartContextSkewy</key>
+	<string>resourceProcessScale</string>
+	<key>cupertinoExceptTier</key>
+	<string>deferredBaselineStyle</string>
+	<key>deferredErrorForce</key>
+	<string>sortedIsolateType</string>
+	<key>handlerActionPadding</key>
+	<string>remainderNearScope</string>
+	<key>ignoredCoordinatorDirection</key>
+	<string>operationIncludeInterpreter</string>
+	<key>repositoryWithoutInterpreter</key>
+	<string>projectFlyweightTension</string>
+</dict>
+</plist>

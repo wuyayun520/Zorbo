@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableEffectTail</key>
+	<string>cartesianBlocValidation</string>
+	<key>graphicAsPlatform</key>
+	<string>operationExceptAction</string>
+	<key>hashBesideShape</key>
+	<string>resizableApertureContrast</string>
+	<key>imageViaProxy</key>
+	<string>alignmentBeyondOperation</string>
+	<key>isolateAsStage</key>
+	<string>dynamicBinaryScale</string>
+	<key>spineParameterCenter</key>
+	<string>scaleWithoutInterpreter</string>
+	<key>stampLayerSize</key>
+	<string>constraintCompositeState</string>
+	<key>taskTypeFlags</key>
+	<string>respectiveRouteVelocity</string>
+	<key>topicThanMode</key>
+	<string>builderCompositeSaturation</string>
+</dict>
+</plist>

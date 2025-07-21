@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardAroundNumber</key>
+	<string>priorMarginPadding</string>
+	<key>functionalReductionTransparency</key>
+	<string>documentActivitySpeed</string>
+	<key>heapExceptVar</key>
+	<string>resilientOverlayPosition</string>
+	<key>independentScreenScale</key>
+	<string>precisionDuringWork</string>
+	<key>nativeTaskName</key>
+	<string>subscriptionLayerVelocity</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousTopicForce</key>
+	<string>presenterTypeBottom</string>
+	<key>difficultDependencySpacing</key>
+	<string>subtleModulusBorder</string>
+	<key>otherPresenterLocation</key>
+	<string>keySizeTop</string>
+	<key>resizableRequestStatus</key>
+	<string>loopStyleFormat</string>
+	<key>spinePerSingleton</key>
+	<string>observerSinceStrategy</string>
+	<key>spriteLevelAcceleration</key>
+	<string>borderAroundStyle</string>
+</dict>
+</plist>

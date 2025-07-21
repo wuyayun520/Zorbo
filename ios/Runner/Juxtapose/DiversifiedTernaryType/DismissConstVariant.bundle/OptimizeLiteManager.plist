@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleScrollVisibility</key>
+	<string>tableWithoutObserver</string>
+	<key>frameTypeDepth</key>
+	<string>sequentialNormInteraction</string>
+	<key>mobileConsumerMomentum</key>
+	<string>baseContextDuration</string>
+	<key>optimizerSinceStrategy</key>
+	<string>basicConstraintName</string>
+	<key>sequentialTopicMode</key>
+	<string>anchorTypeMode</string>
+	<key>spriteOrLayer</key>
+	<string>cardOperationTheme</string>
+	<key>widgetStrategySkewx</key>
+	<string>referencePerOperation</string>
+</dict>
+</plist>

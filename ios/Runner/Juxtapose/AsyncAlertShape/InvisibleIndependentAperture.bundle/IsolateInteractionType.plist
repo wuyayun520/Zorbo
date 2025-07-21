@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationShapeBehavior</key>
+	<string>tangentFacadeName</string>
+	<key>associatedSubscriptionOrigin</key>
+	<string>isolateWithMode</string>
+	<key>listenerIncludeMode</key>
+	<string>methodAsAction</string>
+	<key>sizeFlyweightResponse</key>
+	<string>sampleDuringMode</string>
+	<key>textfieldThroughLevel</key>
+	<string>lossStructureBottom</string>
+	<key>textureUntilState</key>
+	<string>handlerDecoratorShape</string>
+</dict>
+</plist>

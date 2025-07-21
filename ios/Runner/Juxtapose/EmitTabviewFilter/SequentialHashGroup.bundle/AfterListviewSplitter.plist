@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>localizationFromCommand</key>
+	<string>appbarParamOrigin</string>
+	<key>secondOffsetCoord</key>
+	<string>musicTaskOpacity</string>
+	<key>statelessPopupSkewx</key>
+	<string>sineSingletonPadding</string>
+	<key>uniqueRadiusScale</key>
+	<string>sizedboxSingletonTail</string>
+</dict>
+</plist>

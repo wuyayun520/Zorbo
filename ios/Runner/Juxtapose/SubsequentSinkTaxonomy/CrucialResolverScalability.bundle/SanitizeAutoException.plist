@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintPrototypeFeedback</key>
+	<string>rowFlyweightValidation</string>
+	<key>entityShapeContrast</key>
+	<string>shaderByEnvironment</string>
+	<key>interactorStrategyIndex</key>
+	<string>iterativeCompletionBrightness</string>
+	<key>textCompositePadding</key>
+	<string>nibFacadeTransparency</string>
+	<key>viewFormTransparency</key>
+	<string>difficultBuilderPressure</string>
+</dict>
+</plist>

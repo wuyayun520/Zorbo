@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardGateMomentum</key>
+	<string>localizationSystemAcceleration</string>
+	<key>gridviewFlyweightOrientation</key>
+	<string>parallelRouteRotation</string>
+	<key>indicatorAlongSystem</key>
+	<string>clipperObserverTint</string>
+	<key>reactiveCoordinatorTag</key>
+	<string>nodeTaskRotation</string>
+	<key>repositoryInterpreterDensity</key>
+	<string>euclideanRiverpodInset</string>
+	<key>tabbarKindIndex</key>
+	<string>disabledButtonState</string>
+</dict>
+</plist>

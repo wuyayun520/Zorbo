@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderStateKind</key>
+	<string>buttonByBuffer</string>
+	<key>consultativeActionPressure</key>
+	<string>screenVersusProxy</string>
+	<key>iconFormVisible</key>
+	<string>normIncludeValue</string>
+	<key>inkwellFunctionVisibility</key>
+	<string>priorTickerInteraction</string>
+	<key>isolateContextRight</key>
+	<string>permanentFlexAcceleration</string>
+	<key>iterativeFactoryTension</key>
+	<string>stateBridgeValidation</string>
+	<key>queueOfFunction</key>
+	<string>sliderDuringCycle</string>
+	<key>resultStructureTint</key>
+	<string>delegateInsideState</string>
+	<key>tappableFutureTint</key>
+	<string>monsterAndCycle</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncAssetDelay</key>
+	<string>canvasViaForm</string>
+	<key>explicitTimerTransparency</key>
+	<string>radiusAsState</string>
+	<key>intermediateRectFlags</key>
+	<string>significantLoopResponse</string>
+	<key>subsequentIndicatorSaturation</key>
+	<string>groupDuringPattern</string>
+</dict>
+</plist>

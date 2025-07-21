@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetStrategyRotation</key>
+	<string>resultAwayTask</string>
+	<key>customizedConfigurationLocation</key>
+	<string>touchAgainstInterpreter</string>
+	<key>euclideanPaddingBorder</key>
+	<string>touchVersusInterpreter</string>
+	<key>inkwellLikeBuffer</key>
+	<string>requiredResponseVisible</string>
+	<key>isolateTierOrientation</key>
+	<string>progressbarLevelStyle</string>
+	<key>signThanActivity</key>
+	<string>functionalOperationDepth</string>
+	<key>statelessValueFeedback</key>
+	<string>unactivatedBinaryVisible</string>
+	<key>storeFormOrientation</key>
+	<string>vectorOperationSize</string>
+	<key>titleMethodTint</key>
+	<string>utilShapeName</string>
+</dict>
+</plist>

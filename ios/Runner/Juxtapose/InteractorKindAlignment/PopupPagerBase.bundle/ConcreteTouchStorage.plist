@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedTitleTheme</key>
+	<string>publicInjectionDepth</string>
+	<key>baselineContainType</key>
+	<string>appbarPerBuffer</string>
+	<key>chartOfShape</key>
+	<string>specifierUntilShape</string>
+	<key>constManagerDuration</key>
+	<string>futureViaBuffer</string>
+	<key>immediateMaterialRotation</key>
+	<string>scrollSinceContext</string>
+	<key>multiGroupBehavior</key>
+	<string>arithmeticParameterVisibility</string>
+	<key>radiusPrototypeDuration</key>
+	<string>publicFeatureHead</string>
+</dict>
+</plist>

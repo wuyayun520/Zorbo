@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>parallelTransitionRate</key>
+	<string>tableDecoratorTag</string>
+	<key>resultBridgeStatus</key>
+	<string>hardResultDepth</string>
+	<key>stackFlyweightStatus</key>
+	<string>streamVersusVar</string>
+</dict>
+</plist>

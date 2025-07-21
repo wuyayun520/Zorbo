@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constChannelTheme</key>
+	<string>queryStyleDuration</string>
+	<key>decorationInsideInterpreter</key>
+	<string>providerVersusStrategy</string>
+	<key>navigatorAsFlyweight</key>
+	<string>consultativeZoneSpeed</string>
+	<key>providerAmongStrategy</key>
+	<string>batchAroundVar</string>
+	<key>scaffoldPatternVisibility</key>
+	<string>explicitChapterFrequency</string>
+	<key>spineForState</key>
+	<string>largeHeapValidation</string>
+	<key>topicViaStrategy</key>
+	<string>specifierVarMargin</string>
+</dict>
+</plist>

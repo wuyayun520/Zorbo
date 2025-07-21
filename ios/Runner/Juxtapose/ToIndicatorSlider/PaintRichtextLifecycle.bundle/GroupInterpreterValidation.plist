@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedCardKind</key>
+	<string>lazyPresenterEdge</string>
+	<key>gridviewByBridge</key>
+	<string>dynamicNodeOrientation</string>
+	<key>hashStateBorder</key>
+	<string>cursorLikeObserver</string>
+	<key>immutableThemeBound</key>
+	<string>indicatorAsSystem</string>
+	<key>smartInkwellMode</key>
+	<string>delicateCupertinoMode</string>
+	<key>statelessMenuAlignment</key>
+	<string>consumerPatternColor</string>
+	<key>ternaryBufferInteraction</key>
+	<string>kernelFromObserver</string>
+	<key>vectorParamSize</key>
+	<string>priorLocalizationPosition</string>
+</dict>
+</plist>

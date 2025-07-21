@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandPlatformSpeed</key>
+	<string>flexibleSubscriptionRate</string>
+	<key>commonStoryboardStatus</key>
+	<string>flexActivityDelay</string>
+	<key>completionPerActivity</key>
+	<string>greatCursorInterval</string>
+	<key>cosineForSystem</key>
+	<string>synchronousNavigatorFormat</string>
+	<key>cubitActionDistance</key>
+	<string>explicitIntegerResponse</string>
+	<key>labelCommandBrightness</key>
+	<string>accessibleLayerRotation</string>
+	<key>presenterVarRate</key>
+	<string>featureStageAppearance</string>
+	<key>standaloneStateDensity</key>
+	<string>compositionalFlexInset</string>
+	<key>subpixelFlyweightMomentum</key>
+	<string>deferredParticleDensity</string>
+</dict>
+</plist>

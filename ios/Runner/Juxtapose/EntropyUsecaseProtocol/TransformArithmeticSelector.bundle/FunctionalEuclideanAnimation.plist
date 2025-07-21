@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionAtShape</key>
+	<string>commonResourceInset</string>
+	<key>constraintProxyDistance</key>
+	<string>desktopThemeType</string>
+	<key>cupertinoCompleterInterval</key>
+	<string>nativeCursorBrightness</string>
+	<key>nibKindSize</key>
+	<string>tappableHeapType</string>
+	<key>widgetAmongScope</key>
+	<string>accessoryFunctionDelay</string>
+</dict>
+</plist>

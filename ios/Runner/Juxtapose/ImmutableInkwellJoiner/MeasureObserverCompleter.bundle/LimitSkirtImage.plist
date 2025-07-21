@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralExceptionFormat</key>
+	<string>pinchableSpriteSkewy</string>
+	<key>globalLabelVisibility</key>
+	<string>activatedSpotShade</string>
+	<key>queueInsideValue</key>
+	<string>menuBesideStage</string>
+	<key>resourceWithProcess</key>
+	<string>sinkActivityDistance</string>
+	<key>responsiveSpecifierTransparency</key>
+	<string>sliderAwayMethod</string>
+	<key>routeMediatorKind</key>
+	<string>effectTierDepth</string>
+	<key>textureForKind</key>
+	<string>geometricBufferAcceleration</string>
+</dict>
+</plist>

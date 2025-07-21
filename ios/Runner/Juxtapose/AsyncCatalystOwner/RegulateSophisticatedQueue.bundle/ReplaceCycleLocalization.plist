@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedStreamInset</key>
+	<string>animatedAlignmentEdge</string>
+	<key>fusedPresenterFrequency</key>
+	<string>borderNearActivity</string>
+	<key>intermediateMediaBorder</key>
+	<string>tweenDuringState</string>
+	<key>layerAroundProxy</key>
+	<string>captionLikeTier</string>
+	<key>subtleVariantBrightness</key>
+	<string>tabviewDecoratorInterval</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredViewBorder</key>
+	<string>managerStructureShape</string>
+	<key>exponentFlyweightAppearance</key>
+	<string>activeListviewDuration</string>
+	<key>movementPhaseSkewy</key>
+	<string>segmentDecoratorSkewx</string>
+	<key>permissiveTransitionInterval</key>
+	<string>accessibleMultiplicationStyle</string>
+	<key>petBufferInset</key>
+	<string>invisibleBoxCoord</string>
+	<key>routePatternMode</key>
+	<string>metadataParamForce</string>
+	<key>visibleMediaHue</key>
+	<string>sensorTierTransparency</string>
+</dict>
+</plist>

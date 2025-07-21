@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interpolationUntilVar</key>
+	<string>graphicBeyondLevel</string>
+	<key>mediumListenerLocation</key>
+	<string>lostNavigatorRotation</string>
+	<key>nodeDespiteActivity</key>
+	<string>notificationBufferDepth</string>
+	<key>notifierParamName</key>
+	<string>managerValueDistance</string>
+	<key>themeByComposite</key>
+	<string>baseInterpreterFormat</string>
+	<key>usageFunctionOffset</key>
+	<string>resizableEffectSpeed</string>
+</dict>
+</plist>

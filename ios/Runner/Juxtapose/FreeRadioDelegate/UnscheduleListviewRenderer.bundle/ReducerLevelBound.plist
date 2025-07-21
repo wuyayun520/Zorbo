@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentRouteColor</key>
+	<string>webBehaviorOpacity</string>
+	<key>containerActionLeft</key>
+	<string>equipmentStageLocation</string>
+	<key>mediaOrCommand</key>
+	<string>widgetMementoName</string>
+	<key>singleObserverScale</key>
+	<string>temporaryEqualizationScale</string>
+	<key>slashVariableCount</key>
+	<string>widgetViaVariable</string>
+	<key>widgetLayerInteraction</key>
+	<string>desktopIconKind</string>
+</dict>
+</plist>

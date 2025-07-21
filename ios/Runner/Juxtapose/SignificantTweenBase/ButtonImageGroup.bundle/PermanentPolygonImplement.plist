@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnFrameworkBottom</key>
+	<string>routeLikeVariable</string>
+	<key>commonQueueTop</key>
+	<string>coordinatorPerOperation</string>
+	<key>delegateAroundState</key>
+	<string>lazyPositionedTag</string>
+	<key>descriptorTypeInteraction</key>
+	<string>seamlessStoreStyle</string>
+	<key>dropdownbuttonThroughBridge</key>
+	<string>sequentialInteractorVisibility</string>
+	<key>presenterLayerHue</key>
+	<string>actionSinceMethod</string>
+	<key>repositoryModeKind</key>
+	<string>injectionAdapterScale</string>
+	<key>standaloneAnimationEdge</key>
+	<string>interactiveGridRate</string>
+	<key>variantContextColor</key>
+	<string>subpixelUntilAdapter</string>
+</dict>
+</plist>

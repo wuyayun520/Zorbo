@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerSubscriptionState</key>
+	<string>transitionByStyle</string>
+	<key>dynamicCanvasType</key>
+	<string>mainInterpolationStyle</string>
+	<key>operationBridgeAppearance</key>
+	<string>intuitiveAwaitValidation</string>
+	<key>operationViaStrategy</key>
+	<string>stampStrategyBorder</string>
+	<key>similarDecorationInteraction</key>
+	<string>priorWidgetMargin</string>
+</dict>
+</plist>

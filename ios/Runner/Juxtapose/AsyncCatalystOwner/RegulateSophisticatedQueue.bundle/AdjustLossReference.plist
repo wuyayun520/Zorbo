@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>factoryLikeProxy</key>
+	<string>matrixAndLayer</string>
+	<key>rectFlyweightMomentum</key>
+	<string>grainAwaySingleton</string>
+	<key>responsiveReductionKind</key>
+	<string>boxshadowObserverDuration</string>
+	<key>stateExceptPlatform</key>
+	<string>accessoryAtStrategy</string>
+</dict>
+</plist>

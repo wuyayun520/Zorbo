@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionBesideStyle</key>
+	<string>ternaryMethodTail</string>
+	<key>denseMovementOrigin</key>
+	<string>coordinatorActionOrigin</string>
+	<key>difficultBaselineBehavior</key>
+	<string>commandPatternCenter</string>
+	<key>flexBeyondActivity</key>
+	<string>resolverNearVar</string>
+	<key>heapInSystem</key>
+	<string>asyncFunctionState</string>
+	<key>ignoredSwitchType</key>
+	<string>accessibleSignatureEdge</string>
+	<key>opaqueRepositoryTop</key>
+	<string>axisContextColor</string>
+	<key>reducerWithoutNumber</key>
+	<string>intermediateTransformerSaturation</string>
+	<key>widgetDespiteParam</key>
+	<string>tweenAsPhase</string>
+</dict>
+</plist>

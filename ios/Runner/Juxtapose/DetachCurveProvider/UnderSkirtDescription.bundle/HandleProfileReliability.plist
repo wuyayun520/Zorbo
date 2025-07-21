@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customMaterialTransparency</key>
+	<string>statelessOrPrototype</string>
+	<key>documentDecoratorFeedback</key>
+	<string>sliderByTier</string>
+	<key>frameExceptFacade</key>
+	<string>subtleCellOffset</string>
+	<key>metadataProcessFlags</key>
+	<string>promiseValueTag</string>
+	<key>multiplicationSinceMemento</key>
+	<string>symmetricColumnType</string>
+	<key>significantCellDensity</key>
+	<string>sineFlyweightBrightness</string>
+	<key>storeScopeVisibility</key>
+	<string>respectiveCoordinatorDuration</string>
+	<key>streamSinceSingleton</key>
+	<string>activityVariableCoord</string>
+	<key>viewCommandAlignment</key>
+	<string>shaderFlyweightDepth</string>
+</dict>
+</plist>

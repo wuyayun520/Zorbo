@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerForParam</key>
+	<string>lostMediaName</string>
+	<key>constraintContextTail</key>
+	<string>responseViaForm</string>
+	<key>eventProxyDirection</key>
+	<string>popupTypeOffset</string>
+	<key>lastThreadBottom</key>
+	<string>sharedSizeOrigin</string>
+	<key>lostFutureRate</key>
+	<string>stateFrameworkScale</string>
+	<key>positionAwayParam</key>
+	<string>heapStageVisible</string>
+	<key>resilientUsecaseAppearance</key>
+	<string>retainedBaselineFeedback</string>
+	<key>routeNearStrategy</key>
+	<string>commandPerLevel</string>
+</dict>
+</plist>

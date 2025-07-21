@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncBulletName</key>
+	<string>featureContextPadding</string>
+	<key>checkboxOutsideVisitor</key>
+	<string>reactiveBlocMargin</string>
+	<key>effectStateAppearance</key>
+	<string>textfieldInPlatform</string>
+	<key>navigationAdapterTail</key>
+	<string>criticalTabviewStatus</string>
+	<key>queuePerWork</key>
+	<string>standaloneSinkEdge</string>
+	<key>stepStateBound</key>
+	<string>notificationAboutFlyweight</string>
+</dict>
+</plist>

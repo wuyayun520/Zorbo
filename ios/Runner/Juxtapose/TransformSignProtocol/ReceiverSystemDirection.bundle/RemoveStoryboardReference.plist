@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexNumberShape</key>
+	<string>controllerThanComposite</string>
+	<key>materialStreamColor</key>
+	<string>interactiveSubscriptionTint</string>
+	<key>positionAgainstProcess</key>
+	<string>pivotalBehaviorTail</string>
+	<key>viewStrategyStyle</key>
+	<string>checklistInTier</string>
+</dict>
+</plist>

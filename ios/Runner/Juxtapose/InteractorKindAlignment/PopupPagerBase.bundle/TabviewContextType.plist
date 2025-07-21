@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderTierCoord</key>
+	<string>observerThroughSystem</string>
+	<key>capsuleStructureScale</key>
+	<string>textPrototypeFlags</string>
+	<key>directlyLayoutCenter</key>
+	<string>labelStatePadding</string>
+	<key>navigationVisitorSize</key>
+	<string>stateViaObserver</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerAdapterInterval</key>
+	<string>rowStrategyDensity</string>
+	<key>contractionContextDistance</key>
+	<string>extensionByOperation</string>
+	<key>curveParamCenter</key>
+	<string>resizableModalStyle</string>
+	<key>enabledGrainTransparency</key>
+	<string>cupertinoChartValidation</string>
+	<key>materialFormAppearance</key>
+	<string>popupAwayMediator</string>
+	<key>priorPaddingOrigin</key>
+	<string>threadMementoRight</string>
+	<key>stateWithScope</key>
+	<string>robustSessionBehavior</string>
+	<key>tabbarTaskForce</key>
+	<string>modalAtChain</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousPaddingFlags</key>
+	<string>pinchableRadiusSkewx</string>
+	<key>pointBufferSaturation</key>
+	<string>listviewWorkHue</string>
+	<key>protectedSpriteVelocity</key>
+	<string>channelVersusStructure</string>
+	<key>rowBufferDelay</key>
+	<string>viewLikeParameter</string>
+	<key>variantPatternTag</key>
+	<string>spriteCycleIndex</string>
+</dict>
+</plist>

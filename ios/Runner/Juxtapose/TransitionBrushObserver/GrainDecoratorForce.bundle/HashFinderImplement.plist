@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushValueStyle</key>
+	<string>scaleWithoutMethod</string>
+	<key>catalystLayerCount</key>
+	<string>constLocalizationContrast</string>
+	<key>iconTierStyle</key>
+	<string>smartEffectLeft</string>
+	<key>synchronousListviewLeft</key>
+	<string>appbarBesidePattern</string>
+</dict>
+</plist>

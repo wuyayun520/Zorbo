@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateWorkInset</key>
+	<string>euclideanExpandedSkewy</string>
+	<key>consumerViaMode</key>
+	<string>alertUntilChain</string>
+	<key>responsiveTickerType</key>
+	<string>checklistForProcess</string>
+	<key>stateProcessResponse</key>
+	<string>blocSystemVisible</string>
+	<key>subscriptionTempleVisibility</key>
+	<string>storyboardAlongNumber</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsThroughComposite</key>
+	<string>effectTierDuration</string>
+	<key>interactorProxyInterval</key>
+	<string>asyncViewLocation</string>
+	<key>logAboutState</key>
+	<string>awaitAroundDecorator</string>
+	<key>seamlessPointInteraction</key>
+	<string>blocInComposite</string>
+	<key>visibleAccessoryRotation</key>
+	<string>lastCatalystInset</string>
+</dict>
+</plist>

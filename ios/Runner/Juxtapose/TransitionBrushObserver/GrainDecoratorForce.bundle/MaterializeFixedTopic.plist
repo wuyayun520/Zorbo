@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalStateName</key>
+	<string>stackBesideBridge</string>
+	<key>draggableProtocolLeft</key>
+	<string>futureSingletonOrientation</string>
+	<key>masterVariableDelay</key>
+	<string>storeUntilCommand</string>
+	<key>metadataUntilWork</key>
+	<string>lossShapeVisible</string>
+	<key>positionAtStrategy</key>
+	<string>multiMapColor</string>
+	<key>retainedSampleBottom</key>
+	<string>prismaticLogInterval</string>
+</dict>
+</plist>

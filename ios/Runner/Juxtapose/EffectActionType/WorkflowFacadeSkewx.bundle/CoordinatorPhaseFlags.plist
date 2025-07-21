@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hardStorageMargin</key>
+	<string>firstSwiftOrientation</string>
+	<key>interactiveEntropyTransparency</key>
+	<string>coordinatorPatternSize</string>
+	<key>listviewTaskVisible</key>
+	<string>sequentialCompositionSpeed</string>
+	<key>managerMediatorMode</key>
+	<string>lossIncludeProxy</string>
+	<key>normalUtilTheme</key>
+	<string>fixedManagerResponse</string>
+	<key>permanentDescriptionBehavior</key>
+	<string>nodeAndKind</string>
+	<key>resultTempleSize</key>
+	<string>specifierAdapterFormat</string>
+	<key>segmentAndProcess</key>
+	<string>hierarchicalMemberTint</string>
+	<key>sensorFacadeHead</key>
+	<string>sizedboxVarMode</string>
+</dict>
+</plist>

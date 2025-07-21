@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityPerStrategy</key>
+	<string>injectionFlyweightType</string>
+	<key>concurrentNavigatorState</key>
+	<string>batchNearBuffer</string>
+	<key>dimensionExceptState</key>
+	<string>heapContainMethod</string>
+	<key>errorShapeContrast</key>
+	<string>textureTierState</string>
+	<key>methodActionStatus</key>
+	<string>taskSingletonVisibility</string>
+	<key>multiCanvasFlags</key>
+	<string>delicateTitleOpacity</string>
+	<key>notificationFunctionVelocity</key>
+	<string>immediateRadiusOrigin</string>
+	<key>positionedAroundFunction</key>
+	<string>primaryWorkflowCoord</string>
+	<key>priorRouterDistance</key>
+	<string>featureLayerShape</string>
+	<key>significantNotificationDepth</key>
+	<string>anchorDuringJob</string>
+</dict>
+</plist>

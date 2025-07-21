@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionFlyweightDistance</key>
+	<string>originalResolverDistance</string>
+	<key>composableSemanticsHue</key>
+	<string>gemForObserver</string>
+	<key>effectDuringStage</key>
+	<string>optionJobState</string>
+	<key>factoryTierSkewx</key>
+	<string>primaryCoordinatorColor</string>
+	<key>newestSegueTheme</key>
+	<string>listviewSingletonHue</string>
+</dict>
+</plist>

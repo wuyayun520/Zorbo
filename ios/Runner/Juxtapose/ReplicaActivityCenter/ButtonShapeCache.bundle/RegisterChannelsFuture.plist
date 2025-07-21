@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineAndSingleton</key>
+	<string>screenWithoutBuffer</string>
+	<key>descriptionProcessDensity</key>
+	<string>multiControllerOpacity</string>
+	<key>disparateCursorBound</key>
+	<string>servicePhaseIndex</string>
+	<key>providerSinceInterpreter</key>
+	<string>presenterActionDuration</string>
+	<key>reductionOrEnvironment</key>
+	<string>cupertinoWithoutValue</string>
+	<key>storageUntilPrototype</key>
+	<string>euclideanDurationTail</string>
+	<key>utilFromFunction</key>
+	<string>scaffoldValueBehavior</string>
+</dict>
+</plist>

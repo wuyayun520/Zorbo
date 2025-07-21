@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintAgainstFacade</key>
+	<string>firstBaseDepth</string>
+	<key>delicateExpandedDepth</key>
+	<string>viewIncludeObserver</string>
+	<key>grainIncludeChain</key>
+	<string>scaffoldFromMemento</string>
+	<key>gridBesidePattern</key>
+	<string>errorKindValidation</string>
+	<key>injectionCommandTail</key>
+	<string>controllerBeyondStructure</string>
+	<key>matrixTierScale</key>
+	<string>stepUntilVariable</string>
+	<key>protocolAsComposite</key>
+	<string>scrollableProviderInset</string>
+	<key>responsiveAlignmentSpeed</key>
+	<string>eagerPresenterSaturation</string>
+</dict>
+</plist>

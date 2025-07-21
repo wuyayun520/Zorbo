@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>futureNearForm</key>
+	<string>touchInLevel</string>
+	<key>inactiveTickerLocation</key>
+	<string>eventAmongInterpreter</string>
+	<key>localizationInsideSingleton</key>
+	<string>viewAtValue</string>
+	<key>optionBridgeAppearance</key>
+	<string>serviceStageCenter</string>
+	<key>singletonAndFacade</key>
+	<string>prevFutureCount</string>
+</dict>
+</plist>

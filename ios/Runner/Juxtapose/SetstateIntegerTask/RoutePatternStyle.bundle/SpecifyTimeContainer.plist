@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseDimensionBorder</key>
+	<string>webTimerMomentum</string>
+	<key>dimensionViaSystem</key>
+	<string>viewModeLocation</string>
+	<key>expandedCommandPosition</key>
+	<string>dependencyProxyVisible</string>
+	<key>grayscaleVersusInterpreter</key>
+	<string>tabbarContextTag</string>
+	<key>queryActionDepth</key>
+	<string>methodBeyondFramework</string>
+	<key>responseBridgeFrequency</key>
+	<string>methodParamAcceleration</string>
+	<key>vectorForContext</key>
+	<string>mobileQueueFeedback</string>
+</dict>
+</plist>

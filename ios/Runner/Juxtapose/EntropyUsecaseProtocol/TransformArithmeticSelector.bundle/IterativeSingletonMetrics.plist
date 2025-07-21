@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorOperationFeedback</key>
+	<string>pivotalWidgetPressure</string>
+	<key>queryAlongAdapter</key>
+	<string>storageBufferName</string>
+	<key>rectInsideShape</key>
+	<string>unactivatedGraphSaturation</string>
+	<key>similarGramOpacity</key>
+	<string>sceneObserverTransparency</string>
+	<key>staticPrecisionInset</key>
+	<string>musicActionTop</string>
+	<key>storeAboutSingleton</key>
+	<string>intuitiveOptimizerRotation</string>
+	<key>unaryParameterAppearance</key>
+	<string>viewAndAdapter</string>
+</dict>
+</plist>

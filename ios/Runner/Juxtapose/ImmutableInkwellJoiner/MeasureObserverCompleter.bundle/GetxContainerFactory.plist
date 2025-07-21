@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonThanParameter</key>
+	<string>currentNotificationOpacity</string>
+	<key>cubitInsideObserver</key>
+	<string>sharedVariantDirection</string>
+	<key>desktopTweenSkewx</key>
+	<string>constraintProcessAcceleration</string>
+	<key>getxSystemMode</key>
+	<string>primaryAxisInset</string>
+	<key>imageInChain</key>
+	<string>skinSystemTension</string>
+	<key>oldButtonFrequency</key>
+	<string>observerViaState</string>
+	<key>popupPlatformInteraction</key>
+	<string>descriptorThanVar</string>
+	<key>toolAwayState</key>
+	<string>commonLayerTransparency</string>
+</dict>
+</plist>

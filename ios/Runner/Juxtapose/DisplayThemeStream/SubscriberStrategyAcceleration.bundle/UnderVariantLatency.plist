@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentUntilScope</key>
+	<string>stateIncludeTier</string>
+	<key>assetParameterLeft</key>
+	<string>immediateCubitDensity</string>
+	<key>errorInsidePattern</key>
+	<string>symbolFlyweightMode</string>
+	<key>fragmentAroundPhase</key>
+	<string>layoutFlyweightVelocity</string>
+	<key>mapWithoutVariable</key>
+	<string>constraintMediatorDistance</string>
+	<key>modelOutsideTier</key>
+	<string>loopStructureOffset</string>
+	<key>swiftThroughChain</key>
+	<string>brushFormVelocity</string>
+	<key>tweenCycleHead</key>
+	<string>crudeCubitShape</string>
+</dict>
+</plist>

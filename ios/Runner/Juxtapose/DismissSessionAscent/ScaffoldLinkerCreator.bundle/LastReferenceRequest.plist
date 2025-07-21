@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerMediatorOrientation</key>
+	<string>singleOperationPosition</string>
+	<key>optimizerAsScope</key>
+	<string>sineProcessDirection</string>
+	<key>permanentActionSkewy</key>
+	<string>imageContainDecorator</string>
+	<key>positionedChainSpacing</key>
+	<string>instructionIncludeVisitor</string>
+	<key>riverpodLikeCycle</key>
+	<string>deferredMissionDepth</string>
+	<key>subsequentSizeTail</key>
+	<string>providerPrototypeIndex</string>
+	<key>ternaryMethodFeedback</key>
+	<string>unactivatedParticleOpacity</string>
+	<key>timerLikeWork</key>
+	<string>mobxIncludeSingleton</string>
+	<key>transitionParameterTop</key>
+	<string>storyboardVariableMomentum</string>
+	<key>vectorFlyweightVisible</key>
+	<string>instructionOrBuffer</string>
+</dict>
+</plist>

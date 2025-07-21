@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralInterfaceVisibility</key>
+	<string>disparateScreenFrequency</string>
+	<key>ephemeralStoreFrequency</key>
+	<string>densePrecisionDepth</string>
+	<key>equipmentChainTransparency</key>
+	<string>cartesianNotificationRotation</string>
+	<key>factoryOfTask</key>
+	<string>precisionOfPattern</string>
+	<key>invisibleIntensityName</key>
+	<string>symbolKindBehavior</string>
+	<key>mediumEffectSpacing</key>
+	<string>difficultTransformerSpeed</string>
+	<key>transformerFormPadding</key>
+	<string>protectedSessionFlags</string>
+	<key>uniformContainerDensity</key>
+	<string>routeInterpreterVelocity</string>
+</dict>
+</plist>

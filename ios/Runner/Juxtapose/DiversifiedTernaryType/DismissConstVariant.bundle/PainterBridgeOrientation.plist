@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivePrecisionFlags</key>
+	<string>layerExceptAdapter</string>
+	<key>builderAndSingleton</key>
+	<string>convolutionParamEdge</string>
+	<key>cellVariableCenter</key>
+	<string>eagerRequestCount</string>
+	<key>checkboxVariableHue</key>
+	<string>currentScaffoldVelocity</string>
+	<key>graphAndShape</key>
+	<string>tickerCommandResponse</string>
+	<key>inactiveLocalizationDirection</key>
+	<string>mobxPerEnvironment</string>
+	<key>masterPhaseHue</key>
+	<string>resolverOfFunction</string>
+	<key>resultOutsideMemento</key>
+	<string>loopAgainstTask</string>
+</dict>
+</plist>

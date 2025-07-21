@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticGrainIndex</key>
+	<string>curveDecoratorOffset</string>
+	<key>captionParameterInteraction</key>
+	<string>localizationTempleSpacing</string>
+	<key>heroFlyweightInteraction</key>
+	<string>enabledVariantMargin</string>
+	<key>independentEffectLeft</key>
+	<string>textfieldFlyweightIndex</string>
+	<key>queuePhaseEdge</key>
+	<string>disabledFactoryShape</string>
+	<key>seamlessPointDensity</key>
+	<string>arithmeticParticleSkewy</string>
+	<key>semanticSegmentMargin</key>
+	<string>cupertinoParameterBound</string>
+	<key>textForLevel</key>
+	<string>temporaryBorderTransparency</string>
+</dict>
+</plist>

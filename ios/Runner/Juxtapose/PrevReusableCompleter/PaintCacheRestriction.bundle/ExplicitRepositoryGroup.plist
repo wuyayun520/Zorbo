@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncPositionedMode</key>
+	<string>constraintUntilBridge</string>
+	<key>controllerForProcess</key>
+	<string>shaderAroundMemento</string>
+	<key>currentEffectDistance</key>
+	<string>effectFunctionDelay</string>
+	<key>futurePerMode</key>
+	<string>localCoordinatorBrightness</string>
+	<key>priorAsyncCount</key>
+	<string>kernelVisitorLocation</string>
+	<key>resultUntilPhase</key>
+	<string>canvasWithoutType</string>
+	<key>segmentAwayStrategy</key>
+	<string>protocolEnvironmentAlignment</string>
+	<key>timerInterpreterInset</key>
+	<string>cachePerLevel</string>
+</dict>
+</plist>

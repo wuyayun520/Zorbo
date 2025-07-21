@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorInForm</key>
+	<string>channelAdapterRate</string>
+	<key>behaviorPerStrategy</key>
+	<string>metadataProxyVelocity</string>
+	<key>boxStageDensity</key>
+	<string>popupBridgeShade</string>
+	<key>concreteGateFlags</key>
+	<string>gestureKindCenter</string>
+	<key>multiEventFlags</key>
+	<string>grainSystemSaturation</string>
+	<key>progressbarMementoDensity</key>
+	<string>diffableViewStyle</string>
+	<key>sizeForMemento</key>
+	<string>invisibleActionLocation</string>
+	<key>spineScopeInterval</key>
+	<string>cartesianGridviewCenter</string>
+	<key>vectorPrototypeSpeed</key>
+	<string>segueThroughBridge</string>
+</dict>
+</plist>

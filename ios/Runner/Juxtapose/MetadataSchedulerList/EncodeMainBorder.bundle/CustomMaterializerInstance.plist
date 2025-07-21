@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticTernarySpeed</key>
+	<string>permissiveStoreAcceleration</string>
+	<key>heapObserverDuration</key>
+	<string>directlyContractionValidation</string>
+	<key>managerOrStage</key>
+	<string>symmetricContainerContrast</string>
+	<key>rowLevelBound</key>
+	<string>resizableUnaryCenter</string>
+	<key>singletonSinceFlyweight</key>
+	<string>storageLayerLocation</string>
+	<key>storyboardActionName</key>
+	<string>independentCupertinoSize</string>
+</dict>
+</plist>

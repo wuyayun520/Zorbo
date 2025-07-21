@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedObserverFormat</key>
+	<string>logDespiteFramework</string>
+	<key>behaviorWithoutOperation</key>
+	<string>webGraphColor</string>
+	<key>decorationSingletonHead</key>
+	<string>requestPerShape</string>
+	<key>documentStrategyTransparency</key>
+	<string>transitionTempleLeft</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectWithParameter</key>
+	<string>buttonAndStyle</string>
+	<key>isolateJobAlignment</key>
+	<string>zoneProcessDistance</string>
+	<key>lostInkwellDensity</key>
+	<string>opaqueLabelOrigin</string>
+	<key>navigatorPrototypeEdge</key>
+	<string>queueInsideBridge</string>
+	<key>originalPositionTint</key>
+	<string>keyTransitionCoord</string>
+	<key>referenceVarTension</key>
+	<string>captionStateDepth</string>
+	<key>seamlessContainerPosition</key>
+	<string>modelAroundShape</string>
+</dict>
+</plist>

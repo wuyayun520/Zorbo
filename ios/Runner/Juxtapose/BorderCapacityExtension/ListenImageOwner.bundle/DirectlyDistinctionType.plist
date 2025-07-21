@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectAgainstState</key>
+	<string>kernelMementoInterval</string>
+	<key>aspectOutsideJob</key>
+	<string>requiredSingletonOrientation</string>
+	<key>lazyMapAlignment</key>
+	<string>projectStageAppearance</string>
+	<key>logBeyondType</key>
+	<string>containerIncludeLevel</string>
+	<key>publicErrorForce</key>
+	<string>channelsStrategyBrightness</string>
+	<key>sizeProxySaturation</key>
+	<string>disparateToolMode</string>
+	<key>smartSpecifierHue</key>
+	<string>appbarObserverOffset</string>
+	<key>unactivatedGraphFeedback</key>
+	<string>fusedMonsterLocation</string>
+</dict>
+</plist>

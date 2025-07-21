@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterPerFlyweight</key>
+	<string>extensionWithKind</string>
+	<key>coordinatorStateAlignment</key>
+	<string>movementAwayType</string>
+	<key>equipmentCompositeBorder</key>
+	<string>mutableResultBorder</string>
+	<key>popupViaActivity</key>
+	<string>injectionVersusScope</string>
+	<key>providerWithParam</key>
+	<string>sizeStyleInset</string>
+	<key>repositoryPerContext</key>
+	<string>mutableLayoutVisible</string>
+	<key>resourceByComposite</key>
+	<string>rapidAspectType</string>
+	<key>semanticLabelOrientation</key>
+	<string>repositoryNearParameter</string>
+	<key>themeProxyOrigin</key>
+	<string>queryInAdapter</string>
+</dict>
+</plist>

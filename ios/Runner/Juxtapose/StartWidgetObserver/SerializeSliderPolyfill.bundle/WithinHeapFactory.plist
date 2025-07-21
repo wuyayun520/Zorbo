@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveAroundJob</key>
+	<string>beginnerChartVisibility</string>
+	<key>customIsolateMode</key>
+	<string>elasticReferenceOffset</string>
+	<key>draggableTransformerCount</key>
+	<string>euclideanCustompaintRotation</string>
+	<key>explicitCubitOpacity</key>
+	<string>oldControllerTheme</string>
+	<key>finalChannelsMode</key>
+	<string>originalInterfaceCount</string>
+	<key>logActivityTheme</key>
+	<string>resolverFormAcceleration</string>
+	<key>notifierOperationFeedback</key>
+	<string>curveAlongTask</string>
+	<key>stampNumberPadding</key>
+	<string>previewParameterVelocity</string>
+	<key>usageFromInterpreter</key>
+	<string>boxshadowEnvironmentStyle</string>
+</dict>
+</plist>

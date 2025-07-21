@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equipmentScopeEdge</key>
+	<string>localizationMethodDepth</string>
+	<key>grainStrategySkewy</key>
+	<string>observerValueForce</string>
+	<key>histogramOrStage</key>
+	<string>providerMethodResponse</string>
+	<key>secondCheckboxCoord</key>
+	<string>specifyVectorEdge</string>
+	<key>sharedSizeCount</key>
+	<string>scaffoldAgainstActivity</string>
+	<key>timerBeyondCycle</key>
+	<string>cartesianDropdownbuttonOffset</string>
+	<key>tweenAlongActivity</key>
+	<string>ignoredRiverpodBrightness</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorFromStage</key>
+	<string>switchSinceSingleton</string>
+	<key>checklistVisitorBottom</key>
+	<string>singletonModeRate</string>
+	<key>enabledClipperDensity</key>
+	<string>deferredStoreInterval</string>
+	<key>optimizerSinceState</key>
+	<string>remainderShapeFrequency</string>
+	<key>rapidListviewColor</key>
+	<string>transformerPlatformInset</string>
+	<key>respectiveCellMode</key>
+	<string>sessionInSingleton</string>
+	<key>threadAwayBuffer</key>
+	<string>bufferAndAction</string>
+</dict>
+</plist>

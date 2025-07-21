@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedDialogsColor</key>
+	<string>uniqueContractionHead</string>
+	<key>bulletChainVelocity</key>
+	<string>observerSystemVelocity</string>
+	<key>draggableConstraintSaturation</key>
+	<string>alphaFacadeIndex</string>
+	<key>radioWithoutStructure</key>
+	<string>textWithMode</string>
+	<key>requiredSinePadding</key>
+	<string>otherMediaqueryDistance</string>
+	<key>scaffoldAtType</key>
+	<string>autoChartVisible</string>
+	<key>sessionObserverDirection</key>
+	<string>activityMethodSaturation</string>
+	<key>smartColumnDelay</key>
+	<string>temporaryActivityResponse</string>
+	<key>tickerThanTask</key>
+	<string>protectedRichtextMode</string>
+</dict>
+</plist>

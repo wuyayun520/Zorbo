@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchDuringCycle</key>
+	<string>sustainableEquipmentInterval</string>
+	<key>checkboxInCommand</key>
+	<string>autoEventName</string>
+	<key>constraintStateSkewy</key>
+	<string>buttonFrameworkDistance</string>
+	<key>easyNibSkewx</key>
+	<string>relationalViewType</string>
+	<key>imageAndMediator</key>
+	<string>configurationPatternInterval</string>
+	<key>injectionInKind</key>
+	<string>logFunctionStyle</string>
+	<key>intensityAtValue</key>
+	<string>secondThreadMargin</string>
+	<key>queueAtSingleton</key>
+	<string>textAsStructure</string>
+	<key>resolverScopeVisible</key>
+	<string>routerMementoSaturation</string>
+	<key>smartStorageRate</key>
+	<string>referenceBeyondStyle</string>
+</dict>
+</plist>

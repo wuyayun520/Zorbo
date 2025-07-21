@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonForFacade</key>
+	<string>indicatorForObserver</string>
+	<key>customizedMarginStyle</key>
+	<string>flexibleCustompaintSaturation</string>
+	<key>draggableConstraintInset</key>
+	<string>positionPhaseFormat</string>
+	<key>offsetProcessBorder</key>
+	<string>alignmentDuringVisitor</string>
+	<key>requestForFlyweight</key>
+	<string>invisibleRadioIndex</string>
+	<key>sliderPerNumber</key>
+	<string>geometricInteractorDirection</string>
+</dict>
+</plist>

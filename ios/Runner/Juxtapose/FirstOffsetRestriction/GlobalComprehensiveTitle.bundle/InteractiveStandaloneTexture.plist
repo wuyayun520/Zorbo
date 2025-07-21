@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionGridSkewx</key>
+	<string>lazyScrollSkewx</string>
+	<key>alertTaskState</key>
+	<string>projectionByFunction</string>
+	<key>aspectSinceAdapter</key>
+	<string>basicCupertinoTransparency</string>
+	<key>asyncAndType</key>
+	<string>sinkContextVisible</string>
+	<key>coordinatorTierContrast</key>
+	<string>routerLikeScope</string>
+	<key>lastPresenterFormat</key>
+	<string>handlerActivityVisible</string>
+	<key>spriteFrameworkFrequency</key>
+	<string>sortedThreadMargin</string>
+</dict>
+</plist>

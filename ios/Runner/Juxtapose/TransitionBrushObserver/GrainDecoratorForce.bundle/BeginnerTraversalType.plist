@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedResourceTag</key>
+	<string>animationProcessSpacing</string>
+	<key>instructionAboutNumber</key>
+	<string>cellVarPosition</string>
+	<key>intensityBufferPadding</key>
+	<string>serviceBySingleton</string>
+	<key>interpolationNearPattern</key>
+	<string>builderOperationDirection</string>
+	<key>multiInteractorLocation</key>
+	<string>desktopTickerInterval</string>
+	<key>sampleUntilNumber</key>
+	<string>priorMapEdge</string>
+</dict>
+</plist>

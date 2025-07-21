@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasAtStrategy</key>
+	<string>grainAlongSystem</string>
+	<key>enabledSingletonOpacity</key>
+	<string>cupertinoObserverColor</string>
+	<key>heroActivityState</key>
+	<string>futureOrContext</string>
+	<key>interpolationPrototypeEdge</key>
+	<string>menuContainAction</string>
+	<key>layerEnvironmentOpacity</key>
+	<string>capacitiesOutsideInterpreter</string>
+	<key>seamlessGraphicOffset</key>
+	<string>delegateMethodFormat</string>
+</dict>
+</plist>

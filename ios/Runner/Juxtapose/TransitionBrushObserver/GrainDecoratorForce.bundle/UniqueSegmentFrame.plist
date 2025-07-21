@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionTabbarOffset</key>
+	<string>rowOfTier</string>
+	<key>mobileResultSpeed</key>
+	<string>controllerSingletonStyle</string>
+	<key>originalCommandDuration</key>
+	<string>profileAsObserver</string>
+	<key>rowSingletonSpacing</key>
+	<string>captionCycleHue</string>
+</dict>
+</plist>

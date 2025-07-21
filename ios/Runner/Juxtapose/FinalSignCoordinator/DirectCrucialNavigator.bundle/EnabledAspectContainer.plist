@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionBrushSkewx</key>
+	<string>subsequentCommandVelocity</string>
+	<key>activatedPresenterFrequency</key>
+	<string>checkboxBesideActivity</string>
+	<key>animationChainBound</key>
+	<string>geometricNavigationFormat</string>
+	<key>challengeJobVelocity</key>
+	<string>nodeKindForce</string>
+	<key>containerSingletonRate</key>
+	<string>hierarchicalGraphLeft</string>
+	<key>handlerStrategyOrientation</key>
+	<string>queryPatternRate</string>
+	<key>inactiveSampleAlignment</key>
+	<string>priorityActionLeft</string>
+	<key>localizationPlatformBound</key>
+	<string>lossBesideType</string>
+	<key>localizationValueHead</key>
+	<string>characterParameterValidation</string>
+	<key>rectAlongParam</key>
+	<string>widgetStyleOrientation</string>
+</dict>
+</plist>

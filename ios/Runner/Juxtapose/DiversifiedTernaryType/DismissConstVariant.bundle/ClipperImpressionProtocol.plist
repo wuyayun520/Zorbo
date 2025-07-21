@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleSegmentRotation</key>
+	<string>notifierLayerSkewx</string>
+	<key>alignmentAndShape</key>
+	<string>animatedRadiusCenter</string>
+	<key>chartParamType</key>
+	<string>containerThroughBridge</string>
+	<key>listenerBufferMode</key>
+	<string>textureInsideParam</string>
+	<key>offsetBeyondLevel</key>
+	<string>contractionTierSkewy</string>
+	<key>reducerLevelTag</key>
+	<string>overlayAtActivity</string>
+	<key>sequentialResolverBehavior</key>
+	<string>sampleProxyBottom</string>
+	<key>smallLayerDirection</key>
+	<string>layoutSystemSkewy</string>
+</dict>
+</plist>

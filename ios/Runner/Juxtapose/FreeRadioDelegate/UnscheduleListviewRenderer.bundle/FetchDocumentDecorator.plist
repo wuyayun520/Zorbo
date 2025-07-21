@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveExceptionBrightness</key>
+	<string>routeStageOpacity</string>
+	<key>containerForTask</key>
+	<string>tensorConvolutionTransparency</string>
+	<key>dependencyActionKind</key>
+	<string>cubitFromWork</string>
+	<key>textureFromLevel</key>
+	<string>controllerAgainstState</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorBufferPadding</key>
+	<string>precisionAmongCommand</string>
+	<key>featureAsFacade</key>
+	<string>elasticRequestDistance</string>
+	<key>grainAsForm</key>
+	<string>shaderStateTheme</string>
+	<key>heroCompositeRotation</key>
+	<string>unactivatedAssetType</string>
+	<key>mediaqueryByFlyweight</key>
+	<string>axisLikeFacade</string>
+	<key>mediumTextDirection</key>
+	<string>singletonContextAlignment</string>
+	<key>nextExponentTransparency</key>
+	<string>listenerBufferRotation</string>
+	<key>widgetChainLocation</key>
+	<string>mainAnimatedcontainerTint</string>
+</dict>
+</plist>

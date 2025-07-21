@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gridFromInterpreter</key>
+	<string>normalCaptionFrequency</string>
+	<key>interactiveTabbarRate</key>
+	<string>frameKindFeedback</string>
+	<key>navigatorShapeMode</key>
+	<string>statefulDimensionVisibility</string>
+	<key>statelessBoxshadowTail</key>
+	<string>pinchableExtensionAppearance</string>
+</dict>
+</plist>

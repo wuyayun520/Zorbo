@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardKindFormat</key>
+	<string>paddingWithoutFacade</string>
+	<key>graphicCommandSkewy</key>
+	<string>inactiveEffectFlags</string>
+	<key>requestFunctionResponse</key>
+	<string>customizedAllocatorFrequency</string>
+	<key>resourceWorkCenter</key>
+	<string>movementScopeOpacity</string>
+	<key>sampleOrBridge</key>
+	<string>coordinatorVarCenter</string>
+	<key>sizeObserverMomentum</key>
+	<string>constTouchDistance</string>
+	<key>taskKindSkewy</key>
+	<string>checkboxMediatorVisible</string>
+	<key>variantTemplePosition</key>
+	<string>navigationParamVisible</string>
+</dict>
+</plist>

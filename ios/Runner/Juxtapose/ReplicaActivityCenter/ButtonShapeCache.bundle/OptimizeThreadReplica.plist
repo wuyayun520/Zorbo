@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>methodContainComposite</key>
+	<string>alertPhaseInteraction</string>
+	<key>resolverProxyInteraction</key>
+	<string>mobileIncludeMemento</string>
+	<key>serviceTempleVisible</key>
+	<string>modalInCycle</string>
+	<key>viewInterpreterPressure</key>
+	<string>dynamicPageviewColor</string>
+</dict>
+</plist>

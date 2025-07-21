@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardAlongFacade</key>
+	<string>nativeCardRight</string>
+	<key>mutableSpotBorder</key>
+	<string>getxStyleAcceleration</string>
+	<key>parallelQueueInteraction</key>
+	<string>interactorValueDuration</string>
+	<key>projectionBridgeTail</key>
+	<string>symmetricTabbarHue</string>
+	<key>tableAndNumber</key>
+	<string>cycleMethodBound</string>
+</dict>
+</plist>

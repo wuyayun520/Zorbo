@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedMemberInterval</key>
+	<string>tappableSemanticsKind</string>
+	<key>animationFacadeKind</key>
+	<string>sinkTaskBrightness</string>
+	<key>checkboxViaParameter</key>
+	<string>chartUntilDecorator</string>
+	<key>completionCommandVisibility</key>
+	<string>rectChainStyle</string>
+</dict>
+</plist>

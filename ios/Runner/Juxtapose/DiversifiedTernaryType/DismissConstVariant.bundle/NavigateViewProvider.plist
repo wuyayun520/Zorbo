@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticExceptWork</key>
+	<string>queueAsWork</string>
+	<key>containerStateFrequency</key>
+	<string>groupSingletonKind</string>
+	<key>dialogsWorkPosition</key>
+	<string>signatureFrameworkTop</string>
+	<key>euclideanInstructionMode</key>
+	<string>rectVisitorDensity</string>
+	<key>ignoredBitrateInteraction</key>
+	<string>invisibleMethodPosition</string>
+	<key>multiScaffoldFlags</key>
+	<string>constraintIncludeChain</string>
+	<key>resolverCompositeSize</key>
+	<string>lazyClipperOpacity</string>
+	<key>scrollAsSystem</key>
+	<string>textFormFrequency</string>
+	<key>similarPlaybackSpeed</key>
+	<string>playbackProxyScale</string>
+	<key>transitionPhaseTint</key>
+	<string>reductionInsideTemple</string>
+</dict>
+</plist>

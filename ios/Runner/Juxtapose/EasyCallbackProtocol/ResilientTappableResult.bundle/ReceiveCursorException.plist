@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopAlignmentFlags</key>
+	<string>crucialBufferMargin</string>
+	<key>elasticAssetInset</key>
+	<string>protectedWidgetCenter</string>
+	<key>queueAgainstType</key>
+	<string>globalPainterHead</string>
+	<key>reusableProviderMode</key>
+	<string>containerAwayFunction</string>
+	<key>workflowDuringVariable</key>
+	<string>gridviewLevelCount</string>
+</dict>
+</plist>

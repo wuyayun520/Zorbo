@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledMediaValidation</key>
+	<string>responsiveChecklistSize</string>
+	<key>ephemeralLayerSpeed</key>
+	<string>blocFacadeRate</string>
+	<key>fragmentNearLayer</key>
+	<string>streamPrototypeSaturation</string>
+	<key>rectStructureBound</key>
+	<string>storageCompositeStyle</string>
+	<key>resolverFlyweightFrequency</key>
+	<string>resilientLoopType</string>
+	<key>robustReducerOrigin</key>
+	<string>granularContainerAcceleration</string>
+	<key>symbolAroundJob</key>
+	<string>flexParamBorder</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>extensionBesideEnvironment</key>
+	<string>dedicatedContainerBrightness</string>
+	<key>hardMasterHead</key>
+	<string>compositionFlyweightSaturation</string>
+	<key>interpolationVersusVar</key>
+	<string>rectAboutFramework</string>
+	<key>persistentTweenAppearance</key>
+	<string>storeThanPrototype</string>
+	<key>pointAsParam</key>
+	<string>euclideanNavigationOpacity</string>
+</dict>
+</plist>

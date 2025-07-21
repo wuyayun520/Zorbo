@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseDialogsColor</key>
+	<string>tickerStrategySkewy</string>
+	<key>gridIncludeFlyweight</key>
+	<string>intuitiveErrorVisibility</string>
+	<key>handlerInScope</key>
+	<string>fixedCheckboxValidation</string>
+	<key>statelessZoneTransparency</key>
+	<string>mediaqueryAmongTier</string>
+</dict>
+</plist>

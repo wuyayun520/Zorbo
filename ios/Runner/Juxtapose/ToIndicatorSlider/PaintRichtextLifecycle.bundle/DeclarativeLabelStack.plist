@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorJobTag</key>
+	<string>alphaProxyCoord</string>
+	<key>cacheProxyName</key>
+	<string>immediateConsumerOrigin</string>
+	<key>crucialLoopAppearance</key>
+	<string>robustResourceTag</string>
+	<key>grainByTask</key>
+	<string>histogramViaBridge</string>
+	<key>graphWorkVisible</key>
+	<string>pinchableBulletFlags</string>
+	<key>transitionFormOrientation</key>
+	<string>responseAboutType</string>
+</dict>
+</plist>

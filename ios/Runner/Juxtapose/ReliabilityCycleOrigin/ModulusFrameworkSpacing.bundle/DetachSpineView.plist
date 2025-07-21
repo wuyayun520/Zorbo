@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationInsideOperation</key>
+	<string>buttonAboutStyle</string>
+	<key>nextPlaybackResponse</key>
+	<string>gesturedetectorAlongFlyweight</string>
+	<key>petSingletonScale</key>
+	<string>functionalObserverTint</string>
+	<key>sliderThroughProxy</key>
+	<string>taskProcessHue</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisEnvironmentBound</key>
+	<string>radiusAmongEnvironment</string>
+	<key>entityParamKind</key>
+	<string>histogramInterpreterTint</string>
+	<key>globalResolverDelay</key>
+	<string>adaptiveStreamDelay</string>
+	<key>tabbarAtEnvironment</key>
+	<string>baseLayerOpacity</string>
+	<key>tickerMementoSkewx</key>
+	<string>significantAlignmentForce</string>
+</dict>
+</plist>

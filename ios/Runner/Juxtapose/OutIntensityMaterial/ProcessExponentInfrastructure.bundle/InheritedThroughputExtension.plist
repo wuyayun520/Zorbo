@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticNearObserver</key>
+	<string>arithmeticNormScale</string>
+	<key>completerTempleEdge</key>
+	<string>draggableTextfieldTag</string>
+	<key>constTopicMargin</key>
+	<string>typicalScaffoldPosition</string>
+	<key>constraintAndComposite</key>
+	<string>paddingFromDecorator</string>
+	<key>groupLayerDensity</key>
+	<string>decorationAroundValue</string>
+</dict>
+</plist>

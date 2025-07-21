@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationBesideState</key>
+	<string>greatGraphOffset</string>
+	<key>lostStoreStatus</key>
+	<string>textNearFlyweight</string>
+	<key>materialIntensityFlags</key>
+	<string>presenterVarContrast</string>
+	<key>resourceForPrototype</key>
+	<string>navigatorAdapterType</string>
+	<key>spriteAdapterHead</key>
+	<string>priorRepositorySize</string>
+	<key>viewAmongTask</key>
+	<string>delegateWithoutStrategy</string>
+</dict>
+</plist>

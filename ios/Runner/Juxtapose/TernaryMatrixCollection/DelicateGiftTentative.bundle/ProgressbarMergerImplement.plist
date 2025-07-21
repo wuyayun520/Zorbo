@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedDurationState</key>
+	<string>normalNavigationPadding</string>
+	<key>certificateFacadePosition</key>
+	<string>currentNotificationOffset</string>
+	<key>checklistAgainstStructure</key>
+	<string>monsterWithStructure</string>
+	<key>dependencyOfLevel</key>
+	<string>tabbarDecoratorCount</string>
+	<key>integerViaNumber</key>
+	<string>allocatorBesideMethod</string>
+	<key>lostAllocatorFrequency</key>
+	<string>intensityPatternMargin</string>
+	<key>modulusPhaseRate</key>
+	<string>gemKindHue</string>
+	<key>spriteAmongProxy</key>
+	<string>flexibleSubpixelValidation</string>
+</dict>
+</plist>

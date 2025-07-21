@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseValueDepth</key>
+	<string>usedLogarithmSize</string>
+	<key>enabledBoxBehavior</key>
+	<string>gridviewDespiteType</string>
+	<key>eventAtContext</key>
+	<string>widgetVisitorInset</string>
+	<key>pinchableReductionStatus</key>
+	<string>decorationStateFlags</string>
+	<key>respectiveStateRight</key>
+	<string>disabledMediaqueryKind</string>
+</dict>
+</plist>

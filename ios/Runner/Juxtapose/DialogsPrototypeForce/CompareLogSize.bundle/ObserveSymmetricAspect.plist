@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoTableState</key>
+	<string>permanentUnaryDirection</string>
+	<key>cycleForShape</key>
+	<string>protectedControllerInset</string>
+	<key>geometricMobileLeft</key>
+	<string>cartesianMatrixCenter</string>
+	<key>referenceShapeFrequency</key>
+	<string>currentLabelRotation</string>
+	<key>requiredMetadataBrightness</key>
+	<string>iterativeSceneRight</string>
+	<key>spriteAboutFunction</key>
+	<string>precisionBeyondActivity</string>
+	<key>statefulAboutOperation</key>
+	<string>widgetStrategyLeft</string>
+	<key>streamInsideParam</key>
+	<string>allocatorSinceVisitor</string>
+	<key>widgetMethodCoord</key>
+	<string>sessionStyleSpeed</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeDuringPhase</key>
+	<string>concurrentChannelMode</string>
+	<key>metadataInterpreterCount</key>
+	<string>persistentWidgetDepth</string>
+	<key>popupWithoutShape</key>
+	<string>interpolationDecoratorSkewy</string>
+	<key>resultStateRate</key>
+	<string>transitionExceptStrategy</string>
+	<key>scaffoldPhaseSize</key>
+	<string>curveProcessOpacity</string>
+	<key>spotFromAdapter</key>
+	<string>cosineAtPhase</string>
+</dict>
+</plist>

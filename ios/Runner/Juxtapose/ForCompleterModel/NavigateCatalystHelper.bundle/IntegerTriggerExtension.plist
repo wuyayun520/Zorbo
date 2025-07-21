@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionWithoutVariable</key>
+	<string>smallDialogsDistance</string>
+	<key>effectIncludeShape</key>
+	<string>navigatorVisitorPressure</string>
+	<key>featureInsideFlyweight</key>
+	<string>allocatorIncludeProcess</string>
+	<key>grainWithoutMode</key>
+	<string>popupVarPressure</string>
+	<key>pointWithoutShape</key>
+	<string>effectCompositeShade</string>
+	<key>positionOrValue</key>
+	<string>grainOfComposite</string>
+	<key>statefulFunctionDuration</key>
+	<string>normContextLocation</string>
+</dict>
+</plist>

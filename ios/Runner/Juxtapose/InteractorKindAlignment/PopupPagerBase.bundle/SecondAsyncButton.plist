@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>observerFromActivity</key>
+	<string>staticStatefulFrequency</string>
+	<key>segmentUntilComposite</key>
+	<string>cellTaskTop</string>
+	<key>sineMementoBrightness</key>
+	<string>drawerIncludeCycle</string>
+	<key>stateAsMediator</key>
+	<string>statefulByShape</string>
+	<key>transitionByCycle</key>
+	<string>grainInProxy</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityPlatformFlags</key>
+	<string>workflowAgainstKind</string>
+	<key>animationDespiteStyle</key>
+	<string>backwardScaleFeedback</string>
+	<key>directlyBoxDepth</key>
+	<string>groupTaskPadding</string>
+	<key>imageInsideLevel</key>
+	<string>rowExceptType</string>
+	<key>pageviewTempleSkewy</key>
+	<string>scaleContainKind</string>
+	<key>particleSingletonBorder</key>
+	<string>prevSceneTail</string>
+</dict>
+</plist>

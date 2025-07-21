@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderTypeSize</key>
+	<string>interactorWithKind</string>
+	<key>decorationSinceBuffer</key>
+	<string>transitionCommandTransparency</string>
+	<key>localizationInsideSingleton</key>
+	<string>commonStampCount</string>
+	<key>sizeStrategyDensity</key>
+	<string>protectedSpineFeedback</string>
+</dict>
+</plist>

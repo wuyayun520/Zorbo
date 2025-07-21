@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioOperationSize</key>
+	<string>largeTextVisible</string>
+	<key>customTabbarFlags</key>
+	<string>requiredDescriptionKind</string>
+	<key>dialogsParamScale</key>
+	<string>compositionTempleOrientation</string>
+	<key>grainActivityTheme</key>
+	<string>comprehensiveMethodVisibility</string>
+	<key>seamlessResultSkewy</key>
+	<string>cursorCommandEdge</string>
+	<key>sequentialUnaryDirection</key>
+	<string>assetChainBottom</string>
+</dict>
+</plist>

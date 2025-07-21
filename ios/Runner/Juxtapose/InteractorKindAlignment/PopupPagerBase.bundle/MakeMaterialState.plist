@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>modulusModeDelay</key>
+	<string>fixedActionAppearance</string>
+	<key>stackJobTail</key>
+	<string>tableShapeDepth</string>
+	<key>textureExceptCommand</key>
+	<string>grainAlongParameter</string>
+	<key>tickerProxyShape</key>
+	<string>primaryCoordinatorDelay</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationPerDecorator</key>
+	<string>draggableSkirtName</string>
+	<key>builderPatternSaturation</key>
+	<string>brushPatternResponse</string>
+	<key>cellAgainstSingleton</key>
+	<string>boxAsPrototype</string>
+	<key>cellTierBrightness</key>
+	<string>sineOfBridge</string>
+	<key>containerAwayParameter</key>
+	<string>variantAlongPlatform</string>
+	<key>elasticRectDensity</key>
+	<string>otherCoordinatorSize</string>
+	<key>mainTransitionInterval</key>
+	<string>storeOutsideProcess</string>
+	<key>rowNearStructure</key>
+	<string>cacheOperationRate</string>
+	<key>shaderVariableName</key>
+	<string>remainderFromDecorator</string>
+	<key>visibleBuilderOrientation</key>
+	<string>painterContainMemento</string>
+</dict>
+</plist>

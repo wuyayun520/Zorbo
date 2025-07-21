@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorPatternBehavior</key>
+	<string>mediumResultOffset</string>
+	<key>comprehensiveHashFlags</key>
+	<string>movementUntilAdapter</string>
+	<key>controllerCommandRight</key>
+	<string>serviceBridgeOffset</string>
+	<key>firstResolverDelay</key>
+	<string>singletonBeyondSingleton</string>
+	<key>independentTopicVelocity</key>
+	<string>easyCoordinatorContrast</string>
+	<key>reducerOutsideState</key>
+	<string>particleProxyValidation</string>
+</dict>
+</plist>

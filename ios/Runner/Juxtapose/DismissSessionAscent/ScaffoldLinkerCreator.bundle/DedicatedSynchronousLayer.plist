@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionWithoutValue</key>
+	<string>responsiveSpotSkewx</string>
+	<key>queuePerEnvironment</key>
+	<string>standaloneBlocOffset</string>
+	<key>reducerLikeScope</key>
+	<string>stampAndAdapter</string>
+	<key>reductionWithoutFunction</key>
+	<string>discardedManagerVisible</string>
+	<key>resultMethodSkewy</key>
+	<string>respectiveAnimationBound</string>
+	<key>techniqueCompositeCenter</key>
+	<string>bufferCompositeSize</string>
+	<key>timerExceptDecorator</key>
+	<string>positionAroundAction</string>
+</dict>
+</plist>

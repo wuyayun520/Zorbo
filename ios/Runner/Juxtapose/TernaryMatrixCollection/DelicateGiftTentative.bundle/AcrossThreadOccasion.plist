@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorAwayMethod</key>
+	<string>assetFunctionOpacity</string>
+	<key>discardedAnimationSpeed</key>
+	<string>denseOverlayMode</string>
+	<key>functionalRouterShape</key>
+	<string>controllerByBridge</string>
+	<key>listenerContextPadding</key>
+	<string>accordionNotifierInset</string>
+	<key>loopSystemInterval</key>
+	<string>interactorIncludeVar</string>
+	<key>lossStructureTint</key>
+	<string>projectionFacadeBound</string>
+	<key>mediocreContainerEdge</key>
+	<string>buttonAtInterpreter</string>
+	<key>precisionVarBorder</key>
+	<string>paddingCycleDensity</string>
+	<key>referenceJobOrientation</key>
+	<string>ephemeralMissionMargin</string>
+</dict>
+</plist>

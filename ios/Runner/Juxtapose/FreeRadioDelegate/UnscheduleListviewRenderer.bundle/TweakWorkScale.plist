@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableDelegateHead</key>
+	<string>movementNumberOrigin</string>
+	<key>modelActivityIndex</key>
+	<string>profileOrFramework</string>
+	<key>nextLayoutFrequency</key>
+	<string>histogramSingletonSkewx</string>
+	<key>requiredRepositoryBrightness</key>
+	<string>loopVarType</string>
+</dict>
+</plist>

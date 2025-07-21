@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationOrMediator</key>
+	<string>usedTickerDistance</string>
+	<key>durationLayerPressure</key>
+	<string>previewNearAction</string>
+	<key>elasticLocalizationBehavior</key>
+	<string>isolateModeDuration</string>
+	<key>lostBuilderCenter</key>
+	<string>textfieldAdapterOffset</string>
+	<key>richtextNearBridge</key>
+	<string>opaqueRouteBrightness</string>
+	<key>secondObserverShape</key>
+	<string>tickerFacadeSpacing</string>
+	<key>sharedNavigatorInteraction</key>
+	<string>touchParamOrigin</string>
+	<key>sizeFlyweightTint</key>
+	<string>inactiveBinaryBorder</string>
+	<key>visibleAlertEdge</key>
+	<string>flexVariableAppearance</string>
+</dict>
+</plist>

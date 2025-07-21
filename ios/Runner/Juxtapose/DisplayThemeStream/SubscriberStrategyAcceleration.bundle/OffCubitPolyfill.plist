@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncLevelFormat</key>
+	<string>appbarBesideProxy</string>
+	<key>directDependencyKind</key>
+	<string>projectionFrameworkSpacing</string>
+	<key>effectWithoutFramework</key>
+	<string>gesturedetectorParameterShape</string>
+	<key>scrollProcessMode</key>
+	<string>desktopSpriteInterval</string>
+	<key>scrollableDialogsBottom</key>
+	<string>secondChallengeOpacity</string>
+	<key>sensorBufferCoord</key>
+	<string>dependencyViaFramework</string>
+	<key>singleRemainderScale</key>
+	<string>axisPrototypeDistance</string>
+	<key>sizeExceptEnvironment</key>
+	<string>taskIncludeJob</string>
+	<key>widgetSincePattern</key>
+	<string>interactorFromProxy</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonShaderSize</key>
+	<string>seamlessHashShade</string>
+	<key>eagerDialogsTransparency</key>
+	<string>scaleBridgeTail</string>
+	<key>firstWidgetVelocity</key>
+	<string>decorationFromFlyweight</string>
+	<key>pointForBuffer</key>
+	<string>gradientThanFacade</string>
+	<key>queryPlatformCenter</key>
+	<string>specifyReducerBound</string>
+	<key>semanticPreviewMode</key>
+	<string>vectorBridgeSpacing</string>
+	<key>statelessZoneMomentum</key>
+	<string>singleResolverDepth</string>
+</dict>
+</plist>

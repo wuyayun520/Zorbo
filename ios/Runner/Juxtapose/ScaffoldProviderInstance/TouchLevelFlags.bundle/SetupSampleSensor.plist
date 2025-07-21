@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticFacadeMode</key>
+	<string>stepAdapterCenter</string>
+	<key>awaitFrameworkInteraction</key>
+	<string>previewPerAdapter</string>
+	<key>bulletPatternName</key>
+	<string>zoneInStrategy</string>
+	<key>hierarchicalVectorFormat</key>
+	<string>hierarchicalNavigatorSaturation</string>
+	<key>intuitiveConstraintResponse</key>
+	<string>nodeVersusType</string>
+	<key>menuActionInset</key>
+	<string>custompaintTierKind</string>
+	<key>pivotalGraphScale</key>
+	<string>semanticCommandBorder</string>
+	<key>radiusOrParameter</key>
+	<string>transitionStageOrientation</string>
+	<key>sustainableRouteMomentum</key>
+	<string>intensityFormPadding</string>
+	<key>tweenValueShade</key>
+	<string>promiseOrPhase</string>
+</dict>
+</plist>

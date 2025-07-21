@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderBesideBridge</key>
+	<string>cubitDecoratorVisible</string>
+	<key>delegateScopeBrightness</key>
+	<string>numericalMenuCenter</string>
+	<key>indicatorKindSkewx</key>
+	<string>resizableAsyncResponse</string>
+	<key>subscriptionNearScope</key>
+	<string>exponentMediatorMargin</string>
+</dict>
+</plist>

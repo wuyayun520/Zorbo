@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeWorkflowKind</key>
+	<string>routeFunctionState</string>
+	<key>animationActionAlignment</key>
+	<string>buttonVarPressure</string>
+	<key>concurrentOverlayPressure</key>
+	<string>delegateProxyBorder</string>
+	<key>curveInForm</key>
+	<string>animationFacadeVisible</string>
+	<key>materialTernaryDelay</key>
+	<string>hierarchicalPreviewBound</string>
+	<key>otherFragmentPressure</key>
+	<string>originalGiftDuration</string>
+	<key>parallelGridviewBound</key>
+	<string>tabviewLevelRate</string>
+	<key>resultVariableVisible</key>
+	<string>resultFacadeTop</string>
+	<key>statefulProcessInteraction</key>
+	<string>tensorMomentumHue</string>
+</dict>
+</plist>

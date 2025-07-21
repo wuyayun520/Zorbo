@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheTypeInset</key>
+	<string>spineDespiteObserver</string>
+	<key>errorVariableBehavior</key>
+	<string>asynchronousObserverVelocity</string>
+	<key>publicBorderLocation</key>
+	<string>signAgainstScope</string>
+	<key>routerKindDuration</key>
+	<string>respectiveSegueDepth</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoCallbackInterval</key>
+	<string>easyResourceCenter</string>
+	<key>gradientFlyweightAppearance</key>
+	<string>interfaceFlyweightContrast</string>
+	<key>modelViaOperation</key>
+	<string>staticDocumentDepth</string>
+	<key>unactivatedProgressbarStyle</key>
+	<string>lazyCurveRight</string>
+</dict>
+</plist>

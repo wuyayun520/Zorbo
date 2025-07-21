@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedTouchInteraction</key>
+	<string>immediateCupertinoDelay</string>
+	<key>dependencyAdapterIndex</key>
+	<string>materialTopicName</string>
+	<key>gridVarDuration</key>
+	<string>queueFormSaturation</string>
+	<key>protocolPerPhase</key>
+	<string>instructionParameterAppearance</string>
+	<key>semanticEntityDirection</key>
+	<string>paddingVisitorType</string>
+	<key>sensorInsideParameter</key>
+	<string>sharedGateRotation</string>
+	<key>sizeContainStyle</key>
+	<string>decorationStageContrast</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorAlongValue</key>
+	<string>protectedPageviewAlignment</string>
+	<key>baselineSinceStage</key>
+	<string>transitionFrameworkAcceleration</string>
+	<key>constraintPatternPadding</key>
+	<string>persistentStatefulSpacing</string>
+	<key>equalizationProxyCenter</key>
+	<string>cycleWorkDepth</string>
+	<key>factoryTierLocation</key>
+	<string>cubeAroundParameter</string>
+	<key>materialRequestLeft</key>
+	<string>sizedboxUntilFramework</string>
+	<key>nativeBufferSpacing</key>
+	<string>semanticRequestSaturation</string>
+	<key>optimizerInsideFlyweight</key>
+	<string>accessibleAxisCount</string>
+	<key>similarSliderPadding</key>
+	<string>transitionFromPlatform</string>
+</dict>
+</plist>

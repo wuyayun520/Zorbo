@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentScopeSkewy</key>
+	<string>screenIncludeWork</string>
+	<key>criticalErrorValidation</key>
+	<string>gradientAgainstBuffer</string>
+	<key>cubitVersusParam</key>
+	<string>variantNearJob</string>
+	<key>desktopParticleAcceleration</key>
+	<string>plateBesideProxy</string>
+	<key>discardedZoneDepth</key>
+	<string>builderSystemFlags</string>
+	<key>displayableHandlerResponse</key>
+	<string>greatNavigatorType</string>
+	<key>equipmentOperationTension</key>
+	<string>interfaceKindBound</string>
+	<key>painterAdapterSize</key>
+	<string>dependencyCycleEdge</string>
+	<key>permanentControllerColor</key>
+	<string>sizeSystemVelocity</string>
+	<key>transitionMementoLeft</key>
+	<string>descriptionSingletonLocation</string>
+</dict>
+</plist>

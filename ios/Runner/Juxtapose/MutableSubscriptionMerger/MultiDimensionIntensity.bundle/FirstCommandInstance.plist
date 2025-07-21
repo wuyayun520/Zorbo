@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gestureByContext</key>
+	<string>stampWithVisitor</string>
+	<key>injectionBufferOrigin</key>
+	<string>optionPerState</string>
+	<key>logarithmWithoutPhase</key>
+	<string>texturePlatformResponse</string>
+	<key>materialLocalizationSkewy</key>
+	<string>heapThroughCommand</string>
+	<key>optimizerStateBehavior</key>
+	<string>missedHeroStyle</string>
+	<key>parallelSubscriptionRotation</key>
+	<string>scrollDespiteMediator</string>
+</dict>
+</plist>

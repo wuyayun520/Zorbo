@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalRequestSpeed</key>
+	<string>modelDuringBridge</string>
+	<key>finalDurationIndex</key>
+	<string>routerByParam</string>
+	<key>fixedViewPressure</key>
+	<string>priorStateInset</string>
+	<key>globalRouterDelay</key>
+	<string>routePlatformSaturation</string>
+	<key>inheritedSkirtEdge</key>
+	<string>keyTopicRate</string>
+	<key>permanentCurveResponse</key>
+	<string>pinchableTangentStyle</string>
+	<key>seamlessSignatureMode</key>
+	<string>dedicatedRowColor</string>
+	<key>singletonAroundStage</key>
+	<string>independentDelegateForce</string>
+	<key>streamAwayJob</key>
+	<string>sophisticatedTimerName</string>
+	<key>usecaseAndProxy</key>
+	<string>vectorAlongState</string>
+</dict>
+</plist>

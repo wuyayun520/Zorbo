@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarActivityBottom</key>
+	<string>taskPatternAlignment</string>
+	<key>backwardModulusRight</key>
+	<string>rowSingletonStyle</string>
+	<key>challengeCommandContrast</key>
+	<string>inkwellOutsideNumber</string>
+	<key>ephemeralStoreHead</key>
+	<string>segueMementoVisibility</string>
+	<key>handlerProxyState</key>
+	<string>discardedDurationOrigin</string>
+	<key>persistentMemberBound</key>
+	<string>operationFunctionSaturation</string>
+	<key>reusableWidgetShade</key>
+	<string>capsuleOutsideNumber</string>
+	<key>tickerAdapterState</key>
+	<string>hyperbolicResultTheme</string>
+</dict>
+</plist>

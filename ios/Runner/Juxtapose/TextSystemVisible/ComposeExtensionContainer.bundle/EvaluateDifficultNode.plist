@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackPrototypeStyle</key>
+	<string>entityOfVisitor</string>
+	<key>commonTimerTag</key>
+	<string>blocVarFeedback</string>
+	<key>dropdownbuttonWithVariable</key>
+	<string>menuSingletonOpacity</string>
+	<key>primaryMovementKind</key>
+	<string>liteBuilderRight</string>
+	<key>tangentActivityVisibility</key>
+	<string>offsetBeyondSingleton</string>
+</dict>
+</plist>

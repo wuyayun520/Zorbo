@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoLogType</key>
+	<string>scrollableExpandedAcceleration</string>
+	<key>baseCompositeTail</key>
+	<string>radiusDecoratorBrightness</string>
+	<key>concurrentControllerResponse</key>
+	<string>layerModeVisibility</string>
+	<key>gesturedetectorTempleDelay</key>
+	<string>bitrateWithMemento</string>
+	<key>handlerExceptAdapter</key>
+	<string>scrollableRectRate</string>
+	<key>methodWithoutSystem</key>
+	<string>activityPerMode</string>
+	<key>primaryWorkflowRate</key>
+	<string>framePerAdapter</string>
+</dict>
+</plist>

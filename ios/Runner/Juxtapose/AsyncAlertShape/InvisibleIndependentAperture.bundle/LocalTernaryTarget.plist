@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationActivitySaturation</key>
+	<string>mobileProcessOrientation</string>
+	<key>cardVisitorRate</key>
+	<string>viewShapeStyle</string>
+	<key>comprehensiveOffsetBorder</key>
+	<string>concurrentInterfaceSize</string>
+	<key>currentGroupPadding</key>
+	<string>completionWithState</string>
+	<key>dynamicTouchBehavior</key>
+	<string>pivotalGridviewStyle</string>
+	<key>inactiveTransitionIndex</key>
+	<string>captionLikeJob</string>
+	<key>persistentRiverpodInset</key>
+	<string>reusableCurveFormat</string>
+	<key>primaryExceptionContrast</key>
+	<string>fusedChartStatus</string>
+	<key>riverpodFormStyle</key>
+	<string>inheritedEffectInteraction</string>
+	<key>scrollableChartTheme</key>
+	<string>sinkContextSpacing</string>
+</dict>
+</plist>

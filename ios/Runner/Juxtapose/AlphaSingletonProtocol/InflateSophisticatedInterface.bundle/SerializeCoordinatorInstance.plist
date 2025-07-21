@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cycleVersusSingleton</key>
+	<string>observerAmongTask</string>
+	<key>easyManagerAppearance</key>
+	<string>allocatorSingletonSpeed</string>
+	<key>featureSystemHue</key>
+	<string>screenContainComposite</string>
+	<key>sequentialMobxBound</key>
+	<string>factoryAsAdapter</string>
+	<key>storyboardDecoratorTheme</key>
+	<string>stateVariableScale</string>
+</dict>
+</plist>

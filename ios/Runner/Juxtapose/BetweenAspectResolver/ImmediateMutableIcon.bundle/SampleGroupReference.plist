@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushOutsideFlyweight</key>
+	<string>cosineTierStyle</string>
+	<key>bufferChainMargin</key>
+	<string>awaitJobOffset</string>
+	<key>futureThanComposite</key>
+	<string>dedicatedRowBehavior</string>
+	<key>labelAsVisitor</key>
+	<string>queueMethodInterval</string>
+	<key>progressbarVisitorBehavior</key>
+	<string>currentPainterHead</string>
+	<key>textureByType</key>
+	<string>pivotalLogarithmState</string>
+</dict>
+</plist>

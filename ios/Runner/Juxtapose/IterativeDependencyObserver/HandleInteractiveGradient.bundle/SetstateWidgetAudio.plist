@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorLikeDecorator</key>
+	<string>enabledNotifierSaturation</string>
+	<key>assetTempleBrightness</key>
+	<string>keyLayoutValidation</string>
+	<key>brushInterpreterResponse</key>
+	<string>originalOptionBehavior</string>
+	<key>firstActionBound</key>
+	<string>chartScopeInterval</string>
+	<key>greatSegueVisibility</key>
+	<string>semanticCompleterDirection</string>
+	<key>heroValueName</key>
+	<string>sliderAdapterForce</string>
+	<key>nodeStructureBrightness</key>
+	<string>serviceInterpreterSpacing</string>
+	<key>sceneAroundOperation</key>
+	<string>deferredAssetEdge</string>
+</dict>
+</plist>

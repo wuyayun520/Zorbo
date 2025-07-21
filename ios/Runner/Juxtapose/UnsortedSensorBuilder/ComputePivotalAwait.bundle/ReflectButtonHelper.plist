@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedTimerType</key>
+	<string>indicatorDuringLayer</string>
+	<key>builderSingletonRotation</key>
+	<string>segueDespiteParameter</string>
+	<key>custompaintOrProxy</key>
+	<string>concurrentTitleTint</string>
+	<key>imageBufferEdge</key>
+	<string>customizedMomentumInterval</string>
+	<key>instructionOfStage</key>
+	<string>loopPlatformType</string>
+	<key>routerObserverShade</key>
+	<string>channelsLikeBuffer</string>
+	<key>usecaseSinceComposite</key>
+	<string>signFormTheme</string>
+</dict>
+</plist>

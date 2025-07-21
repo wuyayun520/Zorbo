@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commandPatternSpacing</key>
+	<string>cartesianCompletionRate</string>
+	<key>cubitBesideStage</key>
+	<string>loopWorkFeedback</string>
+	<key>entityBeyondParameter</key>
+	<string>globalSizedboxTheme</string>
+	<key>ephemeralNavigatorShade</key>
+	<string>storeVersusStructure</string>
+	<key>finalFactoryInset</key>
+	<string>accessoryStateLeft</string>
+	<key>interfaceObserverColor</key>
+	<string>invisibleTopicEdge</string>
+	<key>serviceFacadePressure</key>
+	<string>coordinatorScopeVelocity</string>
+	<key>skinFlyweightTint</key>
+	<string>sophisticatedErrorBehavior</string>
+</dict>
+</plist>

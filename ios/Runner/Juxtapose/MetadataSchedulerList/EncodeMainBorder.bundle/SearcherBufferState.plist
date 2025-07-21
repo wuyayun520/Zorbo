@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaJobVelocity</key>
+	<string>normOrParam</string>
+	<key>canvasVariableContrast</key>
+	<string>sceneCommandStatus</string>
+	<key>logarithmTierLocation</key>
+	<string>observerPerType</string>
+	<key>loopShapeFlags</key>
+	<string>observerSystemFeedback</string>
+	<key>metadataMethodAlignment</key>
+	<string>functionalRouterSize</string>
+	<key>reductionBesideSingleton</key>
+	<string>compositionViaType</string>
+	<key>robustStoreTransparency</key>
+	<string>flexibleSlashAcceleration</string>
+	<key>skinSinceStrategy</key>
+	<string>animationIncludeStyle</string>
+	<key>widgetAndActivity</key>
+	<string>statefulModeTag</string>
+</dict>
+</plist>

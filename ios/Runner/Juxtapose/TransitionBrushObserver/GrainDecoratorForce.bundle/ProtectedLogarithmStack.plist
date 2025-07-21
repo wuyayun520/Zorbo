@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureVarBottom</key>
+	<string>promiseFunctionRight</string>
+	<key>intermediateObserverBehavior</key>
+	<string>callbackBesideShape</string>
+	<key>keyDelegateFeedback</key>
+	<string>dynamicNavigationResponse</string>
+	<key>subpixelFacadeSaturation</key>
+	<string>missedFramePressure</string>
+	<key>unactivatedCertificateAcceleration</key>
+	<string>normalPrecisionType</string>
+</dict>
+</plist>

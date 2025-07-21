@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>factoryFromMode</key>
+	<string>reductionDuringFlyweight</string>
+	<key>grainThroughMethod</key>
+	<string>futureProcessState</string>
+	<key>modalProxyCount</key>
+	<string>playbackSinceMemento</string>
+	<key>persistentObserverAcceleration</key>
+	<string>stepBesideVariable</string>
+	<key>semanticsWithSingleton</key>
+	<string>interfaceContainFacade</string>
+	<key>switchAdapterState</key>
+	<string>observerOutsideMemento</string>
+	<key>transitionTaskHead</key>
+	<string>asyncWithEnvironment</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonTempleTransparency</key>
+	<string>standaloneThemeTint</string>
+	<key>chapterTypeShape</key>
+	<string>constQueryVisibility</string>
+	<key>delegatePlatformValidation</key>
+	<string>presenterCompositeSize</string>
+	<key>previewDuringComposite</key>
+	<string>expandedModeCoord</string>
+	<key>profileAmongFacade</key>
+	<string>completerProcessState</string>
+	<key>textureFlyweightCenter</key>
+	<string>oldManagerRight</string>
+</dict>
+</plist>

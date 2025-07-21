@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerIncludeStrategy</key>
+	<string>previewUntilStage</string>
+	<key>invisibleErrorMargin</key>
+	<string>previewInterpreterInterval</string>
+	<key>layerModeAlignment</key>
+	<string>semanticSliderScale</string>
+	<key>loopAsMode</key>
+	<string>disabledRichtextMargin</string>
+	<key>mobileIncludeProxy</key>
+	<string>cursorBridgeState</string>
+	<key>notificationProxyInteraction</key>
+	<string>publicCollectionShade</string>
+	<key>resourcePatternDelay</key>
+	<string>resourceBeyondJob</string>
+	<key>robustLayerLocation</key>
+	<string>alphaAwayComposite</string>
+</dict>
+</plist>

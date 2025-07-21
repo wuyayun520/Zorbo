@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedTransitionTheme</key>
+	<string>opaqueResponseDelay</string>
+	<key>labelContextTransparency</key>
+	<string>metadataLevelDuration</string>
+	<key>missedArithmeticMode</key>
+	<string>arithmeticNavigatorName</string>
+	<key>repositoryThroughTask</key>
+	<string>denseHashCount</string>
+	<key>statelessLoopAppearance</key>
+	<string>extensionDuringNumber</string>
+</dict>
+</plist>

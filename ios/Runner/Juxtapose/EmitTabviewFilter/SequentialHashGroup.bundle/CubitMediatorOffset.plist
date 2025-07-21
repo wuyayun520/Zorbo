@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertLayerBehavior</key>
+	<string>slashInMode</string>
+	<key>baselineAtEnvironment</key>
+	<string>decorationAwayBridge</string>
+	<key>customResourceFlags</key>
+	<string>builderBySystem</string>
+	<key>injectionBufferTail</key>
+	<string>sceneContextBottom</string>
+	<key>instructionDuringFramework</key>
+	<string>switchPatternVisible</string>
+	<key>normValueHead</key>
+	<string>delicateTopicScale</string>
+	<key>observerEnvironmentContrast</key>
+	<string>projectObserverMode</string>
+	<key>rectThanLevel</key>
+	<string>usageThanWork</string>
+	<key>sizeAtWork</key>
+	<string>documentOperationName</string>
+	<key>textureByParam</key>
+	<string>appbarBufferColor</string>
+</dict>
+</plist>

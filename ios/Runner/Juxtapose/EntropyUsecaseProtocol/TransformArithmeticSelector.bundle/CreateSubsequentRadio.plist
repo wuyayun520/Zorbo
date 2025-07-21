@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeCellResponse</key>
+	<string>unarySinceVisitor</string>
+	<key>constraintAgainstCycle</key>
+	<string>discardedSizeBehavior</string>
+	<key>instructionProcessTint</key>
+	<string>resultObserverInset</string>
+	<key>pinchableTextureName</key>
+	<string>navigatorObserverAcceleration</string>
+	<key>routeIncludeFramework</key>
+	<string>pageviewBridgeContrast</string>
+	<key>rowBufferDistance</key>
+	<string>draggableSizedboxCount</string>
+</dict>
+</plist>

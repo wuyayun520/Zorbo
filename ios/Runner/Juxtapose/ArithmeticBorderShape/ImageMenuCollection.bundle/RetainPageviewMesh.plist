@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerExceptStage</key>
+	<string>configurationInObserver</string>
+	<key>cupertinoAnimationFlags</key>
+	<string>observerPrototypeDepth</string>
+	<key>discardedChartOpacity</key>
+	<string>injectionEnvironmentFormat</string>
+	<key>grainInFlyweight</key>
+	<string>adaptiveSignatureFeedback</string>
+	<key>relationalSensorBound</key>
+	<string>beginnerMobileFeedback</string>
+</dict>
+</plist>

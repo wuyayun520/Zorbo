@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationBridgeRotation</key>
+	<string>chartViaActivity</string>
+	<key>fixedRouteSize</key>
+	<string>activeBaselineShade</string>
+	<key>mainNibOpacity</key>
+	<string>riverpodInsideFlyweight</string>
+	<key>matrixIncludeInterpreter</key>
+	<string>unactivatedBoxDistance</string>
+	<key>matrixPerComposite</key>
+	<string>nibWithoutStructure</string>
+	<key>resizableGridviewTension</key>
+	<string>fixedLayerFormat</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>documentSystemBehavior</key>
+	<string>swiftInType</string>
+	<key>grainActionStatus</key>
+	<string>commandAtPhase</string>
+	<key>modalValueTop</key>
+	<string>durationMediatorFrequency</string>
+	<key>stackSingletonMargin</key>
+	<string>sensorStructureDirection</string>
+	<key>titleLevelTag</key>
+	<string>menuMediatorStatus</string>
+</dict>
+</plist>

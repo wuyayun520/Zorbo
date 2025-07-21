@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisVariableScale</key>
+	<string>timerObserverSkewy</string>
+	<key>checkboxAsStructure</key>
+	<string>appbarFromAdapter</string>
+	<key>granularFutureOffset</key>
+	<string>draggableMenuBorder</string>
+	<key>mediumTouchLeft</key>
+	<string>chartAboutScope</string>
+	<key>persistentCommandInteraction</key>
+	<string>usedAlignmentPadding</string>
+	<key>standaloneAspectMomentum</key>
+	<string>topicByTier</string>
+	<key>timerUntilComposite</key>
+	<string>topicInsideCommand</string>
+	<key>unsortedSpecifierInterval</key>
+	<string>managerFacadeMode</string>
+	<key>viewStyleOpacity</key>
+	<string>modulusCyclePadding</string>
+</dict>
+</plist>

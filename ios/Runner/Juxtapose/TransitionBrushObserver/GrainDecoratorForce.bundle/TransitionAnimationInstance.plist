@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedChannelTransparency</key>
+	<string>progressbarContextOffset</string>
+	<key>backwardInkwellKind</key>
+	<string>widgetOutsideMethod</string>
+	<key>bulletContainShape</key>
+	<string>projectionLevelInteraction</string>
+	<key>deferredUnaryRate</key>
+	<string>spotMethodVisibility</string>
+	<key>mutableNodeDensity</key>
+	<string>menuPerAdapter</string>
+	<key>reducerAlongMethod</key>
+	<string>eventMementoCenter</string>
+	<key>routeAgainstStage</key>
+	<string>gridviewActivityBottom</string>
+</dict>
+</plist>

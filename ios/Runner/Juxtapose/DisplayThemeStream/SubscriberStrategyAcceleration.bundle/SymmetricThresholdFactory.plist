@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureFrameworkBound</key>
+	<string>dependencyBufferFormat</string>
+	<key>composableBehaviorBorder</key>
+	<string>presenterFunctionOffset</string>
+	<key>exceptionActivityStyle</key>
+	<string>segueWithoutSingleton</string>
+	<key>finalOffsetRate</key>
+	<string>routerCycleResponse</string>
+	<key>graphAndLayer</key>
+	<string>repositoryContainWork</string>
+	<key>graphSinceTier</key>
+	<string>localizationPatternMomentum</string>
+	<key>lostSingletonSpacing</key>
+	<string>layerOrStrategy</string>
+	<key>normalTableSkewy</key>
+	<string>unactivatedLoopDelay</string>
+	<key>rectTierSpeed</key>
+	<string>hardErrorType</string>
+</dict>
+</plist>

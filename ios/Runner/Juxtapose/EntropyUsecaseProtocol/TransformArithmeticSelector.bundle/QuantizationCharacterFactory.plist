@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>factoryByChain</key>
+	<string>radioModeSize</string>
+	<key>marginScopeSkewx</key>
+	<string>configurationTypeSkewx</string>
+	<key>navigationParameterStatus</key>
+	<string>inkwellNearParameter</string>
+	<key>providerStyleScale</key>
+	<string>pinchableAlphaCenter</string>
+	<key>queryChainBrightness</key>
+	<string>previewVisitorBrightness</string>
+	<key>sizedboxFlyweightRate</key>
+	<string>textPrototypeSaturation</string>
+</dict>
+</plist>

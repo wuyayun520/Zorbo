@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorAroundMediator</key>
+	<string>optionByPrototype</string>
+	<key>finalConsumerBehavior</key>
+	<string>dialogsUntilFramework</string>
+	<key>grainAwayJob</key>
+	<string>nextArithmeticDirection</string>
+	<key>parallelLabelDepth</key>
+	<string>tickerParameterHue</string>
+</dict>
+</plist>

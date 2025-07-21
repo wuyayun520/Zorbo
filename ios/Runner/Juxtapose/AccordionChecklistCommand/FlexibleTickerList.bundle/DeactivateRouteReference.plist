@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationBesideActivity</key>
+	<string>opaqueAsyncLocation</string>
+	<key>compositionalSliderVelocity</key>
+	<string>progressbarBufferBound</string>
+	<key>durationAndSystem</key>
+	<string>callbackAroundEnvironment</string>
+	<key>notifierLayerPadding</key>
+	<string>hardLoopResponse</string>
+	<key>sliderWithoutSingleton</key>
+	<string>collectionByLayer</string>
+	<key>specifierByTier</key>
+	<string>imageParameterBound</string>
+	<key>uniformBlocSkewx</key>
+	<string>labelParameterBound</string>
+	<key>uniformSkirtStatus</key>
+	<string>compositionThanFunction</string>
+</dict>
+</plist>

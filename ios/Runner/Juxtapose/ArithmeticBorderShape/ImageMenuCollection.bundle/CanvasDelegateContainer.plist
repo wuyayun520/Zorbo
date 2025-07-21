@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticIconRight</key>
+	<string>particleFacadeBrightness</string>
+	<key>callbackCycleVelocity</key>
+	<string>iterativeAllocatorSaturation</string>
+	<key>positionedIncludeVariable</key>
+	<string>errorLevelTheme</string>
+	<key>smallPopupFeedback</key>
+	<string>heapModeHue</string>
+	<key>subscriptionFormBrightness</key>
+	<string>localSinkBound</string>
+	<key>titleNearMemento</key>
+	<string>descriptionByInterpreter</string>
+</dict>
+</plist>

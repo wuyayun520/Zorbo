@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeSpriteRate</key>
+	<string>interactorBeyondJob</string>
+	<key>basicAssetRight</key>
+	<string>concurrentSegmentDirection</string>
+	<key>behaviorLikeStructure</key>
+	<string>lazyTitlePosition</string>
+	<key>channelsNearParam</key>
+	<string>touchThroughActivity</string>
+	<key>diversifiedStatefulVelocity</key>
+	<string>subtleTweenName</string>
+	<key>iconPatternBottom</key>
+	<string>factoryPrototypeEdge</string>
+	<key>offsetLayerTransparency</key>
+	<string>statelessGrainColor</string>
+	<key>positionedVersusFramework</key>
+	<string>arithmeticIncludeOperation</string>
+	<key>requiredViewAlignment</key>
+	<string>screenUntilForm</string>
+</dict>
+</plist>

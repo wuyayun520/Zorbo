@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticDecorationSaturation</key>
+	<string>concurrentDialogsEdge</string>
+	<key>modelFunctionForce</key>
+	<string>largeHeroPosition</string>
+	<key>progressbarDuringOperation</key>
+	<string>configurationContextStyle</string>
+	<key>resilientReducerMode</key>
+	<string>visibleWidgetTransparency</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>indicatorAwayPrototype</key>
+	<string>monsterWithoutVariable</string>
+	<key>interactorVersusProxy</key>
+	<string>hashByCycle</string>
+	<key>newestIndicatorPosition</key>
+	<string>overlayVersusActivity</string>
+	<key>notifierDespiteEnvironment</key>
+	<string>staticPopupDelay</string>
+	<key>popupBufferDepth</key>
+	<string>relationalWidgetCoord</string>
+	<key>viewFunctionDuration</key>
+	<string>chapterBridgeKind</string>
+	<key>zoneAgainstOperation</key>
+	<string>sophisticatedDependencyDepth</string>
+</dict>
+</plist>

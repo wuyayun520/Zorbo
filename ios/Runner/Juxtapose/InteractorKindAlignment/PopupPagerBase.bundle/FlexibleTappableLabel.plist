@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitAlongMethod</key>
+	<string>scrollableMatrixTail</string>
+	<key>displayableGemOrientation</key>
+	<string>basicManagerShape</string>
+	<key>resolverIncludeStyle</key>
+	<string>oldEntropyVisible</string>
+	<key>shaderAtParameter</key>
+	<string>interactorExceptStage</string>
+	<key>symbolInsideStage</key>
+	<string>alertDuringStrategy</string>
+	<key>taskParamCoord</key>
+	<string>referenceContextOpacity</string>
+	<key>uniqueCoordinatorBorder</key>
+	<string>resolverMethodPressure</string>
+</dict>
+</plist>

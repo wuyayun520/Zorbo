@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionAmongFacade</key>
+	<string>textOfActivity</string>
+	<key>loopActivityEdge</key>
+	<string>callbackAtForm</string>
+	<key>optimizerFrameworkDepth</key>
+	<string>widgetAlongMemento</string>
+	<key>stateDespiteState</key>
+	<string>managerFlyweightStatus</string>
+	<key>storageDespiteAction</key>
+	<string>functionalBufferKind</string>
+	<key>tickerViaActivity</key>
+	<string>widgetAtPrototype</string>
+	<key>topicInsideTask</key>
+	<string>challengeBridgeDirection</string>
+</dict>
+</plist>

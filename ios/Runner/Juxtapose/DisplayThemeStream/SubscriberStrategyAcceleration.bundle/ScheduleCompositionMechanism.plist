@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushFunctionValidation</key>
+	<string>dedicatedPlaybackAcceleration</string>
+	<key>delicateCubePosition</key>
+	<string>interactiveCheckboxOffset</string>
+	<key>getxTaskFlags</key>
+	<string>alphaAboutMethod</string>
+	<key>repositoryInterpreterColor</key>
+	<string>sortedCollectionVisible</string>
+	<key>scaffoldObserverMode</key>
+	<string>spineCommandDuration</string>
+	<key>spriteTierCoord</key>
+	<string>controllerSingletonOffset</string>
+	<key>stackAlongSingleton</key>
+	<string>firstRouterFormat</string>
+</dict>
+</plist>

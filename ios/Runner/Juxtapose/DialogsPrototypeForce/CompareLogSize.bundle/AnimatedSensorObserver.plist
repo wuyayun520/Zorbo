@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finalLayerShape</key>
+	<string>gestureInCycle</string>
+	<key>granularViewLocation</key>
+	<string>associatedPaddingTransparency</string>
+	<key>immediateAccessorySpeed</key>
+	<string>framePerAdapter</string>
+	<key>reducerAlongStage</key>
+	<string>roleSingletonValidation</string>
+	<key>responsiveLogarithmTail</key>
+	<string>sceneInsideStyle</string>
+	<key>riverpodOutsideValue</key>
+	<string>stackBufferPosition</string>
+	<key>segueSingletonName</key>
+	<string>disabledAwaitDuration</string>
+	<key>storeIncludeParam</key>
+	<string>animationAndParam</string>
+	<key>textureUntilPlatform</key>
+	<string>isolateCommandState</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoPreviewSpeed</key>
+	<string>optimizerFromMethod</string>
+	<key>brushAndSingleton</key>
+	<string>tabviewBeyondCommand</string>
+	<key>entityOfCommand</key>
+	<string>displayableAxisBehavior</string>
+	<key>functionalDelegateVisible</key>
+	<string>descriptorForCommand</string>
+	<key>observerStrategyBrightness</key>
+	<string>adaptiveRowState</string>
+	<key>overlayPhaseOrigin</key>
+	<string>specifierKindInterval</string>
+	<key>routerAwayOperation</key>
+	<string>builderMementoKind</string>
+</dict>
+</plist>

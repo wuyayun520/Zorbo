@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousLossTheme</key>
+	<string>sensorStageFlags</string>
+	<key>concurrentTweenKind</key>
+	<string>listviewActionColor</string>
+	<key>inactiveRouterStatus</key>
+	<string>localizationActivityStyle</string>
+	<key>methodProxyFrequency</key>
+	<string>cubitExceptContext</string>
+	<key>semanticOperationRight</key>
+	<string>euclideanSliderCount</string>
+	<key>singletonBesideStructure</key>
+	<string>stampDespiteVariable</string>
+	<key>techniqueWithMediator</key>
+	<string>explicitInjectionColor</string>
+	<key>ternaryVisitorDelay</key>
+	<string>curveByLevel</string>
+	<key>transformerDuringProcess</key>
+	<string>asynchronousPopupCount</string>
+</dict>
+</plist>

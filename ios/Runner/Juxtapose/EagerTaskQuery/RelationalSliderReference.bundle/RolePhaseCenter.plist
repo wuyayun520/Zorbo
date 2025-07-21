@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonSinkOffset</key>
+	<string>chartFrameworkSize</string>
+	<key>gestureSinceParam</key>
+	<string>arithmeticBoxshadowSkewx</string>
+	<key>hashFrameworkTransparency</key>
+	<string>compositionalConstraintBrightness</string>
+	<key>indicatorAsTask</key>
+	<string>usageAsMemento</string>
+	<key>masterByStructure</key>
+	<string>sliderBridgeStyle</string>
+	<key>rapidDrawerInteraction</key>
+	<string>controllerAgainstFramework</string>
+	<key>techniqueMediatorKind</key>
+	<string>keyEffectType</string>
+</dict>
+</plist>

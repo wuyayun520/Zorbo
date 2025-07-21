@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>functionalAnimationKind</key>
+	<string>unsortedSegmentHue</string>
+	<key>grayscaleThanLevel</key>
+	<string>aspectratioBridgeSkewy</string>
+	<key>layerLikeFunction</key>
+	<string>cartesianEffectVelocity</string>
+	<key>pinchableDescriptorSpacing</key>
+	<string>effectAtLayer</string>
+	<key>promiseSingletonVisibility</key>
+	<string>invisibleScaleRotation</string>
+</dict>
+</plist>

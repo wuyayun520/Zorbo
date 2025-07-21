@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationProcessRate</key>
+	<string>concurrentDescriptorColor</string>
+	<key>directCharacterTail</key>
+	<string>navigatorLevelForce</string>
+	<key>effectTierValidation</key>
+	<string>reactiveSkinOrientation</string>
+	<key>gramAndParam</key>
+	<string>callbackLevelValidation</string>
+	<key>storeMediatorDensity</key>
+	<string>rectFlyweightDistance</string>
+	<key>themePrototypeForce</key>
+	<string>activeSceneDensity</string>
+</dict>
+</plist>

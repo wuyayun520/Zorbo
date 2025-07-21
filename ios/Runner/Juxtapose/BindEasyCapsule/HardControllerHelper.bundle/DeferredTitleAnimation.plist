@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletThroughContext</key>
+	<string>blocAboutMode</string>
+	<key>mobxAgainstEnvironment</key>
+	<string>advancedListenerSaturation</string>
+	<key>navigatorVersusBridge</key>
+	<string>sortedProfileDensity</string>
+	<key>responsiveDescriptionCenter</key>
+	<string>lazyEffectInset</string>
+	<key>taskStateLocation</key>
+	<string>allocatorProxyOrientation</string>
+</dict>
+</plist>

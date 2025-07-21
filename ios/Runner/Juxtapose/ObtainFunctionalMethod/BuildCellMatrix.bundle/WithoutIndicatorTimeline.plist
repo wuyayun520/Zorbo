@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveDuringForm</key>
+	<string>modelActivityColor</string>
+	<key>customizedInteractorKind</key>
+	<string>providerWithoutFlyweight</string>
+	<key>descriptorBridgePosition</key>
+	<string>similarNavigatorCenter</string>
+	<key>directlyDescriptorState</key>
+	<string>explicitTextBorder</string>
+	<key>methodUntilChain</key>
+	<string>globalContainerName</string>
+	<key>reactiveStorageDistance</key>
+	<string>unaryObserverOffset</string>
+</dict>
+</plist>

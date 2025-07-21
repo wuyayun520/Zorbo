@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>isolateAgainstStructure</key>
+	<string>liteDimensionFlags</string>
+	<key>methodAroundSingleton</key>
+	<string>unsortedCallbackTint</string>
+	<key>oldHashHead</key>
+	<string>resilientFeatureAcceleration</string>
+	<key>promiseContainDecorator</key>
+	<string>tabbarExceptCycle</string>
+	<key>symmetricTaskInset</key>
+	<string>integerVisitorHead</string>
+	<key>transformerWithTier</key>
+	<string>transformerBridgeTransparency</string>
+</dict>
+</plist>

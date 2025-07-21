@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveOptionPosition</key>
+	<string>blocVersusAction</string>
+	<key>featureStyleInterval</key>
+	<string>chartSinceForm</string>
+	<key>mediaqueryBridgeTransparency</key>
+	<string>profileWithProcess</string>
+	<key>originalBufferEdge</key>
+	<string>usageDuringBuffer</string>
+	<key>sineLikeSingleton</key>
+	<string>managerObserverForce</string>
+	<key>subscriptionPrototypeState</key>
+	<string>semanticsFunctionValidation</string>
+	<key>unsortedPopupVisible</key>
+	<string>listenerScopeTension</string>
+</dict>
+</plist>

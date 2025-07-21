@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionAroundFramework</key>
+	<string>prevGrainFeedback</string>
+	<key>bulletOperationPadding</key>
+	<string>relationalSemanticsTransparency</string>
+	<key>equipmentPrototypeMode</key>
+	<string>apertureVersusValue</string>
+	<key>fusedTaskSkewx</key>
+	<string>positionProcessDirection</string>
+	<key>modulusVersusContext</key>
+	<string>segueObserverState</string>
+	<key>smallGesturedetectorInteraction</key>
+	<string>gridviewInLayer</string>
+</dict>
+</plist>
