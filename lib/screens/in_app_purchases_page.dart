@@ -277,14 +277,7 @@ class _InAppPurchasesPageState extends State<InAppPurchasesPage> with TickerProv
                             ),
                           ),
                           const SizedBox(height: 8),
-                          Text(
-                            'Unlock premium music festival features',
-                            style: TextStyle(
-                              fontSize: 14,
-                              color: Colors.grey[600],
-                              fontWeight: FontWeight.w400,
-                            ),
-                          ),
+                         
                         ],
                       ),
                     ),
