@@ -8,6 +8,7 @@ import 'my_join_page.dart';
 import 'terms_of_service_page.dart';
 import 'privacy_policy_page.dart';
 import 'about_us_page.dart';
+import 'blocked_users_page.dart';
 import 'package:audioplayers/audioplayers.dart';
 
 class ProfilePage extends StatefulWidget {
@@ -581,6 +582,18 @@ class _ProfilePageState extends State<ProfilePage> {
                             Navigator.of(context).push(
                               MaterialPageRoute(
                                 builder: (context) => const AboutUsPage(),
+                              ),
+                            );
+                          },
+                        ),
+                        const SizedBox(height: 15),
+                        _buildMenuItem(
+                          icon: Icons.block,
+                          title: 'Blocked Users',
+                          onTap: () {
+                            Navigator.of(context).push(
+                              MaterialPageRoute(
+                                builder: (context) => const BlockedUsersPage(),
                               ),
                             );
                           },

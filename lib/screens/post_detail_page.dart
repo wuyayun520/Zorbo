@@ -6,9 +6,11 @@ import 'package:path_provider/path_provider.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import '../models/post.dart';
 import '../utils/like_manager.dart';
+import '../services/user_block_service.dart';
 import 'dart:convert';
 import 'image_preview_page.dart';
 import 'video_player_page.dart';
+import '../utils/post_filter.dart'; // Added import for PostFilter
 
 class PostDetailPage extends StatefulWidget {
   final Post post;
@@ -110,8 +112,13 @@ class _PostDetailPageState extends State<PostDetailPage> {
       
       if (commentsJson != null) {
         final List<dynamic> commentsData = json.decode(commentsJson);
+        final allComments = commentsData.map((data) => Comment.fromJson(data)).toList();
+        
+        // 过滤掉被阻止用户的评论
+        final filteredComments = PostFilter.filterBlockedUserComments(allComments);
+        
         setState(() {
-          _comments = commentsData.map((data) => Comment.fromJson(data)).toList();
+          _comments = filteredComments;
         });
       }
     } catch (e) {
@@ -322,6 +329,160 @@ class _PostDetailPageState extends State<PostDetailPage> {
           Navigator.of(context).pop(true); // 传递true表示需要刷新
         }
       });
+    }
+  }
+
+  Future<void> _showBlockUserDialog() async {
+    // 检查用户是否已经被阻止
+    final isAlreadyBlocked = await UserBlockService.isUserBlocked(widget.post.userId);
+    
+    if (isAlreadyBlocked) {
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          const SnackBar(
+            content: Text('User is already blocked'),
+            backgroundColor: Colors.orange,
+            duration: Duration(seconds: 2),
+          ),
+        );
+      }
+      return;
+    }
+
+    final result = await showDialog<bool>(
+      context: context,
+      builder: (BuildContext context) {
+        return AlertDialog(
+          title: Row(
+            children: [
+              Icon(
+                Icons.block,
+                color: Colors.red[400],
+                size: 24,
+              ),
+              const SizedBox(width: 8),
+              const Text('Block User'),
+            ],
+          ),
+          content: Column(
+            mainAxisSize: MainAxisSize.min,
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              // 用户信息卡片
+              Container(
+                padding: const EdgeInsets.all(12),
+                decoration: BoxDecoration(
+                  color: Colors.grey[50],
+                  borderRadius: BorderRadius.circular(8),
+                  border: Border.all(color: Colors.grey[300]!),
+                ),
+                child: Row(
+                  children: [
+                    CircleAvatar(
+                      radius: 20,
+                      backgroundImage: AssetImage(widget.post.avatar),
+                      onBackgroundImageError: (exception, stackTrace) {
+                        // 处理图片加载错误
+                      },
+                    ),
+                    const SizedBox(width: 12),
+                    Expanded(
+                      child: Column(
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: [
+                          Text(
+                            widget.post.username,
+                            style: const TextStyle(
+                              fontSize: 16,
+                              fontWeight: FontWeight.bold,
+                            ),
+                          ),
+                          Text(
+                            widget.post.location,
+                            style: const TextStyle(
+                              fontSize: 14,
+                              color: Colors.grey,
+                            ),
+                          ),
+                        ],
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+              const SizedBox(height: 16),
+              const Text(
+                'Are you sure you want to block this user?',
+                style: TextStyle(fontSize: 16),
+              ),
+              const SizedBox(height: 8),
+              const Text(
+                'You will no longer see their posts and comments. You can unblock them later in your profile settings.',
+                style: TextStyle(
+                  fontSize: 14,
+                  color: Colors.grey,
+                ),
+              ),
+            ],
+          ),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.of(context).pop(false),
+              child: const Text('Cancel'),
+            ),
+            ElevatedButton(
+              onPressed: () => Navigator.of(context).pop(true),
+              style: ElevatedButton.styleFrom(
+                backgroundColor: Colors.red,
+                foregroundColor: Colors.white,
+              ),
+              child: const Text('Block'),
+            ),
+          ],
+        );
+      },
+    );
+
+    if (result == true) {
+      try {
+        final success = await UserBlockService.blockUser(widget.post.userId);
+        if (success) {
+          if (mounted) {
+            ScaffoldMessenger.of(context).showSnackBar(
+              SnackBar(
+                content: Text('${widget.post.username} has been blocked'),
+                backgroundColor: Colors.red,
+                duration: const Duration(seconds: 2),
+              ),
+            );
+          }
+          
+          // 延迟返回上一页
+          Future.delayed(const Duration(seconds: 1), () {
+            if (mounted) {
+              Navigator.of(context).pop(true); // 传递true表示需要刷新
+            }
+          });
+        } else {
+          if (mounted) {
+            ScaffoldMessenger.of(context).showSnackBar(
+              const SnackBar(
+                content: Text('Failed to block user'),
+                backgroundColor: Colors.red,
+              ),
+            );
+          }
+        }
+      } catch (e) {
+        if (mounted) {
+          ScaffoldMessenger.of(context).showSnackBar(
+            SnackBar(
+              content: Text('Error blocking user: $e'),
+              backgroundColor: Colors.red,
+            ),
+          );
+        }
+      }
     }
   }
 
@@ -629,6 +790,41 @@ class _PostDetailPageState extends State<PostDetailPage> {
                               ),
                             ],
                           ),
+                        ),
+                        PopupMenuButton<String>(
+                          icon: const Icon(
+                            Icons.more_vert,
+                            color: Colors.grey,
+                          ),
+                          onSelected: (value) {
+                            if (value == 'block') {
+                              _showBlockUserDialog();
+                            } else if (value == 'report') {
+                              _reportPost();
+                            }
+                          },
+                          itemBuilder: (context) => [
+                            const PopupMenuItem<String>(
+                              value: 'block',
+                              child: Row(
+                                children: [
+                                  Icon(Icons.block, color: Colors.red),
+                                  SizedBox(width: 8),
+                                  Text('Block User'),
+                                ],
+                              ),
+                            ),
+                            const PopupMenuItem<String>(
+                              value: 'report',
+                              child: Row(
+                                children: [
+                                  Icon(Icons.flag, color: Colors.orange),
+                                  SizedBox(width: 8),
+                                  Text('Report Post'),
+                                ],
+                              ),
+                            ),
+                          ],
                         ),
                       ],
                     ),

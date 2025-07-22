@@ -7,7 +7,10 @@ import '../models/post.dart';
 import '../utils/post_loader.dart';
 import '../utils/like_manager.dart';
 import '../utils/post_filter.dart';
+import '../services/user_block_service.dart';
 import 'post_detail_page.dart';
+import 'dart:convert'; // Added for json
+import 'package:shared_preferences/shared_preferences.dart'; // Added for SharedPreferences
 
 class EventsPage extends StatefulWidget {
   const EventsPage({super.key});
@@ -262,6 +265,43 @@ class _EventsPageState extends State<EventsPage> {
                       ],
                     ),
                   ),
+                  // 新增菜单按钮
+                  PopupMenuButton<String>(
+                    icon: const Icon(
+                      Icons.more_vert,
+                      color: Colors.grey,
+                      size: 18,
+                    ),
+                    onSelected: (value) {
+                      if (value == 'block') {
+                        _showBlockUserDialog(post);
+                      } else if (value == 'report') {
+                        _showReportPostDialog(post);
+                      }
+                    },
+                    itemBuilder: (context) => [
+                      const PopupMenuItem<String>(
+                        value: 'block',
+                        child: Row(
+                          children: [
+                            Icon(Icons.block, color: Colors.red),
+                            SizedBox(width: 8),
+                            Text('Block User'),
+                          ],
+                        ),
+                      ),
+                      const PopupMenuItem<String>(
+                        value: 'report',
+                        child: Row(
+                          children: [
+                            Icon(Icons.flag, color: Colors.orange),
+                            SizedBox(width: 8),
+                            Text('Report Post'),
+                          ],
+                        ),
+                      ),
+                    ],
+                  ),
                 ],
               ),
             ),
@@ -447,5 +487,301 @@ class _EventsPageState extends State<EventsPage> {
         color: Colors.grey,
       ),
     );
+  }
+
+  Future<void> _showBlockUserDialog(Post post) async {
+    final isAlreadyBlocked = await UserBlockService.isUserBlocked(post.userId);
+    if (isAlreadyBlocked) {
+      if (mounted) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          const SnackBar(
+            content: Text('User is already blocked'),
+            backgroundColor: Colors.orange,
+            duration: Duration(seconds: 2),
+          ),
+        );
+      }
+      return;
+    }
+    final result = await showDialog<bool>(
+      context: context,
+      builder: (BuildContext context) {
+        return AlertDialog(
+          title: Row(
+            children: [
+              Icon(
+                Icons.block,
+                color: Colors.red[400],
+                size: 24,
+              ),
+              const SizedBox(width: 8),
+              const Text('Block User'),
+            ],
+          ),
+          content: Column(
+            mainAxisSize: MainAxisSize.min,
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              Container(
+                padding: const EdgeInsets.all(12),
+                decoration: BoxDecoration(
+                  color: Colors.grey[50],
+                  borderRadius: BorderRadius.circular(8),
+                  border: Border.all(color: Colors.grey[300]!),
+                ),
+                child: Row(
+                  children: [
+                    CircleAvatar(
+                      radius: 20,
+                      backgroundImage: AssetImage(post.avatar),
+                      onBackgroundImageError: (exception, stackTrace) {},
+                    ),
+                    const SizedBox(width: 12),
+                    Expanded(
+                      child: Column(
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: [
+                          Text(
+                            post.username,
+                            style: const TextStyle(
+                              fontSize: 16,
+                              fontWeight: FontWeight.bold,
+                            ),
+                          ),
+                          Text(
+                            post.location,
+                            style: const TextStyle(
+                              fontSize: 14,
+                              color: Colors.grey,
+                            ),
+                          ),
+                        ],
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+              const SizedBox(height: 16),
+              const Text(
+                'Are you sure you want to block this user?',
+                style: TextStyle(fontSize: 16),
+              ),
+              const SizedBox(height: 8),
+              const Text(
+                'You will no longer see their posts and comments. You can unblock them later in your profile settings.',
+                style: TextStyle(
+                  fontSize: 14,
+                  color: Colors.grey,
+                ),
+              ),
+            ],
+          ),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.of(context).pop(false),
+              child: const Text('Cancel'),
+            ),
+            ElevatedButton(
+              onPressed: () => Navigator.of(context).pop(true),
+              style: ElevatedButton.styleFrom(
+                backgroundColor: Colors.red,
+                foregroundColor: Colors.white,
+              ),
+              child: const Text('Block'),
+            ),
+          ],
+        );
+      },
+    );
+    if (result == true) {
+      try {
+        final success = await UserBlockService.blockUser(post.userId);
+        if (success) {
+          if (mounted) {
+            ScaffoldMessenger.of(context).showSnackBar(
+              SnackBar(
+                content: Text('${post.username} has been blocked'),
+                backgroundColor: Colors.red,
+                duration: const Duration(seconds: 2),
+              ),
+            );
+          }
+          await PostFilter.refreshReportedPosts();
+          setState(() {});
+        } else {
+          if (mounted) {
+            ScaffoldMessenger.of(context).showSnackBar(
+              const SnackBar(
+                content: Text('Failed to block user'),
+                backgroundColor: Colors.red,
+              ),
+            );
+          }
+        }
+      } catch (e) {
+        if (mounted) {
+          ScaffoldMessenger.of(context).showSnackBar(
+            SnackBar(
+              content: Text('Error blocking user: $e'),
+              backgroundColor: Colors.red,
+            ),
+          );
+        }
+      }
+    }
+  }
+
+  Future<void> _showReportPostDialog(Post post) async {
+    final reportReasons = [
+      'Spam',
+      'Inappropriate content',
+      'Harassment',
+      'False information',
+      'Copyright violation',
+      'Other'
+    ];
+    String? selectedReason;
+    final result = await showDialog<String>(
+      context: context,
+      builder: (BuildContext context) {
+        return StatefulBuilder(
+          builder: (BuildContext context, StateSetter setState) {
+            return AlertDialog(
+              title: Row(
+                children: [
+                  Icon(
+                    Icons.flag,
+                    color: Colors.red[400],
+                    size: 24,
+                  ),
+                  const SizedBox(width: 8),
+                  const Text('Report Post'),
+                ],
+              ),
+              content: Column(
+                mainAxisSize: MainAxisSize.min,
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
+                  Text(
+                    'Report post by ${post.username}:',
+                    style: const TextStyle(
+                      fontSize: 14,
+                      color: Colors.grey,
+                    ),
+                  ),
+                  const SizedBox(height: 8),
+                  Container(
+                    padding: const EdgeInsets.all(12),
+                    decoration: BoxDecoration(
+                      color: Colors.grey[100],
+                      borderRadius: BorderRadius.circular(8),
+                      border: Border.all(
+                        color: Colors.grey[300]!,
+                        width: 1,
+                      ),
+                    ),
+                    child: Column(
+                      crossAxisAlignment: CrossAxisAlignment.start,
+                      children: [
+                        Text(
+                          post.content,
+                          style: const TextStyle(fontSize: 14),
+                          maxLines: 3,
+                          overflow: TextOverflow.ellipsis,
+                        ),
+                        if (post.media.isNotEmpty) ...[
+                          const SizedBox(height: 8),
+                          Text(
+                            'Contains ${post.media.length} media file(s)',
+                            style: const TextStyle(
+                              fontSize: 12,
+                              color: Colors.grey,
+                            ),
+                          ),
+                        ],
+                      ],
+                    ),
+                  ),
+                  const SizedBox(height: 16),
+                  const Text(
+                    'Select a reason:',
+                    style: TextStyle(
+                      fontSize: 16,
+                      fontWeight: FontWeight.bold,
+                    ),
+                  ),
+                  const SizedBox(height: 8),
+                  ...reportReasons.map((reason) => RadioListTile<String>(
+                    title: Text(reason),
+                    value: reason,
+                    groupValue: selectedReason,
+                    onChanged: (value) {
+                      setState(() {
+                        selectedReason = value;
+                      });
+                    },
+                    contentPadding: EdgeInsets.zero,
+                    dense: true,
+                  )).toList(),
+                ],
+              ),
+              actions: [
+                TextButton(
+                  onPressed: () => Navigator.of(context).pop(),
+                  child: const Text('Cancel'),
+                ),
+                ElevatedButton(
+                  onPressed: selectedReason == null ? null : () {
+                    Navigator.of(context).pop(selectedReason);
+                  },
+                  style: ElevatedButton.styleFrom(
+                    backgroundColor: Colors.red,
+                    foregroundColor: Colors.white,
+                  ),
+                  child: const Text('Report'),
+                ),
+              ],
+            );
+          },
+        );
+      },
+    );
+    if (result != null) {
+      // 保存举报状态到本地
+      try {
+        final prefs = await SharedPreferences.getInstance();
+        final reportedPostsKey = 'reported_posts';
+        final reportedPostsJson = prefs.getString(reportedPostsKey);
+        Set<String> reportedPosts = {};
+        if (reportedPostsJson != null) {
+          final List<dynamic> reportedData = json.decode(reportedPostsJson);
+          reportedPosts = Set<String>.from(reportedData);
+        }
+        final postKey = '${post.userId}_${post.content.hashCode}';
+        reportedPosts.add(postKey);
+        final updatedJson = json.encode(reportedPosts.toList());
+        await prefs.setString(reportedPostsKey, updatedJson);
+        if (mounted) {
+          ScaffoldMessenger.of(context).showSnackBar(
+            SnackBar(
+              content: Text('Post reported for: $result'),
+              backgroundColor: Colors.orange,
+              duration: const Duration(seconds: 2),
+            ),
+          );
+        }
+        await PostFilter.refreshReportedPosts();
+        setState(() {});
+      } catch (e) {
+        if (mounted) {
+          ScaffoldMessenger.of(context).showSnackBar(
+            SnackBar(
+              content: Text('Error reporting post: $e'),
+              backgroundColor: Colors.red,
+            ),
+          );
+        }
+      }
+    }
   }
 } 
