@@ -9,6 +9,8 @@ import 'terms_of_service_page.dart';
 import 'privacy_policy_page.dart';
 import 'about_us_page.dart';
 import 'blocked_users_page.dart';
+import 'in_app_purchases_page.dart';
+import 'subscriptions_page.dart';
 import 'package:audioplayers/audioplayers.dart';
 
 class ProfilePage extends StatefulWidget {
@@ -24,6 +26,7 @@ class _ProfilePageState extends State<ProfilePage> {
   String _avatarPath = 'assets/images/default_avatar.png';
   bool _isEditing = false;
   bool _isCustomAvatar = false;
+  bool _isVip = false; // VIP状态
 
   // 音乐播放器相关变量
   final AudioPlayer _audioPlayer = AudioPlayer();
@@ -61,6 +64,7 @@ class _ProfilePageState extends State<ProfilePage> {
     super.initState();
     _loadUserData();
     _initializeAudioPlayer();
+    _loadVipStatus(); // 加载VIP状态
   }
 
   @override
@@ -86,6 +90,107 @@ class _ProfilePageState extends State<ProfilePage> {
 
     _audioPlayer.onPlayerComplete.listen((_) {
       _playNextTrack();
+    });
+  }
+
+  // 加载VIP状态
+  Future<void> _loadVipStatus() async {
+    final prefs = await SharedPreferences.getInstance();
+    setState(() {
+      _isVip = prefs.getBool('isVip') ?? false;
+    });
+  }
+
+  // 显示VIP弹窗
+  void _showVipDialog() {
+    showDialog(
+      context: context,
+      builder: (BuildContext context) {
+        return AlertDialog(
+          title: Row(
+            children: [
+              Icon(
+                Icons.star,
+                color: const Color(0xFF8565F4),
+                size: 24,
+              ),
+              const SizedBox(width: 8),
+              const Text('Premium Required'),
+            ],
+          ),
+          content: Column(
+            mainAxisSize: MainAxisSize.min,
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              const Text(
+                'Avatar modification requires Premium access.',
+                style: TextStyle(fontSize: 16),
+              ),
+              const SizedBox(height: 16),
+              Row(
+                mainAxisAlignment: MainAxisAlignment.center,
+                children: [
+                  Text(
+                    'Starting at ',
+                    style: TextStyle(
+                      fontSize: 14,
+                      color: Colors.grey[600],
+                    ),
+                  ),
+                  Text(
+                    '\$12.99/week',
+                    style: const TextStyle(
+                      fontSize: 18,
+                      fontWeight: FontWeight.bold,
+                      color: Color(0xFF8565F4),
+                    ),
+                  ),
+                ],
+              ),
+            ],
+          ),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.of(context).pop(),
+              child: const Text('Cancel'),
+            ),
+            ElevatedButton(
+              onPressed: () {
+                Navigator.of(context).pop();
+                _navigateToSubscriptionPage();
+              },
+              style: ElevatedButton.styleFrom(
+                backgroundColor: const Color(0xFF8565F4),
+                foregroundColor: Colors.white,
+              ),
+              child: const Text('Get Premium'),
+            ),
+          ],
+        );
+      },
+    );
+  }
+
+  // 处理头像点击
+  void _handleAvatarTap() {
+    if (_isVip) {
+      // VIP用户可以直接修改头像
+      _selectAvatar();
+    } else {
+      // 非VIP用户显示弹窗
+      _showVipDialog();
+    }
+  }
+
+  // 跳转到订阅页面并监听返回
+  void _navigateToSubscriptionPage() {
+    Navigator.of(context).push(
+      MaterialPageRoute(
+        builder: (context) => const SubscriptionsPage(),
+      ),
+    ).then((_) {
+      // 从订阅页面返回时刷新VIP状态
+      _loadVipStatus();
     });
   }
 
@@ -152,6 +257,7 @@ class _ProfilePageState extends State<ProfilePage> {
         _signature = prefs.getString('user_signature') ?? 'Music Festival Lover';
         _avatarPath = prefs.getString('user_avatar') ?? 'assets/images/default_avatar.png';
         _isCustomAvatar = prefs.getBool('is_custom_avatar') ?? false;
+        _isVip = prefs.getBool('is_vip') ?? false; // 加载VIP状态
       });
       
       _usernameController.text = _username;
@@ -168,6 +274,7 @@ class _ProfilePageState extends State<ProfilePage> {
       await prefs.setString('user_signature', _signature);
       await prefs.setString('user_avatar', _avatarPath);
       await prefs.setBool('is_custom_avatar', _isCustomAvatar);
+      await prefs.setBool('is_vip', _isVip); // 保存VIP状态
     } catch (e) {
       print('Error saving user data: $e');
     }
@@ -371,7 +478,7 @@ class _ProfilePageState extends State<ProfilePage> {
                         Stack(
                           children: [
                             GestureDetector(
-                              onTap: _isEditing ? _selectAvatar : null,
+                              onTap: _handleAvatarTap,
                               child: Container(
                                 width: 120,
                                 height: 120,
@@ -539,6 +646,19 @@ class _ProfilePageState extends State<ProfilePage> {
                     padding: const EdgeInsets.symmetric(horizontal: 20),
                     child: Column(
                       children: [
+                        // VIP和Wallet卡片
+                        Row(
+                          children: [
+                            Expanded(
+                              child: _buildVIPCard(),
+                            ),
+                            const SizedBox(width: 12),
+                            Expanded(
+                              child: _buildWalletCard(),
+                            ),
+                          ],
+                        ),
+                        const SizedBox(height: 20),
                         _buildMenuItem(
                           icon: Icons.event,
                           title: 'My Join',
@@ -832,6 +952,106 @@ class _ProfilePageState extends State<ProfilePage> {
             ],
           ),
         ],
+      ),
+    );
+  }
+
+  Widget _buildVIPCard() {
+    return GestureDetector(
+      onTap: () {
+        // VIP功能点击处理
+        Navigator.of(context).push(
+          MaterialPageRoute(
+            builder: (context) => const SubscriptionsPage(),
+          ),
+        );
+      },
+      child: Container(
+        height: 80,
+        decoration: BoxDecoration(
+          borderRadius: BorderRadius.circular(12),
+          boxShadow: [
+            BoxShadow(
+              color: Colors.grey.withOpacity(0.2),
+              blurRadius: 8,
+              offset: const Offset(0, 4),
+            ),
+          ],
+        ),
+        child: ClipRRect(
+          borderRadius: BorderRadius.circular(12),
+          child: Image.asset(
+            'assets/images/zorbo_me_vip.png',
+            width: double.infinity,
+            height: double.infinity,
+            fit: BoxFit.scaleDown,
+            errorBuilder: (context, error, stackTrace) {
+              return Container(
+                width: double.infinity,
+                height: double.infinity,
+                decoration: BoxDecoration(
+                  color: Colors.grey[300],
+                  borderRadius: BorderRadius.circular(12),
+                ),
+                child: const Icon(
+                  Icons.star,
+                  color: Colors.grey,
+                  size: 32,
+                ),
+              );
+            },
+          ),
+        ),
+      ),
+    );
+  }
+
+  Widget _buildWalletCard() {
+    return GestureDetector(
+      onTap: () {
+        // Wallet功能点击处理
+        Navigator.of(context).push(
+          MaterialPageRoute(
+            builder: (context) => const InAppPurchasesPage(),
+          ),
+        );
+      },
+      child: Container(
+        height: 80,
+        decoration: BoxDecoration(
+          borderRadius: BorderRadius.circular(12),
+          boxShadow: [
+            BoxShadow(
+              color: Colors.grey.withOpacity(0.2),
+              blurRadius: 8,
+              offset: const Offset(0, 4),
+            ),
+          ],
+        ),
+        child: ClipRRect(
+          borderRadius: BorderRadius.circular(12),
+          child: Image.asset(
+            'assets/images/zorbo_me_wallet.png',
+            width: double.infinity,
+            height: double.infinity,
+            fit: BoxFit.scaleDown,
+            errorBuilder: (context, error, stackTrace) {
+              return Container(
+                width: double.infinity,
+                height: double.infinity,
+                decoration: BoxDecoration(
+                  color: Colors.grey[300],
+                  borderRadius: BorderRadius.circular(12),
+                ),
+                child: const Icon(
+                  Icons.account_balance_wallet,
+                  color: Colors.grey,
+                  size: 32,
+                ),
+              );
+            },
+          ),
+        ),
       ),
     );
   }

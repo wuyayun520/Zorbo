@@ -5,6 +5,8 @@ import '../models/event.dart';
 import '../utils/festival_loader.dart';
 import '../services/local_storage_service.dart';
 import 'event_detail_page.dart';
+import 'in_app_purchases_page.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
@@ -22,6 +24,8 @@ class _HomePageState extends State<HomePage> {
   int _selectedFilterIndex = 0; // 当前选中的筛选选项
   final TextEditingController _searchController = TextEditingController();
   String _searchQuery = '';
+  int _userCoins = 0; // 用户金币数量
+  static const int _eventViewCost = 5; // 查看活动消耗的金币数量
 
   @override
   void initState() {
@@ -31,6 +35,7 @@ class _HomePageState extends State<HomePage> {
     // 为18个活动生成不同的随机数字
     _randomNumbers = List.generate(18, (index) => Random().nextInt(401) + 100);
     _startAutoPlay();
+    _loadUserCoins(); // 加载用户金币
   }
 
   @override
@@ -55,6 +60,147 @@ class _HomePageState extends State<HomePage> {
           }
         });
       }
+    });
+  }
+
+  // 加载用户金币
+  Future<void> _loadUserCoins() async {
+    final prefs = await SharedPreferences.getInstance();
+    setState(() {
+      _userCoins = prefs.getInt('musicCoins') ?? 0;
+    });
+  }
+
+  // 检查活动是否已经查看过
+  Future<bool> _isEventViewed(String eventId) async {
+    final prefs = await SharedPreferences.getInstance();
+    return prefs.getBool('viewed_event_$eventId') ?? false;
+  }
+
+  // 标记活动为已查看
+  Future<void> _markEventAsViewed(String eventId) async {
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.setBool('viewed_event_$eventId', true);
+  }
+
+  // 消费金币
+  Future<bool> _consumeCoins(int amount) async {
+    if (_userCoins >= amount) {
+      final prefs = await SharedPreferences.getInstance();
+      setState(() {
+        _userCoins -= amount;
+      });
+      await prefs.setInt('musicCoins', _userCoins);
+      return true;
+    }
+    return false;
+  }
+
+  // 显示金币不足弹窗
+  void _showInsufficientCoinsDialog() {
+    showDialog(
+      context: context,
+      builder: (BuildContext context) {
+        return AlertDialog(
+          title: Row(
+            children: [
+              Icon(
+                Icons.monetization_on,
+                color: const Color(0xFF8565F4),
+                size: 24,
+              ),
+              const SizedBox(width: 8),
+              const Text('Insufficient Coins'),
+            ],
+          ),
+          content: Column(
+            mainAxisSize: MainAxisSize.min,
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              Text(
+                'You need $_eventViewCost coins to view this event.',
+                style: const TextStyle(fontSize: 16),
+              ),
+              const SizedBox(height: 8),
+              Text(
+                'Current balance: $_userCoins coins',
+                style: TextStyle(
+                  fontSize: 14,
+                  color: Colors.grey[600],
+                ),
+              ),
+              const SizedBox(height: 16),
+              const Text(
+                'Would you like to purchase more coins?',
+                style: TextStyle(fontSize: 14),
+              ),
+            ],
+          ),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.of(context).pop(),
+              child: const Text('Cancel'),
+            ),
+            ElevatedButton(
+              onPressed: () {
+                Navigator.of(context).pop();
+                _navigateToPurchasePage();
+              },
+              style: ElevatedButton.styleFrom(
+                backgroundColor: const Color(0xFF8565F4),
+                foregroundColor: Colors.white,
+              ),
+              child: const Text('Purchase Coins'),
+            ),
+          ],
+        );
+      },
+    );
+  }
+
+  // 处理活动点击
+  Future<void> _handleEventTap(Event event) async {
+    // 检查是否已经查看过
+    final isViewed = await _isEventViewed(event.id);
+    
+    if (isViewed) {
+      // 已经查看过，直接跳转
+      Navigator.of(context).push(
+        MaterialPageRoute(
+          builder: (context) => EventDetailPage(event: event),
+        ),
+      );
+    } else {
+      // 检查金币是否足够
+      if (_userCoins >= _eventViewCost) {
+        // 消费金币
+        final success = await _consumeCoins(_eventViewCost);
+        if (success) {
+          // 标记为已查看
+          await _markEventAsViewed(event.id);
+          // 跳转到详情页
+          Navigator.of(context).push(
+            MaterialPageRoute(
+              builder: (context) => EventDetailPage(event: event),
+            ),
+          );
+        }
+      } else {
+        // 金币不足，显示弹窗
+        _showInsufficientCoinsDialog();
+      }
+    }
+  }
+
+  // 跳转到内购页面并监听返回
+  void _navigateToPurchasePage() {
+    Navigator.of(context).push(
+      MaterialPageRoute(
+        builder: (context) => const InAppPurchasesPage(),
+      ),
+    ).then((_) {
+      // 从内购页面返回时刷新金币余额
+      _loadUserCoins();
     });
   }
 
@@ -102,61 +248,103 @@ class _HomePageState extends State<HomePage> {
             ),
             child: Stack(
               children: [
-                // 搜索栏 - 显示在背景图片上方
+                // 搜索栏和金币余额 - 显示在背景图片上方
                 Positioned(
                   top: 60,
                   left: 20,
                   right: 20,
-                  child: Container(
-                    height: 45,
-                    decoration: BoxDecoration(
-                      color: Colors.white,
-                      borderRadius: BorderRadius.circular(25),
-                      boxShadow: [
-                        BoxShadow(
-                          color: Colors.black.withOpacity(0.1),
-                          offset: const Offset(0, 2),
-                          blurRadius: 8,
+                  child: Row(
+                    children: [
+                      // 搜索栏
+                      Expanded(
+                        child: Container(
+                          height: 45,
+                          decoration: BoxDecoration(
+                            color: Colors.white,
+                            borderRadius: BorderRadius.circular(25),
+                            boxShadow: [
+                              BoxShadow(
+                                color: Colors.black.withOpacity(0.1),
+                                offset: const Offset(0, 2),
+                                blurRadius: 8,
+                              ),
+                            ],
+                          ),
+                          child: TextField(
+                            controller: _searchController,
+                            onChanged: (value) {
+                              setState(() {
+                                _searchQuery = value;
+                              });
+                            },
+                            decoration: InputDecoration(
+                              hintText: 'Search events, artists, or genres...',
+                              hintStyle: TextStyle(
+                                color: Colors.grey[500],
+                                fontSize: 14,
+                              ),
+                              prefixIcon: Icon(
+                                Icons.search,
+                                color: Colors.grey[600],
+                                size: 20,
+                              ),
+                              suffixIcon: _searchQuery.isNotEmpty
+                                  ? IconButton(
+                                      icon: Icon(
+                                        Icons.clear,
+                                        color: Colors.grey[600],
+                                        size: 20,
+                                      ),
+                                      onPressed: () {
+                                        _searchController.clear();
+                                        setState(() {
+                                          _searchQuery = '';
+                                        });
+                                      },
+                                    )
+                                  : null,
+                              border: InputBorder.none,
+                              contentPadding: const EdgeInsets.symmetric(horizontal: 15, vertical: 12),
+                            ),
+                          ),
                         ),
-                      ],
-                    ),
-                    child: TextField(
-                      controller: _searchController,
-                      onChanged: (value) {
-                        setState(() {
-                          _searchQuery = value;
-                        });
-                      },
-                      decoration: InputDecoration(
-                        hintText: 'Search events, artists, or genres...',
-                        hintStyle: TextStyle(
-                          color: Colors.grey[500],
-                          fontSize: 14,
-                        ),
-                        prefixIcon: Icon(
-                          Icons.search,
-                          color: Colors.grey[600],
-                          size: 20,
-                        ),
-                        suffixIcon: _searchQuery.isNotEmpty
-                            ? IconButton(
-                                icon: Icon(
-                                  Icons.clear,
-                                  color: Colors.grey[600],
-                                  size: 20,
-                                ),
-                                onPressed: () {
-                                  _searchController.clear();
-                                  setState(() {
-                                    _searchQuery = '';
-                                  });
-                                },
-                              )
-                            : null,
-                        border: InputBorder.none,
-                        contentPadding: const EdgeInsets.symmetric(horizontal: 15, vertical: 12),
                       ),
-                    ),
+                      const SizedBox(width: 12),
+                      // 金币余额显示
+                      Container(
+                        padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 6),
+                        decoration: BoxDecoration(
+                          color: Colors.white.withOpacity(0.9),
+                          borderRadius: BorderRadius.circular(20),
+                          boxShadow: [
+                            BoxShadow(
+                              color: Colors.black.withOpacity(0.1),
+                              offset: const Offset(0, 2),
+                              blurRadius: 8,
+                            ),
+                          ],
+                        ),
+                        child: Row(
+                          mainAxisSize: MainAxisSize.min,
+                          children: [
+                            Icon(
+                              Icons.monetization_on,
+                              size: 16,
+                              color: const Color(0xFF8565F4),
+                            ),
+                            const SizedBox(width: 4),
+                            Text(
+                              '$_userCoins',
+                              style: const TextStyle(
+                                fontSize: 14,
+                                fontWeight: FontWeight.bold,
+                                color: Color(0xFF8565F4),
+                              ),
+                            ),
+                          ],
+                        ),
+                      ),
+                    ],
                   ),
                 ),
                 // 轮播内容
@@ -195,11 +383,7 @@ class _HomePageState extends State<HomePage> {
                                   margin: const EdgeInsets.symmetric(horizontal: 5),
                                   child: GestureDetector(
                                     onTap: () {
-                                      Navigator.of(context).push(
-                                        MaterialPageRoute(
-                                          builder: (context) => EventDetailPage(event: event),
-                                        ),
-                                      );
+                                      _handleEventTap(event);
                                     },
                                     child: Stack(
                                       children: [
@@ -241,6 +425,44 @@ class _HomePageState extends State<HomePage> {
                                                   child: const Icon(Icons.music_note, size: 40, color: Colors.grey),
                                                 ),
                                               ),
+                                            ),
+                                          ),
+                                        ),
+                                        // 价格标签 - 覆盖在图片上
+                                        Positioned(
+                                          left: 40,
+                                          top: 190,
+                                          child: Container(
+                                            padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+                                            decoration: BoxDecoration(
+                                              color: const Color(0xFF8565F4).withOpacity(0.9),
+                                              borderRadius: BorderRadius.circular(12),
+                                              boxShadow: [
+                                                BoxShadow(
+                                                  color: Colors.black.withOpacity(0.2),
+                                                  offset: const Offset(0, 2),
+                                                  blurRadius: 4,
+                                                ),
+                                              ],
+                                            ),
+                                            child: Row(
+                                              mainAxisSize: MainAxisSize.min,
+                                              children: [
+                                                Icon(
+                                                  Icons.monetization_on,
+                                                  size: 12,
+                                                  color: Colors.white,
+                                                ),
+                                                const SizedBox(width: 4),
+                                                Text(
+                                                  '$_eventViewCost',
+                                                  style: const TextStyle(
+                                                    fontSize: 12,
+                                                    fontWeight: FontWeight.bold,
+                                                    color: Colors.white,
+                                                  ),
+                                                ),
+                                              ],
                                             ),
                                           ),
                                         ),
@@ -421,11 +643,7 @@ class _HomePageState extends State<HomePage> {
                     final event = filteredEvents[index];
                     return GestureDetector(
                       onTap: () {
-                        Navigator.of(context).push(
-                          MaterialPageRoute(
-                            builder: (context) => EventDetailPage(event: event),
-                          ),
-                        );
+                        _handleEventTap(event);
                       },
                       child: Container(
                         decoration: BoxDecoration(
@@ -492,6 +710,44 @@ class _HomePageState extends State<HomePage> {
                                         }
                                         return const SizedBox.shrink();
                                       },
+                                    ),
+                                  ),
+                                  // 价格标签 - 覆盖在图片上
+                                  Positioned(
+                                    bottom: 8,
+                                    left: 8,
+                                    child: Container(
+                                      padding: const EdgeInsets.symmetric(horizontal: 6, vertical: 3),
+                                      decoration: BoxDecoration(
+                                        color: const Color(0xFF8565F4).withOpacity(0.9),
+                                        borderRadius: BorderRadius.circular(8),
+                                        boxShadow: [
+                                          BoxShadow(
+                                            color: Colors.black.withOpacity(0.2),
+                                            offset: const Offset(0, 1),
+                                            blurRadius: 3,
+                                          ),
+                                        ],
+                                      ),
+                                      child: Row(
+                                        mainAxisSize: MainAxisSize.min,
+                                        children: [
+                                          Icon(
+                                            Icons.monetization_on,
+                                            size: 10,
+                                            color: Colors.white,
+                                          ),
+                                          const SizedBox(width: 2),
+                                          Text(
+                                            '$_eventViewCost',
+                                            style: const TextStyle(
+                                              fontSize: 10,
+                                              fontWeight: FontWeight.bold,
+                                              color: Colors.white,
+                                            ),
+                                          ),
+                                        ],
+                                      ),
                                     ),
                                   ),
                                 ],

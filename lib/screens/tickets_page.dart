@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 import '../services/ai_service.dart';
+import 'subscriptions_page.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 
 class Message {
   final String text;
@@ -22,6 +24,8 @@ class _TicketsPageState extends State<TicketsPage> {
   final List<Message> _messages = [];
   final FocusNode _focusNode = FocusNode();
   bool _isLoading = false;
+  bool _isVip = false; // VIP状态
+  DateTime? _vipExpiry; // VIP到期时间
 
   final List<String> _quickReplies = [
     'What are the best music festivals this summer?',
@@ -37,6 +41,7 @@ class _TicketsPageState extends State<TicketsPage> {
       'Hey there!\nYour AI music festival assistant - ask me anything about concerts, festivals, and music events!',
       false,
     ));
+    _loadVipStatus(); // 加载VIP状态
   }
 
   @override
@@ -46,8 +51,115 @@ class _TicketsPageState extends State<TicketsPage> {
     super.dispose();
   }
 
+  // 加载VIP状态
+  Future<void> _loadVipStatus() async {
+    final prefs = await SharedPreferences.getInstance();
+    setState(() {
+      _isVip = prefs.getBool('isVip') ?? false;
+      final expiryStr = prefs.getString('vipExpiry');
+      _vipExpiry = expiryStr != null ? DateTime.tryParse(expiryStr) : null;
+    });
+  }
+
+  // 检查是否为月订阅会员
+  bool _isMonthlyVip() {
+    if (!_isVip || _vipExpiry == null) return false;
+    
+    // 检查是否还有至少7天的有效期（月订阅通常至少30天）
+    final daysUntilExpiry = _vipExpiry!.difference(DateTime.now()).inDays;
+    return daysUntilExpiry >= 7;
+  }
+
+  // 显示VIP弹窗
+  void _showVipDialog() {
+    showDialog(
+      context: context,
+      builder: (BuildContext context) {
+        return AlertDialog(
+          title: Row(
+            children: [
+              Icon(
+                Icons.star,
+                color: const Color(0xFF8565F4),
+                size: 24,
+              ),
+              const SizedBox(width: 8),
+              const Text('Premium Required'),
+            ],
+          ),
+          content: Column(
+            mainAxisSize: MainAxisSize.min,
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              const Text(
+                'AI assistant consultation requires Monthly Premium access.',
+                style: TextStyle(fontSize: 16),
+              ),
+              const SizedBox(height: 16),
+              Row(
+                mainAxisAlignment: MainAxisAlignment.center,
+                children: [
+                  Text(
+                    'Starting at ',
+                    style: TextStyle(
+                      fontSize: 14,
+                      color: Colors.grey[600],
+                    ),
+                  ),
+                  Text(
+                    '\$49.99/month',
+                    style: const TextStyle(
+                      fontSize: 18,
+                      fontWeight: FontWeight.bold,
+                      color: Color(0xFF8565F4),
+                    ),
+                  ),
+                ],
+              ),
+            ],
+          ),
+          actions: [
+            TextButton(
+              onPressed: () => Navigator.of(context).pop(),
+              child: const Text('Cancel'),
+            ),
+            ElevatedButton(
+              onPressed: () {
+                Navigator.of(context).pop();
+                _navigateToSubscriptionPage();
+              },
+              style: ElevatedButton.styleFrom(
+                backgroundColor: const Color(0xFF8565F4),
+                foregroundColor: Colors.white,
+              ),
+              child: const Text('Get Premium'),
+            ),
+          ],
+        );
+      },
+    );
+  }
+
+  // 跳转到订阅页面并监听返回
+  void _navigateToSubscriptionPage() {
+    Navigator.of(context).push(
+      MaterialPageRoute(
+        builder: (context) => const SubscriptionsPage(initialIndex: 1), // 默认选择月订阅
+      ),
+    ).then((_) {
+      // 从订阅页面返回时刷新VIP状态
+      _loadVipStatus();
+    });
+  }
+
   Future<void> _handleSubmitted(String text, {bool isQuickReply = false}) async {
     if (text.isEmpty) return;
+
+    // 检查是否为月订阅会员
+    if (!_isMonthlyVip()) {
+      _showVipDialog();
+      return;
+    }
 
     setState(() {
       _messages.add(Message(text, true, isQuickReply: isQuickReply));
