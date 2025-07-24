@@ -1,0 +1,83 @@
+input.img
+        size:108,565
+        format: RGBA118320951
+        filter: Linear,Linear
+        repeat: 0
+    oversee_000
+        rotate:True
+        xy:(10, 82)
+        size:(665, 751)
+        orig:(7008, 9255)
+        offset:(89, 45)
+        index:-1
+    oversee_001
+        rotate:False
+        xy:(44, 38)
+        size:(246, 60)
+        orig:(2485, 5703)
+        offset:(56, 38)
+        index:-1
+    oversee_002
+        rotate:False
+        xy:(63, 29)
+        size:(507, 785)
+        orig:(1079, 1391)
+        offset:(96, 20)
+        index:-1
+    oversee_003
+        rotate:True
+        xy:(40, 69)
+        size:(639, 433)
+        orig:(2733, 1804)
+        offset:(74, 23)
+        index:-1
+    oversee_004
+        rotate:True
+        xy:(30, 97)
+        size:(190, 407)
+        orig:(6953, 1144)
+        offset:(61, 23)
+        index:-1
+    oversee_005
+        rotate:True
+        xy:(36, 2)
+        size:(552, 146)
+        orig:(940, 2501)
+        offset:(26, 49)
+        index:72
+    oversee_006
+        rotate:True
+        xy:(91, 38)
+        size:(531, 267)
+        orig:(5360, 2180)
+        offset:(53, 6)
+        index:37
+    oversee_007
+        rotate:True
+        xy:(47, 27)
+        size:(223, 702)
+        orig:(8882, 6104)
+        offset:(68, 9)
+        index:-1
+    oversee_008
+        rotate:True
+        xy:(57, 47)
+        size:(624, 262)
+        orig:(7024, 8198)
+        offset:(50, 75)
+        index:-1
+    oversee_009
+        rotate:False
+        xy:(67, 94)
+        size:(457, 946)
+        orig:(8620, 2226)
+        offset:(30, 53)
+        index:-1
+    oversee_010
+        rotate:True
+        xy:(86, 19)
+        size:(339, 261)
+        orig:(634, 1047)
+        offset:(2, 34)
+        index:59
+    

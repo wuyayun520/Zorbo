@@ -1,0 +1,216 @@
+hay_state.img
+        size:822,990
+        format: RGBA8321521177
+        filter: Linear,Linear
+        repeat: 0
+    subtle_000
+        rotate:True
+        xy:(92, 12)
+        size:(891, 136)
+        orig:(9376, 8982)
+        offset:(10, 24)
+        index:13
+    subtle_001
+        rotate:True
+        xy:(97, 100)
+        size:(44, 672)
+        orig:(4988, 5777)
+        offset:(52, 68)
+        index:-1
+    subtle_002
+        rotate:False
+        xy:(96, 61)
+        size:(731, 713)
+        orig:(5774, 4632)
+        offset:(33, 41)
+        index:62
+    subtle_003
+        rotate:True
+        xy:(3, 25)
+        size:(580, 115)
+        orig:(241, 9888)
+        offset:(84, 31)
+        index:-1
+    subtle_004
+        rotate:True
+        xy:(57, 83)
+        size:(203, 162)
+        orig:(6108, 4802)
+        offset:(61, 67)
+        index:-1
+    subtle_005
+        rotate:False
+        xy:(24, 60)
+        size:(812, 215)
+        orig:(3976, 9686)
+        offset:(84, 48)
+        index:-1
+    subtle_006
+        rotate:True
+        xy:(21, 87)
+        size:(210, 171)
+        orig:(4082, 5288)
+        offset:(61, 99)
+        index:-1
+    subtle_007
+        rotate:True
+        xy:(97, 28)
+        size:(870, 341)
+        orig:(1408, 3456)
+        offset:(26, 8)
+        index:-1
+    subtle_008
+        rotate:False
+        xy:(92, 60)
+        size:(87, 575)
+        orig:(1336, 8871)
+        offset:(78, 46)
+        index:-1
+    subtle_009
+        rotate:False
+        xy:(21, 84)
+        size:(1006, 123)
+        orig:(1736, 8939)
+        offset:(45, 89)
+        index:-1
+    subtle_010
+        rotate:False
+        xy:(30, 82)
+        size:(744, 326)
+        orig:(9685, 2084)
+        offset:(62, 67)
+        index:71
+    subtle_011
+        rotate:True
+        xy:(38, 94)
+        size:(963, 384)
+        orig:(4200, 4312)
+        offset:(79, 21)
+        index:-1
+    subtle_012
+        rotate:True
+        xy:(74, 24)
+        size:(289, 85)
+        orig:(8434, 9584)
+        offset:(5, 26)
+        index:-1
+    subtle_013
+        rotate:False
+        xy:(36, 29)
+        size:(914, 948)
+        orig:(7216, 1653)
+        offset:(37, 98)
+        index:79
+    subtle_014
+        rotate:True
+        xy:(6, 82)
+        size:(175, 945)
+        orig:(6878, 3701)
+        offset:(33, 2)
+        index:92
+    subtle_015
+        rotate:True
+        xy:(77, 56)
+        size:(153, 555)
+        orig:(2720, 5722)
+        offset:(99, 21)
+        index:-1
+    subtle_016
+        rotate:False
+        xy:(62, 83)
+        size:(950, 277)
+        orig:(9822, 2365)
+        offset:(27, 76)
+        index:-1
+    subtle_017
+        rotate:False
+        xy:(90, 44)
+        size:(307, 485)
+        orig:(9555, 7203)
+        offset:(7, 26)
+        index:44
+    subtle_018
+        rotate:False
+        xy:(55, 11)
+        size:(763, 779)
+        orig:(8597, 9643)
+        offset:(29, 38)
+        index:-1
+    subtle_019
+        rotate:True
+        xy:(85, 79)
+        size:(1019, 953)
+        orig:(8163, 5536)
+        offset:(63, 40)
+        index:-1
+    subtle_020
+        rotate:True
+        xy:(71, 19)
+        size:(598, 56)
+        orig:(3736, 2409)
+        offset:(94, 41)
+        index:-1
+    subtle_021
+        rotate:False
+        xy:(37, 55)
+        size:(320, 803)
+        orig:(2740, 2634)
+        offset:(86, 29)
+        index:-1
+    subtle_022
+        rotate:False
+        xy:(90, 55)
+        size:(864, 646)
+        orig:(4002, 4028)
+        offset:(54, 65)
+        index:51
+    subtle_023
+        rotate:True
+        xy:(13, 52)
+        size:(653, 303)
+        orig:(4801, 4776)
+        offset:(43, 22)
+        index:-1
+    subtle_024
+        rotate:True
+        xy:(96, 80)
+        size:(196, 955)
+        orig:(7399, 1466)
+        offset:(71, 40)
+        index:-1
+    subtle_025
+        rotate:False
+        xy:(47, 24)
+        size:(632, 366)
+        orig:(9611, 6871)
+        offset:(41, 22)
+        index:-1
+    subtle_026
+        rotate:False
+        xy:(66, 30)
+        size:(944, 809)
+        orig:(786, 8749)
+        offset:(38, 34)
+        index:-1
+    subtle_027
+        rotate:False
+        xy:(56, 93)
+        size:(325, 654)
+        orig:(617, 6502)
+        offset:(43, 94)
+        index:-1
+    subtle_028
+        rotate:False
+        xy:(94, 63)
+        size:(92, 907)
+        orig:(3433, 3051)
+        offset:(96, 48)
+        index:-1
+    subtle_029
+        rotate:True
+        xy:(89, 2)
+        size:(646, 129)
+        orig:(9819, 7462)
+        offset:(84, 29)
+        index:-1
+    

@@ -21,7 +21,7 @@ class GoldProducts {
     GoldProduct('1599', 'Zorbo49', 49.99),
     GoldProduct('3199', 'Zorbo99', 99.99),
     GoldProduct('5099', 'Zorbo159', 159.99),
-    GoldProduct('7959', 'Zorbo239', 239.99),
+    GoldProduct('7959', 'Zorbo0239', 239.99),
   ];
 }
 
