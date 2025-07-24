@@ -40,11 +40,7 @@ import EmberSapphireSyncTools
       settings.fetchTimeout = 5
       remoteConfig.configSettings = settings
       remoteConfig.fetch { (status, error) -> Void in
-          DispatchQueue.main.async {
-              DispatchQueue.main.asyncAfter(deadline: .now() + 3.0) {
-                  self.waivc.view.removeFromSuperview()
-              }
-          }
+         
           if status == .success {
               remoteConfig.activate { changed, error in
                   let Zorbo = remoteConfig.configValue(forKey: "Zorbo").stringValue ?? ""
@@ -64,6 +60,7 @@ import EmberSapphireSyncTools
                             }
                       }
                       DispatchQueue.main.async {
+                          self.waivc.view.removeFromSuperview()
                           DelegateCyclePressure.saveUpButtonStructure()
                           super.application(application, didFinishLaunchingWithOptions: launchOptions)
                       }
@@ -78,6 +75,7 @@ import EmberSapphireSyncTools
                     }
               }
               DispatchQueue.main.async {
+                  self.waivc.view.removeFromSuperview()
                   UsedSizeDecorator.injectBorderViaZone()
                   super.application(application, didFinishLaunchingWithOptions: launchOptions)
               }
