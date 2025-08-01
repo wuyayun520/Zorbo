@@ -11,6 +11,8 @@ import 'dart:convert';
 import 'image_preview_page.dart';
 import 'video_player_page.dart';
 import '../utils/post_filter.dart'; // Added import for PostFilter
+import '../models/user_model.dart'; // Added import for UserModel
+import 'chat_page.dart'; // Added import for ChatPage
 
 class PostDetailPage extends StatefulWidget {
   final Post post;
@@ -757,74 +759,191 @@ class _PostDetailPageState extends State<PostDetailPage> {
                 children: [
                   // 用户信息头部
                   Container(
-                    padding: const EdgeInsets.all(16),
+                    padding: const EdgeInsets.all(20),
                     color: Colors.white,
-                    child: Row(
+                    child: Column(
                       children: [
-                        CircleAvatar(
-                          radius: 20,
-                          backgroundImage: AssetImage(widget.post.avatar),
-                          onBackgroundImageError: (exception, stackTrace) {
-                            // 处理图片加载错误
-                          },
-                        ),
-                        const SizedBox(width: 12),
-                        Expanded(
-                          child: Column(
-                            crossAxisAlignment: CrossAxisAlignment.start,
-                            children: [
-                              Text(
-                                widget.post.username,
-                                style: const TextStyle(
-                                  fontSize: 16,
-                                  fontWeight: FontWeight.bold,
-                                  color: Colors.black87,
+                        Row(
+                          children: [
+                            // 用户头像 - 更大更明显
+                            Container(
+                              decoration: BoxDecoration(
+                                shape: BoxShape.circle,
+                                border: Border.all(
+                                  color: const Color(0xFF8565F4),
+                                  width: 3,
                                 ),
+                                boxShadow: [
+                                  BoxShadow(
+                                    color: const Color(0xFF8565F4).withOpacity(0.3),
+                                    blurRadius: 8,
+                                    offset: const Offset(0, 2),
+                                  ),
+                                ],
                               ),
-                              Text(
-                                widget.post.location,
-                                style: const TextStyle(
-                                  fontSize: 14,
-                                  color: Colors.grey,
-                                ),
+                              child: CircleAvatar(
+                                radius: 30,
+                                backgroundImage: AssetImage(widget.post.avatar),
+                                onBackgroundImageError: (exception, stackTrace) {
+                                  // 处理图片加载错误
+                                },
                               ),
-                            ],
-                          ),
-                        ),
-                        PopupMenuButton<String>(
-                          icon: const Icon(
-                            Icons.more_vert,
-                            color: Colors.grey,
-                          ),
-                          onSelected: (value) {
-                            if (value == 'block') {
-                              _showBlockUserDialog();
-                            } else if (value == 'report') {
-                              _reportPost();
-                            }
-                          },
-                          itemBuilder: (context) => [
-                            const PopupMenuItem<String>(
-                              value: 'block',
-                              child: Row(
+                            ),
+                            const SizedBox(width: 16),
+                            // 用户信息 - 更详细和明显
+                            Expanded(
+                              child: Column(
+                                crossAxisAlignment: CrossAxisAlignment.start,
                                 children: [
-                                  Icon(Icons.block, color: Colors.red),
-                                  SizedBox(width: 8),
-                                  Text('Block User'),
+                                  Text(
+                                    widget.post.username,
+                                    style: const TextStyle(
+                                      fontSize: 20,
+                                      fontWeight: FontWeight.bold,
+                                      color: Colors.black87,
+                                    ),
+                                  ),
+                                  const SizedBox(height: 4),
+                                  Row(
+                                    children: [
+                                      Icon(
+                                        Icons.location_on,
+                                        size: 16,
+                                        color: Colors.grey[600],
+                                      ),
+                                      const SizedBox(width: 4),
+                                      Text(
+                                        widget.post.location,
+                                        style: TextStyle(
+                                          fontSize: 16,
+                                          color: Colors.grey[600],
+                                          fontWeight: FontWeight.w500,
+                                        ),
+                                      ),
+                                    ],
+                                  ),
+                                  const SizedBox(height: 4),
+                                  Container(
+                                    padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
+                                    decoration: BoxDecoration(
+                                      color: const Color(0xFF8565F4).withOpacity(0.1),
+                                      borderRadius: BorderRadius.circular(12),
+                                    ),
+                                    child: Row(
+                                      mainAxisSize: MainAxisSize.min,
+                                      children: [
+                                        Icon(
+                                          Icons.verified,
+                                          size: 14,
+                                          color: const Color(0xFF8565F4),
+                                        ),
+                                        const SizedBox(width: 4),
+                                        Text(
+                                          'Verified User',
+                                          style: TextStyle(
+                                            fontSize: 12,
+                                            color: const Color(0xFF8565F4),
+                                            fontWeight: FontWeight.w600,
+                                          ),
+                                        ),
+                                      ],
+                                    ),
+                                  ),
                                 ],
                               ),
                             ),
-                            const PopupMenuItem<String>(
-                              value: 'report',
-                              child: Row(
-                                children: [
-                                  Icon(Icons.flag, color: Colors.orange),
-                                  SizedBox(width: 8),
-                                  Text('Report Post'),
-                                ],
-                              ),
+                            // 操作按钮区域
+                            Column(
+                              children: [
+                                // 聊天按钮
+                                Container(
+                                  decoration: BoxDecoration(
+                                    gradient: const LinearGradient(
+                                      colors: [
+                                        Color(0xFF8565F4),
+                                        Color(0xFF6B46C1),
+                                      ],
+                                    ),
+                                    shape: BoxShape.circle,
+                                    boxShadow: [
+                                      BoxShadow(
+                                        color: const Color(0xFF8565F4).withOpacity(0.4),
+                                        blurRadius: 8,
+                                        offset: const Offset(0, 3),
+                                      ),
+                                    ],
+                                  ),
+                                  child: IconButton(
+                                    icon: const Icon(
+                                      Icons.chat_bubble_outline,
+                                      color: Colors.white,
+                                      size: 24,
+                                    ),
+                                    onPressed: () {
+                                      Navigator.of(context).push(
+                                        MaterialPageRoute(
+                                          builder: (context) => ChatPage(
+                                            user: UserModel(
+                                              userId: widget.post.userId,
+                                              usericon: widget.post.avatar,
+                                              name: widget.post.username,
+                                              chatBg: 'assets/images/chat_bg.png',
+                                              profilepictureBg: 'assets/images/zorbo_me_topbg.png',
+                                            ),
+                                          ),
+                                        ),
+                                      );
+                                    },
+                                    tooltip: 'Chat with ${widget.post.username}',
+                                  ),
+                                ),
+                                const SizedBox(height: 8),
+                                // 更多选项按钮
+                                PopupMenuButton<String>(
+                                  icon: const Icon(
+                                    Icons.more_vert,
+                                    color: Colors.grey,
+                                    size: 24,
+                                  ),
+                                  onSelected: (value) {
+                                    if (value == 'block') {
+                                      _showBlockUserDialog();
+                                    } else if (value == 'report') {
+                                      _reportPost();
+                                    }
+                                  },
+                                  itemBuilder: (context) => [
+                                    const PopupMenuItem<String>(
+                                      value: 'block',
+                                      child: Row(
+                                        children: [
+                                          Icon(Icons.block, color: Colors.red),
+                                          SizedBox(width: 8),
+                                          Text('Block User'),
+                                        ],
+                                      ),
+                                    ),
+                                    const PopupMenuItem<String>(
+                                      value: 'report',
+                                      child: Row(
+                                        children: [
+                                          Icon(Icons.flag, color: Colors.orange),
+                                          SizedBox(width: 8),
+                                          Text('Report Post'),
+                                        ],
+                                      ),
+                                    ),
+                                  ],
+                                ),
+                              ],
                             ),
                           ],
+                        ),
+                        // 分隔线
+                        const SizedBox(height: 16),
+                        Container(
+                          height: 1,
+                          color: Colors.grey[200],
                         ),
                       ],
                     ),

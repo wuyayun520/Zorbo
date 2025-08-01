@@ -252,16 +252,49 @@ class _ProfilePageState extends State<ProfilePage> {
   Future<void> _loadUserData() async {
     try {
       final prefs = await SharedPreferences.getInstance();
+      final savedAvatarPath = prefs.getString('user_avatar');
+      final savedIsCustomAvatar = prefs.getBool('is_custom_avatar') ?? false;
+      
+      print('Loading user data...');
+      print('Saved avatar path from SharedPreferences: $savedAvatarPath');
+      print('Saved isCustomAvatar from SharedPreferences: $savedIsCustomAvatar');
+      
       setState(() {
         _username = prefs.getString('user_username') ?? 'User';
         _signature = prefs.getString('user_signature') ?? 'Music Festival Lover';
-        _avatarPath = prefs.getString('user_avatar') ?? 'assets/images/default_avatar.png';
-        _isCustomAvatar = prefs.getBool('is_custom_avatar') ?? false;
-        _isVip = prefs.getBool('is_vip') ?? false; // 加载VIP状态
+        _isCustomAvatar = savedIsCustomAvatar;
+        _isVip = prefs.getBool('is_vip') ?? false;
+        
+        // 检查头像路径是否有效
+        if (savedAvatarPath != null && savedAvatarPath.isNotEmpty) {
+          if (savedIsCustomAvatar) {
+            // 检查本地文件是否存在
+            final file = File(savedAvatarPath);
+            print('Checking if avatar file exists: $savedAvatarPath');
+            if (file.existsSync()) {
+              final fileSize = file.lengthSync();
+              print('Avatar file exists. Size: $fileSize bytes');
+              _avatarPath = savedAvatarPath;
+            } else {
+              print('Avatar file not found: $savedAvatarPath');
+              _avatarPath = 'assets/images/default_avatar.png';
+              _isCustomAvatar = false;
+            }
+          } else {
+            print('Using asset avatar: $savedAvatarPath');
+            _avatarPath = savedAvatarPath;
+          }
+        } else {
+          print('No saved avatar path, using default');
+          _avatarPath = 'assets/images/default_avatar.png';
+          _isCustomAvatar = false;
+        }
       });
       
       _usernameController.text = _username;
       _signatureController.text = _signature;
+      
+      print('Final avatar path: $_avatarPath, isCustom: $_isCustomAvatar');
     } catch (e) {
       print('Error loading user data: $e');
     }
@@ -274,7 +307,9 @@ class _ProfilePageState extends State<ProfilePage> {
       await prefs.setString('user_signature', _signature);
       await prefs.setString('user_avatar', _avatarPath);
       await prefs.setBool('is_custom_avatar', _isCustomAvatar);
-      await prefs.setBool('is_vip', _isVip); // 保存VIP状态
+      await prefs.setBool('is_vip', _isVip);
+      
+      print('Saved avatar path: $_avatarPath, isCustom: $_isCustomAvatar');
     } catch (e) {
       print('Error saving user data: $e');
     }
@@ -401,25 +436,51 @@ class _ProfilePageState extends State<ProfilePage> {
         final appDocDir = await getApplicationDocumentsDirectory();
         final avatarDir = Directory('${appDocDir.path}/avatars');
         
+        print('App documents directory: ${appDocDir.path}');
+        print('Avatar directory: ${avatarDir.path}');
+        
         if (!await avatarDir.exists()) {
           await avatarDir.create(recursive: true);
+          print('Created avatar directory');
         }
 
         final fileName = 'avatar_${DateTime.now().millisecondsSinceEpoch}.jpg';
         final savedImage = File('${avatarDir.path}/$fileName');
         
+        print('Saving avatar to: ${savedImage.path}');
+        
         // 复制选择的图片到应用目录
         await savedImage.writeAsBytes(await image.readAsBytes());
         
-        setState(() {
-          _avatarPath = savedImage.path;
-          _isCustomAvatar = true;
-        });
-        
-        await _saveUserData();
-        
-        if (mounted) {
-          Navigator.of(context).pop();
+        // 验证文件是否成功保存
+        if (await savedImage.exists()) {
+          final fileSize = await savedImage.length();
+          print('Avatar file saved successfully. Size: $fileSize bytes');
+          
+          setState(() {
+            _avatarPath = savedImage.path;
+            _isCustomAvatar = true;
+          });
+          
+          // 立即保存到本地存储
+          await _saveUserData();
+          
+          print('Avatar saved successfully: ${savedImage.path}');
+          print('Avatar path saved to SharedPreferences: $_avatarPath');
+          
+          if (mounted) {
+            Navigator.of(context).pop();
+            // 显示成功提示
+            ScaffoldMessenger.of(context).showSnackBar(
+              const SnackBar(
+                content: Text('Avatar updated successfully!'),
+                backgroundColor: Color(0xFF8565F4),
+                duration: Duration(seconds: 2),
+              ),
+            );
+          }
+        } else {
+          throw Exception('Failed to save avatar file');
         }
       }
     } catch (e) {
@@ -442,6 +503,15 @@ class _ProfilePageState extends State<ProfilePage> {
     });
     _saveUserData();
     Navigator.of(context).pop();
+    
+    // 显示成功提示
+    ScaffoldMessenger.of(context).showSnackBar(
+      const SnackBar(
+        content: Text('Avatar reset to default!'),
+        backgroundColor: Color(0xFF8565F4),
+        duration: Duration(seconds: 2),
+      ),
+    );
   }
 
   @override

@@ -33,7 +33,7 @@ class _SubscriptionsPageState extends State<SubscriptionsPage> with TickerProvid
       subTitle: 'Per week',
       total: 'Total \$12.99',
       desc: '+7 Days Premium',
-      productId: 'ZorboWeekVIP',
+      productId: 'loungeplusweek_13',
       popular: false,
     ),
     _VipPlan(
@@ -152,7 +152,7 @@ class _SubscriptionsPageState extends State<SubscriptionsPage> with TickerProvid
     // 计算有效期
     DateTime now = DateTime.now();
     DateTime expiry;
-    if (purchaseDetails.productID == 'ZorboWeekVIP') {
+    if (purchaseDetails.productID == 'loungeplusweek_13') {
       expiry = now.add(const Duration(days: 7));
     } else if (purchaseDetails.productID == 'ZorboMonthVIP') {
       expiry = now.add(const Duration(days: 30));
